@@ -10,6 +10,7 @@ import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
 from queue import Queue
+import random # Added for small random delay
 from difflib import SequenceMatcher
 
 # Suppress SSL warnings
@@ -62,6 +63,7 @@ def sort_by_league_priority(fixtures):
     def sort_key(fixture):
         priority = get_league_priority(fixture.get('competition', ''))
         # Use the parsed_datetime for secondary sorting (time order within a league)
+        # Note: 'parsed_datetime' is saved as an ISO string in the fixture dict
         time_sort = fixture.get('parsed_datetime', datetime.min.isoformat())
         return (priority, time_sort)
     
@@ -84,7 +86,7 @@ def filter_by_logo_presence(fixtures):
 
 class BroadcastScraper:
     # Set max_workers to 3 for a balance of speed and stability on the free plan.
-    def __init__(self, base_url="https://livetv.sx", max_workers=3):
+    def __init__(self, base_url="https://livetv.sx", max_workers=3): # Set max_workers to 3
         self.base_url = base_url
         self.max_workers = max_workers
         self.session = requests.Session()
@@ -223,7 +225,6 @@ class BroadcastScraper:
                     # Method 1: Check if we have a datetime object and compare dates
                     if fixture.get('datetime_obj'):
                         fixture_date = fixture['datetime_obj'].date()
-                        # If the date is the same, it's today
                         if fixture_date == today:
                             is_today = True
                     # Method 2: Check date string for today's day number
@@ -363,7 +364,7 @@ class BroadcastScraper:
                 # Find all stream tables (class lnktbj)
                 stream_tables = links_block.find_all('table', class_='lnktbj')
                 
-                # **SEQUENTIAL STREAM PARSING:** Use a simple loop to minimize memory usage
+                # **SEQUENTIAL STREAM PARSING:** Use a simple loop
                 for table in stream_tables:
                     stream_data = self._parse_stream_table(table)
                     if stream_data:
@@ -385,10 +386,10 @@ class BroadcastScraper:
             event_url = fixture.get('event_url')
             
             if event_url:
-                # Call the sequential stream parsing function
                 # Small random delay to mitigate aggressive scraping
-                time.sleep(random.uniform(0.5, 1.5))
+                time.sleep(random.uniform(0.5, 1.5)) 
                 
+                # Call the sequential stream parsing function
                 detailed_info = self.get_event_details_sequential_streams(event_url)
                 
                 if detailed_info:
@@ -460,8 +461,8 @@ class BroadcastScraper:
             for future in as_completed(futures):
                 idx = futures[future]
                 try:
-                    # Use a short timeout to prevent one slow link from freezing the worker pool
-                    result = future.result(timeout=45) 
+                    # Use a generous timeout for detail scraping
+                    result = future.result(timeout=45)
                     ordered_results[idx] = result
                 except Exception:
                     # If failed, use the original fixture to prevent data loss
@@ -483,6 +484,7 @@ class BroadcastScraper:
         except Exception as e:
             print(f"❌ Error saving {filename}: {e}")
 
+
 # --- Main Scraper Execution ---
 
 def main():
@@ -490,7 +492,7 @@ def main():
     Main execution function called by api.py for scheduled scraping.
     It scrapes, processes, filters, sorts, and saves the final data.
     """
-    # Create scraper with 3 workers
+    # Create scraper with 3 workers (optimized for stability)
     scraper = BroadcastScraper(max_workers=3)
     
     # The full URL for Football fixtures
@@ -566,6 +568,6 @@ def main():
     print("=" * 60)
     
     print(f"\n✅ Scraper process complete.")
-    
-# NOTE: The 'if __name__ == "__main__":' block is intentionally excluded here 
+
+# IMPORTANT: The 'if __name__ == "__main__":' block is excluded here 
 # so that the function can be imported and executed by api.py without running automatically.
