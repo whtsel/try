@@ -10,7 +10,6 @@ import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
 from queue import Queue
-import signal
 from difflib import SequenceMatcher
 
 # Suppress SSL warnings
@@ -224,6 +223,7 @@ class BroadcastScraper:
                     # Method 1: Check if we have a datetime object and compare dates
                     if fixture.get('datetime_obj'):
                         fixture_date = fixture['datetime_obj'].date()
+                        # If the date is the same, it's today
                         if fixture_date == today:
                             is_today = True
                     # Method 2: Check date string for today's day number
@@ -262,13 +262,6 @@ class BroadcastScraper:
         except Exception as e:
             print(f"❌ Error parsing fixtures: {e}")
             return [], []
-    
-    def scrape_team_logos(self, event_url):
-        """
-        Scrape team logos from an event page. (Legacy/stand-alone version)
-        """
-        # This function is redundant, using get_event_details_sequential_streams instead
-        pass
     
     def _parse_stream_table(self, table):
         """
@@ -393,16 +386,26 @@ class BroadcastScraper:
             
             if event_url:
                 # Call the sequential stream parsing function
+                # Small random delay to mitigate aggressive scraping
+                time.sleep(random.uniform(0.5, 1.5))
+                
                 detailed_info = self.get_event_details_sequential_streams(event_url)
                 
                 if detailed_info:
                     # Add logos to fixture data
                     if detailed_info.get('team_logos'):
                         fixture['team_logos'] = detailed_info['team_logos']
+                        # Set primary home/away logos based on the first two found logos
+                        if len(detailed_info['team_logos']) >= 2:
+                            fixture['team_home_logo'] = detailed_info['team_logos'][0].get('logo_url')
+                            fixture['team_away_logo'] = detailed_info['team_logos'][1].get('logo_url')
                     
                     # Add streams to fixture data
                     if detailed_info.get('streams'):
                         fixture['streams'] = detailed_info['streams']
+                        # Set primary stream URL for the card
+                        if detailed_info['streams']:
+                            fixture['stream_url'] = detailed_info['streams'][0].get('stream_url')
                 
                 # Update progress
                 with self.progress_lock:
@@ -457,7 +460,8 @@ class BroadcastScraper:
             for future in as_completed(futures):
                 idx = futures[future]
                 try:
-                    result = future.result(timeout=30)
+                    # Use a short timeout to prevent one slow link from freezing the worker pool
+                    result = future.result(timeout=45) 
                     ordered_results[idx] = result
                 except Exception:
                     # If failed, use the original fixture to prevent data loss
@@ -473,12 +477,19 @@ class BroadcastScraper:
     
     def save_to_json(self, data, filename):
         """Save scraped data to JSON file"""
-        with open(filename, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=2, ensure_ascii=False, default=str)
+        try:
+            with open(filename, 'w', encoding='utf-8') as f:
+                json.dump(data, f, indent=2, ensure_ascii=False, default=str)
+        except Exception as e:
+            print(f"❌ Error saving {filename}: {e}")
 
 # --- Main Scraper Execution ---
 
 def main():
+    """
+    Main execution function called by api.py for scheduled scraping.
+    It scrapes, processes, filters, sorts, and saves the final data.
+    """
     # Create scraper with 3 workers
     scraper = BroadcastScraper(max_workers=3)
     
@@ -486,16 +497,18 @@ def main():
     sport_url = "https://livetv.sx/enx/allupcomingsports/1/"
     
     today_date = datetime.now().strftime('%d %B %Y')
-    print(f"🔍 Fetching TODAY'S football fixtures ({today_date})...")
-    print(f"⚡ Using {scraper.max_workers} concurrent workers for fixtures")
+    print(f"\n🔍 Fetching TODAY'S football fixtures ({today_date})...")
     
     start_time = time.time()
     
     # Step 1: Get TODAY'S fixtures only
-    top_matches, today_fixtures = scraper.get_fixtures_for_sport(sport_url)
+    _, today_fixtures = scraper.get_fixtures_for_sport(sport_url)
     
     if not today_fixtures:
-        print(f"\n❌ No fixtures found for today ({today_date})")
+        print(f"\n❌ No fixtures found for today ({today_date}). Saving empty lists.")
+        # Ensure we save empty lists to prevent stale data
+        scraper.save_to_json([], 'live.json')
+        scraper.save_to_json([], 'upcoming.json')
         return
     
     print(f"\n✅ Found {len(today_fixtures)} fixtures for today")
@@ -511,7 +524,9 @@ def main():
     fixtures_logo_filtered = filter_by_logo_presence(fixtures_with_details)
     
     if not fixtures_logo_filtered:
-        print("\n❌ All fixtures were filtered out due to missing team logos. Nothing to save.")
+        print("\n❌ All fixtures were filtered out due to missing team logos. Saving empty lists.")
+        scraper.save_to_json([], 'live.json')
+        scraper.save_to_json([], 'upcoming.json')
         return
         
     # 3b. Sort based on the specified league priority
@@ -519,21 +534,24 @@ def main():
     
     print(f"✅ Final data count after filtering and sorting: {len(final_sorted_fixtures)}")
     
-    # Step 4: Save results with today's date in filename
-    today_filename = datetime.now().strftime('%Y-%m-%d')
-    filename = f'today_fixtures_{today_filename}.json'
-    
-    # Save the final sorted and filtered fixtures
-    scraper.save_to_json(final_sorted_fixtures, filename)
-    
+    # -------------------------------------------------------------------
+    ## Step 4: Save Final Categorized Data (FOR API.PY)
     # -------------------------------------------------------------------
     
+    # Separate into Live and Upcoming based on 'is_live' flag
+    live_fixtures = [f for f in final_sorted_fixtures if f.get('is_live')]
+    upcoming_fixtures = [f for f in final_sorted_fixtures if not f.get('is_live')]
+
+    # Save to the standardized file names the API expects to load
+    scraper.save_to_json(live_fixtures, 'live.json')
+    scraper.save_to_json(upcoming_fixtures, 'upcoming.json')
+    
+    # Also save the combined, dated file for reference/debugging
+    dated_filename = datetime.now().strftime('today_fixtures_%Y-%m-%d.json')
+    scraper.save_to_json(final_sorted_fixtures, dated_filename)
+
     # Calculate statistics
     processing_time = time.time() - start_time
-    
-    fixtures_with_logos_count = len(final_sorted_fixtures) # This is the final count
-    fixtures_with_streams_count = sum(1 for f in final_sorted_fixtures if f.get('streams'))
-    live_fixtures_count = sum(1 for f in final_sorted_fixtures if f.get('is_live'))
     
     print("\n" + "=" * 60)
     print("📊 TODAY'S FOOTBALL FIXTURES - SUMMARY")
@@ -542,50 +560,12 @@ def main():
     print(f"⏱️  Total time: {processing_time:.2f} seconds")
     print(f"📈 Successful requests: {scraper.successful_requests}")
     print(f"❌ Failed requests: {scraper.failed_requests}")
-    print(f"📊 Total matches (Filtered & Sorted): {len(final_sorted_fixtures)}")
-    print(f"🔴 Live now: {live_fixtures_count}")
-    print(f"🏆 With team logos: {fixtures_with_logos_count}")
-    print(f"📺 With stream links: {fixtures_with_streams_count}")
-    print(f"💾 Saved to: {filename}")
+    print(f"🔴 Live fixtures saved: {len(live_fixtures)}")
+    print(f"🕒 Upcoming fixtures saved: {len(upcoming_fixtures)}")
+    print(f"💾 Saved categorized data to 'live.json' and 'upcoming.json'")
     print("=" * 60)
     
-    # Show today's matches
-    print("\n🎯 TODAY'S MATCHES (Top 10 Sorted by Priority):")
-    print("-" * 50)
+    print(f"\n✅ Scraper process complete.")
     
-    for i, fixture in enumerate(final_sorted_fixtures[:10]):  # Show first 10 matches
-        live_indicator = " 🔴 LIVE" if fixture.get('is_live') else ""
-        competition_name = fixture.get('competition', 'N/A')
-        priority = get_league_priority(competition_name)
-        priority_label = next((k for k, v in KJ_PRIORITY.items() if v == priority), 'Other')
-        
-        print(f"{i+1}. [{priority_label.upper()}] {fixture.get('matchup')}{live_indicator}")
-        print(f"   ⏰ {fixture.get('date_time', 'N/A')}")
-        
-        if fixture.get('team_logos'):
-            team_names = [logo.get('team_name', 'Unknown') for logo in fixture['team_logos']]
-            if team_names:
-                print(f"   👥 Teams: {', '.join(team_names[:2])}")
-        
-        if fixture.get('streams'):
-            languages = list(set([s.get('language', '') for s in fixture['streams'] if s.get('language')]))
-            if languages:
-                print(f"   🌍 Available in: {', '.join(languages[:2])}{'...' if len(languages) > 2 else ''}")
-        
-        print()  # Empty line between matches
-    
-    if len(final_sorted_fixtures) > 10:
-        print(f"... and {len(final_sorted_fixtures) - 10} more matches")
-    
-    print("=" * 60)
-    print(f"✅ Done! All data saved to '{filename}'")
-    print(f"⚡ Processed {len(final_sorted_fixtures)} fixtures in {processing_time:.2f}s "
-          f"({len(final_sorted_fixtures)/processing_time:.2f} fixtures/sec)")
-    print("=" * 60)
-
-if __name__ == "__main__":
-    try:
-        main()
-    except KeyboardInterrupt:
-        print("\n\n⚠️ Process interrupted by user. Exiting...")
-        sys.exit(0)
+# NOTE: The 'if __name__ == "__main__":' block is intentionally excluded here 
+# so that the function can be imported and executed by api.py without running automatically.
