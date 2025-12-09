@@ -1,1 +1,1 @@
-web: gunicorn api:app --workers 1
+gunicorn vrt:app --workers 1
