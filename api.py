@@ -4,35 +4,22 @@ from flask import Flask, jsonify
 from flask_cors import CORS 
 import glob
 import logging
-from difflib import SequenceMatcher
 from datetime import datetime
-import re
 import uuid 
+import tempfile
+
+# --- CRITICAL IMPORT: Import your actual scraper function ---
+from vrt import run_scraper_and_get_data
+# -----------------------------------------------------------
 
 # --- APScheduler Imports ---
 from apscheduler.schedulers.background import BackgroundScheduler
-# NOTE: Assuming 'from vrt import run_scraper_and_get_data' exists in your environment.
-# We will use a safe placeholder function for deployment.
-def run_scraper_and_get_data():
-    """Placeholder for the scraper function. Replace with actual vrt.run_scraper_and_get_data()"""
-    # This will typically load data from a file during deployment for fast startup/testing.
-    print("--- [SIMULATED SCRAPE] Attempting to load 'today_fixtures.json' for caching...")
-    try:
-        pattern = os.path.join(DATA_DIR, '*fixtures*.json')
-        all_files = glob.glob(pattern)
-        if all_files:
-            file_path = max(all_files, key=os.path.getctime)
-            with open(file_path, 'r', encoding='utf-8') as f:
-                return json.load(f)
-        return []
-    except Exception as e:
-        print(f"SIMULATION ERROR: Could not load dummy data: {e}")
-        return []
 # ---------------------------
 
 # --- Configuration ---
 app = Flask(__name__) 
-CORS(app, resources={r"/api/*": {"origins": "*"}}) 
+# Allow CORS for all routes (fixes the issue where the root endpoint was not covered)
+CORS(app, resources={r"/*": {"origins": "*"}}) 
 DATA_DIR = os.getcwd() 
 DATA_CACHE_FILE = 'latest_data.json' # File to cache the raw scraped data
 
@@ -50,7 +37,7 @@ DEFAULT_PRIORITY = len(KJ_ORDER)
 # --- Helper Functions ---
 
 def extract_teams_from_matchup(matchup):
-    # ... (Kept for completeness, remains the same) ...
+    """Safely extracts home and away teams from a matchup string."""
     separators = [' – ', ' - ', ' vs ', ' VS ', ' v ', ' V ']
     for sep in separators:
         if sep in matchup:
@@ -63,26 +50,40 @@ def extract_teams_from_matchup(matchup):
 def scheduled_scrape_and_save():
     """
     Function executed by the scheduler every 30 minutes.
-    It scrapes data and overwrites the local JSON cache file.
+    It scrapes data using `vrt.run_scraper_and_get_data()` and writes the cache file atomically.
     """
-    print(f"\n[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] --- STARTING SCHEDULED SCRAPE (30 min interval) ---")
+    start_ts = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    print(f"\n[{start_ts}] --- STARTING SCHEDULED SCRAPE (30 min interval) ---")
     
     try:
-        # 1. Run the core scraping function (Replace this with your actual call)
-        fixtures_data = run_scraper_and_get_data()
+        # 1. Run the core scraping function from vrt.py
+        fixtures_data = run_scraper_and_get_data() or []
         
         # 2. Package data with metadata
         data_to_save = {
             "timestamp": datetime.now().isoformat(),
-            "fixtures": fixtures_data or [], # Cache the RAW fixtures data
+            "fixtures": fixtures_data, # Cache the RAW fixtures data
             "status": "Success"
         }
 
-        # 3. Save the result to the static JSON cache file
-        with open(DATA_CACHE_FILE, 'w', encoding='utf-8') as f:
-            json.dump(data_to_save, f, indent=2, ensure_ascii=False, default=str)
-        
-        print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Scrape SUCCESS. Saved {len(fixtures_data)} RAW fixtures to {DATA_CACHE_FILE}\n")
+        # 3. Save the result to the static JSON cache file **atomically** (safest method)
+        tmp_fd, tmp_path = tempfile.mkstemp(prefix=DATA_CACHE_FILE + '.', dir='.')
+        try:
+            with os.fdopen(tmp_fd, 'w', encoding='utf-8') as tmpf:
+                json.dump(data_to_save, tmpf, indent=2, ensure_ascii=False, default=str)
+                tmpf.flush()
+                os.fsync(tmpf.fileno())
+            os.replace(tmp_path, DATA_CACHE_FILE)
+        finally:
+            # Cleanup if something went wrong and temp file still exists
+            if os.path.exists(tmp_path):
+                try:
+                    os.remove(tmp_path)
+                except Exception:
+                    pass
+
+        count = len(fixtures_data) if isinstance(fixtures_data, (list, tuple)) else 0
+        print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Scrape SUCCESS. Saved {count} RAW fixtures to {DATA_CACHE_FILE}\n")
         
     except Exception as e:
         app.logger.error(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] CRITICAL SCRAPING JOB FAILURE: {e}\n")
@@ -90,9 +91,7 @@ def scheduled_scrape_and_save():
 # --- Data Loading Function (The Consumer) ---
 
 def load_raw_fixtures_from_cache():
-    """
-    Loads raw fixtures data from the cache file created by the scheduler.
-    """
+    """Loads raw fixtures data from the cache file created by the scheduler."""
     if not os.path.exists(DATA_CACHE_FILE):
         app.logger.warning(f"Cache file {DATA_CACHE_FILE} not found.")
         return []
@@ -105,13 +104,13 @@ def load_raw_fixtures_from_cache():
         app.logger.error(f"FATAL API ERROR during cache file read: {e}")
         return []
 
-# --- ROOT ENDPOINT ---
+# --- ROOT ENDPOINT (The required output structure) ---
 
 @app.route('/', methods=['GET'])
 def get_all_fixtures_for_frontend():
     """
     Serves the root endpoint (/) by loading RAW data from the cache and 
-    transforming it into the exact simple array structure requested.
+    transforming it into the exact simple array structure requested by the frontend.
     """
     raw_fixtures = load_raw_fixtures_from_cache()
     
@@ -136,7 +135,8 @@ def get_all_fixtures_for_frontend():
                               if away_team.lower() in tl.get('team_name', '').lower()), "")
 
         processed_fixture = {
-            "event_id": fixture.get("event_id", str(uuid.uuid4())),
+            # Robust fallback for event_id
+            "event_id": fixture.get("event_id") or str(uuid.uuid4()), 
             "competition": fixture.get("competition", ""),
             "matchup": matchup_str,
             "date_time": fixture.get("date_time", ""),
@@ -156,29 +156,45 @@ def get_all_fixtures_for_frontend():
     # Return direct array, no wrapper
     return jsonify(processed_fixtures)
 
+# --- Health endpoint ---
+
+@app.route('/health', methods=['GET'])
+def health():
+    """Provides status and cache information for monitoring."""
+    exists = os.path.exists(DATA_CACHE_FILE)
+    info = {
+        "cache_exists": exists,
+        "cache_path": os.path.abspath(DATA_CACHE_FILE) if exists else None,
+        "timestamp": datetime.now().isoformat()
+    }
+    return jsonify(info), 200
+
 # --- Scheduler Startup (Gunicorn/Production Logic) ---
 
 # Initialize the scheduler once
 scheduler = BackgroundScheduler()
 
-# This code block executes when the application is loaded by a production server 
-# (e.g., Gunicorn/uWSGI). This prevents the scheduler from starting multiple times.
+# Control whether to enable the in-process scheduler via env var.
+ENABLE_SCHEDULER = os.environ.get("ENABLE_SCHEDULER", "true").lower() in ("1", "true", "yes")
+# If running under Gunicorn, only allow worker '0' to start the scheduler.
+GUNICORN_WORKER_ID = os.environ.get("GUNICORN_WORKER_ID")
+
+# This block is executed when the app is loaded by Gunicorn workers.
 if __name__ != '__main__': 
-    # Run the initial scrape immediately before starting the scheduler to fill the cache
-    scheduled_scrape_and_save()
-    
-    # Add job to run every 30 minutes
-    scheduler.add_job(
-        scheduled_scrape_and_save, 
-        'interval', 
-        minutes=30, 
-        id='scheduled_scrape', 
-        next_run_time=datetime.now() # Run immediately on startup
-    )
-    
-    # Start the scheduler thread
-    scheduler.start()
-    app.logger.info("\n✅ APScheduler started. Scrape scheduled every 30 minutes.\n")
-    
-# The local development server block (if __name__ == '__main__': app.run(...)) has been removed.
-# To run this, you would use a command like: gunicorn api:app
+    if ENABLE_SCHEDULER and (GUNICORN_WORKER_ID in (None, "", "0")):
+        # Run the initial scrape to populate the cache
+        scheduled_scrape_and_save()
+        
+        # Add job to run every 30 minutes
+        scheduler.add_job(
+            scheduled_scrape_and_save, 
+            'interval', 
+            minutes=30, 
+            id='scheduled_scrape'
+        )
+        
+        # Start the scheduler thread
+        scheduler.start()
+        app.logger.info("\n✅ APScheduler started. Scrape scheduled every 30 minutes.\n")
+    else:
+        app.logger.info(f"Scheduler disabled or not started in this process (ENABLE_SCHEDULER={ENABLE_SCHEDULER}, GUNICORN_WORKER_ID={GUNICORN_WORKER_ID}).\n")
