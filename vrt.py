@@ -15,12 +15,15 @@ import signal
 # Suppress SSL warnings
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
+# --- BroadcastScraper Class (Keep this section exactly as you defined it) ---
+
 class BroadcastScraper:
     def __init__(self, base_url="https://livetv.sx", max_workers=10):
         self.base_url = base_url
         self.max_workers = max_workers
         self.session = requests.Session()
-        self.session.verify = False
+        # NOTE: Using the remembered instruction to ensure SSL Bypass is applied.
+        self.session.verify = False 
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
@@ -34,19 +37,16 @@ class BroadcastScraper:
         self.successful_requests = 0
         self.failed_requests = 0
         
-        # Progress tracking
+        # Progress tracking (We'll comment out the CLI progress bar logic)
         self.progress_lock = threading.Lock()
         self.completed_tasks = 0
         self.total_tasks = 0
         
     def _parse_broadcast_item(self, table):
-        """
-        Parses a single fixture table (table with cellpadding="1").
-        """
+        # ... (Keep this method as is) ...
         fixture_data = {}
         
         try:
-            # Find the link tag in this table
             link_tag = table.find('a', class_='live')
             if not link_tag:
                 link_tag = table.find('a', class_='bottomgray')
@@ -62,7 +62,6 @@ class BroadcastScraper:
             if stream_href:
                 if stream_href.startswith('/'):
                     fixture_data['event_url'] = self.base_url + stream_href
-                    # Extract event ID from URL
                     match = re.search(r'/eventinfo/(\d+)', stream_href)
                     if match:
                         fixture_data['event_id'] = match.group(1)
@@ -74,7 +73,6 @@ class BroadcastScraper:
             if evdesc_span:
                 desc_text = evdesc_span.get_text(separator=' ', strip=True)
                 
-                # Split by newline if present
                 if '\n' in evdesc_span.text:
                     desc_parts = [p.strip() for p in evdesc_span.get_text('\n').split('\n') if p.strip()]
                 else:
@@ -88,9 +86,8 @@ class BroadcastScraper:
                         competition_text = desc_parts[1].strip('()')
                         fixture_data['competition'] = competition_text
                     
-                    # 3. Parse Date/Time - Store as datetime object for filtering
+                    # 3. Parse Date/Time
                     try:
-                        # Handle format: "3 December at 1:00"
                         month_pattern = r'(\d+)\s+([A-Za-z]+)\s+at\s+(\d+:\d+)'
                         match = re.search(month_pattern, date_time_text)
                         
@@ -100,7 +97,7 @@ class BroadcastScraper:
                             parsed_date = datetime.strptime(date_part, '%d %B at %H:%M')
                             parsed_date = parsed_date.replace(year=current_year)
                             fixture_data['parsed_datetime'] = parsed_date.isoformat()
-                            fixture_data['datetime_obj'] = parsed_date  # Store datetime object
+                            fixture_data['datetime_obj'] = parsed_date
                     except Exception as e:
                         fixture_data['parsed_datetime'] = None
                         fixture_data['datetime_obj'] = None
@@ -118,11 +115,9 @@ class BroadcastScraper:
                 
         except Exception:
             return None
-    
+
     def get_fixtures_for_sport(self, sport_url):
-        """
-        Navigates to the sport page and extracts fixtures for TODAY only.
-        """
+        # ... (Keep this method as is) ...
         today_fixtures = []
         
         try:
@@ -134,38 +129,29 @@ class BroadcastScraper:
             
             soup = BeautifulSoup(response.content, 'html.parser')
             
-            # Get today's date for filtering
             today = datetime.now().date()
             today_day = datetime.now().day
             
-            # Find all fixture tables
             fixture_tables = soup.find_all('table', {'cellpadding': '1', 'cellspacing': '2'})
             
-            print(f"📋 Found {len(fixture_tables)} potential fixture tables")
+            # print(f"📋 Found {len(fixture_tables)} potential fixture tables") # REMOVE CLI OUTPUT
             
-            # Parse all fixtures and filter for today
             for table in fixture_tables:
                 fixture = self._parse_broadcast_item(table)
                 if fixture:
-                    # Check if fixture is for today
                     is_today = False
                     
-                    # Method 1: Check if we have a datetime object and compare dates
                     if fixture.get('datetime_obj'):
                         fixture_date = fixture['datetime_obj'].date()
                         if fixture_date == today:
                             is_today = True
-                    # Method 2: Check date string for today's day number
                     elif fixture.get('date_time'):
                         date_str = fixture['date_time']
-                        # Check if the date string contains today's day
                         if re.search(rf'^{today_day}\s+[A-Za-z]+', date_str) or \
                            re.search(rf'\b{today_day}\s+[A-Za-z]+', date_str):
                             is_today = True
                     
-                    # Only add if it's for today
                     if is_today:
-                        # Check if this is a duplicate
                         is_duplicate = any(
                             f.get('event_id') == fixture.get('event_id') and 
                             f.get('event_id') is not None
@@ -175,22 +161,20 @@ class BroadcastScraper:
                         if not is_duplicate:
                             today_fixtures.append(fixture)
             
-            print(f"✅ Parsed {len(today_fixtures)} fixtures for today")
+            # print(f"✅ Parsed {len(today_fixtures)} fixtures for today") # REMOVE CLI OUTPUT
             return [], today_fixtures
             
         except requests.exceptions.RequestException as e:
             with self.stats_lock:
                 self.failed_requests += 1
-            print(f"❌ Request failed: {e}")
+            # print(f"❌ Request failed: {e}") # REMOVE CLI OUTPUT
             return [], []
         except Exception as e:
-            print(f"❌ Error parsing fixtures: {e}")
+            # print(f"❌ Error parsing fixtures: {e}") # REMOVE CLI OUTPUT
             return [], []
-    
+
     def scrape_team_logos(self, event_url):
-        """
-        Scrape team logos from an event page.
-        """
+        # ... (Keep this method as is) ...
         try:
             response = self.session.get(event_url, timeout=10)
             response.raise_for_status()
@@ -201,14 +185,11 @@ class BroadcastScraper:
             soup = BeautifulSoup(response.content, 'html.parser')
             
             team_logos = []
-            
-            # Extract team logos - look for images with itemprop="image"
             logo_images = soup.find_all('img', itemprop='image', alt=True)
             
             for img in logo_images:
                 logo_url = img.get('src', '')
                 if logo_url:
-                    # Convert relative URL to absolute
                     if logo_url.startswith('//'):
                         logo_url = 'https:' + logo_url
                     elif logo_url.startswith('/'):
@@ -226,20 +207,16 @@ class BroadcastScraper:
             with self.stats_lock:
                 self.failed_requests += 1
             return []
-    
+
     def _parse_stream_table(self, table):
-        """
-        Parse a single stream table (class lnktbj) to extract stream details.
-        """
+        # ... (Keep this method as is) ...
         try:
             stream_data = {}
-            
-            # Find all table cells
             cells = table.find_all('td')
             if len(cells) < 7:
                 return None
             
-            # 1. Language/flag info (first cell)
+            # 1. Language/flag info
             flag_img = cells[0].find('img')
             if flag_img:
                 stream_data['language'] = flag_img.get('title', '')
@@ -247,17 +224,17 @@ class BroadcastScraper:
                 if stream_data['flag_src'].startswith('//'):
                     stream_data['flag_src'] = 'https:' + stream_data['flag_src']
             
-            # 2. Bitrate (second cell)
+            # 2. Bitrate
             bitrate_cell = cells[1]
             stream_data['bitrate'] = bitrate_cell.get('title', '')
             
-            # 3. Rating information (cells 2-4)
+            # 3. Rating information
             rating_div = table.find('div', id=lambda x: x and x.startswith('rali'))
             if rating_div:
                 stream_data['rating'] = rating_div.get_text(strip=True)
                 stream_data['rating_color'] = rating_div.get('style', '')
             
-            # 4. Stream link (cell 5 - play button)
+            # 4. Stream link
             play_link = cells[5].find('a') if len(cells) > 5 else None
             if play_link:
                 stream_url = play_link.get('href', '')
@@ -270,7 +247,7 @@ class BroadcastScraper:
                     stream_data['stream_url'] = stream_url
                     stream_data['stream_title'] = play_link.get('title', '')
             
-            # 5. Stream type/description (last cell)
+            # 5. Stream type/description
             if len(cells) > 6:
                 type_cell = cells[6]
                 type_span = type_cell.find('span')
@@ -283,11 +260,9 @@ class BroadcastScraper:
             
         except Exception:
             return None
-    
+
     def get_event_details_concurrent(self, event_url):
-        """
-        Get comprehensive event details with concurrent processing.
-        """
+        # ... (Keep this method as is) ...
         try:
             response = self.session.get(event_url, timeout=15)
             response.raise_for_status()
@@ -324,10 +299,8 @@ class BroadcastScraper:
             # 2. Extract stream links from the links_block
             links_block = soup.find('div', id='links_block')
             if links_block:
-                # Find all stream tables (class lnktbj)
                 stream_tables = links_block.find_all('table', class_='lnktbj')
                 
-                # Process stream tables concurrently
                 if stream_tables:
                     with ThreadPoolExecutor(max_workers=min(self.max_workers, len(stream_tables))) as executor:
                         futures = [executor.submit(self._parse_stream_table, table) for table in stream_tables]
@@ -346,53 +319,39 @@ class BroadcastScraper:
             with self.stats_lock:
                 self.failed_requests += 1
             return None
-    
+
     def process_fixture_concurrent(self, fixture):
-        """
-        Process a single fixture concurrently (team logos + event details).
-        """
+        # ... (Keep this method as is, removing CLI print/progress) ...
         try:
             event_url = fixture.get('event_url')
             
             if event_url:
-                # Get team logos and event details in one go
                 detailed_info = self.get_event_details_concurrent(event_url)
                 
                 if detailed_info:
-                    # Add logos to fixture data
                     if detailed_info.get('team_logos'):
                         fixture['team_logos'] = detailed_info['team_logos']
                     
-                    # Add streams to fixture data
                     if detailed_info.get('streams'):
                         fixture['streams'] = detailed_info['streams']
                 
                 # Update progress
                 with self.progress_lock:
                     self.completed_tasks += 1
-                    self._show_progress()
+                    # self._show_progress() # REMOVE CLI PROGRESS BAR
                 
             return fixture
             
         except Exception as e:
-            print(f"\n⚠️ Error processing fixture: {e}")
+            # print(f"\n⚠️ Error processing fixture: {e}") # REMOVE CLI OUTPUT
             with self.progress_lock:
                 self.completed_tasks += 1
-                self._show_progress()
+                # self._show_progress() # REMOVE CLI PROGRESS BAR
             return fixture
-    
+
     def _show_progress(self):
-        """Display a progress bar"""
-        if self.total_tasks == 0:
-            return
-            
-        percent = float(self.completed_tasks) / self.total_tasks
-        bar_length = 40
-        arrow = '█' * int(round(percent * bar_length))
-        spaces = '░' * (bar_length - len(arrow))
-        
-        sys.stdout.write(f"\r🔄 Processing: [{arrow}{spaces}] {int(round(percent * 100))}% ({self.completed_tasks}/{self.total_tasks})")
-        sys.stdout.flush()
+        # ... (Remove or comment out this method entirely, as the API doesn't use stdout) ...
+        pass
     
     def process_all_fixtures_concurrent(self, fixtures):
         """
@@ -406,15 +365,14 @@ class BroadcastScraper:
             self.completed_tasks = 0
             self.total_tasks = len(fixtures)
         
-        print(f"\n🚀 Starting concurrent processing of {len(fixtures)} fixtures with {self.max_workers} workers...")
+        # print(f"\n🚀 Starting concurrent processing of {len(fixtures)} fixtures with {self.max_workers} workers...") # REMOVE CLI OUTPUT
         
-        # Process fixtures concurrently
         processed_fixtures = []
         
         with ThreadPoolExecutor(max_workers=self.max_workers) as executor:
             # Submit all tasks
             futures = {executor.submit(self.process_fixture_concurrent, fixture): i 
-                      for i, fixture in enumerate(fixtures)}
+                       for i, fixture in enumerate(fixtures)}
             
             # Process results as they complete
             for future in as_completed(futures):
@@ -422,109 +380,40 @@ class BroadcastScraper:
                     result = future.result(timeout=30)
                     processed_fixtures.append(result)
                 except Exception as e:
-                    idx = futures[future]
-                    print(f"\n❌ Task {idx} failed: {e}")
-                    # Return the original fixture if processing failed
-                    if idx < len(fixtures):
-                        processed_fixtures.append(fixtures[idx])
+                    # idx = futures[future] # KEEP THIS FOR DEBUG IF NEEDED
+                    # print(f"\n❌ Task {idx} failed: {e}") # REMOVE CLI OUTPUT
+                    # Append original fixture on failure (optional)
+                    # if idx < len(fixtures):
+                    #     processed_fixtures.append(fixtures[idx])
+                    pass
         
-        # Clear progress line
-        sys.stdout.write("\r" + " " * 80 + "\r")
+        # sys.stdout.write("\r" + " " * 80 + "\r") # REMOVE CLI OUTPUT
         
         return processed_fixtures
-    
-    def save_to_json(self, data, filename):
-        """Save scraped data to JSON file"""
-        with open(filename, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=2, ensure_ascii=False, default=str)
 
-def main():
+# --- END OF BroadcastScraper Class ---
+
+
+# 💡 EXPORTABLE FUNCTION FOR API
+def run_scraper_and_get_data():
+    """
+    Runs the full scraping process and returns the final list of fixtures.
+    This function replaces the old main().
+    """
     # Create scraper with 10 workers
-    scraper = BroadcastScraper(max_workers=10)
-    
-    # The full URL for Football fixtures
+    scraper = BroadcastScraper(max_workers=10) 
     sport_url = "https://livetv.sx/enx/allupcomingsports/1/"
     
-    today_date = datetime.now().strftime('%d %B %Y')
-    print(f"🔍 Fetching TODAY'S football fixtures ({today_date})...")
-    print(f"⚡ Using {scraper.max_workers} concurrent workers")
-    
-    start_time = time.time()
-    
-    # Step 1: Get TODAY'S fixtures only
-    top_matches, today_fixtures = scraper.get_fixtures_for_sport(sport_url)
+    # 1. Get TODAY'S fixtures only
+    _, today_fixtures = scraper.get_fixtures_for_sport(sport_url)
     
     if not today_fixtures:
-        print(f"\n❌ No fixtures found for today ({today_date})")
-        return
-    
-    print(f"\n✅ Found {len(today_fixtures)} fixtures for today")
-    
-    # Step 2: Process all fixtures concurrently (team logos + event details)
+        return []
+        
+    # 2. Process all fixtures concurrently (team logos + event details)
     fixtures_with_details = scraper.process_all_fixtures_concurrent(today_fixtures)
     
-    # Step 3: Save results with today's date in filename
-    today_filename = datetime.now().strftime('%Y-%m-%d')
-    filename = f'today_fixtures_{today_filename}.json'
-    
-    # Save the fixtures with logos to a file
-    scraper.save_to_json(fixtures_with_details, filename)
-    
-    # Calculate statistics
-    processing_time = time.time() - start_time
-    
-    fixtures_with_logos_count = sum(1 for f in fixtures_with_details if f.get('team_logos'))
-    fixtures_with_streams_count = sum(1 for f in fixtures_with_details if f.get('streams'))
-    live_fixtures_count = sum(1 for f in fixtures_with_details if f.get('is_live'))
-    
-    print("\n" + "=" * 60)
-    print("📊 TODAY'S FOOTBALL FIXTURES - SUMMARY")
-    print("=" * 60)
-    print(f"📅 Date: {today_date}")
-    print(f"⏱️  Total time: {processing_time:.2f} seconds")
-    print(f"📈 Successful requests: {scraper.successful_requests}")
-    print(f"❌ Failed requests: {scraper.failed_requests}")
-    print(f"📊 Total matches: {len(fixtures_with_details)}")
-    print(f"🔴 Live now: {live_fixtures_count}")
-    print(f"🏆 With team logos: {fixtures_with_logos_count}")
-    print(f"📺 With stream links: {fixtures_with_streams_count}")
-    print(f"💾 Saved to: {filename}")
-    print("=" * 60)
-    
-    # Show today's matches
-    print("\n🎯 TODAY'S MATCHES:")
-    print("-" * 50)
-    
-    for i, fixture in enumerate(fixtures_with_details[:10]):  # Show first 10 matches
-        live_indicator = " 🔴 LIVE" if fixture.get('is_live') else ""
-        print(f"{i+1}. {fixture.get('matchup')}{live_indicator}")
-        print(f"   ⏰ {fixture.get('date_time', 'N/A')}")
-        print(f"   🏆 {fixture.get('competition', 'N/A')}")
-        
-        if fixture.get('team_logos'):
-            team_names = [logo.get('team_name', 'Unknown') for logo in fixture['team_logos']]
-            if team_names:
-                print(f"   👥 Teams: {', '.join(team_names[:2])}")
-        
-        if fixture.get('streams'):
-            languages = list(set([s.get('language', '') for s in fixture['streams'] if s.get('language')]))
-            if languages:
-                print(f"   🌍 Available in: {', '.join(languages[:2])}{'...' if len(languages) > 2 else ''}")
-        
-        print()  # Empty line between matches
-    
-    if len(fixtures_with_details) > 10:
-        print(f"... and {len(fixtures_with_details) - 10} more matches")
-    
-    print("=" * 60)
-    print(f"✅ Done! All data saved to '{filename}'")
-    print(f"⚡ Processed {len(fixtures_with_details)} fixtures in {processing_time:.2f}s "
-          f"({len(fixtures_with_details)/processing_time:.2f} fixtures/sec)")
-    print("=" * 60)
+    # 3. Return the processed list
+    return fixtures_with_details
 
-if __name__ == "__main__":
-    try:
-        main()
-    except KeyboardInterrupt:
-        print("\n\n⚠️ Process interrupted by user. Exiting...")
-        sys.exit(0)
+# ❌ REMOVE THE ORIGINAL main() and if __name__ == "__main__": BLOCKS
