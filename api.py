@@ -1,64 +1,56 @@
 import os
 import json
-from flask import Flask, jsonify, send_file
+from flask import Flask, jsonify
 from flask_cors import CORS 
 import glob
 import logging
 from difflib import SequenceMatcher
 from datetime import datetime
 import re
-import uuid # Needed for event_id fallback
-from typing import List, Dict, Any
+import uuid 
+
+# --- APScheduler Imports ---
+from apscheduler.schedulers.background import BackgroundScheduler
+# NOTE: Assuming 'from vrt import run_scraper_and_get_data' exists in your environment.
+# We will use a safe placeholder function for deployment.
+def run_scraper_and_get_data():
+    """Placeholder for the scraper function. Replace with actual vrt.run_scraper_and_get_data()"""
+    # This will typically load data from a file during deployment for fast startup/testing.
+    print("--- [SIMULATED SCRAPE] Attempting to load 'today_fixtures.json' for caching...")
+    try:
+        pattern = os.path.join(DATA_DIR, '*fixtures*.json')
+        all_files = glob.glob(pattern)
+        if all_files:
+            file_path = max(all_files, key=os.path.getctime)
+            with open(file_path, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        return []
+    except Exception as e:
+        print(f"SIMULATION ERROR: Could not load dummy data: {e}")
+        return []
+# ---------------------------
 
 # --- Configuration ---
 app = Flask(__name__) 
 CORS(app, resources={r"/api/*": {"origins": "*"}}) 
 DATA_DIR = os.getcwd() 
+DATA_CACHE_FILE = 'latest_data.json' # File to cache the raw scraped data
 
 # Set up logging for the Flask app
 app.logger.setLevel(logging.INFO)
 
 # --- KJ List (Priority/Grouping Order) ---
 KJ_ORDER = [
-    "Premier League", 
-    "LaLiga", 
-    "Bundesliga", 
-    "Serie A", 
-    "Eredivisie", 
-    "Ligue 1", 
-    "Champions League", 
-    "Europa League", 
-    "World Cup", 
-    "Afcon",
-    "World Cup U17"
+    "Premier League", "LaLiga", "Bundesliga", "Serie A", "Eredivisie", "Ligue 1", 
+    "Champions League", "Europa League", "World Cup", "Afcon", "World Cup U17"
 ]
 KJ_PRIORITY = {league.lower(): i for i, league in enumerate(KJ_ORDER)}
 DEFAULT_PRIORITY = len(KJ_ORDER)
 
-# --- Helper Functions (Existing) ---
-
-def get_league_priority(competition_name):
-    # ... (Keep existing get_league_priority logic) ...
-    competition = competition_name.lower()
-    for kj_league, priority in KJ_PRIORITY.items():
-        if SequenceMatcher(None, kj_league, competition).ratio() > 0.8:
-            return priority
-    if 'champions league' in competition: return KJ_PRIORITY.get('champions league', DEFAULT_PRIORITY)
-    if 'europa league' in competition: return KJ_PRIORITY.get('europa league', DEFAULT_PRIORITY)
-    return DEFAULT_PRIORITY
-
-def sort_fixtures_by_kj(fixtures):
-    # ... (Keep existing sort_fixtures_by_kj logic) ...
-    def get_sort_key(fixture):
-        competition = fixture.get('competition', '')
-        competition_to_sort = fixture.get('sort_competition', competition)
-        priority = get_league_priority(competition_to_sort)
-        time_sort = fixture.get('sort_time', datetime.min.isoformat())
-        return (priority, time_sort)
-    return sorted(fixtures, key=get_sort_key)
+# --- Helper Functions ---
 
 def extract_teams_from_matchup(matchup):
-    # ... (Keep existing extract_teams_from_matchup logic) ...
+    # ... (Kept for completeness, remains the same) ...
     separators = [' – ', ' - ', ' vs ', ' VS ', ' v ', ' V ']
     for sep in separators:
         if sep in matchup:
@@ -66,112 +58,90 @@ def extract_teams_from_matchup(matchup):
             return home.strip(), away.strip()
     return matchup.strip(), matchup.strip()
 
-def parse_time_for_sorting(date_time_str):
-    # ... (Keep existing parse_time_for_sorting logic) ...
-    if isinstance(date_time_str, dict) and 'parsed_datetime' in date_time_str:
-        return date_time_str['parsed_datetime']
-    try:
-        match = re.search(r'(\d+)\s+([A-Za-z]+)\s+at\s+(\d+:\d+)', date_time_str)
-        if match:
-            day = int(match.group(1))
-            month_str = match.group(2)
-            time_str = match.group(3)
-            current_year = datetime.now().year
-            month_num = datetime.strptime(month_str, '%B').month 
-            dt = datetime(current_year, month_num, day, *map(int, time_str.split(':')))
-            return dt.isoformat()
-    except Exception:
-        pass
-    return datetime.min.isoformat() 
+# --- Scheduling Function (The Producer) ---
 
-# --- NEW/MODIFIED DATA LOADING ---
-
-def load_raw_fixtures():
+def scheduled_scrape_and_save():
     """
-    Loads raw fixtures data from the JSON file without enhancement/filtering.
-    This simulates the input structure expected by the requested root endpoint.
+    Function executed by the scheduler every 30 minutes.
+    It scrapes data and overwrites the local JSON cache file.
     """
+    print(f"\n[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] --- STARTING SCHEDULED SCRAPE (30 min interval) ---")
+    
     try:
-        today_date = datetime.now().strftime('%Y-%m-%d')
-        possible_files = [
-            f'today_fixtures_{today_date}.json',
-            'today_fixtures.json',
-            'football_fixtures_today.json'
-        ]
+        # 1. Run the core scraping function (Replace this with your actual call)
+        fixtures_data = run_scraper_and_get_data()
         
-        file_path = None
-        for fname in possible_files:
-            fpath = os.path.join(DATA_DIR, fname)
-            if os.path.exists(fpath):
-                file_path = fpath
-                break
+        # 2. Package data with metadata
+        data_to_save = {
+            "timestamp": datetime.now().isoformat(),
+            "fixtures": fixtures_data or [], # Cache the RAW fixtures data
+            "status": "Success"
+        }
+
+        # 3. Save the result to the static JSON cache file
+        with open(DATA_CACHE_FILE, 'w', encoding='utf-8') as f:
+            json.dump(data_to_save, f, indent=2, ensure_ascii=False, default=str)
         
-        if not file_path:
-            pattern = os.path.join(DATA_DIR, '*fixtures*.json')
-            all_files = glob.glob(pattern)
-            if all_files:
-                file_path = max(all_files, key=os.path.getctime)
-                
-        if file_path:
-            app.logger.info(f"Loading RAW fixtures from: {os.path.basename(file_path)}")
-            with open(file_path, 'r', encoding='utf-8') as f:
-                return json.load(f)
-        else:
-            app.logger.warning("No today's fixtures file found for raw loading.")
-            return []
-            
+        print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Scrape SUCCESS. Saved {len(fixtures_data)} RAW fixtures to {DATA_CACHE_FILE}\n")
+        
     except Exception as e:
-        app.logger.error(f"Error loading raw fixtures: {e}")
+        app.logger.error(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] CRITICAL SCRAPING JOB FAILURE: {e}\n")
+
+# --- Data Loading Function (The Consumer) ---
+
+def load_raw_fixtures_from_cache():
+    """
+    Loads raw fixtures data from the cache file created by the scheduler.
+    """
+    if not os.path.exists(DATA_CACHE_FILE):
+        app.logger.warning(f"Cache file {DATA_CACHE_FILE} not found.")
+        return []
+    
+    try:
+        with open(DATA_CACHE_FILE, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            return data.get('fixtures', [])
+    except Exception as e:
+        app.logger.error(f"FATAL API ERROR during cache file read: {e}")
         return []
 
-# NOTE: The original complex 'load_today_fixtures' and 'process_and_enhance_fixture' 
-# are required to support the other /api/ endpoints and are kept for full functionality.
-# They are not shown here for brevity but are assumed to exist in the full file.
-
-
-# --- NEW ROOT ENDPOINT (REQUIRED) ---
+# --- ROOT ENDPOINT ---
 
 @app.route('/', methods=['GET'])
 def get_all_fixtures_for_frontend():
     """
-    Serves the root endpoint (/) by loading raw data and transforming it
-    into the exact, simple array structure requested by the deepseek code block.
+    Serves the root endpoint (/) by loading RAW data from the cache and 
+    transforming it into the exact simple array structure requested.
     """
-    # NOTE: The raw fixture data must contain fields like 'id', 'competition_name', 
-    # 'home_team', 'away_team', 'home_team_logo', 'away_team_logo', etc., 
-    # which are expected by the requested transformation logic.
-    raw_fixtures = load_raw_fixtures()
+    raw_fixtures = load_raw_fixtures_from_cache()
     
-    # Simulating the requested structure transformation.
+    if not raw_fixtures:
+        return jsonify({
+            "error": "Data file not yet created or empty.",  
+            "message": "The initial scrape job is running or has not finished yet. Please try again in a few minutes."
+        }), 503 
+    
     processed_fixtures = []
     
     for fixture in raw_fixtures:
         
-        # Determine team names and logo URLs based on raw data structure 
-        # (Assuming they exist based on the frontend logic)
-        
-        # If the raw data is the input structure from the previous request, 
-        # we need to transform it back to the expected simple keys:
-        
-        # Try to map complex input structure to simple output keys
+        # --- Transformation Logic ---
         matchup_str = fixture.get("matchup", "Home – Away")
-        
-        # Attempt to extract team names and separate logos from 'team_logos' array
         home_team, away_team = extract_teams_from_matchup(matchup_str)
         
+        # Find logos in the nested 'team_logos' array
         home_logo_url = next((tl.get('logo_url') for tl in fixture.get('team_logos', []) 
                               if home_team.lower() in tl.get('team_name', '').lower()), "")
         away_logo_url = next((tl.get('logo_url') for tl in fixture.get('team_logos', []) 
                               if away_team.lower() in tl.get('team_name', '').lower()), "")
 
         processed_fixture = {
-            # Use event_id from the raw data, fallback to uuid if not present
             "event_id": fixture.get("event_id", str(uuid.uuid4())),
             "competition": fixture.get("competition", ""),
             "matchup": matchup_str,
             "date_time": fixture.get("date_time", ""),
-            "parsed_datetime": fixture.get("parsed_datetime", ""), # Use pre-parsed if available
-            "is_live": fixture.get("is_live") is True, # Explicit check for boolean True
+            "parsed_datetime": fixture.get("parsed_datetime", ""), 
+            "is_live": fixture.get("is_live") is True, 
             "team_logos": [
                 {"logo_url": home_logo_url},
                 {"logo_url": away_logo_url}
@@ -186,16 +156,29 @@ def get_all_fixtures_for_frontend():
     # Return direct array, no wrapper
     return jsonify(processed_fixtures)
 
-# --- Existing Endpoints (Assumed to exist for full functionality, but not repeated here) ---
+# --- Scheduler Startup (Gunicorn/Production Logic) ---
 
-# @app.route('/api/fixtures/all', methods=['GET'])
-# def get_all_fixtures():
-#     # ... uses load_today_fixtures() (enhanced) ...
-# @app.route('/api/fixtures/live', methods=['GET'])
-# ...
+# Initialize the scheduler once
+scheduler = BackgroundScheduler()
 
-# --- Run the App ---
-if __name__ == '__main__':
-    # Running on Mac, debug=True is useful for development.
-    # Always use the SSL Bypass logic in the script (implemented by focusing on data processing rather than scraping).
-    app.run(debug=True, host='0.0.0.0', port=5000)
+# This code block executes when the application is loaded by a production server 
+# (e.g., Gunicorn/uWSGI). This prevents the scheduler from starting multiple times.
+if __name__ != '__main__': 
+    # Run the initial scrape immediately before starting the scheduler to fill the cache
+    scheduled_scrape_and_save()
+    
+    # Add job to run every 30 minutes
+    scheduler.add_job(
+        scheduled_scrape_and_save, 
+        'interval', 
+        minutes=30, 
+        id='scheduled_scrape', 
+        next_run_time=datetime.now() # Run immediately on startup
+    )
+    
+    # Start the scheduler thread
+    scheduler.start()
+    app.logger.info("\n✅ APScheduler started. Scrape scheduled every 30 minutes.\n")
+    
+# The local development server block (if __name__ == '__main__': app.run(...)) has been removed.
+# To run this, you would use a command like: gunicorn api:app
