@@ -1,0 +1,27 @@
+name: Global Production API
+on:
+  schedule:
+    - cron: '*/15 * * * *' # Every 15 minutes
+  workflow_dispatch:      # Allows you to click a button to run it now
+
+jobs:
+  scrape_and_deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: Install Dependencies
+        run: pip install requests beautifulsoup4 urllib3
+      - name: Run Scraper
+        run: python scraper.py
+      - name: Push to CDN
+        run: |
+          git config --global user.name "Production-Bot"
+          git config --global user.email "bot@github.com"
+          git add index.json
+          git commit -m "CDN Update: $(date)" || exit 0
+          git push
