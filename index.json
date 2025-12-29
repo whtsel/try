@@ -33,27 +33,6 @@
     "streams": []
   },
   {
-    "matchup": "Portsmouth – Charlton Athletic",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910164__/",
-    "event_id": "326910164",
-    "date_time": "29 December at 20:45",
-    "competition": "England. Championship",
-    "parsed_datetime": "2025-12-29T20:45:00",
-    "logo_alt": "England. Championship",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Portsmouth",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25257.gif"
-      },
-      {
-        "team_name": "Charlton Athletic",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3892.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Al-Shamal – Al-Sadd",
     "event_url": "https://livetv.sx/enx/eventinfo/326869520__/",
     "event_id": "326869520",
@@ -61,7 +40,7 @@
     "competition": "Qatar. Stars League",
     "parsed_datetime": "2025-12-29T15:30:00",
     "logo_alt": "Qatar. Stars League",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Al-Shamal",
@@ -84,9 +63,51 @@
     ]
   },
   {
-    "matchup": "Norwich City – Watford",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910166__/",
-    "event_id": "326910166",
+    "matchup": "Al-Khaleej – Al-Fateh",
+    "event_url": "https://livetv.sx/enx/eventinfo/326874120__/",
+    "event_id": "326874120",
+    "date_time": "29 December at 15:35",
+    "competition": "Saudi Arabia. Pro League",
+    "parsed_datetime": "2025-12-29T15:35:00",
+    "logo_alt": "Saudi Arabia. Pro League",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Al-Khaleej",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30588.gif"
+      },
+      {
+        "team_name": "Al-Fateh",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30584.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Al-Khaldiya – Al-Budaiya",
+    "event_url": "https://livetv.sx/enx/eventinfo/326083856__/",
+    "event_id": "326083856",
+    "date_time": "29 December at 17:00",
+    "competition": "Bahrain. Premier League",
+    "parsed_datetime": "2025-12-29T17:00:00",
+    "logo_alt": "Bahrain. Premier League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Khaldiya",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33152.gif"
+      },
+      {
+        "team_name": "Al-Budaiya",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6747.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Wrexham – Preston",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910160__/",
+    "event_id": "326910160",
     "date_time": "29 December at 20:45",
     "competition": "England. Championship",
     "parsed_datetime": "2025-12-29T20:45:00",
@@ -94,12 +115,12 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Norwich City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/19081.gif"
+        "team_name": "Wrexham",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5851.gif"
       },
       {
-        "team_name": "Watford",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/150.gif"
+        "team_name": "Preston",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3909.gif"
       }
     ],
     "streams": []
@@ -123,76 +144,42 @@
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9190.gif"
       }
     ],
-    "streams": []
-  },
-  {
-    "matchup": "Al-Khaleej – Al-Fateh",
-    "event_url": "https://livetv.sx/enx/eventinfo/326874120__/",
-    "event_id": "326874120",
-    "date_time": "29 December at 15:35",
-    "competition": "Saudi Arabia. Pro League",
-    "parsed_datetime": "2025-12-29T15:35:00",
-    "logo_alt": "Saudi Arabia. Pro League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Al-Khaleej",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30588.gif"
-      },
-      {
-        "team_name": "Al-Fateh",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30584.gif"
-      }
-    ],
     "streams": [
       {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "language": "Arabic",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/5.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2916163&lang=en&eid=326874120&lid=2916163&ci=66&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2916089&lang=en&eid=326880678&lid=2916089&ci=379&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      },
+      {
+        "language": "Arabic",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/5.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2915997&lang=en&eid=326880678&lid=2915997&ci=379&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       }
     ]
   },
   {
-    "matchup": "Millwall – Bristol City",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910167__/",
-    "event_id": "326910167",
+    "matchup": "Roma – Genoa",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910859__/",
+    "event_id": "326910859",
     "date_time": "29 December at 20:45",
-    "competition": "England. Championship",
+    "competition": "Italy. Serie A",
     "parsed_datetime": "2025-12-29T20:45:00",
-    "logo_alt": "England. Championship",
+    "logo_alt": "Italy. Serie A",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Millwall",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3900.gif"
+        "team_name": "Roma",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/54.gif"
       },
       {
-        "team_name": "Bristol City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/456.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Sheffield Wednesday – Blackburn",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910163__/",
-    "event_id": "326910163",
-    "date_time": "29 December at 20:45",
-    "competition": "England. Championship",
-    "parsed_datetime": "2025-12-29T20:45:00",
-    "logo_alt": "England. Championship",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Sheffield Wednesday",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3890.gif"
-      },
-      {
-        "team_name": "Blackburn",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3904.gif"
+        "team_name": "Genoa",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/71.gif"
       }
     ],
     "streams": []
@@ -214,6 +201,27 @@
       {
         "team_name": "Queens Park Rangers",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3894.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Norwich City – Watford",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910166__/",
+    "event_id": "326910166",
+    "date_time": "29 December at 20:45",
+    "competition": "England. Championship",
+    "parsed_datetime": "2025-12-29T20:45:00",
+    "logo_alt": "England. Championship",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Norwich City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/19081.gif"
+      },
+      {
+        "team_name": "Watford",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/150.gif"
       }
     ],
     "streams": []
@@ -261,22 +269,64 @@
     "streams": []
   },
   {
-    "matchup": "Al-Khaldiya – Al-Budaiya",
-    "event_url": "https://livetv.sx/enx/eventinfo/326083856__/",
-    "event_id": "326083856",
-    "date_time": "29 December at 17:00",
-    "competition": "Bahrain. Premier League",
-    "parsed_datetime": "2025-12-29T17:00:00",
-    "logo_alt": "Bahrain. Premier League",
+    "matchup": "Sheffield Wednesday – Blackburn",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910163__/",
+    "event_id": "326910163",
+    "date_time": "29 December at 20:45",
+    "competition": "England. Championship",
+    "parsed_datetime": "2025-12-29T20:45:00",
+    "logo_alt": "England. Championship",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Al-Khaldiya",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33152.gif"
+        "team_name": "Sheffield Wednesday",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3890.gif"
       },
       {
-        "team_name": "Al-Budaiya",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6747.gif"
+        "team_name": "Blackburn",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3904.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Millwall – Bristol City",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910167__/",
+    "event_id": "326910167",
+    "date_time": "29 December at 20:45",
+    "competition": "England. Championship",
+    "parsed_datetime": "2025-12-29T20:45:00",
+    "logo_alt": "England. Championship",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Millwall",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3900.gif"
+      },
+      {
+        "team_name": "Bristol City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/456.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Portsmouth – Charlton Athletic",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910164__/",
+    "event_id": "326910164",
+    "date_time": "29 December at 20:45",
+    "competition": "England. Championship",
+    "parsed_datetime": "2025-12-29T20:45:00",
+    "logo_alt": "England. Championship",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Portsmouth",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25257.gif"
+      },
+      {
+        "team_name": "Charlton Athletic",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3892.gif"
       }
     ],
     "streams": []
@@ -318,48 +368,6 @@
         "stream_type": "Web"
       }
     ]
-  },
-  {
-    "matchup": "Roma – Genoa",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910859__/",
-    "event_id": "326910859",
-    "date_time": "29 December at 20:45",
-    "competition": "Italy. Serie A",
-    "parsed_datetime": "2025-12-29T20:45:00",
-    "logo_alt": "Italy. Serie A",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Roma",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/54.gif"
-      },
-      {
-        "team_name": "Genoa",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/71.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Wrexham – Preston",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910160__/",
-    "event_id": "326910160",
-    "date_time": "29 December at 20:45",
-    "competition": "England. Championship",
-    "parsed_datetime": "2025-12-29T20:45:00",
-    "logo_alt": "England. Championship",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Wrexham",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5851.gif"
-      },
-      {
-        "team_name": "Preston",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3909.gif"
-      }
-    ],
-    "streams": []
   },
   {
     "matchup": "Zimbabwe ZWE – South Africa ZAF",
@@ -425,6 +433,27 @@
     "streams": []
   },
   {
+    "matchup": "Morocco MAR – Zambia ZMB",
+    "event_url": "https://livetv.sx/enx/eventinfo/326891004__/",
+    "event_id": "326891004",
+    "date_time": "29 December at 18:30",
+    "competition": "Africa Cup of Nations",
+    "parsed_datetime": "2025-12-29T18:30:00",
+    "logo_alt": "Africa Cup of Nations",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Morocco MAR",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag122.gif"
+      },
+      {
+        "team_name": "Zambia ZMB",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag217.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Coventry City – Ipswich Town",
     "event_url": "https://livetv.sx/enx/eventinfo/326893965__/",
     "event_id": "326893965",
@@ -441,27 +470,6 @@
       {
         "team_name": "Ipswich Town",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4035.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Comoros COM – Mali MLI",
-    "event_url": "https://livetv.sx/enx/eventinfo/326902673__/",
-    "event_id": "326902673",
-    "date_time": "29 December at 20:00",
-    "competition": "Africa Cup of Nations",
-    "parsed_datetime": "2025-12-29T20:00:00",
-    "logo_alt": "Africa Cup of Nations",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Comoros COM",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag43.gif"
-      },
-      {
-        "team_name": "Mali MLI",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag130.gif"
       }
     ],
     "streams": []
@@ -488,48 +496,6 @@
     "streams": []
   },
   {
-    "matchup": "Zambia ZMB – Morocco MAR",
-    "event_url": "https://livetv.sx/enx/eventinfo/326902674__/",
-    "event_id": "326902674",
-    "date_time": "29 December at 20:00",
-    "competition": "Africa Cup of Nations",
-    "parsed_datetime": "2025-12-29T20:00:00",
-    "logo_alt": "Africa Cup of Nations",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Zambia ZMB",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag217.gif"
-      },
-      {
-        "team_name": "Morocco MAR",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag122.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Morocco MAR – Zambia ZMB",
-    "event_url": "https://livetv.sx/enx/eventinfo/326891004__/",
-    "event_id": "326891004",
-    "date_time": "29 December at 18:30",
-    "competition": "Africa Cup of Nations",
-    "parsed_datetime": "2025-12-29T18:30:00",
-    "logo_alt": "Africa Cup of Nations",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Morocco MAR",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag122.gif"
-      },
-      {
-        "team_name": "Zambia ZMB",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag217.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Al-Taawoun – Al-Najma",
     "event_url": "https://livetv.sx/enx/eventinfo/326892163__/",
     "event_id": "326892163",
@@ -546,6 +512,27 @@
       {
         "team_name": "Al-Najma",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/28981.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Plymouth Argyle – Wycombe",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910048__/",
+    "event_id": "326910048",
+    "date_time": "29 December at 20:45",
+    "competition": "England. League One",
+    "parsed_datetime": "2025-12-29T20:45:00",
+    "logo_alt": "England. League One",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Plymouth Argyle",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4053.gif"
+      },
+      {
+        "team_name": "Wycombe",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4033.gif"
       }
     ],
     "streams": []
@@ -593,169 +580,43 @@
     "streams": []
   },
   {
-    "matchup": "Burton Albion – Wigan Athletic",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910053__/",
-    "event_id": "326910053",
-    "date_time": "29 December at 20:45",
-    "competition": "England. League One",
-    "parsed_datetime": "2025-12-29T20:45:00",
-    "logo_alt": "England. League One",
+    "matchup": "Comoros COM – Mali MLI",
+    "event_url": "https://livetv.sx/enx/eventinfo/326902673__/",
+    "event_id": "326902673",
+    "date_time": "29 December at 20:00",
+    "competition": "Africa Cup of Nations",
+    "parsed_datetime": "2025-12-29T20:00:00",
+    "logo_alt": "Africa Cup of Nations",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Burton Albion",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36151.gif"
+        "team_name": "Comoros COM",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag43.gif"
       },
       {
-        "team_name": "Wigan Athletic",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3891.gif"
+        "team_name": "Mali MLI",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag130.gif"
       }
     ],
     "streams": []
   },
   {
-    "matchup": "Cardiff City – Stevenage",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910052__/",
-    "event_id": "326910052",
-    "date_time": "29 December at 20:45",
-    "competition": "England. League One",
-    "parsed_datetime": "2025-12-29T20:45:00",
-    "logo_alt": "England. League One",
+    "matchup": "Zambia ZMB – Morocco MAR",
+    "event_url": "https://livetv.sx/enx/eventinfo/326902674__/",
+    "event_id": "326902674",
+    "date_time": "29 December at 20:00",
+    "competition": "Africa Cup of Nations",
+    "parsed_datetime": "2025-12-29T20:00:00",
+    "logo_alt": "Africa Cup of Nations",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Cardiff City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34989.gif"
+        "team_name": "Zambia ZMB",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag217.gif"
       },
       {
-        "team_name": "Stevenage",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4074.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Peterborough United – Reading",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910049__/",
-    "event_id": "326910049",
-    "date_time": "29 December at 20:45",
-    "competition": "England. League One",
-    "parsed_datetime": "2025-12-29T20:45:00",
-    "logo_alt": "England. League One",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Peterborough United",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4031.gif"
-      },
-      {
-        "team_name": "Reading",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3910.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Plymouth Argyle – Wycombe",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910048__/",
-    "event_id": "326910048",
-    "date_time": "29 December at 20:45",
-    "competition": "England. League One",
-    "parsed_datetime": "2025-12-29T20:45:00",
-    "logo_alt": "England. League One",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Plymouth Argyle",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4053.gif"
-      },
-      {
-        "team_name": "Wycombe",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4033.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Bradford City – Port Vale",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910054__/",
-    "event_id": "326910054",
-    "date_time": "29 December at 20:45",
-    "competition": "England. League One",
-    "parsed_datetime": "2025-12-29T20:45:00",
-    "logo_alt": "England. League One",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Bradford City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4059.gif"
-      },
-      {
-        "team_name": "Port Vale",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4058.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Bolton Wanderers – Mansfield Town",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910055__/",
-    "event_id": "326910055",
-    "date_time": "29 December at 20:45",
-    "competition": "England. League One",
-    "parsed_datetime": "2025-12-29T20:45:00",
-    "logo_alt": "England. League One",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Bolton Wanderers",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4049.gif"
-      },
-      {
-        "team_name": "Mansfield Town",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4071.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Blackpool – Rotherham Utd",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910056__/",
-    "event_id": "326910056",
-    "date_time": "29 December at 20:45",
-    "competition": "England. League One",
-    "parsed_datetime": "2025-12-29T20:45:00",
-    "logo_alt": "England. League One",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Blackpool",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4038.gif"
-      },
-      {
-        "team_name": "Rotherham Utd",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34825.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "AFC Wimbledon – Exeter City",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910058__/",
-    "event_id": "326910058",
-    "date_time": "29 December at 20:45",
-    "competition": "England. League One",
-    "parsed_datetime": "2025-12-29T20:45:00",
-    "logo_alt": "England. League One",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "AFC Wimbledon",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25466.gif"
-      },
-      {
-        "team_name": "Exeter City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4054.gif"
+        "team_name": "Morocco MAR",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag122.gif"
       }
     ],
     "streams": []
@@ -782,9 +643,9 @@
     "streams": []
   },
   {
-    "matchup": "Barnsley – Lincoln City",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910057__/",
-    "event_id": "326910057",
+    "matchup": "Peterborough United – Reading",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910049__/",
+    "event_id": "326910049",
     "date_time": "29 December at 20:45",
     "competition": "England. League One",
     "parsed_datetime": "2025-12-29T20:45:00",
@@ -792,12 +653,33 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Barnsley",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3898.gif"
+        "team_name": "Peterborough United",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4031.gif"
       },
       {
-        "team_name": "Lincoln City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34823.gif"
+        "team_name": "Reading",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3910.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Bradford City – Port Vale",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910054__/",
+    "event_id": "326910054",
+    "date_time": "29 December at 20:45",
+    "competition": "England. League One",
+    "parsed_datetime": "2025-12-29T20:45:00",
+    "logo_alt": "England. League One",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Bradford City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4059.gif"
+      },
+      {
+        "team_name": "Port Vale",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4058.gif"
       }
     ],
     "streams": []
@@ -824,22 +706,43 @@
     "streams": []
   },
   {
-    "matchup": "Tranmere Rovers – Barrow",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910085__/",
-    "event_id": "326910085",
+    "matchup": "Burton Albion – Wigan Athletic",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910053__/",
+    "event_id": "326910053",
     "date_time": "29 December at 20:45",
-    "competition": "England. League Two",
+    "competition": "England. League One",
     "parsed_datetime": "2025-12-29T20:45:00",
-    "logo_alt": "England. League Two",
+    "logo_alt": "England. League One",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Tranmere Rovers",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30442.gif"
+        "team_name": "Burton Albion",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36151.gif"
       },
       {
-        "team_name": "Barrow",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5565.gif"
+        "team_name": "Wigan Athletic",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3891.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Bolton Wanderers – Mansfield Town",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910055__/",
+    "event_id": "326910055",
+    "date_time": "29 December at 20:45",
+    "competition": "England. League One",
+    "parsed_datetime": "2025-12-29T20:45:00",
+    "logo_alt": "England. League One",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Bolton Wanderers",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4049.gif"
+      },
+      {
+        "team_name": "Mansfield Town",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4071.gif"
       }
     ],
     "streams": []
@@ -861,6 +764,111 @@
       {
         "team_name": "Oldham Athletic",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33263.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Blackpool – Rotherham Utd",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910056__/",
+    "event_id": "326910056",
+    "date_time": "29 December at 20:45",
+    "competition": "England. League One",
+    "parsed_datetime": "2025-12-29T20:45:00",
+    "logo_alt": "England. League One",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Blackpool",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4038.gif"
+      },
+      {
+        "team_name": "Rotherham Utd",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34825.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Barnsley – Lincoln City",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910057__/",
+    "event_id": "326910057",
+    "date_time": "29 December at 20:45",
+    "competition": "England. League One",
+    "parsed_datetime": "2025-12-29T20:45:00",
+    "logo_alt": "England. League One",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Barnsley",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3898.gif"
+      },
+      {
+        "team_name": "Lincoln City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34823.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "AFC Wimbledon – Exeter City",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910058__/",
+    "event_id": "326910058",
+    "date_time": "29 December at 20:45",
+    "competition": "England. League One",
+    "parsed_datetime": "2025-12-29T20:45:00",
+    "logo_alt": "England. League One",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "AFC Wimbledon",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25466.gif"
+      },
+      {
+        "team_name": "Exeter City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4054.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Cardiff City – Stevenage",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910052__/",
+    "event_id": "326910052",
+    "date_time": "29 December at 20:45",
+    "competition": "England. League One",
+    "parsed_datetime": "2025-12-29T20:45:00",
+    "logo_alt": "England. League One",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Cardiff City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34989.gif"
+      },
+      {
+        "team_name": "Stevenage",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4074.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Tranmere Rovers – Barrow",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910085__/",
+    "event_id": "326910085",
+    "date_time": "29 December at 20:45",
+    "competition": "England. League Two",
+    "parsed_datetime": "2025-12-29T20:45:00",
+    "logo_alt": "England. League Two",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Tranmere Rovers",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30442.gif"
+      },
+      {
+        "team_name": "Barrow",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5565.gif"
       }
     ],
     "streams": []
@@ -929,27 +937,6 @@
     "streams": []
   },
   {
-    "matchup": "Crawley Town – Bromley",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910090__/",
-    "event_id": "326910090",
-    "date_time": "29 December at 20:45",
-    "competition": "England. League Two",
-    "parsed_datetime": "2025-12-29T20:45:00",
-    "logo_alt": "England. League Two",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Crawley Town",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4062.gif"
-      },
-      {
-        "team_name": "Bromley",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1022.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Gillingham – Colchester Utd",
     "event_url": "https://livetv.sx/enx/eventinfo/326910089__/",
     "event_id": "326910089",
@@ -992,9 +979,9 @@
     "streams": []
   },
   {
-    "matchup": "Cheltenham Town – Swindon",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910092__/",
-    "event_id": "326910092",
+    "matchup": "Crawley Town – Bromley",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910090__/",
+    "event_id": "326910090",
     "date_time": "29 December at 20:45",
     "competition": "England. League Two",
     "parsed_datetime": "2025-12-29T20:45:00",
@@ -1002,33 +989,12 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Cheltenham Town",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/24989.gif"
+        "team_name": "Crawley Town",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4062.gif"
       },
       {
-        "team_name": "Swindon",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4052.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Bristol Rovers – Barnet",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910093__/",
-    "event_id": "326910093",
-    "date_time": "29 December at 20:45",
-    "competition": "England. League Two",
-    "parsed_datetime": "2025-12-29T20:45:00",
-    "logo_alt": "England. League Two",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Bristol Rovers",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4039.gif"
-      },
-      {
-        "team_name": "Barnet",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5564.gif"
+        "team_name": "Bromley",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1022.gif"
       }
     ],
     "streams": []
@@ -1055,22 +1021,43 @@
     "streams": []
   },
   {
-    "matchup": "Wrexham – Preston",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910160__/",
-    "event_id": "326910160",
+    "matchup": "Bristol Rovers – Barnet",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910093__/",
+    "event_id": "326910093",
     "date_time": "29 December at 20:45",
-    "competition": "England. Championship",
+    "competition": "England. League Two",
     "parsed_datetime": "2025-12-29T20:45:00",
-    "logo_alt": "England. Championship",
+    "logo_alt": "England. League Two",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Wrexham",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5851.gif"
+        "team_name": "Bristol Rovers",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4039.gif"
       },
       {
-        "team_name": "Preston",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3909.gif"
+        "team_name": "Barnet",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5564.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Cheltenham Town – Swindon",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910092__/",
+    "event_id": "326910092",
+    "date_time": "29 December at 20:45",
+    "competition": "England. League Two",
+    "parsed_datetime": "2025-12-29T20:45:00",
+    "logo_alt": "England. League Two",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Cheltenham Town",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/24989.gif"
+      },
+      {
+        "team_name": "Swindon",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4052.gif"
       }
     ],
     "streams": []
@@ -1097,9 +1084,9 @@
     "streams": []
   },
   {
-    "matchup": "West Bromwich Albion – Queens Park Rangers",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910161__/",
-    "event_id": "326910161",
+    "matchup": "Wrexham – Preston",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910160__/",
+    "event_id": "326910160",
     "date_time": "29 December at 20:45",
     "competition": "England. Championship",
     "parsed_datetime": "2025-12-29T20:45:00",
@@ -1107,12 +1094,12 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "West Bromwich Albion",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3897.gif"
+        "team_name": "Wrexham",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5851.gif"
       },
       {
-        "team_name": "Queens Park Rangers",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3894.gif"
+        "team_name": "Preston",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3909.gif"
       }
     ],
     "streams": []
@@ -1139,6 +1126,27 @@
     "streams": []
   },
   {
+    "matchup": "West Bromwich Albion – Queens Park Rangers",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910161__/",
+    "event_id": "326910161",
+    "date_time": "29 December at 20:45",
+    "competition": "England. Championship",
+    "parsed_datetime": "2025-12-29T20:45:00",
+    "logo_alt": "England. Championship",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "West Bromwich Albion",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3897.gif"
+      },
+      {
+        "team_name": "Queens Park Rangers",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3894.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Sheffield Wednesday – Blackburn",
     "event_url": "https://livetv.sx/enx/eventinfo/326910163__/",
     "event_id": "326910163",
@@ -1155,27 +1163,6 @@
       {
         "team_name": "Blackburn",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3904.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Oxford Utd – Swansea City",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910165__/",
-    "event_id": "326910165",
-    "date_time": "29 December at 20:45",
-    "competition": "England. Championship",
-    "parsed_datetime": "2025-12-29T20:45:00",
-    "logo_alt": "England. Championship",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Oxford Utd",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4026.gif"
-      },
-      {
-        "team_name": "Swansea City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3896.gif"
       }
     ],
     "streams": []
@@ -1202,27 +1189,6 @@
     "streams": []
   },
   {
-    "matchup": "Norwich City – Watford",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910166__/",
-    "event_id": "326910166",
-    "date_time": "29 December at 20:45",
-    "competition": "England. Championship",
-    "parsed_datetime": "2025-12-29T20:45:00",
-    "logo_alt": "England. Championship",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Norwich City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/19081.gif"
-      },
-      {
-        "team_name": "Watford",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/150.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Millwall – Bristol City",
     "event_url": "https://livetv.sx/enx/eventinfo/326910167__/",
     "event_id": "326910167",
@@ -1244,22 +1210,43 @@
     "streams": []
   },
   {
-    "matchup": "Birmingham City – Southampton",
-    "event_url": "https://livetv.sx/enx/eventinfo/326914413__/",
-    "event_id": "326914413",
-    "date_time": "29 December at 21:15",
+    "matchup": "Norwich City – Watford",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910166__/",
+    "event_id": "326910166",
+    "date_time": "29 December at 20:45",
     "competition": "England. Championship",
-    "parsed_datetime": "2025-12-29T21:15:00",
+    "parsed_datetime": "2025-12-29T20:45:00",
     "logo_alt": "England. Championship",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Birmingham City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3899.gif"
+        "team_name": "Norwich City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/19081.gif"
       },
       {
-        "team_name": "Southampton",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/453.gif"
+        "team_name": "Watford",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/150.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Oxford Utd – Swansea City",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910165__/",
+    "event_id": "326910165",
+    "date_time": "29 December at 20:45",
+    "competition": "England. Championship",
+    "parsed_datetime": "2025-12-29T20:45:00",
+    "logo_alt": "England. Championship",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Oxford Utd",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4026.gif"
+      },
+      {
+        "team_name": "Swansea City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3896.gif"
       }
     ],
     "streams": []
@@ -1286,22 +1273,22 @@
     "streams": []
   },
   {
-    "matchup": "Leicester City – Derby County",
-    "event_url": "https://livetv.sx/enx/eventinfo/326910169__/",
-    "event_id": "326910169",
-    "date_time": "29 December at 20:45",
+    "matchup": "Birmingham City – Southampton",
+    "event_url": "https://livetv.sx/enx/eventinfo/326914413__/",
+    "event_id": "326914413",
+    "date_time": "29 December at 21:15",
     "competition": "England. Championship",
-    "parsed_datetime": "2025-12-29T20:45:00",
+    "parsed_datetime": "2025-12-29T21:15:00",
     "logo_alt": "England. Championship",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Leicester City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1109.gif"
+        "team_name": "Birmingham City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3899.gif"
       },
       {
-        "team_name": "Derby County",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3893.gif"
+        "team_name": "Southampton",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/453.gif"
       }
     ],
     "streams": []
@@ -1323,6 +1310,27 @@
       {
         "team_name": "AVS",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26892.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Leicester City – Derby County",
+    "event_url": "https://livetv.sx/enx/eventinfo/326910169__/",
+    "event_id": "326910169",
+    "date_time": "29 December at 20:45",
+    "competition": "England. Championship",
+    "parsed_datetime": "2025-12-29T20:45:00",
+    "logo_alt": "England. Championship",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Leicester City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1109.gif"
+      },
+      {
+        "team_name": "Derby County",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3893.gif"
       }
     ],
     "streams": []
