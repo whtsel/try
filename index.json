@@ -7,7 +7,7 @@
     "competition": "Africa Cup of Nations",
     "parsed_datetime": "2026-01-05T17:00:00",
     "logo_alt": "Africa Cup of Nations",
-    "is_live": true,
+    "is_live": false,
     "team_logos": [
       {
         "team_name": "Egypt EGY",
@@ -18,60 +18,71 @@
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag17.gif"
       }
     ],
+    "streams": []
+  },
+  {
+    "matchup": "Benfica B – Porto B",
+    "event_url": "https://livetv.sx/enx/eventinfo/328472987__/",
+    "event_id": "328472987",
+    "date_time": "5 January at 19:00",
+    "competition": "Portugal. Segunda Liga",
+    "parsed_datetime": "2026-01-05T19:00:00",
+    "logo_alt": "Portugal. Segunda Liga",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Benfica B",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1606.gif"
+      },
+      {
+        "team_name": "Porto B",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/2609.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920969&lang=en&eid=328472987&lid=2920969&ci=170&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2915172&lang=en&eid=328472987&lid=2915172&ci=170&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Montpellier – Dunkerque",
+    "event_url": "https://livetv.sx/enx/eventinfo/328490037__/",
+    "event_id": "328490037",
+    "date_time": "5 January at 20:45",
+    "competition": "France. Ligue 2",
+    "parsed_datetime": "2026-01-05T20:45:00",
+    "logo_alt": "France. Ligue 2",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Montpellier",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/133.gif"
+      },
+      {
+        "team_name": "Dunkerque",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34815.gif"
+      }
+    ],
     "streams": [
       {
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2666840&lang=en&eid=330050123&lid=2666840&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920700&lang=en&eid=330050123&lid=2920700&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920699&lang=en&eid=330050123&lid=2920699&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2917788&lang=en&eid=330050123&lid=2917788&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2915186&lang=en&eid=330050123&lid=2915186&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920836&lang=en&eid=330050123&lid=2920836&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920835&lang=en&eid=330050123&lid=2920835&ci=311&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2918418&lang=en&eid=328490037&lid=2918418&ci=32&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       },
@@ -79,7 +90,55 @@
         "language": "French",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2661161&lang=en&eid=330050123&lid=2661161&ci=311&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2678301&lang=en&eid=328490037&lid=2678301&ci=32&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2661235&lang=en&eid=328490037&lid=2661235&ci=32&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2921004&lang=en&eid=328490037&lid=2921004&ci=32&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920861&lang=en&eid=328490037&lid=2920861&ci=32&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920681&lang=en&eid=328490037&lid=2920681&ci=32&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920680&lang=en&eid=328490037&lid=2920680&ci=32&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2918901&lang=en&eid=328490037&lid=2918901&ci=32&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       }
@@ -172,6 +231,305 @@
     ]
   },
   {
+    "matchup": "Hapoel Kfar Shalem – Bnei Yehuda",
+    "event_url": "https://livetv.sx/enx/eventinfo/328464149__/",
+    "event_id": "328464149",
+    "date_time": "5 January at 18:00",
+    "competition": "Israel. Liga Leumit",
+    "parsed_datetime": "2026-01-05T18:00:00",
+    "logo_alt": "Israel. Liga Leumit",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Hapoel Kfar Shalem",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12558.gif"
+      },
+      {
+        "team_name": "Bnei Yehuda",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/498.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Hebrew",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/15.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920956&lang=en&eid=328464149&lid=2920956&ci=1457&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      }
+    ]
+  },
+  {
+    "matchup": "Nigeria NGA – Mozambique MOZ",
+    "event_url": "https://livetv.sx/enx/eventinfo/330240012__/",
+    "event_id": "330240012",
+    "date_time": "5 January at 20:00",
+    "competition": "Africa Cup of Nations",
+    "parsed_datetime": "2026-01-05T20:00:00",
+    "logo_alt": "Africa Cup of Nations",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Nigeria NGA",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag144.gif"
+      },
+      {
+        "team_name": "Mozambique MOZ",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag135.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2917788&lang=en&eid=330240012&lid=2917788&ci=311&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2918749&lang=en&eid=330240012&lid=2918749&ci=311&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2915186&lang=en&eid=330240012&lid=2915186&ci=311&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920835&lang=en&eid=330240012&lid=2920835&ci=311&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920993&lang=en&eid=330240012&lid=2920993&ci=311&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920994&lang=en&eid=330240012&lid=2920994&ci=311&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2921033&lang=en&eid=330240012&lid=2921033&ci=311&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2921035&lang=en&eid=330240012&lid=2921035&ci=311&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Triestina – Alcione",
+    "event_url": "https://livetv.sx/enx/eventinfo/328484269__/",
+    "event_id": "328484269",
+    "date_time": "5 January at 20:30",
+    "competition": "Italy. Serie C. Group A",
+    "parsed_datetime": "2026-01-05T20:30:00",
+    "logo_alt": "Italy. Serie C. Group A",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Triestina",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8727.gif"
+      },
+      {
+        "team_name": "Alcione",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33172.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2921003&lang=en&eid=328484269&lid=2921003&ci=1952&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      }
+    ]
+  },
+  {
+    "matchup": "Leicester City – West Bromwich Albion",
+    "event_url": "https://livetv.sx/enx/eventinfo/328488061__/",
+    "event_id": "328488061",
+    "date_time": "5 January at 21:00",
+    "competition": "England. Championship",
+    "parsed_datetime": "2026-01-05T21:00:00",
+    "logo_alt": "England. Championship",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Leicester City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1109.gif"
+      },
+      {
+        "team_name": "West Bromwich Albion",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3897.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Vizela – Torreense",
+    "event_url": "https://livetv.sx/enx/eventinfo/328494041__/",
+    "event_id": "328494041",
+    "date_time": "5 January at 21:15",
+    "competition": "Portugal. Segunda Liga",
+    "parsed_datetime": "2026-01-05T21:15:00",
+    "logo_alt": "Portugal. Segunda Liga",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Vizela",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8364.gif"
+      },
+      {
+        "team_name": "Torreense",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21717.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Hapoel Kfar Shalem – Bnei Yehuda",
+    "event_url": "https://livetv.sx/enx/eventinfo/328464149__/",
+    "event_id": "328464149",
+    "date_time": "5 January at 18:00",
+    "competition": "Israel. Liga Leumit",
+    "parsed_datetime": "2026-01-05T18:00:00",
+    "logo_alt": "Israel. Liga Leumit",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Hapoel Kfar Shalem",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12558.gif"
+      },
+      {
+        "team_name": "Bnei Yehuda",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/498.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Hebrew",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/15.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920956&lang=en&eid=328464149&lid=2920956&ci=1457&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      }
+    ]
+  },
+  {
+    "matchup": "Kiryat Yam – Nof HaGalil",
+    "event_url": "https://livetv.sx/enx/eventinfo/328464147__/",
+    "event_id": "328464147",
+    "date_time": "5 January at 18:00",
+    "competition": "Israel. Liga Leumit",
+    "parsed_datetime": "2026-01-05T18:00:00",
+    "logo_alt": "Israel. Liga Leumit",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Kiryat Yam",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32048.gif"
+      },
+      {
+        "team_name": "Nof HaGalil",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/2466.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Hebrew",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/15.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920958&lang=en&eid=328464147&lid=2920958&ci=1457&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      }
+    ]
+  },
+  {
+    "matchup": "Egypt EGY – Benin BEN",
+    "event_url": "https://livetv.sx/enx/eventinfo/330050123__/",
+    "event_id": "330050123",
+    "date_time": "5 January at 17:00",
+    "competition": "Africa Cup of Nations",
+    "parsed_datetime": "2026-01-05T17:00:00",
+    "logo_alt": "Africa Cup of Nations",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Egypt EGY",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag57.gif"
+      },
+      {
+        "team_name": "Benin BEN",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag17.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Ironi Modiin – Hapoel Hadera",
+    "event_url": "https://livetv.sx/enx/eventinfo/328464148__/",
+    "event_id": "328464148",
+    "date_time": "5 January at 18:00",
+    "competition": "Israel. Liga Leumit",
+    "parsed_datetime": "2026-01-05T18:00:00",
+    "logo_alt": "Israel. Liga Leumit",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Ironi Modiin",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/15919.gif"
+      },
+      {
+        "team_name": "Hapoel Hadera",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1160.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Hebrew",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/15.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920957&lang=en&eid=328464148&lid=2920957&ci=1457&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      }
+    ]
+  },
+  {
     "matchup": "Benfica B – Porto B",
     "event_url": "https://livetv.sx/enx/eventinfo/328472987__/",
     "event_id": "328472987",
@@ -206,6 +564,122 @@
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2915172&lang=en&eid=328472987&lid=2915172&ci=170&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Galatasaray – Trabzonspor",
+    "event_url": "https://livetv.sx/enx/eventinfo/328465687__/",
+    "event_id": "328465687",
+    "date_time": "5 January at 18:30",
+    "competition": "Turkey. Super Cup",
+    "parsed_datetime": "2026-01-05T18:30:00",
+    "logo_alt": "Turkey. Super Cup",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Galatasaray",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20957.gif"
+      },
+      {
+        "team_name": "Trabzonspor",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/561.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Turkish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2697238&lang=en&eid=328465687&lid=2697238&ci=153&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Turkish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920966&lang=en&eid=328465687&lid=2920966&ci=153&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2917782&lang=en&eid=328465687&lid=2917782&ci=153&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920175&lang=en&eid=328465687&lid=2920175&ci=153&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Turkish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920678&lang=en&eid=328465687&lid=2920678&ci=153&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Turkish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920677&lang=en&eid=328465687&lid=2920677&ci=153&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Turkish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920675&lang=en&eid=328465687&lid=2920675&ci=153&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Swedish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/22.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2918909&lang=en&eid=328465687&lid=2918909&ci=153&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Maccabi Haifa – Hapoel Haifa",
+    "event_url": "https://livetv.sx/enx/eventinfo/328475716__/",
+    "event_id": "328475716",
+    "date_time": "5 January at 19:30",
+    "competition": "Israel. Premier League",
+    "parsed_datetime": "2026-01-05T19:30:00",
+    "logo_alt": "Israel. Premier League",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Maccabi Haifa",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30139.gif"
+      },
+      {
+        "team_name": "Hapoel Haifa",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/882.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Hebrew",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/15.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920982&lang=en&eid=328475716&lid=2920982&ci=38&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
       }
     ]
   },
@@ -261,36 +735,6 @@
     ]
   },
   {
-    "matchup": "Maccabi Haifa – Hapoel Haifa",
-    "event_url": "https://livetv.sx/enx/eventinfo/328475716__/",
-    "event_id": "328475716",
-    "date_time": "5 January at 19:30",
-    "competition": "Israel. Premier League",
-    "parsed_datetime": "2026-01-05T19:30:00",
-    "logo_alt": "Israel. Premier League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Maccabi Haifa",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30139.gif"
-      },
-      {
-        "team_name": "Hapoel Haifa",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/882.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Hebrew",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/15.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920982&lang=en&eid=328475716&lid=2920982&ci=38&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      }
-    ]
-  },
-  {
     "matchup": "Nigeria NGA – Mozambique MOZ",
     "event_url": "https://livetv.sx/enx/eventinfo/330240012__/",
     "event_id": "330240012",
@@ -314,7 +758,23 @@
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2917788&lang=en&eid=330240012&lid=2917788&ci=311&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2918749&lang=en&eid=330240012&lid=2918749&ci=311&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2915186&lang=en&eid=330240012&lid=2915186&ci=311&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       },
@@ -327,20 +787,12 @@
         "stream_type": "Web"
       },
       {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2917788&lang=en&eid=330240012&lid=2917788&ci=311&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920993&lang=en&eid=330240012&lid=2920993&ci=311&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2915186&lang=en&eid=330240012&lid=2915186&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
+        "stream_type": "Voodc"
       },
       {
         "language": "",
@@ -354,15 +806,7 @@
         "language": "",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920993&lang=en&eid=330240012&lid=2920993&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2911881&lang=en&eid=330240012&lid=2911881&ci=311&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2921033&lang=en&eid=330240012&lid=2921033&ci=311&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       },
@@ -373,6 +817,96 @@
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2921035&lang=en&eid=330240012&lid=2921035&ci=311&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Maccabi Haifa – Hapoel Haifa",
+    "event_url": "https://livetv.sx/enx/eventinfo/328475716__/",
+    "event_id": "328475716",
+    "date_time": "5 January at 19:30",
+    "competition": "Israel. Premier League",
+    "parsed_datetime": "2026-01-05T19:30:00",
+    "logo_alt": "Israel. Premier League",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Maccabi Haifa",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30139.gif"
+      },
+      {
+        "team_name": "Hapoel Haifa",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/882.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Hebrew",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/15.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920982&lang=en&eid=328475716&lid=2920982&ci=38&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      }
+    ]
+  },
+  {
+    "matchup": "Triestina – Alcione",
+    "event_url": "https://livetv.sx/enx/eventinfo/328484269__/",
+    "event_id": "328484269",
+    "date_time": "5 January at 20:30",
+    "competition": "Italy. Serie C. Group A",
+    "parsed_datetime": "2026-01-05T20:30:00",
+    "logo_alt": "Italy. Serie C. Group A",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Triestina",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8727.gif"
+      },
+      {
+        "team_name": "Alcione",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33172.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2921003&lang=en&eid=328484269&lid=2921003&ci=1952&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      }
+    ]
+  },
+  {
+    "matchup": "Cosenza – Monopoli",
+    "event_url": "https://livetv.sx/enx/eventinfo/328484290__/",
+    "event_id": "328484290",
+    "date_time": "5 January at 20:30",
+    "competition": "Italy. Serie C. Group C",
+    "parsed_datetime": "2026-01-05T20:30:00",
+    "logo_alt": "Italy. Serie C. Group C",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Cosenza",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10390.gif"
+      },
+      {
+        "team_name": "Monopoli",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21660.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2921002&lang=en&eid=328484290&lid=2921002&ci=2322&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
       }
     ]
   },
@@ -407,399 +941,6 @@
     ]
   },
   {
-    "matchup": "Nigeria NGA – Mozambique MOZ",
-    "event_url": "https://livetv.sx/enx/eventinfo/330240012__/",
-    "event_id": "330240012",
-    "date_time": "5 January at 20:00",
-    "competition": "Africa Cup of Nations",
-    "parsed_datetime": "2026-01-05T20:00:00",
-    "logo_alt": "Africa Cup of Nations",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Nigeria NGA",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag144.gif"
-      },
-      {
-        "team_name": "Mozambique MOZ",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag135.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2918749&lang=en&eid=330240012&lid=2918749&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920835&lang=en&eid=330240012&lid=2920835&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2917788&lang=en&eid=330240012&lid=2917788&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2915186&lang=en&eid=330240012&lid=2915186&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920994&lang=en&eid=330240012&lid=2920994&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      },
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920993&lang=en&eid=330240012&lid=2920993&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2911881&lang=en&eid=330240012&lid=2911881&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2921035&lang=en&eid=330240012&lid=2921035&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Kiryat Yam – Nof HaGalil",
-    "event_url": "https://livetv.sx/enx/eventinfo/328464147__/",
-    "event_id": "328464147",
-    "date_time": "5 January at 18:00",
-    "competition": "Israel. Liga Leumit",
-    "parsed_datetime": "2026-01-05T18:00:00",
-    "logo_alt": "Israel. Liga Leumit",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Kiryat Yam",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32048.gif"
-      },
-      {
-        "team_name": "Nof HaGalil",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/2466.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Hebrew",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/15.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920958&lang=en&eid=328464147&lid=2920958&ci=1457&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      }
-    ]
-  },
-  {
-    "matchup": "Benfica B – Porto B",
-    "event_url": "https://livetv.sx/enx/eventinfo/328472987__/",
-    "event_id": "328472987",
-    "date_time": "5 January at 19:00",
-    "competition": "Portugal. Segunda Liga",
-    "parsed_datetime": "2026-01-05T19:00:00",
-    "logo_alt": "Portugal. Segunda Liga",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Benfica B",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1606.gif"
-      },
-      {
-        "team_name": "Porto B",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/2609.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920969&lang=en&eid=328472987&lid=2920969&ci=170&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2915172&lang=en&eid=328472987&lid=2915172&ci=170&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Galatasaray – Trabzonspor",
-    "event_url": "https://livetv.sx/enx/eventinfo/328465687__/",
-    "event_id": "328465687",
-    "date_time": "5 January at 18:30",
-    "competition": "Turkey. Super Cup",
-    "parsed_datetime": "2026-01-05T18:30:00",
-    "logo_alt": "Turkey. Super Cup",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Galatasaray",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20957.gif"
-      },
-      {
-        "team_name": "Trabzonspor",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/561.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Turkish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2697238&lang=en&eid=328465687&lid=2697238&ci=153&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Turkish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920966&lang=en&eid=328465687&lid=2920966&ci=153&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      },
-      {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2917782&lang=en&eid=328465687&lid=2917782&ci=153&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920175&lang=en&eid=328465687&lid=2920175&ci=153&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Turkish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920678&lang=en&eid=328465687&lid=2920678&ci=153&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Turkish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920677&lang=en&eid=328465687&lid=2920677&ci=153&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Turkish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920675&lang=en&eid=328465687&lid=2920675&ci=153&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Swedish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/22.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2918909&lang=en&eid=328465687&lid=2918909&ci=153&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Ironi Modiin – Hapoel Hadera",
-    "event_url": "https://livetv.sx/enx/eventinfo/328464148__/",
-    "event_id": "328464148",
-    "date_time": "5 January at 18:00",
-    "competition": "Israel. Liga Leumit",
-    "parsed_datetime": "2026-01-05T18:00:00",
-    "logo_alt": "Israel. Liga Leumit",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Ironi Modiin",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/15919.gif"
-      },
-      {
-        "team_name": "Hapoel Hadera",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1160.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Hebrew",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/15.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920957&lang=en&eid=328464148&lid=2920957&ci=1457&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      }
-    ]
-  },
-  {
-    "matchup": "Triestina – Alcione",
-    "event_url": "https://livetv.sx/enx/eventinfo/328484269__/",
-    "event_id": "328484269",
-    "date_time": "5 January at 20:30",
-    "competition": "Italy. Serie C. Group A",
-    "parsed_datetime": "2026-01-05T20:30:00",
-    "logo_alt": "Italy. Serie C. Group A",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Triestina",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8727.gif"
-      },
-      {
-        "team_name": "Alcione",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33172.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Vizela – Torreense",
-    "event_url": "https://livetv.sx/enx/eventinfo/328494041__/",
-    "event_id": "328494041",
-    "date_time": "5 January at 21:15",
-    "competition": "Portugal. Segunda Liga",
-    "parsed_datetime": "2026-01-05T21:15:00",
-    "logo_alt": "Portugal. Segunda Liga",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Vizela",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8364.gif"
-      },
-      {
-        "team_name": "Torreense",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21717.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Maccabi Haifa – Hapoel Haifa",
-    "event_url": "https://livetv.sx/enx/eventinfo/328475716__/",
-    "event_id": "328475716",
-    "date_time": "5 January at 19:30",
-    "competition": "Israel. Premier League",
-    "parsed_datetime": "2026-01-05T19:30:00",
-    "logo_alt": "Israel. Premier League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Maccabi Haifa",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30139.gif"
-      },
-      {
-        "team_name": "Hapoel Haifa",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/882.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Hebrew",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/15.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920982&lang=en&eid=328475716&lid=2920982&ci=38&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      }
-    ]
-  },
-  {
-    "matchup": "Montpellier – Dunkerque",
-    "event_url": "https://livetv.sx/enx/eventinfo/328490037__/",
-    "event_id": "328490037",
-    "date_time": "5 January at 20:45",
-    "competition": "France. Ligue 2",
-    "parsed_datetime": "2026-01-05T20:45:00",
-    "logo_alt": "France. Ligue 2",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Montpellier",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/133.gif"
-      },
-      {
-        "team_name": "Dunkerque",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34815.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Hapoel Kfar Shalem – Bnei Yehuda",
-    "event_url": "https://livetv.sx/enx/eventinfo/328464149__/",
-    "event_id": "328464149",
-    "date_time": "5 January at 18:00",
-    "competition": "Israel. Liga Leumit",
-    "parsed_datetime": "2026-01-05T18:00:00",
-    "logo_alt": "Israel. Liga Leumit",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Hapoel Kfar Shalem",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12558.gif"
-      },
-      {
-        "team_name": "Bnei Yehuda",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/498.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Hebrew",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/15.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920956&lang=en&eid=328464149&lid=2920956&ci=1457&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      }
-    ]
-  },
-  {
     "matchup": "Leicester City – West Bromwich Albion",
     "event_url": "https://livetv.sx/enx/eventinfo/328488061__/",
     "event_id": "328488061",
@@ -816,173 +957,6 @@
       {
         "team_name": "West Bromwich Albion",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3897.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Gasogi United – Al-Merreikh",
-    "event_url": "https://livetv.sx/enx/eventinfo/331387753__/",
-    "event_id": "331387753",
-    "date_time": "5 January at 17:30",
-    "competition": "Rwanda. Premier League",
-    "parsed_datetime": "2026-01-05T17:30:00",
-    "logo_alt": "Rwanda. Premier League",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Gasogi United",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10380.gif"
-      },
-      {
-        "team_name": "Al-Merreikh",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12142.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920694&lang=en&eid=331387753&lid=2920694&ci=2419&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Egypt EGY – Benin BEN",
-    "event_url": "https://livetv.sx/enx/eventinfo/330050123__/",
-    "event_id": "330050123",
-    "date_time": "5 January at 17:00",
-    "competition": "Africa Cup of Nations",
-    "parsed_datetime": "2026-01-05T17:00:00",
-    "logo_alt": "Africa Cup of Nations",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Egypt EGY",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag57.gif"
-      },
-      {
-        "team_name": "Benin BEN",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag17.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2666840&lang=en&eid=330050123&lid=2666840&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920700&lang=en&eid=330050123&lid=2920700&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920699&lang=en&eid=330050123&lid=2920699&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2917788&lang=en&eid=330050123&lid=2917788&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2915186&lang=en&eid=330050123&lid=2915186&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920836&lang=en&eid=330050123&lid=2920836&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920835&lang=en&eid=330050123&lid=2920835&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2661161&lang=en&eid=330050123&lid=2661161&ci=311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Hapoel Kfar Shalem – Bnei Yehuda",
-    "event_url": "https://livetv.sx/enx/eventinfo/328464149__/",
-    "event_id": "328464149",
-    "date_time": "5 January at 18:00",
-    "competition": "Israel. Liga Leumit",
-    "parsed_datetime": "2026-01-05T18:00:00",
-    "logo_alt": "Israel. Liga Leumit",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Hapoel Kfar Shalem",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12558.gif"
-      },
-      {
-        "team_name": "Bnei Yehuda",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/498.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Hebrew",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/15.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920956&lang=en&eid=328464149&lid=2920956&ci=1457&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      }
-    ]
-  },
-  {
-    "matchup": "Triestina – Alcione",
-    "event_url": "https://livetv.sx/enx/eventinfo/328484269__/",
-    "event_id": "328484269",
-    "date_time": "5 January at 20:30",
-    "competition": "Italy. Serie C. Group A",
-    "parsed_datetime": "2026-01-05T20:30:00",
-    "logo_alt": "Italy. Serie C. Group A",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Triestina",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8727.gif"
-      },
-      {
-        "team_name": "Alcione",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33172.gif"
       }
     ],
     "streams": []
@@ -1006,46 +980,34 @@
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9111.gif"
       }
     ],
-    "streams": []
-  },
-  {
-    "matchup": "Cosenza – Monopoli",
-    "event_url": "https://livetv.sx/enx/eventinfo/328484290__/",
-    "event_id": "328484290",
-    "date_time": "5 January at 20:30",
-    "competition": "Italy. Serie C. Group C",
-    "parsed_datetime": "2026-01-05T20:30:00",
-    "logo_alt": "Italy. Serie C. Group C",
-    "is_live": false,
-    "team_logos": [
+    "streams": [
       {
-        "team_name": "Cosenza",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10390.gif"
-      },
-      {
-        "team_name": "Monopoli",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21660.gif"
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2921001&lang=en&eid=328484291&lid=2921001&ci=2322&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
       }
-    ],
-    "streams": []
+    ]
   },
   {
-    "matchup": "Leicester City – West Bromwich Albion",
-    "event_url": "https://livetv.sx/enx/eventinfo/328488061__/",
-    "event_id": "328488061",
-    "date_time": "5 January at 21:00",
-    "competition": "England. Championship",
-    "parsed_datetime": "2026-01-05T21:00:00",
-    "logo_alt": "England. Championship",
+    "matchup": "Poland – Italy",
+    "event_url": "https://livetv.sx/enx/eventinfo/331417743_poland_italy/",
+    "event_id": "331417743",
+    "date_time": "5 January at 22:00",
+    "competition": "Friendly Tournament. National Teams",
+    "parsed_datetime": "2026-01-05T22:00:00",
+    "logo_alt": "Friendly Tournament. National Teams",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Leicester City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1109.gif"
+        "team_name": "Poland",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/70.gif"
       },
       {
-        "team_name": "West Bromwich Albion",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3897.gif"
+        "team_name": "Italy",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/64.gif"
       }
     ],
     "streams": []
@@ -1081,7 +1043,16 @@
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8734.gif"
       }
     ],
-    "streams": []
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2921000&lang=en&eid=328484292&lid=2921000&ci=2322&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      }
+    ]
   },
   {
     "matchup": "Montpellier – Dunkerque",
@@ -1100,6 +1071,92 @@
       {
         "team_name": "Dunkerque",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34815.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2918418&lang=en&eid=328490037&lid=2918418&ci=32&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2678301&lang=en&eid=328490037&lid=2678301&ci=32&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2661235&lang=en&eid=328490037&lid=2661235&ci=32&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2921004&lang=en&eid=328490037&lid=2921004&ci=32&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920861&lang=en&eid=328490037&lid=2920861&ci=32&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920681&lang=en&eid=328490037&lid=2920681&ci=32&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920680&lang=en&eid=328490037&lid=2920680&ci=32&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2918901&lang=en&eid=328490037&lid=2918901&ci=32&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Mirassol U-20 –  Linense U-20",
+    "event_url": "https://livetv.sx/enx/eventinfo/331197775__/",
+    "event_id": "331197775",
+    "date_time": "5 January at 22:30",
+    "competition": "Brazil. Sao Paulo Youth Cup",
+    "parsed_datetime": "2026-01-05T22:30:00",
+    "logo_alt": "Brazil. Sao Paulo Youth Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Mirassol U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33509.gif"
+      },
+      {
+        "team_name": "Linense U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9796.gif"
       }
     ],
     "streams": []
@@ -1126,48 +1183,6 @@
     "streams": []
   },
   {
-    "matchup": "Poland – Italy",
-    "event_url": "https://livetv.sx/enx/eventinfo/331417743_poland_italy/",
-    "event_id": "331417743",
-    "date_time": "5 January at 22:00",
-    "competition": "Friendly Tournament. National Teams",
-    "parsed_datetime": "2026-01-05T22:00:00",
-    "logo_alt": "Friendly Tournament. National Teams",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Poland",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/70.gif"
-      },
-      {
-        "team_name": "Italy",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/64.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Colombia – Netherlands",
-    "event_url": "https://livetv.sx/enx/eventinfo/331417744_colombia_netherlands/",
-    "event_id": "331417744",
-    "date_time": "5 January at 23:00",
-    "competition": "Friendly Tournament. National Teams",
-    "parsed_datetime": "2026-01-05T23:00:00",
-    "logo_alt": "Friendly Tournament. National Teams",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Colombia",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/1223.gif"
-      },
-      {
-        "team_name": "Netherlands",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/6028.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Vizela – Torreense",
     "event_url": "https://livetv.sx/enx/eventinfo/328494041__/",
     "event_id": "328494041",
@@ -1189,22 +1204,22 @@
     "streams": []
   },
   {
-    "matchup": "Votuporanguense U-20 –  Falcon U-20",
-    "event_url": "https://livetv.sx/enx/eventinfo/331239883__/",
-    "event_id": "331239883",
-    "date_time": "5 January at 22:15",
-    "competition": "Brazil. Sao Paulo Youth Cup",
-    "parsed_datetime": "2026-01-05T22:15:00",
-    "logo_alt": "Brazil. Sao Paulo Youth Cup",
+    "matchup": "Colombia – Netherlands",
+    "event_url": "https://livetv.sx/enx/eventinfo/331417744_colombia_netherlands/",
+    "event_id": "331417744",
+    "date_time": "5 January at 23:00",
+    "competition": "Friendly Tournament. National Teams",
+    "parsed_datetime": "2026-01-05T23:00:00",
+    "logo_alt": "Friendly Tournament. National Teams",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Votuporanguense U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16644.gif"
+        "team_name": "Colombia",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/1223.gif"
       },
       {
-        "team_name": "Falcon U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25204.gif"
+        "team_name": "Netherlands",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/6028.gif"
       }
     ],
     "streams": []
@@ -1252,22 +1267,22 @@
     "streams": []
   },
   {
-    "matchup": "Mirassol U-20 –  Linense U-20",
-    "event_url": "https://livetv.sx/enx/eventinfo/331197775__/",
-    "event_id": "331197775",
-    "date_time": "5 January at 22:30",
+    "matchup": "Votuporanguense U-20 –  Falcon U-20",
+    "event_url": "https://livetv.sx/enx/eventinfo/331239883__/",
+    "event_id": "331239883",
+    "date_time": "5 January at 22:15",
     "competition": "Brazil. Sao Paulo Youth Cup",
-    "parsed_datetime": "2026-01-05T22:30:00",
+    "parsed_datetime": "2026-01-05T22:15:00",
     "logo_alt": "Brazil. Sao Paulo Youth Cup",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Mirassol U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33509.gif"
+        "team_name": "Votuporanguense U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16644.gif"
       },
       {
-        "team_name": "Linense U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9796.gif"
+        "team_name": "Falcon U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25204.gif"
       }
     ],
     "streams": []
