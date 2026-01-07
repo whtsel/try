@@ -51,6 +51,18 @@
     ]
   },
   {
+    "matchup": "Simulcast",
+    "event_url": "https://livetv.sx/enx/eventinfo/331438872_simulcast/",
+    "event_id": "331438872",
+    "date_time": "7 January at 20:30",
+    "competition": "England. Premier League",
+    "parsed_datetime": "2026-01-07T20:30:00",
+    "logo_alt": "England. Premier League",
+    "is_live": false,
+    "team_logos": [],
+    "streams": []
+  },
+  {
     "matchup": "Maritimo (W) – Valadares Gaia (W)",
     "event_url": "https://livetv.sx/enx/eventinfo/331930679_maritimo_w_valadares_gaia_w/",
     "event_id": "331930679",
@@ -70,18 +82,6 @@
         "stream_type": "Voodc"
       }
     ]
-  },
-  {
-    "matchup": "Simulcast",
-    "event_url": "https://livetv.sx/enx/eventinfo/331438872_simulcast/",
-    "event_id": "331438872",
-    "date_time": "7 January at 20:30",
-    "competition": "England. Premier League",
-    "parsed_datetime": "2026-01-07T20:30:00",
-    "logo_alt": "England. Premier League",
-    "is_live": false,
-    "team_logos": [],
-    "streams": []
   },
   {
     "matchup": "Manchester City – Brighton",
@@ -105,9 +105,102 @@
     "streams": []
   },
   {
-    "matchup": "Fulham – Chelsea",
-    "event_url": "https://livetv.sx/enx/eventinfo/328841221__/",
-    "event_id": "328841221",
+    "matchup": "Kalba – Al Wasl",
+    "event_url": "https://livetv.sx/enx/eventinfo/328796847__/",
+    "event_id": "328796847",
+    "date_time": "7 January at 14:00",
+    "competition": "UAE. Pro League",
+    "parsed_datetime": "2026-01-07T14:00:00",
+    "logo_alt": "UAE. Pro League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Kalba",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/31770.gif"
+      },
+      {
+        "team_name": "Al Wasl",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9189.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "CSE U-20 –  Inter-RS U-20",
+    "event_url": "https://livetv.sx/enx/eventinfo/331722603__/",
+    "event_id": "331722603",
+    "date_time": "7 January at 15:00",
+    "competition": "Brazil. Sao Paulo Youth Cup",
+    "parsed_datetime": "2026-01-07T15:00:00",
+    "logo_alt": "Brazil. Sao Paulo Youth Cup",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "CSE U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/22938.gif"
+      },
+      {
+        "team_name": "Inter-RS U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9012.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Burnley – Manchester Utd",
+    "event_url": "https://livetv.sx/enx/eventinfo/328848561__/",
+    "event_id": "328848561",
+    "date_time": "7 January at 21:15",
+    "competition": "England. Premier League",
+    "parsed_datetime": "2026-01-07T21:15:00",
+    "logo_alt": "England. Premier League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Burnley",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33045.gif"
+      },
+      {
+        "team_name": "Manchester Utd",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/139.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "St Gallen – Anderlecht",
+    "event_url": "https://livetv.sx/enx/eventinfo/331930578__/",
+    "event_id": "331930578",
+    "date_time": "7 January at 14:30",
+    "competition": "Friendly Match",
+    "parsed_datetime": "2026-01-07T14:30:00",
+    "logo_alt": "Friendly Match",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "St Gallen",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/91.gif"
+      },
+      {
+        "team_name": "Anderlecht",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/463.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/18.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2922445&lang=en&eid=331930578&lid=2922445&ci=5&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Bournemouth – Tottenham",
+    "event_url": "https://livetv.sx/enx/eventinfo/328841225__/",
+    "event_id": "328841225",
     "date_time": "7 January at 20:30",
     "competition": "England. Premier League",
     "parsed_datetime": "2026-01-07T20:30:00",
@@ -115,12 +208,12 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Fulham",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/148.gif"
+        "team_name": "Bournemouth",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/460.gif"
       },
       {
-        "team_name": "Chelsea",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/140.gif"
+        "team_name": "Tottenham",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8962.gif"
       }
     ],
     "streams": []
@@ -147,22 +240,43 @@
     "streams": []
   },
   {
-    "matchup": "Burnley – Manchester Utd",
-    "event_url": "https://livetv.sx/enx/eventinfo/328848561__/",
-    "event_id": "328848561",
-    "date_time": "7 January at 21:15",
+    "matchup": "Everton – Wolverhampton",
+    "event_url": "https://livetv.sx/enx/eventinfo/328841222__/",
+    "event_id": "328841222",
+    "date_time": "7 January at 20:30",
     "competition": "England. Premier League",
-    "parsed_datetime": "2026-01-07T21:15:00",
+    "parsed_datetime": "2026-01-07T20:30:00",
     "logo_alt": "England. Premier League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Burnley",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33045.gif"
+        "team_name": "Everton",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8087.gif"
       },
       {
-        "team_name": "Manchester Utd",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/139.gif"
+        "team_name": "Wolverhampton",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/452.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Brentford – Sunderland",
+    "event_url": "https://livetv.sx/enx/eventinfo/328841224__/",
+    "event_id": "328841224",
+    "date_time": "7 January at 20:30",
+    "competition": "England. Premier League",
+    "parsed_datetime": "2026-01-07T20:30:00",
+    "logo_alt": "England. Premier League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Brentford",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3908.gif"
+      },
+      {
+        "team_name": "Sunderland",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4032.gif"
       }
     ],
     "streams": []
@@ -246,39 +360,9 @@
     ]
   },
   {
-    "matchup": "St Gallen – Anderlecht",
-    "event_url": "https://livetv.sx/enx/eventinfo/331930578__/",
-    "event_id": "331930578",
-    "date_time": "7 January at 14:30",
-    "competition": "Friendly Match",
-    "parsed_datetime": "2026-01-07T14:30:00",
-    "logo_alt": "Friendly Match",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "St Gallen",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/91.gif"
-      },
-      {
-        "team_name": "Anderlecht",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/463.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/18.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2922445&lang=en&eid=331930578&lid=2922445&ci=5&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Brentford – Sunderland",
-    "event_url": "https://livetv.sx/enx/eventinfo/328841224__/",
-    "event_id": "328841224",
+    "matchup": "Fulham – Chelsea",
+    "event_url": "https://livetv.sx/enx/eventinfo/328841221__/",
+    "event_id": "328841221",
     "date_time": "7 January at 20:30",
     "competition": "England. Premier League",
     "parsed_datetime": "2026-01-07T20:30:00",
@@ -286,58 +370,20 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Brentford",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3908.gif"
+        "team_name": "Fulham",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/148.gif"
       },
       {
-        "team_name": "Sunderland",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4032.gif"
+        "team_name": "Chelsea",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/140.gif"
       }
     ],
     "streams": []
   },
   {
-    "matchup": "Kalba – Al Wasl",
-    "event_url": "https://livetv.sx/enx/eventinfo/328796847__/",
-    "event_id": "328796847",
-    "date_time": "7 January at 14:00",
-    "competition": "UAE. Pro League",
-    "parsed_datetime": "2026-01-07T14:00:00",
-    "logo_alt": "UAE. Pro League",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Kalba",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/31770.gif"
-      },
-      {
-        "team_name": "Al Wasl",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9189.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Arabic",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/5.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2922434&lang=en&eid=328796847&lid=2922434&ci=379&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      },
-      {
-        "language": "Arabic",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/5.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2922173&lang=en&eid=328796847&lid=2922173&ci=379&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Bournemouth – Tottenham",
-    "event_url": "https://livetv.sx/enx/eventinfo/328841225__/",
-    "event_id": "328841225",
+    "matchup": "Crystal Palace – Aston Villa",
+    "event_url": "https://livetv.sx/enx/eventinfo/328841223__/",
+    "event_id": "328841223",
     "date_time": "7 January at 20:30",
     "competition": "England. Premier League",
     "parsed_datetime": "2026-01-07T20:30:00",
@@ -345,33 +391,12 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Bournemouth",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/460.gif"
+        "team_name": "Crystal Palace",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1111.gif"
       },
       {
-        "team_name": "Tottenham",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8962.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Everton – Wolverhampton",
-    "event_url": "https://livetv.sx/enx/eventinfo/328841222__/",
-    "event_id": "328841222",
-    "date_time": "7 January at 20:30",
-    "competition": "England. Premier League",
-    "parsed_datetime": "2026-01-07T20:30:00",
-    "logo_alt": "England. Premier League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Everton",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8087.gif"
-      },
-      {
-        "team_name": "Wolverhampton",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/452.gif"
+        "team_name": "Aston Villa",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/31245.gif"
       }
     ],
     "streams": []
@@ -405,48 +430,6 @@
         "stream_type": "Voodc"
       }
     ]
-  },
-  {
-    "matchup": "CSE U-20 –  Inter-RS U-20",
-    "event_url": "https://livetv.sx/enx/eventinfo/331722603__/",
-    "event_id": "331722603",
-    "date_time": "7 January at 15:00",
-    "competition": "Brazil. Sao Paulo Youth Cup",
-    "parsed_datetime": "2026-01-07T15:00:00",
-    "logo_alt": "Brazil. Sao Paulo Youth Cup",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "CSE U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/22938.gif"
-      },
-      {
-        "team_name": "Inter-RS U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9012.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Crystal Palace – Aston Villa",
-    "event_url": "https://livetv.sx/enx/eventinfo/328841223__/",
-    "event_id": "328841223",
-    "date_time": "7 January at 20:30",
-    "competition": "England. Premier League",
-    "parsed_datetime": "2026-01-07T20:30:00",
-    "logo_alt": "England. Premier League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Crystal Palace",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1111.gif"
-      },
-      {
-        "team_name": "Aston Villa",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/31245.gif"
-      }
-    ],
-    "streams": []
   },
   {
     "matchup": "Al-Ahli Doha – Al-Shamal",
@@ -486,7 +469,7 @@
     "competition": "Cyprus. Cup",
     "parsed_datetime": "2026-01-07T16:00:00",
     "logo_alt": "Cyprus. Cup",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Ethnikos Achna",
@@ -516,7 +499,7 @@
     "competition": "Greece. Cup",
     "parsed_datetime": "2026-01-07T16:00:00",
     "logo_alt": "Greece. Cup",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "OFI",
@@ -595,27 +578,6 @@
     ]
   },
   {
-    "matchup": "Itaquaquecetuba U-20 –  Novorizontino U-20",
-    "event_url": "https://livetv.sx/enx/eventinfo/331710989__/",
-    "event_id": "331710989",
-    "date_time": "7 January at 17:00",
-    "competition": "Brazil. Sao Paulo Youth Cup",
-    "parsed_datetime": "2026-01-07T17:00:00",
-    "logo_alt": "Brazil. Sao Paulo Youth Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Itaquaquecetuba U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/0.gif"
-      },
-      {
-        "team_name": "Novorizontino U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16627.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Al Bataeh – Shabab Al Ahli",
     "event_url": "https://livetv.sx/enx/eventinfo/328816382__/",
     "event_id": "328816382",
@@ -662,6 +624,36 @@
     ]
   },
   {
+    "matchup": "Itaquaquecetuba U-20 –  Novorizontino U-20",
+    "event_url": "https://livetv.sx/enx/eventinfo/331710989__/",
+    "event_id": "331710989",
+    "date_time": "7 January at 17:00",
+    "competition": "Brazil. Sao Paulo Youth Cup",
+    "parsed_datetime": "2026-01-07T17:00:00",
+    "logo_alt": "Brazil. Sao Paulo Youth Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Itaquaquecetuba U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/0.gif"
+      },
+      {
+        "team_name": "Novorizontino U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16627.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=hineCsezkgU&lang=en&eid=331710989&lid=2922410&ci=851&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
+  },
+  {
     "matchup": "Ibrachina U-20 –  Santo Andre U-20",
     "event_url": "https://livetv.sx/enx/eventinfo/331722602__/",
     "event_id": "331722602",
@@ -680,7 +672,16 @@
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16039.gif"
       }
     ],
-    "streams": []
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=DO5p_r2iBaQ&lang=en&eid=331722602&lid=2922411&ci=851&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
   },
   {
     "matchup": "Uniao Mogi U-20 –  Centro Olimpico U-20",
@@ -701,70 +702,16 @@
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/0.gif"
       }
     ],
-    "streams": []
-  },
-  {
-    "matchup": "Comercial Tiete U-20 –  XV de Piracicaba U-20",
-    "event_url": "https://livetv.sx/enx/eventinfo/331699574__/",
-    "event_id": "331699574",
-    "date_time": "7 January at 17:00",
-    "competition": "Brazil. Sao Paulo Youth Cup",
-    "parsed_datetime": "2026-01-07T17:00:00",
-    "logo_alt": "Brazil. Sao Paulo Youth Cup",
-    "is_live": false,
-    "team_logos": [
+    "streams": [
       {
-        "team_name": "Comercial Tiete U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26362.gif"
-      },
-      {
-        "team_name": "XV de Piracicaba U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9757.gif"
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=QZYqsAW83qY&lang=en&eid=331710990&lid=2922408&ci=851&si=1",
+        "stream_title": "",
+        "stream_type": ""
       }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Guaratingueta U-20 –  Sao Jose U-20",
-    "event_url": "https://livetv.sx/enx/eventinfo/331722605__/",
-    "event_id": "331722605",
-    "date_time": "7 January at 17:00",
-    "competition": "Brazil. Sao Paulo Youth Cup",
-    "parsed_datetime": "2026-01-07T17:00:00",
-    "logo_alt": "Brazil. Sao Paulo Youth Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Guaratingueta U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26447.gif"
-      },
-      {
-        "team_name": "Sao Jose U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4006.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Cosmopolitano U-20 –  RB Bragantino U-20",
-    "event_url": "https://livetv.sx/enx/eventinfo/331722607__/",
-    "event_id": "331722607",
-    "date_time": "7 January at 17:00",
-    "competition": "Brazil. Sao Paulo Youth Cup",
-    "parsed_datetime": "2026-01-07T17:00:00",
-    "logo_alt": "Brazil. Sao Paulo Youth Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Cosmopolitano U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/29696.gif"
-      },
-      {
-        "team_name": "RB Bragantino U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9231.gif"
-      }
-    ],
-    "streams": []
+    ]
   },
   {
     "matchup": "Referencia U-20 –  Ituano U-20",
@@ -783,6 +730,60 @@
       {
         "team_name": "Ituano U-20",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16047.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=aQ5PnuPmQFg&lang=en&eid=331722604&lid=2922407&ci=851&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
+  },
+  {
+    "matchup": "Ivinhema U20 – Real SC U20",
+    "event_url": "https://livetv.sx/enx/eventinfo/331935766_ivinhema_u20_real_sc_u20/",
+    "event_id": "331935766",
+    "date_time": "7 January at 19:15",
+    "competition": "Brazil. Sao Paulo Youth Cup",
+    "parsed_datetime": "2026-01-07T19:15:00",
+    "logo_alt": "Brazil. Sao Paulo Youth Cup",
+    "is_live": false,
+    "team_logos": [],
+    "streams": []
+  },
+  {
+    "matchup": "Sao Luis MA U20 – Figueirense U20",
+    "event_url": "https://livetv.sx/enx/eventinfo/331935767_sao_luis_ma_u20_figueirense_u20/",
+    "event_id": "331935767",
+    "date_time": "7 January at 19:15",
+    "competition": "Brazil. Sao Paulo Youth Cup",
+    "parsed_datetime": "2026-01-07T19:15:00",
+    "logo_alt": "Brazil. Sao Paulo Youth Cup",
+    "is_live": false,
+    "team_logos": [],
+    "streams": []
+  },
+  {
+    "matchup": "Ferroviaria U-20 –  America Rio de Janeiro U-20",
+    "event_url": "https://livetv.sx/enx/eventinfo/331722612__/",
+    "event_id": "331722612",
+    "date_time": "7 January at 18:00",
+    "competition": "Brazil. Sao Paulo Youth Cup",
+    "parsed_datetime": "2026-01-07T18:00:00",
+    "logo_alt": "Brazil. Sao Paulo Youth Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Ferroviaria U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9987.gif"
+      },
+      {
+        "team_name": "America Rio de Janeiro U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8770.gif"
       }
     ],
     "streams": []
@@ -809,15 +810,105 @@
     "streams": []
   },
   {
-    "matchup": "Ivinhema U20 – Real SC U20",
-    "event_url": "https://livetv.sx/enx/eventinfo/331935766_ivinhema_u20_real_sc_u20/",
-    "event_id": "331935766",
-    "date_time": "7 January at 19:15",
+    "matchup": "Al-Wakrah – Al-Arabi Doha",
+    "event_url": "https://livetv.sx/enx/eventinfo/328819217__/",
+    "event_id": "328819217",
+    "date_time": "7 January at 17:30",
+    "competition": "Qatar. Stars League",
+    "parsed_datetime": "2026-01-07T17:30:00",
+    "logo_alt": "Qatar. Stars League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Wakrah",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6725.gif"
+      },
+      {
+        "team_name": "Al-Arabi Doha",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6616.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Cosmopolitano U-20 –  RB Bragantino U-20",
+    "event_url": "https://livetv.sx/enx/eventinfo/331722607__/",
+    "event_id": "331722607",
+    "date_time": "7 January at 17:00",
     "competition": "Brazil. Sao Paulo Youth Cup",
-    "parsed_datetime": "2026-01-07T19:15:00",
+    "parsed_datetime": "2026-01-07T17:00:00",
     "logo_alt": "Brazil. Sao Paulo Youth Cup",
     "is_live": false,
-    "team_logos": [],
+    "team_logos": [
+      {
+        "team_name": "Cosmopolitano U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/29696.gif"
+      },
+      {
+        "team_name": "RB Bragantino U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9231.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=Lpu1sgMu--w&lang=en&eid=331722607&lid=2922405&ci=851&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
+  },
+  {
+    "matchup": "Comercial Tiete U-20 –  XV de Piracicaba U-20",
+    "event_url": "https://livetv.sx/enx/eventinfo/331699574__/",
+    "event_id": "331699574",
+    "date_time": "7 January at 17:00",
+    "competition": "Brazil. Sao Paulo Youth Cup",
+    "parsed_datetime": "2026-01-07T17:00:00",
+    "logo_alt": "Brazil. Sao Paulo Youth Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Comercial Tiete U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26362.gif"
+      },
+      {
+        "team_name": "XV de Piracicaba U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9757.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=9GDjhieNNMw&lang=en&eid=331699574&lid=2922409&ci=851&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
+  },
+  {
+    "matchup": "Independiente U-20 –  Sao Paolo U-20",
+    "event_url": "https://livetv.sx/enx/eventinfo/331787414__/",
+    "event_id": "331787414",
+    "date_time": "7 January at 19:00",
+    "competition": "Brazil. Sao Paulo Youth Cup",
+    "parsed_datetime": "2026-01-07T19:00:00",
+    "logo_alt": "Brazil. Sao Paulo Youth Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Independiente U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34242.gif"
+      },
+      {
+        "team_name": "Sao Paolo U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9014.gif"
+      }
+    ],
     "streams": []
   },
   {
@@ -842,6 +933,48 @@
     "streams": []
   },
   {
+    "matchup": "Guaratingueta U-20 –  Sao Jose U-20",
+    "event_url": "https://livetv.sx/enx/eventinfo/331722605__/",
+    "event_id": "331722605",
+    "date_time": "7 January at 17:00",
+    "competition": "Brazil. Sao Paulo Youth Cup",
+    "parsed_datetime": "2026-01-07T17:00:00",
+    "logo_alt": "Brazil. Sao Paulo Youth Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Guaratingueta U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26447.gif"
+      },
+      {
+        "team_name": "Sao Jose U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4006.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=-B2JOvcUqc0&lang=en&eid=331722605&lid=2922406&ci=851&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
+  },
+  {
+    "matchup": "SE Juventude U20 – Nautiko Kapibaribe do 20",
+    "event_url": "https://livetv.sx/enx/eventinfo/331935768_se_juventude_u20_nautiko_kapibaribe_do_20/",
+    "event_id": "331935768",
+    "date_time": "7 January at 19:15",
+    "competition": "Brazil. Sao Paulo Youth Cup",
+    "parsed_datetime": "2026-01-07T19:15:00",
+    "logo_alt": "Brazil. Sao Paulo Youth Cup",
+    "is_live": false,
+    "team_logos": [],
+    "streams": []
+  },
+  {
     "matchup": "Napoli – Hellas Verona",
     "event_url": "https://livetv.sx/enx/eventinfo/328826673__/",
     "event_id": "328826673",
@@ -860,93 +993,6 @@
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5774.gif"
       }
     ],
-    "streams": []
-  },
-  {
-    "matchup": "Al-Wakrah – Al-Arabi Doha",
-    "event_url": "https://livetv.sx/enx/eventinfo/328819217__/",
-    "event_id": "328819217",
-    "date_time": "7 January at 17:30",
-    "competition": "Qatar. Stars League",
-    "parsed_datetime": "2026-01-07T17:30:00",
-    "logo_alt": "Qatar. Stars League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Al-Wakrah",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6725.gif"
-      },
-      {
-        "team_name": "Al-Arabi Doha",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6616.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "SE Juventude U20 – Nautiko Kapibaribe do 20",
-    "event_url": "https://livetv.sx/enx/eventinfo/331935768_se_juventude_u20_nautiko_kapibaribe_do_20/",
-    "event_id": "331935768",
-    "date_time": "7 January at 19:15",
-    "competition": "Brazil. Sao Paulo Youth Cup",
-    "parsed_datetime": "2026-01-07T19:15:00",
-    "logo_alt": "Brazil. Sao Paulo Youth Cup",
-    "is_live": false,
-    "team_logos": [],
-    "streams": []
-  },
-  {
-    "matchup": "Independiente U-20 –  Sao Paolo U-20",
-    "event_url": "https://livetv.sx/enx/eventinfo/331787414__/",
-    "event_id": "331787414",
-    "date_time": "7 January at 19:00",
-    "competition": "Brazil. Sao Paulo Youth Cup",
-    "parsed_datetime": "2026-01-07T19:00:00",
-    "logo_alt": "Brazil. Sao Paulo Youth Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Independiente U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34242.gif"
-      },
-      {
-        "team_name": "Sao Paolo U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9014.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Ferroviaria U-20 –  America Rio de Janeiro U-20",
-    "event_url": "https://livetv.sx/enx/eventinfo/331722612__/",
-    "event_id": "331722612",
-    "date_time": "7 January at 18:00",
-    "competition": "Brazil. Sao Paulo Youth Cup",
-    "parsed_datetime": "2026-01-07T18:00:00",
-    "logo_alt": "Brazil. Sao Paulo Youth Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Ferroviaria U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9987.gif"
-      },
-      {
-        "team_name": "America Rio de Janeiro U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8770.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Sao Luis MA U20 – Figueirense U20",
-    "event_url": "https://livetv.sx/enx/eventinfo/331935767_sao_luis_ma_u20_figueirense_u20/",
-    "event_id": "331935767",
-    "date_time": "7 January at 19:15",
-    "competition": "Brazil. Sao Paulo Youth Cup",
-    "parsed_datetime": "2026-01-07T19:15:00",
-    "logo_alt": "Brazil. Sao Paulo Youth Cup",
-    "is_live": false,
-    "team_logos": [],
     "streams": []
   },
   {
@@ -1013,27 +1059,6 @@
     "streams": []
   },
   {
-    "matchup": "Confianca PB U-20 –  Fortaleza U-20",
-    "event_url": "https://livetv.sx/enx/eventinfo/331747784__/",
-    "event_id": "331747784",
-    "date_time": "7 January at 19:15",
-    "competition": "Brazil. Sao Paulo Youth Cup",
-    "parsed_datetime": "2026-01-07T19:15:00",
-    "logo_alt": "Brazil. Sao Paulo Youth Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Confianca PB U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/18888.gif"
-      },
-      {
-        "team_name": "Fortaleza U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12140.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Operario FEC U-20 –  Vila Nova U-20",
     "event_url": "https://livetv.sx/enx/eventinfo/331728809__/",
     "event_id": "331728809",
@@ -1076,6 +1101,27 @@
     "streams": []
   },
   {
+    "matchup": "Confianca PB U-20 –  Fortaleza U-20",
+    "event_url": "https://livetv.sx/enx/eventinfo/331747784__/",
+    "event_id": "331747784",
+    "date_time": "7 January at 19:15",
+    "competition": "Brazil. Sao Paulo Youth Cup",
+    "parsed_datetime": "2026-01-07T19:15:00",
+    "logo_alt": "Brazil. Sao Paulo Youth Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Confianca PB U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/18888.gif"
+      },
+      {
+        "team_name": "Fortaleza U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12140.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Barcelona – Athletic Bilbao",
     "event_url": "https://livetv.sx/enx/eventinfo/328837926__/",
     "event_id": "328837926",
@@ -1092,27 +1138,6 @@
       {
         "team_name": "Athletic Bilbao",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/44.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Everton – Wolverhampton",
-    "event_url": "https://livetv.sx/enx/eventinfo/328841222__/",
-    "event_id": "328841222",
-    "date_time": "7 January at 20:30",
-    "competition": "England. Premier League",
-    "parsed_datetime": "2026-01-07T20:30:00",
-    "logo_alt": "England. Premier League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Everton",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8087.gif"
-      },
-      {
-        "team_name": "Wolverhampton",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/452.gif"
       }
     ],
     "streams": []
@@ -1193,6 +1218,27 @@
     "streams": []
   },
   {
+    "matchup": "Everton – Wolverhampton",
+    "event_url": "https://livetv.sx/enx/eventinfo/328841222__/",
+    "event_id": "328841222",
+    "date_time": "7 January at 20:30",
+    "competition": "England. Premier League",
+    "parsed_datetime": "2026-01-07T20:30:00",
+    "logo_alt": "England. Premier League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Everton",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8087.gif"
+      },
+      {
+        "team_name": "Wolverhampton",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/452.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Crystal Palace – Aston Villa",
     "event_url": "https://livetv.sx/enx/eventinfo/328841223__/",
     "event_id": "328841223",
@@ -1209,6 +1255,27 @@
       {
         "team_name": "Aston Villa",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/31245.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Benfica – Braga",
+    "event_url": "https://livetv.sx/enx/eventinfo/328846510__/",
+    "event_id": "328846510",
+    "date_time": "7 January at 21:00",
+    "competition": "Portugal. League Cup",
+    "parsed_datetime": "2026-01-07T21:00:00",
+    "logo_alt": "Portugal. League Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Benfica",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/344.gif"
+      },
+      {
+        "team_name": "Braga",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3775.gif"
       }
     ],
     "streams": []
@@ -1256,48 +1323,6 @@
     "streams": []
   },
   {
-    "matchup": "Bournemouth – Tottenham",
-    "event_url": "https://livetv.sx/enx/eventinfo/328841225__/",
-    "event_id": "328841225",
-    "date_time": "7 January at 20:30",
-    "competition": "England. Premier League",
-    "parsed_datetime": "2026-01-07T20:30:00",
-    "logo_alt": "England. Premier League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Bournemouth",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/460.gif"
-      },
-      {
-        "team_name": "Tottenham",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8962.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Benfica – Braga",
-    "event_url": "https://livetv.sx/enx/eventinfo/328846510__/",
-    "event_id": "328846510",
-    "date_time": "7 January at 21:00",
-    "competition": "Portugal. League Cup",
-    "parsed_datetime": "2026-01-07T21:00:00",
-    "logo_alt": "Portugal. League Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Benfica",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/344.gif"
-      },
-      {
-        "team_name": "Braga",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3775.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Torino – Udinese",
     "event_url": "https://livetv.sx/enx/eventinfo/328845492__/",
     "event_id": "328845492",
@@ -1314,48 +1339,6 @@
       {
         "team_name": "Udinese",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/61.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Lazio – Fiorentina",
-    "event_url": "https://livetv.sx/enx/eventinfo/328845494__/",
-    "event_id": "328845494",
-    "date_time": "7 January at 20:45",
-    "competition": "Italy. Serie A",
-    "parsed_datetime": "2026-01-07T20:45:00",
-    "logo_alt": "Italy. Serie A",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Lazio",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3763.gif"
-      },
-      {
-        "team_name": "Fiorentina",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21748.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Argentina – Japan",
-    "event_url": "https://livetv.sx/enx/eventinfo/331417748_argentina_japan/",
-    "event_id": "331417748",
-    "date_time": "7 January at 23:00",
-    "competition": "Friendly Tournament. National Teams",
-    "parsed_datetime": "2026-01-07T23:00:00",
-    "logo_alt": "Friendly Tournament. National Teams",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Argentina",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/1139.gif"
-      },
-      {
-        "team_name": "Japan",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/103.gif"
       }
     ],
     "streams": []
@@ -1382,6 +1365,27 @@
     "streams": []
   },
   {
+    "matchup": "Bournemouth – Tottenham",
+    "event_url": "https://livetv.sx/enx/eventinfo/328841225__/",
+    "event_id": "328841225",
+    "date_time": "7 January at 20:30",
+    "competition": "England. Premier League",
+    "parsed_datetime": "2026-01-07T20:30:00",
+    "logo_alt": "England. Premier League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Bournemouth",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/460.gif"
+      },
+      {
+        "team_name": "Tottenham",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8962.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Chile – Morocco",
     "event_url": "https://livetv.sx/enx/eventinfo/331417747_chile_morocco/",
     "event_id": "331417747",
@@ -1403,9 +1407,9 @@
     "streams": []
   },
   {
-    "matchup": "Burnley – Manchester Utd",
-    "event_url": "https://livetv.sx/enx/eventinfo/328848561__/",
-    "event_id": "328848561",
+    "matchup": "Newcastle United – Leeds Utd",
+    "event_url": "https://livetv.sx/enx/eventinfo/328848560__/",
+    "event_id": "328848560",
     "date_time": "7 January at 21:15",
     "competition": "England. Premier League",
     "parsed_datetime": "2026-01-07T21:15:00",
@@ -1413,33 +1417,12 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Burnley",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33045.gif"
+        "team_name": "Newcastle United",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/145.gif"
       },
       {
-        "team_name": "Manchester Utd",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/139.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Londrina – Operario FEC",
-    "event_url": "https://livetv.sx/enx/eventinfo/328859308__/",
-    "event_id": "328859308",
-    "date_time": "7 January at 23:00",
-    "competition": "Brazil. Campeonato Paranaense",
-    "parsed_datetime": "2026-01-07T23:00:00",
-    "logo_alt": "Brazil. Campeonato Paranaense",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Londrina",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1103.gif"
-      },
-      {
-        "team_name": "Operario FEC",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6281.gif"
+        "team_name": "Leeds Utd",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8992.gif"
       }
     ],
     "streams": []
@@ -1466,9 +1449,9 @@
     "streams": []
   },
   {
-    "matchup": "Newcastle United – Leeds Utd",
-    "event_url": "https://livetv.sx/enx/eventinfo/328848560__/",
-    "event_id": "328848560",
+    "matchup": "Burnley – Manchester Utd",
+    "event_url": "https://livetv.sx/enx/eventinfo/328848561__/",
+    "event_id": "328848561",
     "date_time": "7 January at 21:15",
     "competition": "England. Premier League",
     "parsed_datetime": "2026-01-07T21:15:00",
@@ -1476,12 +1459,75 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Newcastle United",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/145.gif"
+        "team_name": "Burnley",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33045.gif"
       },
       {
-        "team_name": "Leeds Utd",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8992.gif"
+        "team_name": "Manchester Utd",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/139.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Argentina – Japan",
+    "event_url": "https://livetv.sx/enx/eventinfo/331417748_argentina_japan/",
+    "event_id": "331417748",
+    "date_time": "7 January at 23:00",
+    "competition": "Friendly Tournament. National Teams",
+    "parsed_datetime": "2026-01-07T23:00:00",
+    "logo_alt": "Friendly Tournament. National Teams",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Argentina",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/1139.gif"
+      },
+      {
+        "team_name": "Japan",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/103.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Londrina – Operario FEC",
+    "event_url": "https://livetv.sx/enx/eventinfo/328859308__/",
+    "event_id": "328859308",
+    "date_time": "7 January at 23:00",
+    "competition": "Brazil. Campeonato Paranaense",
+    "parsed_datetime": "2026-01-07T23:00:00",
+    "logo_alt": "Brazil. Campeonato Paranaense",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Londrina",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1103.gif"
+      },
+      {
+        "team_name": "Operario FEC",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6281.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Lazio – Fiorentina",
+    "event_url": "https://livetv.sx/enx/eventinfo/328845494__/",
+    "event_id": "328845494",
+    "date_time": "7 January at 20:45",
+    "competition": "Italy. Serie A",
+    "parsed_datetime": "2026-01-07T20:45:00",
+    "logo_alt": "Italy. Serie A",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Lazio",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3763.gif"
+      },
+      {
+        "team_name": "Fiorentina",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21748.gif"
       }
     ],
     "streams": []
