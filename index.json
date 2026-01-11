@@ -7,7 +7,7 @@
     "competition": "Italy. Serie A",
     "parsed_datetime": "2026-01-11T20:45:00",
     "logo_alt": "Italy. Serie A",
-    "is_live": true,
+    "is_live": false,
     "team_logos": [
       {
         "team_name": "Inter",
@@ -18,68 +18,205 @@
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36752.gif"
       }
     ],
+    "streams": []
+  },
+  {
+    "matchup": "Torreense – UD Leiria",
+    "event_url": "https://livetv.sx/enx/eventinfo/330365075__/",
+    "event_id": "330365075",
+    "date_time": "11 January at 21:15",
+    "competition": "Portugal. Cup",
+    "parsed_datetime": "2026-01-11T21:15:00",
+    "logo_alt": "Portugal. Cup",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Torreense",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21717.gif"
+      },
+      {
+        "team_name": "UD Leiria",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33336.gif"
+      }
+    ],
     "streams": [
       {
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245198&lang=en&eid=329599659&lid=2926785&ci=11&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2925657&lang=en&eid=330365075&lid=2925657&ci=76&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926395&lang=en&eid=330365075&lid=2926395&ci=76&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Serbian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245324&lang=en&eid=330365075&lid=2912118&ci=76&si=1",
         "stream_title": "",
         "stream_type": ""
       },
       {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245760&lang=en&eid=329599659&lid=2914689&ci=11&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245379&lang=en&eid=330365075&lid=2912337&ci=76&si=1",
         "stream_title": "",
         "stream_type": ""
       },
       {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926653&lang=en&eid=330365075&lid=2926653&ci=76&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      },
+      {
+        "language": "Serbian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924561&lang=en&eid=330365075&lid=2924561&ci=76&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2925726&lang=en&eid=330365075&lid=2925726&ci=76&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924958&lang=en&eid=330365075&lid=2924958&ci=76&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Flamengo-RJ – Portuguesa-RJ",
+    "event_url": "https://livetv.sx/enx/eventinfo/332149004__/",
+    "event_id": "332149004",
+    "date_time": "11 January at 22:00",
+    "competition": "Brazil. Campeonato Carioca",
+    "parsed_datetime": "2026-01-11T22:00:00",
+    "logo_alt": "Brazil. Campeonato Carioca",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Flamengo-RJ",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/252.gif"
+      },
+      {
+        "team_name": "Portuguesa-RJ",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5334.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926657&lang=en&eid=332149004&lid=2926657&ci=30&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      }
+    ]
+  },
+  {
+    "matchup": "Torreense – UD Leiria",
+    "event_url": "https://livetv.sx/enx/eventinfo/330365075__/",
+    "event_id": "330365075",
+    "date_time": "11 January at 21:15",
+    "competition": "Portugal. Cup",
+    "parsed_datetime": "2026-01-11T21:15:00",
+    "logo_alt": "Portugal. Cup",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Torreense",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21717.gif"
+      },
+      {
+        "team_name": "UD Leiria",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33336.gif"
+      }
+    ],
+    "streams": [
+      {
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=241801&lang=en&eid=329599659&lid=2819132&ci=11&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2925657&lang=en&eid=330365075&lid=2925657&ci=76&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926395&lang=en&eid=330365075&lid=2926395&ci=76&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Serbian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245324&lang=en&eid=330365075&lid=2912118&ci=76&si=1",
         "stream_title": "",
         "stream_type": ""
       },
       {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2666640&lang=en&eid=329599659&lid=2666640&ci=11&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245379&lang=en&eid=330365075&lid=2912337&ci=76&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926653&lang=en&eid=330365075&lid=2926653&ci=76&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      },
+      {
+        "language": "Serbian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924561&lang=en&eid=330365075&lid=2924561&ci=76&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       },
       {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2925692&lang=en&eid=329599659&lid=2925692&ci=11&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2925726&lang=en&eid=330365075&lid=2925726&ci=76&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       },
       {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2857047&lang=en&eid=329599659&lid=2857047&ci=11&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2915156&lang=en&eid=329599659&lid=2915156&ci=11&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924115&lang=en&eid=329599659&lid=2924115&ci=11&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924958&lang=en&eid=330365075&lid=2924958&ci=76&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       }
@@ -110,6 +247,87 @@
         "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
         "bitrate": "Bit Rate (Kbps)",
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926751&lang=en&eid=333290803&lid=2926751&ci=343&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      }
+    ]
+  },
+  {
+    "matchup": "Santa Cruz – Decisao",
+    "event_url": "https://livetv.sx/enx/eventinfo/331402918__/",
+    "event_id": "331402918",
+    "date_time": "11 January at 21:00",
+    "competition": "Brazil. Campeonato Pernambucano",
+    "parsed_datetime": "2026-01-11T21:00:00",
+    "logo_alt": "Brazil. Campeonato Pernambucano",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Santa Cruz",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6269.gif"
+      },
+      {
+        "team_name": "Decisao",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6608.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Velo Clube – Botafogo-SP",
+    "event_url": "https://livetv.sx/enx/eventinfo/329599091__/",
+    "event_id": "329599091",
+    "date_time": "11 January at 21:00",
+    "competition": "Brazil. Campeonato Paulista",
+    "parsed_datetime": "2026-01-11T21:00:00",
+    "logo_alt": "Brazil. Campeonato Paulista",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Velo Clube",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9496.gif"
+      },
+      {
+        "team_name": "Botafogo-SP",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26546.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926701&lang=en&eid=329599091&lid=2926701&ci=18&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      }
+    ]
+  },
+  {
+    "matchup": "Inter-RS – Novo Hamburgo",
+    "event_url": "https://livetv.sx/enx/eventinfo/333287549__/",
+    "event_id": "333287549",
+    "date_time": "11 January at 22:00",
+    "competition": "Brazil. Campeonato Gaucho",
+    "parsed_datetime": "2026-01-11T22:00:00",
+    "logo_alt": "Brazil. Campeonato Gaucho",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Inter-RS",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1073.gif"
+      },
+      {
+        "team_name": "Novo Hamburgo",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6291.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926696&lang=en&eid=333287549&lid=2926696&ci=318&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Voodc"
       }
@@ -202,167 +420,73 @@
     ]
   },
   {
-    "matchup": "Atletico Pantoja – OM",
-    "event_url": "https://livetv.sx/enx/eventinfo/332972455__/",
-    "event_id": "332972455",
-    "date_time": "11 January at 20:30",
-    "competition": "Dominican Republic. LDF",
-    "parsed_datetime": "2026-01-11T20:30:00",
-    "logo_alt": "Dominican Republic. LDF",
+    "matchup": "Sao Jose-PA – Inter SM",
+    "event_url": "https://livetv.sx/enx/eventinfo/333287550__/",
+    "event_id": "333287550",
+    "date_time": "11 January at 23:00",
+    "competition": "Brazil. Campeonato Gaucho",
+    "parsed_datetime": "2026-01-11T23:00:00",
+    "logo_alt": "Brazil. Campeonato Gaucho",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Atletico Pantoja",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/13478.gif"
+        "team_name": "Sao Jose-PA",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6340.gif"
       },
       {
-        "team_name": "OM",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/14666.gif"
+        "team_name": "Inter SM",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34835.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926697&lang=en&eid=333287550&lid=2926697&ci=318&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      }
+    ]
+  },
+  {
+    "matchup": "Pineto – Guidonia Montecelio",
+    "event_url": "https://livetv.sx/enx/eventinfo/329567762__/",
+    "event_id": "329567762",
+    "date_time": "11 January at 20:30",
+    "competition": "Italy. Serie C. Group B",
+    "parsed_datetime": "2026-01-11T20:30:00",
+    "logo_alt": "Italy. Serie C. Group B",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Pineto",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8750.gif"
+      },
+      {
+        "team_name": "Guidonia Montecelio",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/31495.gif"
       }
     ],
     "streams": []
   },
   {
-    "matchup": "Torreense – UD Leiria",
-    "event_url": "https://livetv.sx/enx/eventinfo/330365075__/",
-    "event_id": "330365075",
-    "date_time": "11 January at 21:15",
-    "competition": "Portugal. Cup",
-    "parsed_datetime": "2026-01-11T21:15:00",
-    "logo_alt": "Portugal. Cup",
-    "is_live": true,
+    "matchup": "Inter – Napoli",
+    "event_url": "https://livetv.sx/enx/eventinfo/329599659__/",
+    "event_id": "329599659",
+    "date_time": "11 January at 20:45",
+    "competition": "Italy. Serie A",
+    "parsed_datetime": "2026-01-11T20:45:00",
+    "logo_alt": "Italy. Serie A",
+    "is_live": false,
     "team_logos": [
       {
-        "team_name": "Torreense",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21717.gif"
+        "team_name": "Inter",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26888.gif"
       },
       {
-        "team_name": "UD Leiria",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33336.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2925657&lang=en&eid=330365075&lid=2925657&ci=76&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926395&lang=en&eid=330365075&lid=2926395&ci=76&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Serbian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245324&lang=en&eid=330365075&lid=2912118&ci=76&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245379&lang=en&eid=330365075&lid=2912337&ci=76&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926653&lang=en&eid=330365075&lid=2926653&ci=76&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      },
-      {
-        "language": "Serbian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924561&lang=en&eid=330365075&lid=2924561&ci=76&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2925726&lang=en&eid=330365075&lid=2925726&ci=76&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924958&lang=en&eid=330365075&lid=2924958&ci=76&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "UD Santarem – Atletico",
-    "event_url": "https://livetv.sx/enx/eventinfo/329601154__/",
-    "event_id": "329601154",
-    "date_time": "11 January at 21:00",
-    "competition": "Portugal. Liga 3",
-    "parsed_datetime": "2026-01-11T21:00:00",
-    "logo_alt": "Portugal. Liga 3",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "UD Santarem",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/11912.gif"
-      },
-      {
-        "team_name": "Atletico",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25353.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245475&lang=en&eid=329601154&lid=2912763&ci=4411&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926781&lang=en&eid=329601154&lid=2926781&ci=4411&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Santa Cruz – Decisao",
-    "event_url": "https://livetv.sx/enx/eventinfo/331402918__/",
-    "event_id": "331402918",
-    "date_time": "11 January at 21:00",
-    "competition": "Brazil. Campeonato Pernambucano",
-    "parsed_datetime": "2026-01-11T21:00:00",
-    "logo_alt": "Brazil. Campeonato Pernambucano",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Santa Cruz",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6269.gif"
-      },
-      {
-        "team_name": "Decisao",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6608.gif"
+        "team_name": "Napoli",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36752.gif"
       }
     ],
     "streams": []
@@ -406,142 +530,6 @@
     ]
   },
   {
-    "matchup": "Inter-RS – Novo Hamburgo",
-    "event_url": "https://livetv.sx/enx/eventinfo/333287549__/",
-    "event_id": "333287549",
-    "date_time": "11 January at 22:00",
-    "competition": "Brazil. Campeonato Gaucho",
-    "parsed_datetime": "2026-01-11T22:00:00",
-    "logo_alt": "Brazil. Campeonato Gaucho",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Inter-RS",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1073.gif"
-      },
-      {
-        "team_name": "Novo Hamburgo",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6291.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926696&lang=en&eid=333287549&lid=2926696&ci=318&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      }
-    ]
-  },
-  {
-    "matchup": "Sao Jose-PA – Inter SM",
-    "event_url": "https://livetv.sx/enx/eventinfo/333287550__/",
-    "event_id": "333287550",
-    "date_time": "11 January at 23:00",
-    "competition": "Brazil. Campeonato Gaucho",
-    "parsed_datetime": "2026-01-11T23:00:00",
-    "logo_alt": "Brazil. Campeonato Gaucho",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Sao Jose-PA",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6340.gif"
-      },
-      {
-        "team_name": "Inter SM",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34835.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926697&lang=en&eid=333287550&lid=2926697&ci=318&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      }
-    ]
-  },
-  {
-    "matchup": "Pineto – Guidonia Montecelio",
-    "event_url": "https://livetv.sx/enx/eventinfo/329567762__/",
-    "event_id": "329567762",
-    "date_time": "11 January at 20:30",
-    "competition": "Italy. Serie C. Group B",
-    "parsed_datetime": "2026-01-11T20:30:00",
-    "logo_alt": "Italy. Serie C. Group B",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Pineto",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8750.gif"
-      },
-      {
-        "team_name": "Guidonia Montecelio",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/31495.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Italian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/12.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245335&lang=en&eid=329567762&lid=2912124&ci=2321&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Italian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/12.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926621&lang=en&eid=329567762&lid=2926621&ci=2321&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      },
-      {
-        "language": "Italian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/12.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2925686&lang=en&eid=329567762&lid=2925686&ci=2321&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Velo Clube – Botafogo-SP",
-    "event_url": "https://livetv.sx/enx/eventinfo/329599091__/",
-    "event_id": "329599091",
-    "date_time": "11 January at 21:00",
-    "competition": "Brazil. Campeonato Paulista",
-    "parsed_datetime": "2026-01-11T21:00:00",
-    "logo_alt": "Brazil. Campeonato Paulista",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Velo Clube",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9496.gif"
-      },
-      {
-        "team_name": "Botafogo-SP",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26546.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926701&lang=en&eid=329599091&lid=2926701&ci=18&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      }
-    ]
-  },
-  {
     "matchup": "UD Santarem – Atletico",
     "event_url": "https://livetv.sx/enx/eventinfo/329601154__/",
     "event_id": "329601154",
@@ -580,32 +568,40 @@
     ]
   },
   {
-    "matchup": "Flamengo-RJ – Portuguesa-RJ",
-    "event_url": "https://livetv.sx/enx/eventinfo/332149004__/",
-    "event_id": "332149004",
-    "date_time": "11 January at 22:00",
-    "competition": "Brazil. Campeonato Carioca",
-    "parsed_datetime": "2026-01-11T22:00:00",
-    "logo_alt": "Brazil. Campeonato Carioca",
+    "matchup": "UD Santarem – Atletico",
+    "event_url": "https://livetv.sx/enx/eventinfo/329601154__/",
+    "event_id": "329601154",
+    "date_time": "11 January at 21:00",
+    "competition": "Portugal. Liga 3",
+    "parsed_datetime": "2026-01-11T21:00:00",
+    "logo_alt": "Portugal. Liga 3",
     "is_live": true,
     "team_logos": [
       {
-        "team_name": "Flamengo-RJ",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/252.gif"
+        "team_name": "UD Santarem",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/11912.gif"
       },
       {
-        "team_name": "Portuguesa-RJ",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5334.gif"
+        "team_name": "Atletico",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25353.gif"
       }
     ],
     "streams": [
       {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245475&lang=en&eid=329601154&lid=2912763&ci=4411&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
         "language": "",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926657&lang=en&eid=332149004&lid=2926657&ci=30&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926781&lang=en&eid=329601154&lid=2926781&ci=4411&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
+        "stream_type": "Web"
       }
     ]
   },
@@ -692,178 +688,6 @@
         "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245338&lang=en&eid=329946336&lid=2912127&ci=74&si=1",
         "stream_title": "",
         "stream_type": ""
-      }
-    ]
-  },
-  {
-    "matchup": "Inter – Napoli",
-    "event_url": "https://livetv.sx/enx/eventinfo/329599659__/",
-    "event_id": "329599659",
-    "date_time": "11 January at 20:45",
-    "competition": "Italy. Serie A",
-    "parsed_datetime": "2026-01-11T20:45:00",
-    "logo_alt": "Italy. Serie A",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Inter",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26888.gif"
-      },
-      {
-        "team_name": "Napoli",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36752.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245198&lang=en&eid=329599659&lid=2926785&ci=11&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245760&lang=en&eid=329599659&lid=2914689&ci=11&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=241801&lang=en&eid=329599659&lid=2819132&ci=11&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2666640&lang=en&eid=329599659&lid=2666640&ci=11&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2925692&lang=en&eid=329599659&lid=2925692&ci=11&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2857047&lang=en&eid=329599659&lid=2857047&ci=11&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2915156&lang=en&eid=329599659&lid=2915156&ci=11&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924115&lang=en&eid=329599659&lid=2924115&ci=11&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Torreense – UD Leiria",
-    "event_url": "https://livetv.sx/enx/eventinfo/330365075__/",
-    "event_id": "330365075",
-    "date_time": "11 January at 21:15",
-    "competition": "Portugal. Cup",
-    "parsed_datetime": "2026-01-11T21:15:00",
-    "logo_alt": "Portugal. Cup",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Torreense",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21717.gif"
-      },
-      {
-        "team_name": "UD Leiria",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33336.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2925657&lang=en&eid=330365075&lid=2925657&ci=76&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926395&lang=en&eid=330365075&lid=2926395&ci=76&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Serbian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245324&lang=en&eid=330365075&lid=2912118&ci=76&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245379&lang=en&eid=330365075&lid=2912337&ci=76&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926653&lang=en&eid=330365075&lid=2926653&ci=76&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      },
-      {
-        "language": "Serbian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924561&lang=en&eid=330365075&lid=2924561&ci=76&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2925726&lang=en&eid=330365075&lid=2925726&ci=76&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924958&lang=en&eid=330365075&lid=2924958&ci=76&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
       }
     ]
   },
@@ -936,36 +760,6 @@
     ]
   },
   {
-    "matchup": "Atletico-MG – Betim",
-    "event_url": "https://livetv.sx/enx/eventinfo/333290802__/",
-    "event_id": "333290802",
-    "date_time": "11 January at 22:00",
-    "competition": "Brazil. Campeonato Mineiro",
-    "parsed_datetime": "2026-01-11T22:00:00",
-    "logo_alt": "Brazil. Campeonato Mineiro",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Atletico-MG",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/432.gif"
-      },
-      {
-        "team_name": "Betim",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26295.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926752&lang=en&eid=333290802&lid=2926752&ci=343&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      }
-    ]
-  },
-  {
     "matchup": "Brazil – Peru",
     "event_url": "https://livetv.sx/enx/eventinfo/331417753_brazil_peru/",
     "event_id": "331417753",
@@ -996,22 +790,22 @@
     ]
   },
   {
-    "matchup": "Inter-RS – Novo Hamburgo",
-    "event_url": "https://livetv.sx/enx/eventinfo/333287549__/",
-    "event_id": "333287549",
+    "matchup": "Atletico-MG – Betim",
+    "event_url": "https://livetv.sx/enx/eventinfo/333290802__/",
+    "event_id": "333290802",
     "date_time": "11 January at 22:00",
-    "competition": "Brazil. Campeonato Gaucho",
+    "competition": "Brazil. Campeonato Mineiro",
     "parsed_datetime": "2026-01-11T22:00:00",
-    "logo_alt": "Brazil. Campeonato Gaucho",
+    "logo_alt": "Brazil. Campeonato Mineiro",
     "is_live": true,
     "team_logos": [
       {
-        "team_name": "Inter-RS",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1073.gif"
+        "team_name": "Atletico-MG",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/432.gif"
       },
       {
-        "team_name": "Novo Hamburgo",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6291.gif"
+        "team_name": "Betim",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26295.gif"
       }
     ],
     "streams": [
@@ -1019,7 +813,7 @@
         "language": "",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926696&lang=en&eid=333287549&lid=2926696&ci=318&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926752&lang=en&eid=333290802&lid=2926752&ci=343&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Voodc"
       }
@@ -1060,6 +854,74 @@
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2925645&lang=en&eid=329618123&lid=2925645&ci=18&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Inter-RS – Novo Hamburgo",
+    "event_url": "https://livetv.sx/enx/eventinfo/333287549__/",
+    "event_id": "333287549",
+    "date_time": "11 January at 22:00",
+    "competition": "Brazil. Campeonato Gaucho",
+    "parsed_datetime": "2026-01-11T22:00:00",
+    "logo_alt": "Brazil. Campeonato Gaucho",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Inter-RS",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1073.gif"
+      },
+      {
+        "team_name": "Novo Hamburgo",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6291.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926696&lang=en&eid=333287549&lid=2926696&ci=318&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      }
+    ]
+  },
+  {
+    "matchup": "Galo Maringa – Cascavel",
+    "event_url": "https://livetv.sx/enx/eventinfo/329618116__/",
+    "event_id": "329618116",
+    "date_time": "11 January at 22:30",
+    "competition": "Brazil. Campeonato Paranaense",
+    "parsed_datetime": "2026-01-11T22:30:00",
+    "logo_alt": "Brazil. Campeonato Paranaense",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Galo Maringa",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/28630.gif"
+      },
+      {
+        "team_name": "Cascavel",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/29904.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=NrQ9RLTeMUc&lang=en&eid=329618116&lid=2920747&ci=440&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926663&lang=en&eid=329618116&lid=2926663&ci=440&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
       }
     ]
   },
@@ -1118,44 +980,6 @@
         "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
         "bitrate": "Bit Rate (Kbps)",
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926751&lang=en&eid=333290803&lid=2926751&ci=343&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      }
-    ]
-  },
-  {
-    "matchup": "Galo Maringa – Cascavel",
-    "event_url": "https://livetv.sx/enx/eventinfo/329618116__/",
-    "event_id": "329618116",
-    "date_time": "11 January at 22:30",
-    "competition": "Brazil. Campeonato Paranaense",
-    "parsed_datetime": "2026-01-11T22:30:00",
-    "logo_alt": "Brazil. Campeonato Paranaense",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Galo Maringa",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/28630.gif"
-      },
-      {
-        "team_name": "Cascavel",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/29904.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=NrQ9RLTeMUc&lang=en&eid=329618116&lid=2920747&ci=440&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2926663&lang=en&eid=329618116&lid=2926663&ci=440&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Voodc"
       }
