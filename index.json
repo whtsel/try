@@ -39,6 +39,85 @@
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag111.gif"
       }
     ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://tinyurl.com/yx8ykwh2",
+        "stream_title": "",
+        "stream_type": "Web"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2925303&lang=en&eid=329947583&lid=2925303&ci=1019&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Bulgarian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/16.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2927576&lang=en&eid=329947583&lid=2927576&ci=1019&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Simulcast",
+    "event_url": "https://livetv.sx/enx/eventinfo/333686785_simulcast/",
+    "event_id": "333686785",
+    "date_time": "13 January at 20:30",
+    "competition": "Germany. Bundesliga",
+    "parsed_datetime": "2026-01-13T20:30:00",
+    "logo_alt": "Germany. Bundesliga",
+    "is_live": false,
+    "team_logos": [],
+    "streams": []
+  },
+  {
+    "matchup": "Bayeux – Marseille",
+    "event_url": "https://livetv.sx/enx/eventinfo/330365087__/",
+    "event_id": "330365087",
+    "date_time": "13 January at 21:00",
+    "competition": "France. Cup",
+    "parsed_datetime": "2026-01-13T21:00:00",
+    "logo_alt": "France. Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Bayeux",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36724.gif"
+      },
+      {
+        "team_name": "Marseille",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/120.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Bolton Wanderers – Port Vale",
+    "event_url": "https://livetv.sx/enx/eventinfo/330006977__/",
+    "event_id": "330006977",
+    "date_time": "13 January at 20:00",
+    "competition": "England. EFL Trophy",
+    "parsed_datetime": "2026-01-13T20:00:00",
+    "logo_alt": "England. EFL Trophy",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Bolton Wanderers",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4049.gif"
+      },
+      {
+        "team_name": "Port Vale",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4058.gif"
+      }
+    ],
     "streams": []
   },
   {
@@ -84,106 +163,6 @@
     "streams": []
   },
   {
-    "matchup": "Simulcast",
-    "event_url": "https://livetv.sx/enx/eventinfo/333686785_simulcast/",
-    "event_id": "333686785",
-    "date_time": "13 January at 20:30",
-    "competition": "Germany. Bundesliga",
-    "parsed_datetime": "2026-01-13T20:30:00",
-    "logo_alt": "Germany. Bundesliga",
-    "is_live": false,
-    "team_logos": [],
-    "streams": []
-  },
-  {
-    "matchup": "Bolton Wanderers – Port Vale",
-    "event_url": "https://livetv.sx/enx/eventinfo/330006977__/",
-    "event_id": "330006977",
-    "date_time": "13 January at 20:00",
-    "competition": "England. EFL Trophy",
-    "parsed_datetime": "2026-01-13T20:00:00",
-    "logo_alt": "England. EFL Trophy",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Bolton Wanderers",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4049.gif"
-      },
-      {
-        "team_name": "Port Vale",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4058.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Bayeux – Marseille",
-    "event_url": "https://livetv.sx/enx/eventinfo/330365087__/",
-    "event_id": "330365087",
-    "date_time": "13 January at 21:00",
-    "competition": "France. Cup",
-    "parsed_datetime": "2026-01-13T21:00:00",
-    "logo_alt": "France. Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Bayeux",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36724.gif"
-      },
-      {
-        "team_name": "Marseille",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/120.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Alanyaspor – Fatih Karagumruk",
-    "event_url": "https://livetv.sx/enx/eventinfo/329946331__/",
-    "event_id": "329946331",
-    "date_time": "13 January at 11:00",
-    "competition": "Turkey. Cup",
-    "parsed_datetime": "2026-01-13T11:00:00",
-    "logo_alt": "Turkey. Cup",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Alanyaspor",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/513.gif"
-      },
-      {
-        "team_name": "Fatih Karagumruk",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1414.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Turkish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2697238&lang=en&eid=329946331&lid=2697238&ci=193&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Turkish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2927676&lang=en&eid=329946331&lid=2927676&ci=193&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Turkish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2927251&lang=en&eid=329946331&lid=2927251&ci=193&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
     "matchup": "Dortmund – Werder Bremen",
     "event_url": "https://livetv.sx/enx/eventinfo/330013038__/",
     "event_id": "330013038",
@@ -200,6 +179,27 @@
       {
         "team_name": "Werder Bremen",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/17.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Newcastle United – Manchester City",
+    "event_url": "https://livetv.sx/enx/eventinfo/330018754__/",
+    "event_id": "330018754",
+    "date_time": "13 January at 21:00",
+    "competition": "England. League Cup",
+    "parsed_datetime": "2026-01-13T21:00:00",
+    "logo_alt": "England. League Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Newcastle United",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/145.gif"
+      },
+      {
+        "team_name": "Manchester City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/147.gif"
       }
     ],
     "streams": []
@@ -273,67 +273,50 @@
     ]
   },
   {
-    "matchup": "Uzbekistan U-23 –  South Korea U-23",
-    "event_url": "https://livetv.sx/enx/eventinfo/329947582__/",
-    "event_id": "329947582",
-    "date_time": "13 January at 12:30",
-    "competition": "AFC U-23 Asian Cup",
-    "parsed_datetime": "2026-01-13T12:30:00",
-    "logo_alt": "AFC U-23 Asian Cup",
-    "is_live": false,
+    "matchup": "Alanyaspor – Fatih Karagumruk",
+    "event_url": "https://livetv.sx/enx/eventinfo/329946331__/",
+    "event_id": "329946331",
+    "date_time": "13 January at 11:00",
+    "competition": "Turkey. Cup",
+    "parsed_datetime": "2026-01-13T11:00:00",
+    "logo_alt": "Turkey. Cup",
+    "is_live": true,
     "team_logos": [
       {
-        "team_name": "Uzbekistan U-23",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag206.gif"
+        "team_name": "Alanyaspor",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/513.gif"
       },
       {
-        "team_name": "South Korea U-23",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag109.gif"
+        "team_name": "Fatih Karagumruk",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1414.gif"
       }
     ],
-    "streams": []
-  },
-  {
-    "matchup": "Hamburg – Leverkusen",
-    "event_url": "https://livetv.sx/enx/eventinfo/330013037__/",
-    "event_id": "330013037",
-    "date_time": "13 January at 20:30",
-    "competition": "Germany. Bundesliga",
-    "parsed_datetime": "2026-01-13T20:30:00",
-    "logo_alt": "Germany. Bundesliga",
-    "is_live": false,
-    "team_logos": [
+    "streams": [
       {
-        "team_name": "Hamburg",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3697.gif"
+        "language": "Turkish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2697238&lang=en&eid=329946331&lid=2697238&ci=193&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
       },
       {
-        "team_name": "Leverkusen",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Newcastle United – Manchester City",
-    "event_url": "https://livetv.sx/enx/eventinfo/330018754__/",
-    "event_id": "330018754",
-    "date_time": "13 January at 21:00",
-    "competition": "England. League Cup",
-    "parsed_datetime": "2026-01-13T21:00:00",
-    "logo_alt": "England. League Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Newcastle United",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/145.gif"
+        "language": "Turkish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2927676&lang=en&eid=329946331&lid=2927676&ci=193&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
       },
       {
-        "team_name": "Manchester City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/147.gif"
+        "language": "Turkish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2927251&lang=en&eid=329946331&lid=2927251&ci=193&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
       }
-    ],
-    "streams": []
+    ]
   },
   {
     "matchup": "Mainz 05 – Heidenheim",
@@ -352,6 +335,113 @@
       {
         "team_name": "Heidenheim",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3698.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Uzbekistan U-23 –  South Korea U-23",
+    "event_url": "https://livetv.sx/enx/eventinfo/329947582__/",
+    "event_id": "329947582",
+    "date_time": "13 January at 12:30",
+    "competition": "AFC U-23 Asian Cup",
+    "parsed_datetime": "2026-01-13T12:30:00",
+    "logo_alt": "AFC U-23 Asian Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Uzbekistan U-23",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag206.gif"
+      },
+      {
+        "team_name": "South Korea U-23",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag109.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=pUmUB2osIH8&lang=en&eid=329947582&lid=2918253&ci=1019&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2920845&lang=en&eid=329947582&lid=2920845&ci=1019&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Serbian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245324&lang=en&eid=329947582&lid=2912118&ci=1019&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245375&lang=en&eid=329947582&lid=2912239&ci=1019&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Bulgarian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/16.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245417&lang=en&eid=329947582&lid=2912355&ci=1019&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Serbian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2927545&lang=en&eid=329947582&lid=2927545&ci=1019&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2927697&lang=en&eid=329947582&lid=2927697&ci=1019&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Bulgarian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/16.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2927575&lang=en&eid=329947582&lid=2927575&ci=1019&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Hamburg – Leverkusen",
+    "event_url": "https://livetv.sx/enx/eventinfo/330013037__/",
+    "event_id": "330013037",
+    "date_time": "13 January at 20:30",
+    "competition": "Germany. Bundesliga",
+    "parsed_datetime": "2026-01-13T20:30:00",
+    "logo_alt": "Germany. Bundesliga",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Hamburg",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3697.gif"
+      },
+      {
+        "team_name": "Leverkusen",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20.gif"
       }
     ],
     "streams": []
@@ -387,6 +477,27 @@
     ]
   },
   {
+    "matchup": "Al-Shorta – Al-Mosul",
+    "event_url": "https://livetv.sx/enx/eventinfo/331937291__/",
+    "event_id": "331937291",
+    "date_time": "13 January at 13:00",
+    "competition": "Iraq. Premier League",
+    "parsed_datetime": "2026-01-13T13:00:00",
+    "logo_alt": "Iraq. Premier League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Shorta",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8130.gif"
+      },
+      {
+        "team_name": "Al-Mosul",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35661.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Diyala – Al-Zawraa",
     "event_url": "https://livetv.sx/enx/eventinfo/331937290__/",
     "event_id": "331937290",
@@ -403,27 +514,6 @@
       {
         "team_name": "Al-Zawraa",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10928.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Bodoe/Glimt – Diosgyor VTK",
-    "event_url": "https://livetv.sx/enx/eventinfo/333756984__/",
-    "event_id": "333756984",
-    "date_time": "13 January at 13:00",
-    "competition": "Friendly Match",
-    "parsed_datetime": "2026-01-13T13:00:00",
-    "logo_alt": "Friendly Match",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Bodoe/Glimt",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1056.gif"
-      },
-      {
-        "team_name": "Diosgyor VTK",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/384.gif"
       }
     ],
     "streams": []
@@ -450,43 +540,22 @@
     "streams": []
   },
   {
-    "matchup": "Basaksehir – Boluspor",
-    "event_url": "https://livetv.sx/enx/eventinfo/330365078__/",
-    "event_id": "330365078",
-    "date_time": "13 January at 13:30",
-    "competition": "Turkey. Cup",
-    "parsed_datetime": "2026-01-13T13:30:00",
-    "logo_alt": "Turkey. Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Basaksehir",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1136.gif"
-      },
-      {
-        "team_name": "Boluspor",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5329.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Gorica – Radomlje",
-    "event_url": "https://livetv.sx/enx/eventinfo/333757631_gorica_radomlje/",
-    "event_id": "333757631",
-    "date_time": "13 January at 14:30",
+    "matchup": "Bodoe/Glimt – Diosgyor VTK",
+    "event_url": "https://livetv.sx/enx/eventinfo/333756984__/",
+    "event_id": "333756984",
+    "date_time": "13 January at 13:00",
     "competition": "Friendly Match",
-    "parsed_datetime": "2026-01-13T14:30:00",
+    "parsed_datetime": "2026-01-13T13:00:00",
     "logo_alt": "Friendly Match",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Gorica",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/6306.gif"
+        "team_name": "Bodoe/Glimt",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1056.gif"
       },
       {
-        "team_name": "Radomlje",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/16115.gif"
+        "team_name": "Diosgyor VTK",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/384.gif"
       }
     ],
     "streams": []
@@ -513,22 +582,43 @@
     "streams": []
   },
   {
-    "matchup": "Al-Shorta – Al-Mosul",
-    "event_url": "https://livetv.sx/enx/eventinfo/331937291__/",
-    "event_id": "331937291",
-    "date_time": "13 January at 13:00",
-    "competition": "Iraq. Premier League",
-    "parsed_datetime": "2026-01-13T13:00:00",
-    "logo_alt": "Iraq. Premier League",
+    "matchup": "Gorica – Radomlje",
+    "event_url": "https://livetv.sx/enx/eventinfo/333757631_gorica_radomlje/",
+    "event_id": "333757631",
+    "date_time": "13 January at 14:30",
+    "competition": "Friendly Match",
+    "parsed_datetime": "2026-01-13T14:30:00",
+    "logo_alt": "Friendly Match",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Al-Shorta",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8130.gif"
+        "team_name": "Gorica",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/6306.gif"
       },
       {
-        "team_name": "Al-Mosul",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35661.gif"
+        "team_name": "Radomlje",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/16115.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Basaksehir – Boluspor",
+    "event_url": "https://livetv.sx/enx/eventinfo/330365078__/",
+    "event_id": "330365078",
+    "date_time": "13 January at 13:30",
+    "competition": "Turkey. Cup",
+    "parsed_datetime": "2026-01-13T13:30:00",
+    "logo_alt": "Turkey. Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Basaksehir",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1136.gif"
+      },
+      {
+        "team_name": "Boluspor",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5329.gif"
       }
     ],
     "streams": []
@@ -660,22 +750,22 @@
     "streams": []
   },
   {
-    "matchup": "Erbil – Duhok",
-    "event_url": "https://livetv.sx/enx/eventinfo/331937292__/",
-    "event_id": "331937292",
-    "date_time": "13 January at 15:30",
-    "competition": "Iraq. Premier League",
-    "parsed_datetime": "2026-01-13T15:30:00",
-    "logo_alt": "Iraq. Premier League",
+    "matchup": "Gaziantep – Kocaelispor",
+    "event_url": "https://livetv.sx/enx/eventinfo/330365079__/",
+    "event_id": "330365079",
+    "date_time": "13 January at 16:00",
+    "competition": "Turkey. Cup",
+    "parsed_datetime": "2026-01-13T16:00:00",
+    "logo_alt": "Turkey. Cup",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Erbil",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12074.gif"
+        "team_name": "Gaziantep",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/671.gif"
       },
       {
-        "team_name": "Duhok",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35659.gif"
+        "team_name": "Kocaelispor",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7072.gif"
       }
     ],
     "streams": []
@@ -723,22 +813,22 @@
     "streams": []
   },
   {
-    "matchup": "Gaziantep – Kocaelispor",
-    "event_url": "https://livetv.sx/enx/eventinfo/330365079__/",
-    "event_id": "330365079",
-    "date_time": "13 January at 16:00",
-    "competition": "Turkey. Cup",
-    "parsed_datetime": "2026-01-13T16:00:00",
-    "logo_alt": "Turkey. Cup",
+    "matchup": "Erbil – Duhok",
+    "event_url": "https://livetv.sx/enx/eventinfo/331937292__/",
+    "event_id": "331937292",
+    "date_time": "13 January at 15:30",
+    "competition": "Iraq. Premier League",
+    "parsed_datetime": "2026-01-13T15:30:00",
+    "logo_alt": "Iraq. Premier League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Gaziantep",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/671.gif"
+        "team_name": "Erbil",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12074.gif"
       },
       {
-        "team_name": "Kocaelispor",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7072.gif"
+        "team_name": "Duhok",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35659.gif"
       }
     ],
     "streams": []
@@ -786,6 +876,27 @@
     "streams": []
   },
   {
+    "matchup": "UAE U-23 –  Syria U-23",
+    "event_url": "https://livetv.sx/enx/eventinfo/329983746__/",
+    "event_id": "329983746",
+    "date_time": "13 January at 17:30",
+    "competition": "AFC U-23 Asian Cup",
+    "parsed_datetime": "2026-01-13T17:30:00",
+    "logo_alt": "AFC U-23 Asian Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "UAE U-23",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag6.gif"
+      },
+      {
+        "team_name": "Syria U-23",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag186.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Al-Najma – Al Riffa",
     "event_url": "https://livetv.sx/enx/eventinfo/332210010__/",
     "event_id": "332210010",
@@ -828,22 +939,22 @@
     "streams": []
   },
   {
-    "matchup": "UAE U-23 –  Syria U-23",
-    "event_url": "https://livetv.sx/enx/eventinfo/329983746__/",
-    "event_id": "329983746",
-    "date_time": "13 January at 17:30",
-    "competition": "AFC U-23 Asian Cup",
-    "parsed_datetime": "2026-01-13T17:30:00",
-    "logo_alt": "AFC U-23 Asian Cup",
+    "matchup": "Sporting U-23 –  Academico Viseu U-23",
+    "event_url": "https://livetv.sx/enx/eventinfo/333481552__/",
+    "event_id": "333481552",
+    "date_time": "13 January at 18:00",
+    "competition": "Portugal. League U23",
+    "parsed_datetime": "2026-01-13T18:00:00",
+    "logo_alt": "Portugal. League U23",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "UAE U-23",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag6.gif"
+        "team_name": "Sporting U-23",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9571.gif"
       },
       {
-        "team_name": "Syria U-23",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag186.gif"
+        "team_name": "Academico Viseu U-23",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/27062.gif"
       }
     ],
     "streams": []
@@ -865,27 +976,6 @@
       {
         "team_name": "Maccabi Herzliya",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4981.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Sporting U-23 –  Academico Viseu U-23",
-    "event_url": "https://livetv.sx/enx/eventinfo/333481552__/",
-    "event_id": "333481552",
-    "date_time": "13 January at 18:00",
-    "competition": "Portugal. League U23",
-    "parsed_datetime": "2026-01-13T18:00:00",
-    "logo_alt": "Portugal. League U23",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Sporting U-23",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9571.gif"
-      },
-      {
-        "team_name": "Academico Viseu U-23",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/27062.gif"
       }
     ],
     "streams": []
@@ -996,27 +1086,6 @@
     "streams": []
   },
   {
-    "matchup": "Maccabi Netanya – Maccabi Jaffa",
-    "event_url": "https://livetv.sx/enx/eventinfo/331675832__/",
-    "event_id": "331675832",
-    "date_time": "13 January at 18:45",
-    "competition": "Israel. State Cup",
-    "parsed_datetime": "2026-01-13T18:45:00",
-    "logo_alt": "Israel. State Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Maccabi Netanya",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35232.gif"
-      },
-      {
-        "team_name": "Maccabi Jaffa",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35235.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Retro U-20 –  Inter-RS U-20",
     "event_url": "https://livetv.sx/enx/eventinfo/333565887__/",
     "event_id": "333565887",
@@ -1038,6 +1107,48 @@
     "streams": []
   },
   {
+    "matchup": "Canaa U-20 –  Figueirense U-20",
+    "event_url": "https://livetv.sx/enx/eventinfo/333545629__/",
+    "event_id": "333545629",
+    "date_time": "13 January at 19:00",
+    "competition": "Brazil. Sao Paulo Youth Cup",
+    "parsed_datetime": "2026-01-13T19:00:00",
+    "logo_alt": "Brazil. Sao Paulo Youth Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Canaa U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/19710.gif"
+      },
+      {
+        "team_name": "Figueirense U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/15813.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Maccabi Netanya – Maccabi Jaffa",
+    "event_url": "https://livetv.sx/enx/eventinfo/331675832__/",
+    "event_id": "331675832",
+    "date_time": "13 January at 18:45",
+    "competition": "Israel. State Cup",
+    "parsed_datetime": "2026-01-13T18:45:00",
+    "logo_alt": "Israel. State Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Maccabi Netanya",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35232.gif"
+      },
+      {
+        "team_name": "Maccabi Jaffa",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35235.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Ibrachina U-20 –  Atletico-MG U-20",
     "event_url": "https://livetv.sx/enx/eventinfo/333545628__/",
     "event_id": "333545628",
@@ -1054,6 +1165,27 @@
       {
         "team_name": "Atletico-MG U-20",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9079.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "RB Bragantino U-20 –  Comercial Tiete U-20",
+    "event_url": "https://livetv.sx/enx/eventinfo/333545631__/",
+    "event_id": "333545631",
+    "date_time": "13 January at 19:00",
+    "competition": "Brazil. Sao Paulo Youth Cup",
+    "parsed_datetime": "2026-01-13T19:00:00",
+    "logo_alt": "Brazil. Sao Paulo Youth Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "RB Bragantino U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9231.gif"
+      },
+      {
+        "team_name": "Comercial Tiete U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26362.gif"
       }
     ],
     "streams": []
@@ -1101,27 +1233,6 @@
     "streams": []
   },
   {
-    "matchup": "Canaa U-20 –  Figueirense U-20",
-    "event_url": "https://livetv.sx/enx/eventinfo/333545629__/",
-    "event_id": "333545629",
-    "date_time": "13 January at 19:00",
-    "competition": "Brazil. Sao Paulo Youth Cup",
-    "parsed_datetime": "2026-01-13T19:00:00",
-    "logo_alt": "Brazil. Sao Paulo Youth Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Canaa U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/19710.gif"
-      },
-      {
-        "team_name": "Figueirense U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/15813.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Juventude U-20 –  Aguia de Maraba U-20",
     "event_url": "https://livetv.sx/enx/eventinfo/333545632__/",
     "event_id": "333545632",
@@ -1143,43 +1254,22 @@
     "streams": []
   },
   {
-    "matchup": "RB Bragantino U-20 –  Comercial Tiete U-20",
-    "event_url": "https://livetv.sx/enx/eventinfo/333545631__/",
-    "event_id": "333545631",
+    "matchup": "Hapoel Beer Sheva – Hapoel Jerusalem",
+    "event_url": "https://livetv.sx/enx/eventinfo/331675833__/",
+    "event_id": "331675833",
     "date_time": "13 January at 19:00",
-    "competition": "Brazil. Sao Paulo Youth Cup",
+    "competition": "Israel. State Cup",
     "parsed_datetime": "2026-01-13T19:00:00",
-    "logo_alt": "Brazil. Sao Paulo Youth Cup",
+    "logo_alt": "Israel. State Cup",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "RB Bragantino U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9231.gif"
+        "team_name": "Hapoel Beer Sheva",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/780.gif"
       },
       {
-        "team_name": "Comercial Tiete U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26362.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Bristol Rovers – Plymouth Argyle",
-    "event_url": "https://livetv.sx/enx/eventinfo/330006973__/",
-    "event_id": "330006973",
-    "date_time": "13 January at 20:00",
-    "competition": "England. EFL Trophy",
-    "parsed_datetime": "2026-01-13T20:00:00",
-    "logo_alt": "England. EFL Trophy",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Bristol Rovers",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4039.gif"
-      },
-      {
-        "team_name": "Plymouth Argyle",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4053.gif"
+        "team_name": "Hapoel Jerusalem",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4847.gif"
       }
     ],
     "streams": []
@@ -1206,6 +1296,27 @@
     "streams": []
   },
   {
+    "matchup": "Bristol Rovers – Plymouth Argyle",
+    "event_url": "https://livetv.sx/enx/eventinfo/330006973__/",
+    "event_id": "330006973",
+    "date_time": "13 January at 20:00",
+    "competition": "England. EFL Trophy",
+    "parsed_datetime": "2026-01-13T20:00:00",
+    "logo_alt": "England. EFL Trophy",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Bristol Rovers",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4039.gif"
+      },
+      {
+        "team_name": "Plymouth Argyle",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4053.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Luton Town – Swindon",
     "event_url": "https://livetv.sx/enx/eventinfo/330006975__/",
     "event_id": "330006975",
@@ -1227,22 +1338,22 @@
     "streams": []
   },
   {
-    "matchup": "Hapoel Beer Sheva – Hapoel Jerusalem",
-    "event_url": "https://livetv.sx/enx/eventinfo/331675833__/",
-    "event_id": "331675833",
-    "date_time": "13 January at 19:00",
-    "competition": "Israel. State Cup",
-    "parsed_datetime": "2026-01-13T19:00:00",
-    "logo_alt": "Israel. State Cup",
+    "matchup": "Stockport – Harrogate Town",
+    "event_url": "https://livetv.sx/enx/eventinfo/330006976__/",
+    "event_id": "330006976",
+    "date_time": "13 January at 20:00",
+    "competition": "England. EFL Trophy",
+    "parsed_datetime": "2026-01-13T20:00:00",
+    "logo_alt": "England. EFL Trophy",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Hapoel Beer Sheva",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/780.gif"
+        "team_name": "Stockport",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5844.gif"
       },
       {
-        "team_name": "Hapoel Jerusalem",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4847.gif"
+        "team_name": "Harrogate Town",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5842.gif"
       }
     ],
     "streams": []
@@ -1302,27 +1413,6 @@
     "streams": []
   },
   {
-    "matchup": "Stockport – Harrogate Town",
-    "event_url": "https://livetv.sx/enx/eventinfo/330006976__/",
-    "event_id": "330006976",
-    "date_time": "13 January at 20:00",
-    "competition": "England. EFL Trophy",
-    "parsed_datetime": "2026-01-13T20:00:00",
-    "logo_alt": "England. EFL Trophy",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Stockport",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5844.gif"
-      },
-      {
-        "team_name": "Harrogate Town",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5842.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Huddersfield – Rotherham Utd",
     "event_url": "https://livetv.sx/enx/eventinfo/330006979__/",
     "event_id": "330006979",
@@ -1365,9 +1455,9 @@
     "streams": []
   },
   {
-    "matchup": "Hamburg – Leverkusen",
-    "event_url": "https://livetv.sx/enx/eventinfo/330013037__/",
-    "event_id": "330013037",
+    "matchup": "Dortmund – Werder Bremen",
+    "event_url": "https://livetv.sx/enx/eventinfo/330013038__/",
+    "event_id": "330013038",
     "date_time": "13 January at 20:30",
     "competition": "Germany. Bundesliga",
     "parsed_datetime": "2026-01-13T20:30:00",
@@ -1375,12 +1465,12 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Hamburg",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3697.gif"
+        "team_name": "Dortmund",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/22.gif"
       },
       {
-        "team_name": "Leverkusen",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20.gif"
+        "team_name": "Werder Bremen",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/17.gif"
       }
     ],
     "streams": []
@@ -1407,9 +1497,9 @@
     "streams": []
   },
   {
-    "matchup": "Dortmund – Werder Bremen",
-    "event_url": "https://livetv.sx/enx/eventinfo/330013038__/",
-    "event_id": "330013038",
+    "matchup": "Hamburg – Leverkusen",
+    "event_url": "https://livetv.sx/enx/eventinfo/330013037__/",
+    "event_id": "330013037",
     "date_time": "13 January at 20:30",
     "competition": "Germany. Bundesliga",
     "parsed_datetime": "2026-01-13T20:30:00",
@@ -1417,33 +1507,12 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Dortmund",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/22.gif"
+        "team_name": "Hamburg",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3697.gif"
       },
       {
-        "team_name": "Werder Bremen",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/17.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "St Johnstone B – Ross County",
-    "event_url": "https://livetv.sx/enx/eventinfo/331417500__/",
-    "event_id": "331417500",
-    "date_time": "13 January at 20:45",
-    "competition": "Scotland. Challenge Cup",
-    "parsed_datetime": "2026-01-13T20:45:00",
-    "logo_alt": "Scotland. Challenge Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "St Johnstone B",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34381.gif"
-      },
-      {
-        "team_name": "Ross County",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5817.gif"
+        "team_name": "Leverkusen",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20.gif"
       }
     ],
     "streams": []
@@ -1491,43 +1560,22 @@
     "streams": []
   },
   {
-    "matchup": "Barry Town Utd – Llanelli Town",
-    "event_url": "https://livetv.sx/enx/eventinfo/332276385__/",
-    "event_id": "332276385",
+    "matchup": "St Johnstone B – Ross County",
+    "event_url": "https://livetv.sx/enx/eventinfo/331417500__/",
+    "event_id": "331417500",
     "date_time": "13 January at 20:45",
-    "competition": "Wales. Cymru Premier",
+    "competition": "Scotland. Challenge Cup",
     "parsed_datetime": "2026-01-13T20:45:00",
-    "logo_alt": "Wales. Cymru Premier",
+    "logo_alt": "Scotland. Challenge Cup",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Barry Town Utd",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1373.gif"
+        "team_name": "St Johnstone B",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34381.gif"
       },
       {
-        "team_name": "Llanelli Town",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10567.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Roma – Torino",
-    "event_url": "https://livetv.sx/enx/eventinfo/330019411__/",
-    "event_id": "330019411",
-    "date_time": "13 January at 21:00",
-    "competition": "Italy. Cup",
-    "parsed_datetime": "2026-01-13T21:00:00",
-    "logo_alt": "Italy. Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Roma",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/54.gif"
-      },
-      {
-        "team_name": "Torino",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/63.gif"
+        "team_name": "Ross County",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5817.gif"
       }
     ],
     "streams": []
@@ -1554,6 +1602,27 @@
     "streams": []
   },
   {
+    "matchup": "Barry Town Utd – Llanelli Town",
+    "event_url": "https://livetv.sx/enx/eventinfo/332276385__/",
+    "event_id": "332276385",
+    "date_time": "13 January at 20:45",
+    "competition": "Wales. Cymru Premier",
+    "parsed_datetime": "2026-01-13T20:45:00",
+    "logo_alt": "Wales. Cymru Premier",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Barry Town Utd",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1373.gif"
+      },
+      {
+        "team_name": "Llanelli Town",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10567.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Utrecht – Twente",
     "event_url": "https://livetv.sx/enx/eventinfo/330365070__/",
     "event_id": "330365070",
@@ -1570,6 +1639,27 @@
       {
         "team_name": "Twente",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3854.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Roma – Torino",
+    "event_url": "https://livetv.sx/enx/eventinfo/330019411__/",
+    "event_id": "330019411",
+    "date_time": "13 January at 21:00",
+    "competition": "Italy. Cup",
+    "parsed_datetime": "2026-01-13T21:00:00",
+    "logo_alt": "Italy. Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Roma",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/54.gif"
+      },
+      {
+        "team_name": "Torino",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/63.gif"
       }
     ],
     "streams": []
@@ -1638,22 +1728,22 @@
     "streams": []
   },
   {
-    "matchup": "Cultural Leonesa – Athletic Bilbao",
-    "event_url": "https://livetv.sx/enx/eventinfo/332235208__/",
-    "event_id": "332235208",
-    "date_time": "13 January at 21:00",
-    "competition": "Spain. Copa del Rey",
-    "parsed_datetime": "2026-01-13T21:00:00",
-    "logo_alt": "Spain. Copa del Rey",
+    "matchup": "Fluminense PI U-20 –  Referencia U-20",
+    "event_url": "https://livetv.sx/enx/eventinfo/333550800__/",
+    "event_id": "333550800",
+    "date_time": "13 January at 22:30",
+    "competition": "Brazil. Sao Paulo Youth Cup",
+    "parsed_datetime": "2026-01-13T22:30:00",
+    "logo_alt": "Brazil. Sao Paulo Youth Cup",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Cultural Leonesa",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4461.gif"
+        "team_name": "Fluminense PI U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12970.gif"
       },
       {
-        "team_name": "Athletic Bilbao",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/44.gif"
+        "team_name": "Referencia U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30964.gif"
       }
     ],
     "streams": []
@@ -1680,22 +1770,22 @@
     "streams": []
   },
   {
-    "matchup": "Fluminense PI U-20 –  Referencia U-20",
-    "event_url": "https://livetv.sx/enx/eventinfo/333550800__/",
-    "event_id": "333550800",
-    "date_time": "13 January at 22:30",
-    "competition": "Brazil. Sao Paulo Youth Cup",
-    "parsed_datetime": "2026-01-13T22:30:00",
-    "logo_alt": "Brazil. Sao Paulo Youth Cup",
+    "matchup": "Cultural Leonesa – Athletic Bilbao",
+    "event_url": "https://livetv.sx/enx/eventinfo/332235208__/",
+    "event_id": "332235208",
+    "date_time": "13 January at 21:00",
+    "competition": "Spain. Copa del Rey",
+    "parsed_datetime": "2026-01-13T21:00:00",
+    "logo_alt": "Spain. Copa del Rey",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Fluminense PI U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12970.gif"
+        "team_name": "Cultural Leonesa",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4461.gif"
       },
       {
-        "team_name": "Referencia U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30964.gif"
+        "team_name": "Athletic Bilbao",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/44.gif"
       }
     ],
     "streams": []
@@ -1717,27 +1807,6 @@
       {
         "team_name": "Guarani",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6263.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "GO Audax U-20 –  Santo Andre U-20",
-    "event_url": "https://livetv.sx/enx/eventinfo/333550801__/",
-    "event_id": "333550801",
-    "date_time": "13 January at 23:00",
-    "competition": "Brazil. Sao Paulo Youth Cup",
-    "parsed_datetime": "2026-01-13T23:00:00",
-    "logo_alt": "Brazil. Sao Paulo Youth Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "GO Audax U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7117.gif"
-      },
-      {
-        "team_name": "Santo Andre U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16039.gif"
       }
     ],
     "streams": []
@@ -1780,6 +1849,27 @@
       {
         "team_name": "Albion",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30535.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "GO Audax U-20 –  Santo Andre U-20",
+    "event_url": "https://livetv.sx/enx/eventinfo/333550801__/",
+    "event_id": "333550801",
+    "date_time": "13 January at 23:00",
+    "competition": "Brazil. Sao Paulo Youth Cup",
+    "parsed_datetime": "2026-01-13T23:00:00",
+    "logo_alt": "Brazil. Sao Paulo Youth Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "GO Audax U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7117.gif"
+      },
+      {
+        "team_name": "Santo Andre U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16039.gif"
       }
     ],
     "streams": []
