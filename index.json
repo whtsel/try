@@ -42,18 +42,6 @@
     "streams": []
   },
   {
-    "matchup": "Simulcast",
-    "event_url": "https://livetv.sx/enx/eventinfo/333979820_simulcast/",
-    "event_id": "333979820",
-    "date_time": "14 January at 20:30",
-    "competition": "Germany. Bundesliga",
-    "parsed_datetime": "2026-01-14T20:30:00",
-    "logo_alt": "Germany. Bundesliga",
-    "is_live": false,
-    "team_logos": [],
-    "streams": []
-  },
-  {
     "matchup": "USA U17 (W) – Denmark U17 (W)",
     "event_url": "https://livetv.sx/enx/eventinfo/332240805_usa_u17_w_denmark_u17_w/",
     "event_id": "332240805",
@@ -66,6 +54,18 @@
     "streams": []
   },
   {
+    "matchup": "Simulcast",
+    "event_url": "https://livetv.sx/enx/eventinfo/333979820_simulcast/",
+    "event_id": "333979820",
+    "date_time": "14 January at 20:30",
+    "competition": "Germany. Bundesliga",
+    "parsed_datetime": "2026-01-14T20:30:00",
+    "logo_alt": "Germany. Bundesliga",
+    "is_live": false,
+    "team_logos": [],
+    "streams": []
+  },
+  {
     "matchup": "Turkey U-19 –  Uzbekistan U-19",
     "event_url": "https://livetv.sx/enx/eventinfo/334039928__/",
     "event_id": "334039928",
@@ -73,7 +73,7 @@
     "competition": "Friendly Match U-19. National Teams",
     "parsed_datetime": "2026-01-14T11:00:00",
     "logo_alt": "Friendly Match U-19. National Teams",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Turkey U-19",
@@ -82,6 +82,27 @@
       {
         "team_name": "Uzbekistan U-19",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag206.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Chelsea – Arsenal",
+    "event_url": "https://livetv.sx/enx/eventinfo/330226004__/",
+    "event_id": "330226004",
+    "date_time": "14 January at 21:00",
+    "competition": "England. League Cup",
+    "parsed_datetime": "2026-01-14T21:00:00",
+    "logo_alt": "England. League Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Chelsea",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/140.gif"
+      },
+      {
+        "team_name": "Arsenal",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/142.gif"
       }
     ],
     "streams": []
@@ -115,7 +136,7 @@
     "competition": "Turkey. Cup",
     "parsed_datetime": "2026-01-14T11:00:00",
     "logo_alt": "Turkey. Cup",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Aliaga",
@@ -150,37 +171,8 @@
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2927251&lang=en&eid=330365081&lid=2927251&ci=193&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
-      },
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2928468&lang=en&eid=330365081&lid=2928468&ci=193&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
       }
     ]
-  },
-  {
-    "matchup": "Chelsea – Arsenal",
-    "event_url": "https://livetv.sx/enx/eventinfo/330226004__/",
-    "event_id": "330226004",
-    "date_time": "14 January at 21:00",
-    "competition": "England. League Cup",
-    "parsed_datetime": "2026-01-14T21:00:00",
-    "logo_alt": "England. League Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Chelsea",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/140.gif"
-      },
-      {
-        "team_name": "Arsenal",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/142.gif"
-      }
-    ],
-    "streams": []
   },
   {
     "matchup": "Portimonense U-23 –  Maritimo U-23",
@@ -199,6 +191,66 @@
       {
         "team_name": "Maritimo U-23",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26884.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2928557&lang=en&eid=333205442&lid=2928557&ci=2300&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Rio Ave U-23 –  Farense U-23",
+    "event_url": "https://livetv.sx/enx/eventinfo/333205443__/",
+    "event_id": "333205443",
+    "date_time": "14 January at 12:00",
+    "competition": "Portugal. League U23",
+    "parsed_datetime": "2026-01-14T12:00:00",
+    "logo_alt": "Portugal. League U23",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Rio Ave U-23",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/11026.gif"
+      },
+      {
+        "team_name": "Farense U-23",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16780.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2928657&lang=en&eid=333205443&lid=2928657&ci=2300&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Cologne – Bayern Munich",
+    "event_url": "https://livetv.sx/enx/eventinfo/330222125__/",
+    "event_id": "330222125",
+    "date_time": "14 January at 20:30",
+    "competition": "Germany. Bundesliga",
+    "parsed_datetime": "2026-01-14T20:30:00",
+    "logo_alt": "Germany. Bundesliga",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Cologne",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3718.gif"
+      },
+      {
+        "team_name": "Bayern Munich",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9.gif"
       }
     ],
     "streams": []
@@ -246,48 +298,6 @@
     "streams": []
   },
   {
-    "matchup": "Inter – Lecce",
-    "event_url": "https://livetv.sx/enx/eventinfo/330226715__/",
-    "event_id": "330226715",
-    "date_time": "14 January at 20:45",
-    "competition": "Italy. Serie A",
-    "parsed_datetime": "2026-01-14T20:45:00",
-    "logo_alt": "Italy. Serie A",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Inter",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26888.gif"
-      },
-      {
-        "team_name": "Lecce",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3764.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Rio Ave U-23 –  Farense U-23",
-    "event_url": "https://livetv.sx/enx/eventinfo/333205443__/",
-    "event_id": "333205443",
-    "date_time": "14 January at 12:00",
-    "competition": "Portugal. League U23",
-    "parsed_datetime": "2026-01-14T12:00:00",
-    "logo_alt": "Portugal. League U23",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Rio Ave U-23",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/11026.gif"
-      },
-      {
-        "team_name": "Farense U-23",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16780.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Hoffenheim – Borussia M",
     "event_url": "https://livetv.sx/enx/eventinfo/330222124__/",
     "event_id": "330222124",
@@ -309,22 +319,22 @@
     "streams": []
   },
   {
-    "matchup": "Cologne – Bayern Munich",
-    "event_url": "https://livetv.sx/enx/eventinfo/330222125__/",
-    "event_id": "330222125",
-    "date_time": "14 January at 20:30",
-    "competition": "Germany. Bundesliga",
-    "parsed_datetime": "2026-01-14T20:30:00",
-    "logo_alt": "Germany. Bundesliga",
+    "matchup": "Inter – Lecce",
+    "event_url": "https://livetv.sx/enx/eventinfo/330226715__/",
+    "event_id": "330226715",
+    "date_time": "14 January at 20:45",
+    "competition": "Italy. Serie A",
+    "parsed_datetime": "2026-01-14T20:45:00",
+    "logo_alt": "Italy. Serie A",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Cologne",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3718.gif"
+        "team_name": "Inter",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26888.gif"
       },
       {
-        "team_name": "Bayern Munich",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9.gif"
+        "team_name": "Lecce",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3764.gif"
       }
     ],
     "streams": []
@@ -351,22 +361,22 @@
     "streams": []
   },
   {
-    "matchup": "Thailand U-23 –  China U-23",
-    "event_url": "https://livetv.sx/enx/eventinfo/330165612__/",
-    "event_id": "330165612",
-    "date_time": "14 January at 12:30",
-    "competition": "AFC U-23 Asian Cup",
-    "parsed_datetime": "2026-01-14T12:30:00",
-    "logo_alt": "AFC U-23 Asian Cup",
+    "matchup": "Lechia Gdansk – Zeleznicar Pancevo",
+    "event_url": "https://livetv.sx/enx/eventinfo/333980710_lechia_gdansk_zeleznicar_pancevo/",
+    "event_id": "333980710",
+    "date_time": "14 January at 13:00",
+    "competition": "Friendly Match",
+    "parsed_datetime": "2026-01-14T13:00:00",
+    "logo_alt": "Friendly Match",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Thailand U-23",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag190.gif"
+        "team_name": "Lechia Gdansk",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/32947.gif"
       },
       {
-        "team_name": "China U-23",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag37.gif"
+        "team_name": "Zeleznicar Pancevo",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/47837.gif"
       }
     ],
     "streams": []
@@ -393,24 +403,36 @@
     "streams": []
   },
   {
-    "matchup": "Lechia Gdansk – Zeleznicar Pancevo",
-    "event_url": "https://livetv.sx/enx/eventinfo/333980710_lechia_gdansk_zeleznicar_pancevo/",
-    "event_id": "333980710",
-    "date_time": "14 January at 13:00",
-    "competition": "Friendly Match",
-    "parsed_datetime": "2026-01-14T13:00:00",
-    "logo_alt": "Friendly Match",
+    "matchup": "Thailand U-23 –  China U-23",
+    "event_url": "https://livetv.sx/enx/eventinfo/330165612__/",
+    "event_id": "330165612",
+    "date_time": "14 January at 12:30",
+    "competition": "AFC U-23 Asian Cup",
+    "parsed_datetime": "2026-01-14T12:30:00",
+    "logo_alt": "AFC U-23 Asian Cup",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Lechia Gdansk",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/32947.gif"
+        "team_name": "Thailand U-23",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag190.gif"
       },
       {
-        "team_name": "Zeleznicar Pancevo",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/47837.gif"
+        "team_name": "China U-23",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag37.gif"
       }
     ],
+    "streams": []
+  },
+  {
+    "matchup": "Italy U19 – Spain U19",
+    "event_url": "https://livetv.sx/enx/eventinfo/333495672_italy_u19_spain_u19/",
+    "event_id": "333495672",
+    "date_time": "14 January at 14:00",
+    "competition": "Friendly Match",
+    "parsed_datetime": "2026-01-14T14:00:00",
+    "logo_alt": "Friendly Match",
+    "is_live": false,
+    "team_logos": [],
     "streams": []
   },
   {
@@ -432,18 +454,6 @@
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10927.gif"
       }
     ],
-    "streams": []
-  },
-  {
-    "matchup": "Italy U19 – Spain U19",
-    "event_url": "https://livetv.sx/enx/eventinfo/333495672_italy_u19_spain_u19/",
-    "event_id": "333495672",
-    "date_time": "14 January at 14:00",
-    "competition": "Friendly Match",
-    "parsed_datetime": "2026-01-14T14:00:00",
-    "logo_alt": "Friendly Match",
-    "is_live": false,
-    "team_logos": [],
     "streams": []
   },
   {
@@ -484,27 +494,6 @@
       {
         "team_name": "Genclerbirligi",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/322.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Italy U-19 –  Spain U-19",
-    "event_url": "https://livetv.sx/enx/eventinfo/333913228__/",
-    "event_id": "333913228",
-    "date_time": "14 January at 14:00",
-    "competition": "Friendly Match U-19. National Teams",
-    "parsed_datetime": "2026-01-14T14:00:00",
-    "logo_alt": "Friendly Match U-19. National Teams",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Italy U-19",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag99.gif"
-      },
-      {
-        "team_name": "Spain U-19",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag60.gif"
       }
     ],
     "streams": []
@@ -552,6 +541,48 @@
     "streams": []
   },
   {
+    "matchup": "Botafogo-SP U-20 –  Guanabara City U-20",
+    "event_url": "https://livetv.sx/enx/eventinfo/333891240__/",
+    "event_id": "333891240",
+    "date_time": "14 January at 15:00",
+    "competition": "Brazil. Sao Paulo Youth Cup",
+    "parsed_datetime": "2026-01-14T15:00:00",
+    "logo_alt": "Brazil. Sao Paulo Youth Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Botafogo-SP U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/15408.gif"
+      },
+      {
+        "team_name": "Guanabara City U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/22534.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Italy U-19 –  Spain U-19",
+    "event_url": "https://livetv.sx/enx/eventinfo/333913228__/",
+    "event_id": "333913228",
+    "date_time": "14 January at 14:00",
+    "competition": "Friendly Match U-19. National Teams",
+    "parsed_datetime": "2026-01-14T14:00:00",
+    "logo_alt": "Friendly Match U-19. National Teams",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Italy U-19",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag99.gif"
+      },
+      {
+        "team_name": "Spain U-19",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag60.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "XV de Novembro U-20 –  Guarani U-20",
     "event_url": "https://livetv.sx/enx/eventinfo/333923364__/",
     "event_id": "333923364",
@@ -594,27 +625,6 @@
     "streams": []
   },
   {
-    "matchup": "Botafogo-SP U-20 –  Guanabara City U-20",
-    "event_url": "https://livetv.sx/enx/eventinfo/333891240__/",
-    "event_id": "333891240",
-    "date_time": "14 January at 15:00",
-    "competition": "Brazil. Sao Paulo Youth Cup",
-    "parsed_datetime": "2026-01-14T15:00:00",
-    "logo_alt": "Brazil. Sao Paulo Youth Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Botafogo-SP U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/15408.gif"
-      },
-      {
-        "team_name": "Guanabara City U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/22534.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Germany U17 – Portugal U17",
     "event_url": "https://livetv.sx/enx/eventinfo/332240739_germany_u17_portugal_u17/",
     "event_id": "332240739",
@@ -636,6 +646,27 @@
     "streams": []
   },
   {
+    "matchup": "Al Quadisiya – Al-Fayha",
+    "event_url": "https://livetv.sx/enx/eventinfo/330190740__/",
+    "event_id": "330190740",
+    "date_time": "14 January at 15:45",
+    "competition": "Saudi Arabia. Pro League",
+    "parsed_datetime": "2026-01-14T15:45:00",
+    "logo_alt": "Saudi Arabia. Pro League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al Quadisiya",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30593.gif"
+      },
+      {
+        "team_name": "Al-Fayha",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30587.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Al-Minaa – Al-Karkh",
     "event_url": "https://livetv.sx/enx/eventinfo/331937299__/",
     "event_id": "331937299",
@@ -652,6 +683,27 @@
       {
         "team_name": "Al-Karkh",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10783.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Al-Najaf – Naft Maysan",
+    "event_url": "https://livetv.sx/enx/eventinfo/331937298__/",
+    "event_id": "331937298",
+    "date_time": "14 January at 15:30",
+    "competition": "Iraq. Premier League",
+    "parsed_datetime": "2026-01-14T15:30:00",
+    "logo_alt": "Iraq. Premier League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Najaf",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35658.gif"
+      },
+      {
+        "team_name": "Naft Maysan",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10784.gif"
       }
     ],
     "streams": []
@@ -699,43 +751,22 @@
     "streams": []
   },
   {
-    "matchup": "Al-Najaf – Naft Maysan",
-    "event_url": "https://livetv.sx/enx/eventinfo/331937298__/",
-    "event_id": "331937298",
-    "date_time": "14 January at 15:30",
-    "competition": "Iraq. Premier League",
-    "parsed_datetime": "2026-01-14T15:30:00",
-    "logo_alt": "Iraq. Premier League",
+    "matchup": "Sharjah – Al Bataeh",
+    "event_url": "https://livetv.sx/enx/eventinfo/330197361__/",
+    "event_id": "330197361",
+    "date_time": "14 January at 16:45",
+    "competition": "UAE. Pro League",
+    "parsed_datetime": "2026-01-14T16:45:00",
+    "logo_alt": "UAE. Pro League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Al-Najaf",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35658.gif"
+        "team_name": "Sharjah",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8132.gif"
       },
       {
-        "team_name": "Naft Maysan",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10784.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Al Quadisiya – Al-Fayha",
-    "event_url": "https://livetv.sx/enx/eventinfo/330190740__/",
-    "event_id": "330190740",
-    "date_time": "14 January at 15:45",
-    "competition": "Saudi Arabia. Pro League",
-    "parsed_datetime": "2026-01-14T15:45:00",
-    "logo_alt": "Saudi Arabia. Pro League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Al Quadisiya",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30593.gif"
-      },
-      {
-        "team_name": "Al-Fayha",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30587.gif"
+        "team_name": "Al Bataeh",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33338.gif"
       }
     ],
     "streams": []
@@ -762,48 +793,6 @@
     "streams": []
   },
   {
-    "matchup": "AEK – OFI",
-    "event_url": "https://livetv.sx/enx/eventinfo/332027601__/",
-    "event_id": "332027601",
-    "date_time": "14 January at 16:00",
-    "competition": "Greece. Cup",
-    "parsed_datetime": "2026-01-14T16:00:00",
-    "logo_alt": "Greece. Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "AEK",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12.gif"
-      },
-      {
-        "team_name": "OFI",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16818.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Sharjah – Al Bataeh",
-    "event_url": "https://livetv.sx/enx/eventinfo/330197361__/",
-    "event_id": "330197361",
-    "date_time": "14 January at 16:45",
-    "competition": "UAE. Pro League",
-    "parsed_datetime": "2026-01-14T16:45:00",
-    "logo_alt": "UAE. Pro League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Sharjah",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8132.gif"
-      },
-      {
-        "team_name": "Al Bataeh",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33338.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "A`Ali – Al-Khaldiya",
     "event_url": "https://livetv.sx/enx/eventinfo/332210011__/",
     "event_id": "332210011",
@@ -820,6 +809,27 @@
       {
         "team_name": "Al-Khaldiya",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33152.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "AEK – OFI",
+    "event_url": "https://livetv.sx/enx/eventinfo/332027601__/",
+    "event_id": "332027601",
+    "date_time": "14 January at 16:00",
+    "competition": "Greece. Cup",
+    "parsed_datetime": "2026-01-14T16:00:00",
+    "logo_alt": "Greece. Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "AEK",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12.gif"
+      },
+      {
+        "team_name": "OFI",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16818.gif"
       }
     ],
     "streams": []
@@ -909,43 +919,22 @@
     "streams": []
   },
   {
-    "matchup": "Napoli – Parma",
-    "event_url": "https://livetv.sx/enx/eventinfo/330206828__/",
-    "event_id": "330206828",
-    "date_time": "14 January at 18:30",
-    "competition": "Italy. Serie A",
-    "parsed_datetime": "2026-01-14T18:30:00",
-    "logo_alt": "Italy. Serie A",
+    "matchup": "Kiryat Shmona – Beitar Jerusalem",
+    "event_url": "https://livetv.sx/enx/eventinfo/331675834__/",
+    "event_id": "331675834",
+    "date_time": "14 January at 18:00",
+    "competition": "Israel. State Cup",
+    "parsed_datetime": "2026-01-14T18:00:00",
+    "logo_alt": "Israel. State Cup",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Napoli",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36752.gif"
+        "team_name": "Kiryat Shmona",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/491.gif"
       },
       {
-        "team_name": "Parma",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3765.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Mirassol U-20 –  America de Natal U-20",
-    "event_url": "https://livetv.sx/enx/eventinfo/333910331__/",
-    "event_id": "333910331",
-    "date_time": "14 January at 18:30",
-    "competition": "Brazil. Sao Paulo Youth Cup",
-    "parsed_datetime": "2026-01-14T18:30:00",
-    "logo_alt": "Brazil. Sao Paulo Youth Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Mirassol U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33509.gif"
-      },
-      {
-        "team_name": "America de Natal U-20",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4001.gif"
+        "team_name": "Beitar Jerusalem",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1128.gif"
       }
     ],
     "streams": []
@@ -972,22 +961,43 @@
     "streams": []
   },
   {
-    "matchup": "Kiryat Shmona – Beitar Jerusalem",
-    "event_url": "https://livetv.sx/enx/eventinfo/331675834__/",
-    "event_id": "331675834",
-    "date_time": "14 January at 18:00",
-    "competition": "Israel. State Cup",
-    "parsed_datetime": "2026-01-14T18:00:00",
-    "logo_alt": "Israel. State Cup",
+    "matchup": "Mirassol U-20 –  America de Natal U-20",
+    "event_url": "https://livetv.sx/enx/eventinfo/333910331__/",
+    "event_id": "333910331",
+    "date_time": "14 January at 18:30",
+    "competition": "Brazil. Sao Paulo Youth Cup",
+    "parsed_datetime": "2026-01-14T18:30:00",
+    "logo_alt": "Brazil. Sao Paulo Youth Cup",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Kiryat Shmona",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/491.gif"
+        "team_name": "Mirassol U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33509.gif"
       },
       {
-        "team_name": "Beitar Jerusalem",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1128.gif"
+        "team_name": "America de Natal U-20",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4001.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Napoli – Parma",
+    "event_url": "https://livetv.sx/enx/eventinfo/330206828__/",
+    "event_id": "330206828",
+    "date_time": "14 January at 18:30",
+    "competition": "Italy. Serie A",
+    "parsed_datetime": "2026-01-14T18:30:00",
+    "logo_alt": "Italy. Serie A",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Napoli",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36752.gif"
+      },
+      {
+        "team_name": "Parma",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3765.gif"
       }
     ],
     "streams": []
@@ -1056,27 +1066,6 @@
     "streams": []
   },
   {
-    "matchup": "Den Bosch – PSV",
-    "event_url": "https://livetv.sx/enx/eventinfo/330365071__/",
-    "event_id": "330365071",
-    "date_time": "14 January at 18:45",
-    "competition": "Netherlands. KNVB Cup",
-    "parsed_datetime": "2026-01-14T18:45:00",
-    "logo_alt": "Netherlands. KNVB Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Den Bosch",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6941.gif"
-      },
-      {
-        "team_name": "PSV",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/472.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Wolfsburg – St Pauli",
     "event_url": "https://livetv.sx/enx/eventinfo/330206420__/",
     "event_id": "330206420",
@@ -1098,6 +1087,27 @@
     "streams": []
   },
   {
+    "matchup": "Den Bosch – PSV",
+    "event_url": "https://livetv.sx/enx/eventinfo/330365071__/",
+    "event_id": "330365071",
+    "date_time": "14 January at 18:45",
+    "competition": "Netherlands. KNVB Cup",
+    "parsed_datetime": "2026-01-14T18:45:00",
+    "logo_alt": "Netherlands. KNVB Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Den Bosch",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6941.gif"
+      },
+      {
+        "team_name": "PSV",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/472.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Laguna – Quinho",
     "event_url": "https://livetv.sx/enx/eventinfo/331439872__/",
     "event_id": "331439872",
@@ -1114,6 +1124,69 @@
       {
         "team_name": "Quinho",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36844.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Marseille (W) –  Saint Etienne (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/333979828__/",
+    "event_id": "333979828",
+    "date_time": "14 January at 19:00",
+    "competition": "France. Women. Division 1",
+    "parsed_datetime": "2026-01-14T19:00:00",
+    "logo_alt": "France. Women. Division 1",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Marseille (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9422.gif"
+      },
+      {
+        "team_name": "Saint Etienne (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/28317.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Maguary PE – Santa Cruz",
+    "event_url": "https://livetv.sx/enx/eventinfo/331402921__/",
+    "event_id": "331402921",
+    "date_time": "14 January at 19:00",
+    "competition": "Brazil. Campeonato Pernambucano",
+    "parsed_datetime": "2026-01-14T19:00:00",
+    "logo_alt": "Brazil. Campeonato Pernambucano",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Maguary PE",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25243.gif"
+      },
+      {
+        "team_name": "Santa Cruz",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6269.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Democrata GV – America Mineiro",
+    "event_url": "https://livetv.sx/enx/eventinfo/333979822__/",
+    "event_id": "333979822",
+    "date_time": "14 January at 19:00",
+    "competition": "Brazil. Campeonato Mineiro",
+    "parsed_datetime": "2026-01-14T19:00:00",
+    "logo_alt": "Brazil. Campeonato Mineiro",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Democrata GV",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20058.gif"
+      },
+      {
+        "team_name": "America Mineiro",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/826.gif"
       }
     ],
     "streams": []
@@ -1161,69 +1234,6 @@
     "streams": []
   },
   {
-    "matchup": "Maguary PE – Santa Cruz",
-    "event_url": "https://livetv.sx/enx/eventinfo/331402921__/",
-    "event_id": "331402921",
-    "date_time": "14 January at 19:00",
-    "competition": "Brazil. Campeonato Pernambucano",
-    "parsed_datetime": "2026-01-14T19:00:00",
-    "logo_alt": "Brazil. Campeonato Pernambucano",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Maguary PE",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25243.gif"
-      },
-      {
-        "team_name": "Santa Cruz",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6269.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Marseille (W) –  Saint Etienne (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/333979828__/",
-    "event_id": "333979828",
-    "date_time": "14 January at 19:00",
-    "competition": "France. Women. Division 1",
-    "parsed_datetime": "2026-01-14T19:00:00",
-    "logo_alt": "France. Women. Division 1",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Marseille (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9422.gif"
-      },
-      {
-        "team_name": "Saint Etienne (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/28317.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Democrata GV – America Mineiro",
-    "event_url": "https://livetv.sx/enx/eventinfo/333979822__/",
-    "event_id": "333979822",
-    "date_time": "14 January at 19:00",
-    "competition": "Brazil. Campeonato Mineiro",
-    "parsed_datetime": "2026-01-14T19:00:00",
-    "logo_alt": "Brazil. Campeonato Mineiro",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Democrata GV",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20058.gif"
-      },
-      {
-        "team_name": "America Mineiro",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/826.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Ceara U-20 –  Gremio Prudente U-20",
     "event_url": "https://livetv.sx/enx/eventinfo/333897415__/",
     "event_id": "333897415",
@@ -1240,6 +1250,27 @@
       {
         "team_name": "Gremio Prudente U-20",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33689.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Hapoel Tel Aviv – Maccabi Tel Aviv",
+    "event_url": "https://livetv.sx/enx/eventinfo/331675836__/",
+    "event_id": "331675836",
+    "date_time": "14 January at 19:30",
+    "competition": "Israel. State Cup",
+    "parsed_datetime": "2026-01-14T19:30:00",
+    "logo_alt": "Israel. State Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Hapoel Tel Aviv",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/493.gif"
+      },
+      {
+        "team_name": "Maccabi Tel Aviv",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30165.gif"
       }
     ],
     "streams": []
@@ -1287,22 +1318,22 @@
     "streams": []
   },
   {
-    "matchup": "Hapoel Tel Aviv – Maccabi Tel Aviv",
-    "event_url": "https://livetv.sx/enx/eventinfo/331675836__/",
-    "event_id": "331675836",
-    "date_time": "14 January at 19:30",
-    "competition": "Israel. State Cup",
-    "parsed_datetime": "2026-01-14T19:30:00",
-    "logo_alt": "Israel. State Cup",
+    "matchup": "AD Fafe – Braga",
+    "event_url": "https://livetv.sx/enx/eventinfo/330365076__/",
+    "event_id": "330365076",
+    "date_time": "14 January at 19:45",
+    "competition": "Portugal. Cup",
+    "parsed_datetime": "2026-01-14T19:45:00",
+    "logo_alt": "Portugal. Cup",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Hapoel Tel Aviv",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/493.gif"
+        "team_name": "AD Fafe",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10228.gif"
       },
       {
-        "team_name": "Maccabi Tel Aviv",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30165.gif"
+        "team_name": "Braga",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3775.gif"
       }
     ],
     "streams": []
@@ -1329,27 +1360,6 @@
     "streams": []
   },
   {
-    "matchup": "AD Fafe – Braga",
-    "event_url": "https://livetv.sx/enx/eventinfo/330365076__/",
-    "event_id": "330365076",
-    "date_time": "14 January at 19:45",
-    "competition": "Portugal. Cup",
-    "parsed_datetime": "2026-01-14T19:45:00",
-    "logo_alt": "Portugal. Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "AD Fafe",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10228.gif"
-      },
-      {
-        "team_name": "Braga",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3775.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Northampton Town – Walsall",
     "event_url": "https://livetv.sx/enx/eventinfo/330006974__/",
     "event_id": "330006974",
@@ -1366,39 +1376,6 @@
       {
         "team_name": "Walsall",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4064.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Simulcast",
-    "event_url": "https://livetv.sx/enx/eventinfo/333979820_simulcast/",
-    "event_id": "333979820",
-    "date_time": "14 January at 20:30",
-    "competition": "Germany. Bundesliga",
-    "parsed_datetime": "2026-01-14T20:30:00",
-    "logo_alt": "Germany. Bundesliga",
-    "is_live": false,
-    "team_logos": [],
-    "streams": []
-  },
-  {
-    "matchup": "Hoffenheim – Borussia M",
-    "event_url": "https://livetv.sx/enx/eventinfo/330222124__/",
-    "event_id": "330222124",
-    "date_time": "14 January at 20:30",
-    "competition": "Germany. Bundesliga",
-    "parsed_datetime": "2026-01-14T20:30:00",
-    "logo_alt": "Germany. Bundesliga",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Hoffenheim",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/31.gif"
-      },
-      {
-        "team_name": "Borussia M",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/508.gif"
       }
     ],
     "streams": []
@@ -1425,9 +1402,9 @@
     "streams": []
   },
   {
-    "matchup": "Servette – Lausanne",
-    "event_url": "https://livetv.sx/enx/eventinfo/330224728__/",
-    "event_id": "330224728",
+    "matchup": "Sion – Winterthur",
+    "event_url": "https://livetv.sx/enx/eventinfo/333698990_sion_winterthur/",
+    "event_id": "333698990",
     "date_time": "14 January at 20:30",
     "competition": "Switzerland. Super League",
     "parsed_datetime": "2026-01-14T20:30:00",
@@ -1435,14 +1412,26 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Servette",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34727.gif"
+        "team_name": "Sion",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/49875.gif"
       },
       {
-        "team_name": "Lausanne",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/642.gif"
+        "team_name": "Winterthur",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/3643.gif"
       }
     ],
+    "streams": []
+  },
+  {
+    "matchup": "Simulcast",
+    "event_url": "https://livetv.sx/enx/eventinfo/333979820_simulcast/",
+    "event_id": "333979820",
+    "date_time": "14 January at 20:30",
+    "competition": "Germany. Bundesliga",
+    "parsed_datetime": "2026-01-14T20:30:00",
+    "logo_alt": "Germany. Bundesliga",
+    "is_live": false,
+    "team_logos": [],
     "streams": []
   },
   {
@@ -1467,43 +1456,22 @@
     "streams": []
   },
   {
-    "matchup": "Sion – Winterthur",
-    "event_url": "https://livetv.sx/enx/eventinfo/333698990_sion_winterthur/",
-    "event_id": "333698990",
+    "matchup": "Hoffenheim – Borussia M",
+    "event_url": "https://livetv.sx/enx/eventinfo/330222124__/",
+    "event_id": "330222124",
     "date_time": "14 January at 20:30",
-    "competition": "Switzerland. Super League",
+    "competition": "Germany. Bundesliga",
     "parsed_datetime": "2026-01-14T20:30:00",
-    "logo_alt": "Switzerland. Super League",
+    "logo_alt": "Germany. Bundesliga",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Sion",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/49875.gif"
+        "team_name": "Hoffenheim",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/31.gif"
       },
       {
-        "team_name": "Winterthur",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/3643.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Dender EH – Union Saint-Gilloise",
-    "event_url": "https://livetv.sx/enx/eventinfo/330221973__/",
-    "event_id": "330221973",
-    "date_time": "14 January at 20:30",
-    "competition": "Belgium. Cup",
-    "parsed_datetime": "2026-01-14T20:30:00",
-    "logo_alt": "Belgium. Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Dender EH",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16013.gif"
-      },
-      {
-        "team_name": "Union Saint-Gilloise",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33406.gif"
+        "team_name": "Borussia M",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/508.gif"
       }
     ],
     "streams": []
@@ -1530,6 +1498,27 @@
     "streams": []
   },
   {
+    "matchup": "Dender EH – Union Saint-Gilloise",
+    "event_url": "https://livetv.sx/enx/eventinfo/330221973__/",
+    "event_id": "330221973",
+    "date_time": "14 January at 20:30",
+    "competition": "Belgium. Cup",
+    "parsed_datetime": "2026-01-14T20:30:00",
+    "logo_alt": "Belgium. Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Dender EH",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16013.gif"
+      },
+      {
+        "team_name": "Union Saint-Gilloise",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33406.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Inter – Lecce",
     "event_url": "https://livetv.sx/enx/eventinfo/330226715__/",
     "event_id": "330226715",
@@ -1546,6 +1535,27 @@
       {
         "team_name": "Lecce",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3764.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Servette – Lausanne",
+    "event_url": "https://livetv.sx/enx/eventinfo/330224728__/",
+    "event_id": "330224728",
+    "date_time": "14 January at 20:30",
+    "competition": "Switzerland. Super League",
+    "parsed_datetime": "2026-01-14T20:30:00",
+    "logo_alt": "Switzerland. Super League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Servette",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34727.gif"
+      },
+      {
+        "team_name": "Lausanne",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/642.gif"
       }
     ],
     "streams": []
@@ -1593,27 +1603,6 @@
     "streams": []
   },
   {
-    "matchup": "Chelsea – Arsenal",
-    "event_url": "https://livetv.sx/enx/eventinfo/330226004__/",
-    "event_id": "330226004",
-    "date_time": "14 January at 21:00",
-    "competition": "England. League Cup",
-    "parsed_datetime": "2026-01-14T21:00:00",
-    "logo_alt": "England. League Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Chelsea",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/140.gif"
-      },
-      {
-        "team_name": "Arsenal",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/142.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Lincoln Red Imps – St Josephs",
     "event_url": "https://livetv.sx/enx/eventinfo/310175804__/",
     "event_id": "310175804",
@@ -1630,6 +1619,27 @@
       {
         "team_name": "St Josephs",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/955.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Chelsea – Arsenal",
+    "event_url": "https://livetv.sx/enx/eventinfo/330226004__/",
+    "event_id": "330226004",
+    "date_time": "14 January at 21:00",
+    "competition": "England. League Cup",
+    "parsed_datetime": "2026-01-14T21:00:00",
+    "logo_alt": "England. League Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Chelsea",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/140.gif"
+      },
+      {
+        "team_name": "Arsenal",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/142.gif"
       }
     ],
     "streams": []
@@ -1698,6 +1708,27 @@
     "streams": []
   },
   {
+    "matchup": "Real Betis – Elche",
+    "event_url": "https://livetv.sx/enx/eventinfo/332235205__/",
+    "event_id": "332235205",
+    "date_time": "14 January at 21:00",
+    "competition": "Spain. Copa del Rey",
+    "parsed_datetime": "2026-01-14T21:00:00",
+    "logo_alt": "Spain. Copa del Rey",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Real Betis",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/42.gif"
+      },
+      {
+        "team_name": "Elche",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3876.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Chile – Germany",
     "event_url": "https://livetv.sx/enx/eventinfo/333838359_chile_germany/",
     "event_id": "333838359",
@@ -1761,9 +1792,9 @@
     "streams": []
   },
   {
-    "matchup": "Real Betis – Elche",
-    "event_url": "https://livetv.sx/enx/eventinfo/332235205__/",
-    "event_id": "332235205",
+    "matchup": "Alaves – Rayo Vallecano",
+    "event_url": "https://livetv.sx/enx/eventinfo/332235211__/",
+    "event_id": "332235211",
     "date_time": "14 January at 21:00",
     "competition": "Spain. Copa del Rey",
     "parsed_datetime": "2026-01-14T21:00:00",
@@ -1771,33 +1802,12 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Real Betis",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/42.gif"
+        "team_name": "Alaves",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/17058.gif"
       },
       {
-        "team_name": "Elche",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3876.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Volta Redonda – Boavista SC",
-    "event_url": "https://livetv.sx/enx/eventinfo/330226161__/",
-    "event_id": "330226161",
-    "date_time": "14 January at 21:00",
-    "competition": "Brazil. Campeonato Carioca",
-    "parsed_datetime": "2026-01-14T21:00:00",
-    "logo_alt": "Brazil. Campeonato Carioca",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Volta Redonda",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33143.gif"
-      },
-      {
-        "team_name": "Boavista SC",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33569.gif"
+        "team_name": "Rayo Vallecano",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/678.gif"
       }
     ],
     "streams": []
@@ -1824,6 +1834,27 @@
     "streams": []
   },
   {
+    "matchup": "Volta Redonda – Boavista SC",
+    "event_url": "https://livetv.sx/enx/eventinfo/330226161__/",
+    "event_id": "330226161",
+    "date_time": "14 January at 21:00",
+    "competition": "Brazil. Campeonato Carioca",
+    "parsed_datetime": "2026-01-14T21:00:00",
+    "logo_alt": "Brazil. Campeonato Carioca",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Volta Redonda",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33143.gif"
+      },
+      {
+        "team_name": "Boavista SC",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33569.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Spain – USA",
     "event_url": "https://livetv.sx/enx/eventinfo/333838360_spain_usa/",
     "event_id": "333838360",
@@ -1840,27 +1871,6 @@
       {
         "team_name": "USA",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/257.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Alaves – Rayo Vallecano",
-    "event_url": "https://livetv.sx/enx/eventinfo/332235211__/",
-    "event_id": "332235211",
-    "date_time": "14 January at 21:00",
-    "competition": "Spain. Copa del Rey",
-    "parsed_datetime": "2026-01-14T21:00:00",
-    "logo_alt": "Spain. Copa del Rey",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Alaves",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/17058.gif"
-      },
-      {
-        "team_name": "Rayo Vallecano",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/678.gif"
       }
     ],
     "streams": []
@@ -1887,27 +1897,6 @@
     "streams": []
   },
   {
-    "matchup": "Ituano – Votuporanguense",
-    "event_url": "https://livetv.sx/enx/eventinfo/330234827__/",
-    "event_id": "330234827",
-    "date_time": "14 January at 22:30",
-    "competition": "Brazil. Campeonato Paulista 2",
-    "parsed_datetime": "2026-01-14T22:30:00",
-    "logo_alt": "Brazil. Campeonato Paulista 2",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Ituano",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6253.gif"
-      },
-      {
-        "team_name": "Votuporanguense",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7123.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Chapecoense U-20 –  Gremio RS U-20",
     "event_url": "https://livetv.sx/enx/eventinfo/333910334__/",
     "event_id": "333910334",
@@ -1924,6 +1913,27 @@
       {
         "team_name": "Gremio RS U-20",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9080.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Ituano – Votuporanguense",
+    "event_url": "https://livetv.sx/enx/eventinfo/330234827__/",
+    "event_id": "330234827",
+    "date_time": "14 January at 22:30",
+    "competition": "Brazil. Campeonato Paulista 2",
+    "parsed_datetime": "2026-01-14T22:30:00",
+    "logo_alt": "Brazil. Campeonato Paulista 2",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Ituano",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6253.gif"
+      },
+      {
+        "team_name": "Votuporanguense",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7123.gif"
       }
     ],
     "streams": []
@@ -1950,39 +1960,6 @@
     "streams": []
   },
   {
-    "matchup": "Galo Maringa – Foz do Iguacu",
-    "event_url": "https://livetv.sx/enx/eventinfo/330243730__/",
-    "event_id": "330243730",
-    "date_time": "14 January at 23:00",
-    "competition": "Brazil. Campeonato Paranaense",
-    "parsed_datetime": "2026-01-14T23:00:00",
-    "logo_alt": "Brazil. Campeonato Paranaense",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Galo Maringa",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/28630.gif"
-      },
-      {
-        "team_name": "Foz do Iguacu",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36861.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Botafogo SP U20 – Guanabara City U20",
-    "event_url": "https://livetv.sx/enx/eventinfo/334048560_botafogo_sp_u20_guanabara_city_u20/",
-    "event_id": "334048560",
-    "date_time": "14 January at 23:30",
-    "competition": "Brazil. Sao Paulo Youth Cup",
-    "parsed_datetime": "2026-01-14T23:30:00",
-    "logo_alt": "Brazil. Sao Paulo Youth Cup",
-    "is_live": false,
-    "team_logos": [],
-    "streams": []
-  },
-  {
     "matchup": "Primavera – Mirassol",
     "event_url": "https://livetv.sx/enx/eventinfo/330243741__/",
     "event_id": "330243741",
@@ -1999,6 +1976,27 @@
       {
         "team_name": "Mirassol",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30289.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Galo Maringa – Foz do Iguacu",
+    "event_url": "https://livetv.sx/enx/eventinfo/330243730__/",
+    "event_id": "330243730",
+    "date_time": "14 January at 23:00",
+    "competition": "Brazil. Campeonato Paranaense",
+    "parsed_datetime": "2026-01-14T23:00:00",
+    "logo_alt": "Brazil. Campeonato Paranaense",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Galo Maringa",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/28630.gif"
+      },
+      {
+        "team_name": "Foz do Iguacu",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36861.gif"
       }
     ],
     "streams": []
@@ -2025,6 +2023,18 @@
     "streams": []
   },
   {
+    "matchup": "Botafogo SP U20 – Guanabara City U20",
+    "event_url": "https://livetv.sx/enx/eventinfo/334048560_botafogo_sp_u20_guanabara_city_u20/",
+    "event_id": "334048560",
+    "date_time": "14 January at 23:30",
+    "competition": "Brazil. Sao Paulo Youth Cup",
+    "parsed_datetime": "2026-01-14T23:30:00",
+    "logo_alt": "Brazil. Sao Paulo Youth Cup",
+    "is_live": false,
+    "team_logos": [],
+    "streams": []
+  },
+  {
     "matchup": "Fluminense – Madureira",
     "event_url": "https://livetv.sx/enx/eventinfo/330252746__/",
     "event_id": "330252746",
@@ -2046,27 +2056,6 @@
     "streams": []
   },
   {
-    "matchup": "North – Atletico-MG",
-    "event_url": "https://livetv.sx/enx/eventinfo/333979823__/",
-    "event_id": "333979823",
-    "date_time": "14 January at 23:30",
-    "competition": "Brazil. Campeonato Mineiro",
-    "parsed_datetime": "2026-01-14T23:30:00",
-    "logo_alt": "Brazil. Campeonato Mineiro",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "North",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26460.gif"
-      },
-      {
-        "team_name": "Atletico-MG",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/432.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Agua Santa – Linense",
     "event_url": "https://livetv.sx/enx/eventinfo/330234830__/",
     "event_id": "330234830",
@@ -2083,6 +2072,27 @@
       {
         "team_name": "Linense",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12863.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "North – Atletico-MG",
+    "event_url": "https://livetv.sx/enx/eventinfo/333979823__/",
+    "event_id": "333979823",
+    "date_time": "14 January at 23:30",
+    "competition": "Brazil. Campeonato Mineiro",
+    "parsed_datetime": "2026-01-14T23:30:00",
+    "logo_alt": "Brazil. Campeonato Mineiro",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "North",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26460.gif"
+      },
+      {
+        "team_name": "Atletico-MG",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/432.gif"
       }
     ],
     "streams": []
