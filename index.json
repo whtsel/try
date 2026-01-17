@@ -61,7 +61,7 @@
     "competition": "Friendly Match. National Teams",
     "parsed_datetime": "2026-01-17T05:00:00",
     "logo_alt": "Friendly Match. National Teams",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [],
     "streams": [
       {
@@ -73,6 +73,90 @@
         "stream_type": ""
       }
     ]
+  },
+  {
+    "matchup": "Chelsea – Brentford",
+    "event_url": "https://livetv.sx/enx/eventinfo/330816677__/",
+    "event_id": "330816677",
+    "date_time": "17 January at 16:00",
+    "competition": "England. Premier League",
+    "parsed_datetime": "2026-01-17T16:00:00",
+    "logo_alt": "England. Premier League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Chelsea",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/140.gif"
+      },
+      {
+        "team_name": "Brentford",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3908.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Leeds Utd – Fulham",
+    "event_url": "https://livetv.sx/enx/eventinfo/330816676__/",
+    "event_id": "330816676",
+    "date_time": "17 January at 16:00",
+    "competition": "England. Premier League",
+    "parsed_datetime": "2026-01-17T16:00:00",
+    "logo_alt": "England. Premier League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Leeds Utd",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8992.gif"
+      },
+      {
+        "team_name": "Fulham",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/148.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Adelaide United (W) –  Melbourne Victory (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/330729826__/",
+    "event_id": "330729826",
+    "date_time": "17 January at 6:50",
+    "competition": "Australia. Women. A-League",
+    "parsed_datetime": "2026-01-17T06:50:00",
+    "logo_alt": "Australia. Women. A-League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Adelaide United (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10923.gif"
+      },
+      {
+        "team_name": "Melbourne Victory (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/11018.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Tottenham – West Ham United",
+    "event_url": "https://livetv.sx/enx/eventinfo/330816673__/",
+    "event_id": "330816673",
+    "date_time": "17 January at 16:00",
+    "competition": "England. Premier League",
+    "parsed_datetime": "2026-01-17T16:00:00",
+    "logo_alt": "England. Premier League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Tottenham",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8962.gif"
+      },
+      {
+        "team_name": "West Ham United",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/149.gif"
+      }
+    ],
+    "streams": []
   },
   {
     "matchup": "Leon (W) –  UANL (W)",
@@ -135,27 +219,6 @@
     ]
   },
   {
-    "matchup": "Adelaide United (W) –  Melbourne Victory (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/330729826__/",
-    "event_id": "330729826",
-    "date_time": "17 January at 6:50",
-    "competition": "Australia. Women. A-League",
-    "parsed_datetime": "2026-01-17T06:50:00",
-    "logo_alt": "Australia. Women. A-League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Adelaide United (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10923.gif"
-      },
-      {
-        "team_name": "Melbourne Victory (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/11018.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Sunderland – Crystal Palace",
     "event_url": "https://livetv.sx/enx/eventinfo/330816674__/",
     "event_id": "330816674",
@@ -172,27 +235,6 @@
       {
         "team_name": "Crystal Palace",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1111.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Leeds Utd – Fulham",
-    "event_url": "https://livetv.sx/enx/eventinfo/330816676__/",
-    "event_id": "330816676",
-    "date_time": "17 January at 16:00",
-    "competition": "England. Premier League",
-    "parsed_datetime": "2026-01-17T16:00:00",
-    "logo_alt": "England. Premier League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Leeds Utd",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8992.gif"
-      },
-      {
-        "team_name": "Fulham",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/148.gif"
       }
     ],
     "streams": []
@@ -255,6 +297,14 @@
         "stream_type": "Voodc"
       },
       {
+        "language": "Serbian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924564&lang=en&eid=330700549&lid=2924564&ci=68&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
         "language": "Spanish",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
         "bitrate": "Bit Rate (Kbps)",
@@ -269,55 +319,26 @@
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2929649&lang=en&eid=330700549&lid=2929649&ci=68&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
-      },
-      {
-        "language": "Serbian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924564&lang=en&eid=330700549&lid=2924564&ci=68&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
       }
     ]
   },
   {
-    "matchup": "Chelsea – Brentford",
-    "event_url": "https://livetv.sx/enx/eventinfo/330816677__/",
-    "event_id": "330816677",
-    "date_time": "17 January at 16:00",
+    "matchup": "Nottingham Forest – Arsenal",
+    "event_url": "https://livetv.sx/enx/eventinfo/330849583__/",
+    "event_id": "330849583",
+    "date_time": "17 January at 18:30",
     "competition": "England. Premier League",
-    "parsed_datetime": "2026-01-17T16:00:00",
+    "parsed_datetime": "2026-01-17T18:30:00",
     "logo_alt": "England. Premier League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Chelsea",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/140.gif"
+        "team_name": "Nottingham Forest",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3905.gif"
       },
       {
-        "team_name": "Brentford",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3908.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Mallorca – Athletic Bilbao",
-    "event_url": "https://livetv.sx/enx/eventinfo/330823453__/",
-    "event_id": "330823453",
-    "date_time": "17 January at 16:15",
-    "competition": "Spain. Primera Division",
-    "parsed_datetime": "2026-01-17T16:15:00",
-    "logo_alt": "Spain. Primera Division",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Mallorca",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3768.gif"
-      },
-      {
-        "team_name": "Athletic Bilbao",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/44.gif"
+        "team_name": "Arsenal",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/142.gif"
       }
     ],
     "streams": []
@@ -344,57 +365,24 @@
     "streams": []
   },
   {
-    "matchup": "Nottingham Forest – Arsenal",
-    "event_url": "https://livetv.sx/enx/eventinfo/330849583__/",
-    "event_id": "330849583",
-    "date_time": "17 January at 18:30",
-    "competition": "England. Premier League",
-    "parsed_datetime": "2026-01-17T18:30:00",
-    "logo_alt": "England. Premier League",
+    "matchup": "Mallorca – Athletic Bilbao",
+    "event_url": "https://livetv.sx/enx/eventinfo/330823453__/",
+    "event_id": "330823453",
+    "date_time": "17 January at 16:15",
+    "competition": "Spain. Primera Division",
+    "parsed_datetime": "2026-01-17T16:15:00",
+    "logo_alt": "Spain. Primera Division",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Nottingham Forest",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3905.gif"
+        "team_name": "Mallorca",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3768.gif"
       },
       {
-        "team_name": "Arsenal",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/142.gif"
+        "team_name": "Athletic Bilbao",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/44.gif"
       }
     ],
-    "streams": []
-  },
-  {
-    "matchup": "Tottenham – West Ham United",
-    "event_url": "https://livetv.sx/enx/eventinfo/330816673__/",
-    "event_id": "330816673",
-    "date_time": "17 January at 16:00",
-    "competition": "England. Premier League",
-    "parsed_datetime": "2026-01-17T16:00:00",
-    "logo_alt": "England. Premier League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Tottenham",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8962.gif"
-      },
-      {
-        "team_name": "West Ham United",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/149.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Army – Esra",
-    "event_url": "https://livetv.sx/enx/eventinfo/334727817_army_esra/",
-    "event_id": "334727817",
-    "date_time": "17 January at 8:00",
-    "competition": "Friendly Tournament",
-    "parsed_datetime": "2026-01-17T08:00:00",
-    "logo_alt": "Friendly Tournament",
-    "is_live": false,
-    "team_logos": [],
     "streams": []
   },
   {
@@ -452,6 +440,18 @@
     "streams": []
   },
   {
+    "matchup": "Army – Esra",
+    "event_url": "https://livetv.sx/enx/eventinfo/334727817_army_esra/",
+    "event_id": "334727817",
+    "date_time": "17 January at 8:00",
+    "competition": "Friendly Tournament",
+    "parsed_datetime": "2026-01-17T08:00:00",
+    "logo_alt": "Friendly Tournament",
+    "is_live": false,
+    "team_logos": [],
+    "streams": []
+  },
+  {
     "matchup": "AC Taipei (W) –  Hualien (W)",
     "event_url": "https://livetv.sx/enx/eventinfo/334830037__/",
     "event_id": "334830037",
@@ -468,6 +468,48 @@
       {
         "team_name": "Hualien (W)",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35992.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Immigration – Negeri Sembilan",
+    "event_url": "https://livetv.sx/enx/eventinfo/334749508__/",
+    "event_id": "334749508",
+    "date_time": "17 January at 9:45",
+    "competition": "Malaysia. Cup",
+    "parsed_datetime": "2026-01-17T09:45:00",
+    "logo_alt": "Malaysia. Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Immigration",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34944.gif"
+      },
+      {
+        "team_name": "Negeri Sembilan",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32658.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Ayeyawady United – Yangon United",
+    "event_url": "https://livetv.sx/enx/eventinfo/334666440__/",
+    "event_id": "334666440",
+    "date_time": "17 January at 10:00",
+    "competition": "Myanmar. National League",
+    "parsed_datetime": "2026-01-17T10:00:00",
+    "logo_alt": "Myanmar. National League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Ayeyawady United",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7309.gif"
+      },
+      {
+        "team_name": "Yangon United",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33955.gif"
       }
     ],
     "streams": []
@@ -515,48 +557,6 @@
     "streams": []
   },
   {
-    "matchup": "Ayeyawady United – Yangon United",
-    "event_url": "https://livetv.sx/enx/eventinfo/334666440__/",
-    "event_id": "334666440",
-    "date_time": "17 January at 10:00",
-    "competition": "Myanmar. National League",
-    "parsed_datetime": "2026-01-17T10:00:00",
-    "logo_alt": "Myanmar. National League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Ayeyawady United",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7309.gif"
-      },
-      {
-        "team_name": "Yangon United",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33955.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Immigration – Negeri Sembilan",
-    "event_url": "https://livetv.sx/enx/eventinfo/334749508__/",
-    "event_id": "334749508",
-    "date_time": "17 January at 9:45",
-    "competition": "Malaysia. Cup",
-    "parsed_datetime": "2026-01-17T09:45:00",
-    "logo_alt": "Malaysia. Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Immigration",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34944.gif"
-      },
-      {
-        "team_name": "Negeri Sembilan",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32658.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Shan United – Thitsar Arman",
     "event_url": "https://livetv.sx/enx/eventinfo/334666441__/",
     "event_id": "334666441",
@@ -573,27 +573,6 @@
       {
         "team_name": "Thitsar Arman",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33956.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "ISPE – Yadanarbon",
-    "event_url": "https://livetv.sx/enx/eventinfo/334666442__/",
-    "event_id": "334666442",
-    "date_time": "17 January at 10:30",
-    "competition": "Myanmar. National League",
-    "parsed_datetime": "2026-01-17T10:30:00",
-    "logo_alt": "Myanmar. National League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "ISPE",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36341.gif"
-      },
-      {
-        "team_name": "Yadanarbon",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7311.gif"
       }
     ],
     "streams": []
@@ -620,43 +599,22 @@
     "streams": []
   },
   {
-    "matchup": "Ayutthaya Utd – Uthai Thani",
-    "event_url": "https://livetv.sx/enx/eventinfo/330780756__/",
-    "event_id": "330780756",
-    "date_time": "17 January at 12:00",
-    "competition": "Thailand. Thai League 1",
-    "parsed_datetime": "2026-01-17T12:00:00",
-    "logo_alt": "Thailand. Thai League 1",
+    "matchup": "ISPE – Yadanarbon",
+    "event_url": "https://livetv.sx/enx/eventinfo/334666442__/",
+    "event_id": "334666442",
+    "date_time": "17 January at 10:30",
+    "competition": "Myanmar. National League",
+    "parsed_datetime": "2026-01-17T10:30:00",
+    "logo_alt": "Myanmar. National League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Ayutthaya Utd",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8226.gif"
+        "team_name": "ISPE",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36341.gif"
       },
       {
-        "team_name": "Uthai Thani",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30511.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Hatayspor – Manisa",
-    "event_url": "https://livetv.sx/enx/eventinfo/330776312__/",
-    "event_id": "330776312",
-    "date_time": "17 January at 11:30",
-    "competition": "Turkey. 1 Lig",
-    "parsed_datetime": "2026-01-17T11:30:00",
-    "logo_alt": "Turkey. 1 Lig",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Hatayspor",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5333.gif"
-      },
-      {
-        "team_name": "Manisa",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6188.gif"
+        "team_name": "Yadanarbon",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7311.gif"
       }
     ],
     "streams": []
@@ -683,6 +641,27 @@
     "streams": []
   },
   {
+    "matchup": "Hatayspor – Manisa",
+    "event_url": "https://livetv.sx/enx/eventinfo/330776312__/",
+    "event_id": "330776312",
+    "date_time": "17 January at 11:30",
+    "competition": "Turkey. 1 Lig",
+    "parsed_datetime": "2026-01-17T11:30:00",
+    "logo_alt": "Turkey. 1 Lig",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Hatayspor",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5333.gif"
+      },
+      {
+        "team_name": "Manisa",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6188.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Bandirmaspor – Pendikspor",
     "event_url": "https://livetv.sx/enx/eventinfo/330776313__/",
     "event_id": "330776313",
@@ -704,85 +683,22 @@
     "streams": []
   },
   {
-    "matchup": "Levante (W) –  Real Madrid (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/330778728__/",
-    "event_id": "330778728",
+    "matchup": "Ayutthaya Utd – Uthai Thani",
+    "event_url": "https://livetv.sx/enx/eventinfo/330780756__/",
+    "event_id": "330780756",
     "date_time": "17 January at 12:00",
-    "competition": "Spain. Women. Primera Division",
+    "competition": "Thailand. Thai League 1",
     "parsed_datetime": "2026-01-17T12:00:00",
-    "logo_alt": "Spain. Women. Primera Division",
+    "logo_alt": "Thailand. Thai League 1",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Levante (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9487.gif"
+        "team_name": "Ayutthaya Utd",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8226.gif"
       },
       {
-        "team_name": "Real Madrid (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9488.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Granada (W) –  Logrono (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/330778727__/",
-    "event_id": "330778727",
-    "date_time": "17 January at 12:00",
-    "competition": "Spain. Women. Primera Division",
-    "parsed_datetime": "2026-01-17T12:00:00",
-    "logo_alt": "Spain. Women. Primera Division",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Granada (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20044.gif"
-      },
-      {
-        "team_name": "Logrono (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/28100.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Phrae – Kasetsart",
-    "event_url": "https://livetv.sx/enx/eventinfo/334132878__/",
-    "event_id": "334132878",
-    "date_time": "17 January at 12:00",
-    "competition": "Thailand. Thai League 2",
-    "parsed_datetime": "2026-01-17T12:00:00",
-    "logo_alt": "Thailand. Thai League 2",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Phrae",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8214.gif"
-      },
-      {
-        "team_name": "Kasetsart",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8225.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Parnu Vaprus – Flora",
-    "event_url": "https://livetv.sx/enx/eventinfo/334732231__/",
-    "event_id": "334732231",
-    "date_time": "17 January at 12:00",
-    "competition": "Estonia. Winter Tournament",
-    "parsed_datetime": "2026-01-17T12:00:00",
-    "logo_alt": "Estonia. Winter Tournament",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Parnu Vaprus",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4116.gif"
-      },
-      {
-        "team_name": "Flora",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30367.gif"
+        "team_name": "Uthai Thani",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30511.gif"
       }
     ],
     "streams": []
@@ -809,43 +725,85 @@
     "streams": []
   },
   {
-    "matchup": "Farense – Oliveirense",
-    "event_url": "https://livetv.sx/enx/eventinfo/330780371__/",
-    "event_id": "330780371",
+    "matchup": "Phrae – Kasetsart",
+    "event_url": "https://livetv.sx/enx/eventinfo/334132878__/",
+    "event_id": "334132878",
     "date_time": "17 January at 12:00",
-    "competition": "Portugal. Segunda Liga",
+    "competition": "Thailand. Thai League 2",
     "parsed_datetime": "2026-01-17T12:00:00",
-    "logo_alt": "Portugal. Segunda Liga",
+    "logo_alt": "Thailand. Thai League 2",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Farense",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4379.gif"
+        "team_name": "Phrae",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8214.gif"
       },
       {
-        "team_name": "Oliveirense",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4382.gif"
+        "team_name": "Kasetsart",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8225.gif"
       }
     ],
     "streams": []
   },
   {
-    "matchup": "Songkhla – Chiangmai Utd",
-    "event_url": "https://livetv.sx/enx/eventinfo/334110602__/",
-    "event_id": "334110602",
-    "date_time": "17 January at 12:30",
-    "competition": "Thailand. Thai League 2",
-    "parsed_datetime": "2026-01-17T12:30:00",
-    "logo_alt": "Thailand. Thai League 2",
+    "matchup": "Granada (W) –  Logrono (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/330778727__/",
+    "event_id": "330778727",
+    "date_time": "17 January at 12:00",
+    "competition": "Spain. Women. Primera Division",
+    "parsed_datetime": "2026-01-17T12:00:00",
+    "logo_alt": "Spain. Women. Primera Division",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Songkhla",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/19735.gif"
+        "team_name": "Granada (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20044.gif"
       },
       {
-        "team_name": "Chiangmai Utd",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8213.gif"
+        "team_name": "Logrono (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/28100.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Parnu Vaprus – Flora",
+    "event_url": "https://livetv.sx/enx/eventinfo/334732231__/",
+    "event_id": "334732231",
+    "date_time": "17 January at 12:00",
+    "competition": "Estonia. Winter Tournament",
+    "parsed_datetime": "2026-01-17T12:00:00",
+    "logo_alt": "Estonia. Winter Tournament",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Parnu Vaprus",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4116.gif"
+      },
+      {
+        "team_name": "Flora",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30367.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Levante (W) –  Real Madrid (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/330778728__/",
+    "event_id": "330778728",
+    "date_time": "17 January at 12:00",
+    "competition": "Spain. Women. Primera Division",
+    "parsed_datetime": "2026-01-17T12:00:00",
+    "logo_alt": "Spain. Women. Primera Division",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Levante (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9487.gif"
+      },
+      {
+        "team_name": "Real Madrid (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9488.gif"
       }
     ],
     "streams": []
@@ -893,22 +851,43 @@
     "streams": []
   },
   {
-    "matchup": "Chonburi – Lamphun Warriors",
-    "event_url": "https://livetv.sx/enx/eventinfo/330785188__/",
-    "event_id": "330785188",
+    "matchup": "Songkhla – Chiangmai Utd",
+    "event_url": "https://livetv.sx/enx/eventinfo/334110602__/",
+    "event_id": "334110602",
     "date_time": "17 January at 12:30",
-    "competition": "Thailand. Thai League 1",
+    "competition": "Thailand. Thai League 2",
     "parsed_datetime": "2026-01-17T12:30:00",
-    "logo_alt": "Thailand. Thai League 1",
+    "logo_alt": "Thailand. Thai League 2",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Chonburi",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35163.gif"
+        "team_name": "Songkhla",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/19735.gif"
       },
       {
-        "team_name": "Lamphun Warriors",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32670.gif"
+        "team_name": "Chiangmai Utd",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8213.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Farense – Oliveirense",
+    "event_url": "https://livetv.sx/enx/eventinfo/330780371__/",
+    "event_id": "330780371",
+    "date_time": "17 January at 12:00",
+    "competition": "Portugal. Segunda Liga",
+    "parsed_datetime": "2026-01-17T12:00:00",
+    "logo_alt": "Portugal. Segunda Liga",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Farense",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4379.gif"
+      },
+      {
+        "team_name": "Oliveirense",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4382.gif"
       }
     ],
     "streams": []
@@ -944,6 +923,27 @@
     "logo_alt": "Germany. 2 Bundesliga",
     "is_live": false,
     "team_logos": [],
+    "streams": []
+  },
+  {
+    "matchup": "Chonburi – Lamphun Warriors",
+    "event_url": "https://livetv.sx/enx/eventinfo/330785188__/",
+    "event_id": "330785188",
+    "date_time": "17 January at 12:30",
+    "competition": "Thailand. Thai League 1",
+    "parsed_datetime": "2026-01-17T12:30:00",
+    "logo_alt": "Thailand. Thai League 1",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Chonburi",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35163.gif"
+      },
+      {
+        "team_name": "Lamphun Warriors",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32670.gif"
+      }
+    ],
     "streams": []
   },
   {
@@ -1031,27 +1031,6 @@
     "streams": []
   },
   {
-    "matchup": "Preussen Muenster – Karlsruhe",
-    "event_url": "https://livetv.sx/enx/eventinfo/330787296__/",
-    "event_id": "330787296",
-    "date_time": "17 January at 13:00",
-    "competition": "Germany. 2 Bundesliga",
-    "parsed_datetime": "2026-01-17T13:00:00",
-    "logo_alt": "Germany. 2 Bundesliga",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Preussen Muenster",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16842.gif"
-      },
-      {
-        "team_name": "Karlsruhe",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3706.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Nuremberg – Elversberg",
     "event_url": "https://livetv.sx/enx/eventinfo/330787297__/",
     "event_id": "330787297",
@@ -1068,6 +1047,27 @@
       {
         "team_name": "Elversberg",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30376.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Preussen Muenster – Karlsruhe",
+    "event_url": "https://livetv.sx/enx/eventinfo/330787296__/",
+    "event_id": "330787296",
+    "date_time": "17 January at 13:00",
+    "competition": "Germany. 2 Bundesliga",
+    "parsed_datetime": "2026-01-17T13:00:00",
+    "logo_alt": "Germany. 2 Bundesliga",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Preussen Muenster",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16842.gif"
+      },
+      {
+        "team_name": "Karlsruhe",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3706.gif"
       }
     ],
     "streams": []
@@ -1136,27 +1136,6 @@
     "streams": []
   },
   {
-    "matchup": "Bradford City – Cardiff City",
-    "event_url": "https://livetv.sx/enx/eventinfo/330791510__/",
-    "event_id": "330791510",
-    "date_time": "17 January at 13:30",
-    "competition": "England. League One",
-    "parsed_datetime": "2026-01-17T13:30:00",
-    "logo_alt": "England. League One",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Bradford City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4059.gif"
-      },
-      {
-        "team_name": "Cardiff City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34989.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Sunderland (W) –  London City Lionesses (W)",
     "event_url": "https://livetv.sx/enx/eventinfo/331675795__/",
     "event_id": "331675795",
@@ -1194,6 +1173,27 @@
       {
         "team_name": "Bolton Wanderers",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4049.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Bradford City – Cardiff City",
+    "event_url": "https://livetv.sx/enx/eventinfo/330791510__/",
+    "event_id": "330791510",
+    "date_time": "17 January at 13:30",
+    "competition": "England. League One",
+    "parsed_datetime": "2026-01-17T13:30:00",
+    "logo_alt": "England. League One",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Bradford City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4059.gif"
+      },
+      {
+        "team_name": "Cardiff City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34989.gif"
       }
     ],
     "streams": []
@@ -1283,6 +1283,27 @@
     "streams": []
   },
   {
+    "matchup": "Chelsea (W) –  Crystal Palace (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/331675796__/",
+    "event_id": "331675796",
+    "date_time": "17 January at 13:30",
+    "competition": "England. Women. FA Cup",
+    "parsed_datetime": "2026-01-17T13:30:00",
+    "logo_alt": "England. Women. FA Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Chelsea (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7128.gif"
+      },
+      {
+        "team_name": "Crystal Palace (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9499.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Manchester Utd – Manchester City",
     "event_url": "https://livetv.sx/enx/eventinfo/330791569__/",
     "event_id": "330791569",
@@ -1325,27 +1346,6 @@
     "streams": []
   },
   {
-    "matchup": "Chelsea (W) –  Crystal Palace (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/331675796__/",
-    "event_id": "331675796",
-    "date_time": "17 January at 13:30",
-    "competition": "England. Women. FA Cup",
-    "parsed_datetime": "2026-01-17T13:30:00",
-    "logo_alt": "England. Women. FA Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Chelsea (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7128.gif"
-      },
-      {
-        "team_name": "Crystal Palace (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9499.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Ipswich Town – Blackburn",
     "event_url": "https://livetv.sx/enx/eventinfo/330791602__/",
     "event_id": "330791602",
@@ -1362,6 +1362,48 @@
       {
         "team_name": "Blackburn",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3904.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Coventry City – Leicester City",
+    "event_url": "https://livetv.sx/enx/eventinfo/330791603__/",
+    "event_id": "330791603",
+    "date_time": "17 January at 13:30",
+    "competition": "England. Championship",
+    "parsed_datetime": "2026-01-17T13:30:00",
+    "logo_alt": "England. Championship",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Coventry City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36797.gif"
+      },
+      {
+        "team_name": "Leicester City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1109.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Real Madrid RM – Levante",
+    "event_url": "https://livetv.sx/enx/eventinfo/330796850__/",
+    "event_id": "330796850",
+    "date_time": "17 January at 14:00",
+    "competition": "Spain. Primera Division",
+    "parsed_datetime": "2026-01-17T14:00:00",
+    "logo_alt": "Spain. Primera Division",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Real Madrid RM",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33.gif"
+      },
+      {
+        "team_name": "Levante",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/43.gif"
       }
     ],
     "streams": []
@@ -1395,90 +1437,6 @@
       {
         "team_name": "Ajax (W)",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36044.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Real Madrid RM – Levante",
-    "event_url": "https://livetv.sx/enx/eventinfo/330796850__/",
-    "event_id": "330796850",
-    "date_time": "17 January at 14:00",
-    "competition": "Spain. Primera Division",
-    "parsed_datetime": "2026-01-17T14:00:00",
-    "logo_alt": "Spain. Primera Division",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Real Madrid RM",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33.gif"
-      },
-      {
-        "team_name": "Levante",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/43.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Coventry City – Leicester City",
-    "event_url": "https://livetv.sx/enx/eventinfo/330791603__/",
-    "event_id": "330791603",
-    "date_time": "17 January at 13:30",
-    "competition": "England. Championship",
-    "parsed_datetime": "2026-01-17T13:30:00",
-    "logo_alt": "England. Championship",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Coventry City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36797.gif"
-      },
-      {
-        "team_name": "Leicester City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1109.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Ulm – Wehen",
-    "event_url": "https://livetv.sx/enx/eventinfo/330796477__/",
-    "event_id": "330796477",
-    "date_time": "17 January at 14:00",
-    "competition": "Germany. 3 Bundesliga",
-    "parsed_datetime": "2026-01-17T14:00:00",
-    "logo_alt": "Germany. 3 Bundesliga",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Ulm",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7290.gif"
-      },
-      {
-        "team_name": "Wehen",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3719.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Verl – Waldhof",
-    "event_url": "https://livetv.sx/enx/eventinfo/330796476__/",
-    "event_id": "330796476",
-    "date_time": "17 January at 14:00",
-    "competition": "Germany. 3 Bundesliga",
-    "parsed_datetime": "2026-01-17T14:00:00",
-    "logo_alt": "Germany. 3 Bundesliga",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Verl",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5087.gif"
-      },
-      {
-        "team_name": "Waldhof",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4396.gif"
       }
     ],
     "streams": []
@@ -1547,6 +1505,69 @@
     "streams": []
   },
   {
+    "matchup": "Verl – Waldhof",
+    "event_url": "https://livetv.sx/enx/eventinfo/330796476__/",
+    "event_id": "330796476",
+    "date_time": "17 January at 14:00",
+    "competition": "Germany. 3 Bundesliga",
+    "parsed_datetime": "2026-01-17T14:00:00",
+    "logo_alt": "Germany. 3 Bundesliga",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Verl",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5087.gif"
+      },
+      {
+        "team_name": "Waldhof",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4396.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "CSKA Sofia – Mlada Boleslav",
+    "event_url": "https://livetv.sx/enx/eventinfo/334150398_cska_sofia_mlada_boleslav/",
+    "event_id": "334150398",
+    "date_time": "17 January at 14:00",
+    "competition": "Friendly Match",
+    "parsed_datetime": "2026-01-17T14:00:00",
+    "logo_alt": "Friendly Match",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "CSKA Sofia",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/44708.gif"
+      },
+      {
+        "team_name": "Mlada Boleslav",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/32451.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Ulm – Wehen",
+    "event_url": "https://livetv.sx/enx/eventinfo/330796477__/",
+    "event_id": "330796477",
+    "date_time": "17 January at 14:00",
+    "competition": "Germany. 3 Bundesliga",
+    "parsed_datetime": "2026-01-17T14:00:00",
+    "logo_alt": "Germany. 3 Bundesliga",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Ulm",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7290.gif"
+      },
+      {
+        "team_name": "Wehen",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3719.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "1860 Munich – RW Essen",
     "event_url": "https://livetv.sx/enx/eventinfo/330796479__/",
     "event_id": "330796479",
@@ -1589,22 +1610,22 @@
     "streams": []
   },
   {
-    "matchup": "CSKA Sofia – Mlada Boleslav",
-    "event_url": "https://livetv.sx/enx/eventinfo/334150398_cska_sofia_mlada_boleslav/",
-    "event_id": "334150398",
-    "date_time": "17 January at 14:00",
-    "competition": "Friendly Match",
-    "parsed_datetime": "2026-01-17T14:00:00",
-    "logo_alt": "Friendly Match",
+    "matchup": "Khor Fakkan – Al Nasr Dubai",
+    "event_url": "https://livetv.sx/enx/eventinfo/330803190__/",
+    "event_id": "330803190",
+    "date_time": "17 January at 14:05",
+    "competition": "UAE. Pro League",
+    "parsed_datetime": "2026-01-17T14:05:00",
+    "logo_alt": "UAE. Pro League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "CSKA Sofia",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/44708.gif"
+        "team_name": "Khor Fakkan",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9192.gif"
       },
       {
-        "team_name": "Mlada Boleslav",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/32451.gif"
+        "team_name": "Al Nasr Dubai",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35269.gif"
       }
     ],
     "streams": []
@@ -1631,27 +1652,6 @@
     "streams": []
   },
   {
-    "matchup": "Khor Fakkan – Al Nasr Dubai",
-    "event_url": "https://livetv.sx/enx/eventinfo/330803190__/",
-    "event_id": "330803190",
-    "date_time": "17 January at 14:05",
-    "competition": "UAE. Pro League",
-    "parsed_datetime": "2026-01-17T14:05:00",
-    "logo_alt": "UAE. Pro League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Khor Fakkan",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9192.gif"
-      },
-      {
-        "team_name": "Al Nasr Dubai",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35269.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Al Wasl – Al Jazira",
     "event_url": "https://livetv.sx/enx/eventinfo/330803191__/",
     "event_id": "330803191",
@@ -1668,6 +1668,27 @@
       {
         "team_name": "Al Jazira",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9187.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Juventus NG U-23 – Ascoli",
+    "event_url": "https://livetv.sx/enx/eventinfo/331173174__/",
+    "event_id": "331173174",
+    "date_time": "17 January at 14:30",
+    "competition": "Italy. Serie C. Group B",
+    "parsed_datetime": "2026-01-17T14:30:00",
+    "logo_alt": "Italy. Serie C. Group B",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Juventus NG U-23",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8701.gif"
+      },
+      {
+        "team_name": "Ascoli",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/65.gif"
       }
     ],
     "streams": []
@@ -1715,27 +1736,6 @@
     "streams": []
   },
   {
-    "matchup": "Juventus NG U-23 – Ascoli",
-    "event_url": "https://livetv.sx/enx/eventinfo/331173174__/",
-    "event_id": "331173174",
-    "date_time": "17 January at 14:30",
-    "competition": "Italy. Serie C. Group B",
-    "parsed_datetime": "2026-01-17T14:30:00",
-    "logo_alt": "Italy. Serie C. Group B",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Juventus NG U-23",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8701.gif"
-      },
-      {
-        "team_name": "Ascoli",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/65.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Benevento – Casarano",
     "event_url": "https://livetv.sx/enx/eventinfo/331173205__/",
     "event_id": "331173205",
@@ -1752,69 +1752,6 @@
       {
         "team_name": "Casarano",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8623.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Dolomiti Bellunesi – Lecco",
-    "event_url": "https://livetv.sx/enx/eventinfo/330801849__/",
-    "event_id": "330801849",
-    "date_time": "17 January at 14:30",
-    "competition": "Italy. Serie C. Group A",
-    "parsed_datetime": "2026-01-17T14:30:00",
-    "logo_alt": "Italy. Serie C. Group A",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Dolomiti Bellunesi",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33582.gif"
-      },
-      {
-        "team_name": "Lecco",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8696.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Al-Fayha – Damac",
-    "event_url": "https://livetv.sx/enx/eventinfo/330808571__/",
-    "event_id": "330808571",
-    "date_time": "17 January at 14:35",
-    "competition": "Saudi Arabia. Pro League",
-    "parsed_datetime": "2026-01-17T14:35:00",
-    "logo_alt": "Saudi Arabia. Pro League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Al-Fayha",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30587.gif"
-      },
-      {
-        "team_name": "Damac",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/27321.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Cittadella – Pergolettese",
-    "event_url": "https://livetv.sx/enx/eventinfo/330801850__/",
-    "event_id": "330801850",
-    "date_time": "17 January at 14:30",
-    "competition": "Italy. Serie C. Group A",
-    "parsed_datetime": "2026-01-17T14:30:00",
-    "logo_alt": "Italy. Serie C. Group A",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Cittadella",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30395.gif"
-      },
-      {
-        "team_name": "Pergolettese",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8709.gif"
       }
     ],
     "streams": []
@@ -1841,6 +1778,48 @@
     "streams": []
   },
   {
+    "matchup": "Dolomiti Bellunesi – Lecco",
+    "event_url": "https://livetv.sx/enx/eventinfo/330801849__/",
+    "event_id": "330801849",
+    "date_time": "17 January at 14:30",
+    "competition": "Italy. Serie C. Group A",
+    "parsed_datetime": "2026-01-17T14:30:00",
+    "logo_alt": "Italy. Serie C. Group A",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Dolomiti Bellunesi",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33582.gif"
+      },
+      {
+        "team_name": "Lecco",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8696.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Cittadella – Pergolettese",
+    "event_url": "https://livetv.sx/enx/eventinfo/330801850__/",
+    "event_id": "330801850",
+    "date_time": "17 January at 14:30",
+    "competition": "Italy. Serie C. Group A",
+    "parsed_datetime": "2026-01-17T14:30:00",
+    "logo_alt": "Italy. Serie C. Group A",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Cittadella",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30395.gif"
+      },
+      {
+        "team_name": "Pergolettese",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8709.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Penafiel – Portimonense",
     "event_url": "https://livetv.sx/enx/eventinfo/330808337__/",
     "event_id": "330808337",
@@ -1862,22 +1841,22 @@
     "streams": []
   },
   {
-    "matchup": "Ethnikos Achna – Aris Limassol",
-    "event_url": "https://livetv.sx/enx/eventinfo/334938948__/",
-    "event_id": "334938948",
-    "date_time": "17 January at 15:00",
-    "competition": "Cyprus. 1 Division",
-    "parsed_datetime": "2026-01-17T15:00:00",
-    "logo_alt": "Cyprus. 1 Division",
+    "matchup": "Al-Fayha – Damac",
+    "event_url": "https://livetv.sx/enx/eventinfo/330808571__/",
+    "event_id": "330808571",
+    "date_time": "17 January at 14:35",
+    "competition": "Saudi Arabia. Pro League",
+    "parsed_datetime": "2026-01-17T14:35:00",
+    "logo_alt": "Saudi Arabia. Pro League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Ethnikos Achna",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35404.gif"
+        "team_name": "Al-Fayha",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30587.gif"
       },
       {
-        "team_name": "Aris Limassol",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6082.gif"
+        "team_name": "Damac",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/27321.gif"
       }
     ],
     "streams": []
@@ -1904,27 +1883,6 @@
     "streams": []
   },
   {
-    "matchup": "Fiorentina (W) –  Genoa (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/334704764__/",
-    "event_id": "334704764",
-    "date_time": "17 January at 15:00",
-    "competition": "Italy. Women. Serie A",
-    "parsed_datetime": "2026-01-17T15:00:00",
-    "logo_alt": "Italy. Women. Serie A",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Fiorentina (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21746.gif"
-      },
-      {
-        "team_name": "Genoa (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/24754.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Liverpool U-21 –  Arsenal U-21",
     "event_url": "https://livetv.sx/enx/eventinfo/334938944__/",
     "event_id": "334938944",
@@ -1941,48 +1899,6 @@
       {
         "team_name": "Arsenal U-21",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7915.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Haras El Hodood – Al Ittihad",
-    "event_url": "https://livetv.sx/enx/eventinfo/334748641__/",
-    "event_id": "334748641",
-    "date_time": "17 January at 15:00",
-    "competition": "Egypt. League Cup",
-    "parsed_datetime": "2026-01-17T15:00:00",
-    "logo_alt": "Egypt. League Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Haras El Hodood",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10647.gif"
-      },
-      {
-        "team_name": "Al Ittihad",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1555.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "ZED – Kahraba Ismailia",
-    "event_url": "https://livetv.sx/enx/eventinfo/334748642__/",
-    "event_id": "334748642",
-    "date_time": "17 January at 15:00",
-    "competition": "Egypt. League Cup",
-    "parsed_datetime": "2026-01-17T15:00:00",
-    "logo_alt": "Egypt. League Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "ZED",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/29908.gif"
-      },
-      {
-        "team_name": "Kahraba Ismailia",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35043.gif"
       }
     ],
     "streams": []
@@ -2009,22 +1925,64 @@
     "streams": []
   },
   {
-    "matchup": "Monza – Frosinone",
-    "event_url": "https://livetv.sx/enx/eventinfo/330806762__/",
-    "event_id": "330806762",
+    "matchup": "Haras El Hodood – Al Ittihad",
+    "event_url": "https://livetv.sx/enx/eventinfo/334748641__/",
+    "event_id": "334748641",
     "date_time": "17 January at 15:00",
-    "competition": "Italy. Serie B",
+    "competition": "Egypt. League Cup",
     "parsed_datetime": "2026-01-17T15:00:00",
-    "logo_alt": "Italy. Serie B",
+    "logo_alt": "Egypt. League Cup",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Monza",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8189.gif"
+        "team_name": "Haras El Hodood",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10647.gif"
       },
       {
-        "team_name": "Frosinone",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1199.gif"
+        "team_name": "Al Ittihad",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1555.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Fiorentina (W) –  Genoa (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/334704764__/",
+    "event_id": "334704764",
+    "date_time": "17 January at 15:00",
+    "competition": "Italy. Women. Serie A",
+    "parsed_datetime": "2026-01-17T15:00:00",
+    "logo_alt": "Italy. Women. Serie A",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Fiorentina (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21746.gif"
+      },
+      {
+        "team_name": "Genoa (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/24754.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Ethnikos Achna – Aris Limassol",
+    "event_url": "https://livetv.sx/enx/eventinfo/334938948__/",
+    "event_id": "334938948",
+    "date_time": "17 January at 15:00",
+    "competition": "Cyprus. 1 Division",
+    "parsed_datetime": "2026-01-17T15:00:00",
+    "logo_alt": "Cyprus. 1 Division",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Ethnikos Achna",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35404.gif"
+      },
+      {
+        "team_name": "Aris Limassol",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6082.gif"
       }
     ],
     "streams": []
@@ -2046,6 +2004,48 @@
       {
         "team_name": "Suedtirol",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8718.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "ZED – Kahraba Ismailia",
+    "event_url": "https://livetv.sx/enx/eventinfo/334748642__/",
+    "event_id": "334748642",
+    "date_time": "17 January at 15:00",
+    "competition": "Egypt. League Cup",
+    "parsed_datetime": "2026-01-17T15:00:00",
+    "logo_alt": "Egypt. League Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "ZED",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/29908.gif"
+      },
+      {
+        "team_name": "Kahraba Ismailia",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35043.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Monza – Frosinone",
+    "event_url": "https://livetv.sx/enx/eventinfo/330806762__/",
+    "event_id": "330806762",
+    "date_time": "17 January at 15:00",
+    "competition": "Italy. Serie B",
+    "parsed_datetime": "2026-01-17T15:00:00",
+    "logo_alt": "Italy. Serie B",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Monza",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8189.gif"
+      },
+      {
+        "team_name": "Frosinone",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1199.gif"
       }
     ],
     "streams": []
@@ -2093,6 +2093,27 @@
     "streams": []
   },
   {
+    "matchup": "Padova – Mantova",
+    "event_url": "https://livetv.sx/enx/eventinfo/330806766__/",
+    "event_id": "330806766",
+    "date_time": "17 January at 15:00",
+    "competition": "Italy. Serie B",
+    "parsed_datetime": "2026-01-17T15:00:00",
+    "logo_alt": "Italy. Serie B",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Padova",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8714.gif"
+      },
+      {
+        "team_name": "Mantova",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8792.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Wolfsburg – Heidenheim",
     "event_url": "https://livetv.sx/enx/eventinfo/330811652__/",
     "event_id": "330811652",
@@ -2114,22 +2135,34 @@
     "streams": []
   },
   {
-    "matchup": "Padova – Mantova",
-    "event_url": "https://livetv.sx/enx/eventinfo/330806766__/",
-    "event_id": "330806766",
-    "date_time": "17 January at 15:00",
-    "competition": "Italy. Serie B",
-    "parsed_datetime": "2026-01-17T15:00:00",
-    "logo_alt": "Italy. Serie B",
+    "matchup": "Simulcast",
+    "event_url": "https://livetv.sx/enx/eventinfo/334336681_simulcast/",
+    "event_id": "334336681",
+    "date_time": "17 January at 15:30",
+    "competition": "Germany. Bundesliga",
+    "parsed_datetime": "2026-01-17T15:30:00",
+    "logo_alt": "Germany. Bundesliga",
+    "is_live": false,
+    "team_logos": [],
+    "streams": []
+  },
+  {
+    "matchup": "Hamburg – Borussia M",
+    "event_url": "https://livetv.sx/enx/eventinfo/330811654__/",
+    "event_id": "330811654",
+    "date_time": "17 January at 15:30",
+    "competition": "Germany. Bundesliga",
+    "parsed_datetime": "2026-01-17T15:30:00",
+    "logo_alt": "Germany. Bundesliga",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Padova",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8714.gif"
+        "team_name": "Hamburg",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3697.gif"
       },
       {
-        "team_name": "Mantova",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8792.gif"
+        "team_name": "Borussia M",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/508.gif"
       }
     ],
     "streams": []
@@ -2156,6 +2189,27 @@
     "streams": []
   },
   {
+    "matchup": "Cologne – Mainz 05",
+    "event_url": "https://livetv.sx/enx/eventinfo/330811655__/",
+    "event_id": "330811655",
+    "date_time": "17 January at 15:30",
+    "competition": "Germany. Bundesliga",
+    "parsed_datetime": "2026-01-17T15:30:00",
+    "logo_alt": "Germany. Bundesliga",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Cologne",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3718.gif"
+      },
+      {
+        "team_name": "Mainz 05",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32018.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Dortmund – St Pauli",
     "event_url": "https://livetv.sx/enx/eventinfo/330811656__/",
     "event_id": "330811656",
@@ -2177,55 +2231,22 @@
     "streams": []
   },
   {
-    "matchup": "Hamburg – Borussia M",
-    "event_url": "https://livetv.sx/enx/eventinfo/330811654__/",
-    "event_id": "330811654",
+    "matchup": "Duhok – Diyala",
+    "event_url": "https://livetv.sx/enx/eventinfo/334699500__/",
+    "event_id": "334699500",
     "date_time": "17 January at 15:30",
-    "competition": "Germany. Bundesliga",
+    "competition": "Iraq. Premier League",
     "parsed_datetime": "2026-01-17T15:30:00",
-    "logo_alt": "Germany. Bundesliga",
+    "logo_alt": "Iraq. Premier League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Hamburg",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3697.gif"
+        "team_name": "Duhok",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35659.gif"
       },
       {
-        "team_name": "Borussia M",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/508.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Simulcast",
-    "event_url": "https://livetv.sx/enx/eventinfo/334336681_simulcast/",
-    "event_id": "334336681",
-    "date_time": "17 January at 15:30",
-    "competition": "Germany. Bundesliga",
-    "parsed_datetime": "2026-01-17T15:30:00",
-    "logo_alt": "Germany. Bundesliga",
-    "is_live": false,
-    "team_logos": [],
-    "streams": []
-  },
-  {
-    "matchup": "Cologne – Mainz 05",
-    "event_url": "https://livetv.sx/enx/eventinfo/330811655__/",
-    "event_id": "330811655",
-    "date_time": "17 January at 15:30",
-    "competition": "Germany. Bundesliga",
-    "parsed_datetime": "2026-01-17T15:30:00",
-    "logo_alt": "Germany. Bundesliga",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Cologne",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3718.gif"
-      },
-      {
-        "team_name": "Mainz 05",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32018.gif"
+        "team_name": "Diyala",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34009.gif"
       }
     ],
     "streams": []
@@ -2273,48 +2294,6 @@
     "streams": []
   },
   {
-    "matchup": "Duhok – Diyala",
-    "event_url": "https://livetv.sx/enx/eventinfo/334699500__/",
-    "event_id": "334699500",
-    "date_time": "17 January at 15:30",
-    "competition": "Iraq. Premier League",
-    "parsed_datetime": "2026-01-17T15:30:00",
-    "logo_alt": "Iraq. Premier League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Duhok",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35659.gif"
-      },
-      {
-        "team_name": "Diyala",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34009.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "RSCA Futures – Gent II",
-    "event_url": "https://livetv.sx/enx/eventinfo/330857236__/",
-    "event_id": "330857236",
-    "date_time": "17 January at 16:00",
-    "competition": "Belgium. Challenger Pro League",
-    "parsed_datetime": "2026-01-17T16:00:00",
-    "logo_alt": "Belgium. Challenger Pro League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "RSCA Futures",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35069.gif"
-      },
-      {
-        "team_name": "Gent II",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/37005.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "AFC Wimbledon – Doncaster Rovers",
     "event_url": "https://livetv.sx/enx/eventinfo/330816595__/",
     "event_id": "330816595",
@@ -2331,90 +2310,6 @@
       {
         "team_name": "Doncaster Rovers",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4034.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Barnsley – Blackpool",
-    "event_url": "https://livetv.sx/enx/eventinfo/330816594__/",
-    "event_id": "330816594",
-    "date_time": "17 January at 16:00",
-    "competition": "England. League One",
-    "parsed_datetime": "2026-01-17T16:00:00",
-    "logo_alt": "England. League One",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Barnsley",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3898.gif"
-      },
-      {
-        "team_name": "Blackpool",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4038.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Stockport – Rotherham Utd",
-    "event_url": "https://livetv.sx/enx/eventinfo/330816596__/",
-    "event_id": "330816596",
-    "date_time": "17 January at 16:00",
-    "competition": "England. League One",
-    "parsed_datetime": "2026-01-17T16:00:00",
-    "logo_alt": "England. League One",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Stockport",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5844.gif"
-      },
-      {
-        "team_name": "Rotherham Utd",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34825.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Mansfield Town – Port Vale",
-    "event_url": "https://livetv.sx/enx/eventinfo/330816599__/",
-    "event_id": "330816599",
-    "date_time": "17 January at 16:00",
-    "competition": "England. League One",
-    "parsed_datetime": "2026-01-17T16:00:00",
-    "logo_alt": "England. League One",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Mansfield Town",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4071.gif"
-      },
-      {
-        "team_name": "Port Vale",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4058.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Luton Town – Lincoln City",
-    "event_url": "https://livetv.sx/enx/eventinfo/330816600__/",
-    "event_id": "330816600",
-    "date_time": "17 January at 16:00",
-    "competition": "England. League One",
-    "parsed_datetime": "2026-01-17T16:00:00",
-    "logo_alt": "England. League One",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Luton Town",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3901.gif"
-      },
-      {
-        "team_name": "Lincoln City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34823.gif"
       }
     ],
     "streams": []
@@ -2441,6 +2336,69 @@
     "streams": []
   },
   {
+    "matchup": "Stockport – Rotherham Utd",
+    "event_url": "https://livetv.sx/enx/eventinfo/330816596__/",
+    "event_id": "330816596",
+    "date_time": "17 January at 16:00",
+    "competition": "England. League One",
+    "parsed_datetime": "2026-01-17T16:00:00",
+    "logo_alt": "England. League One",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Stockport",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5844.gif"
+      },
+      {
+        "team_name": "Rotherham Utd",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34825.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Barnsley – Blackpool",
+    "event_url": "https://livetv.sx/enx/eventinfo/330816594__/",
+    "event_id": "330816594",
+    "date_time": "17 January at 16:00",
+    "competition": "England. League One",
+    "parsed_datetime": "2026-01-17T16:00:00",
+    "logo_alt": "England. League One",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Barnsley",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3898.gif"
+      },
+      {
+        "team_name": "Blackpool",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4038.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "RSCA Futures – Gent II",
+    "event_url": "https://livetv.sx/enx/eventinfo/330857236__/",
+    "event_id": "330857236",
+    "date_time": "17 January at 16:00",
+    "competition": "Belgium. Challenger Pro League",
+    "parsed_datetime": "2026-01-17T16:00:00",
+    "logo_alt": "Belgium. Challenger Pro League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "RSCA Futures",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35069.gif"
+      },
+      {
+        "team_name": "Gent II",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/37005.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Northampton Town – Wycombe",
     "event_url": "https://livetv.sx/enx/eventinfo/330816598__/",
     "event_id": "330816598",
@@ -2462,6 +2420,27 @@
     "streams": []
   },
   {
+    "matchup": "Mansfield Town – Port Vale",
+    "event_url": "https://livetv.sx/enx/eventinfo/330816599__/",
+    "event_id": "330816599",
+    "date_time": "17 January at 16:00",
+    "competition": "England. League One",
+    "parsed_datetime": "2026-01-17T16:00:00",
+    "logo_alt": "England. League One",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Mansfield Town",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4071.gif"
+      },
+      {
+        "team_name": "Port Vale",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4058.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Leyton Orient – Reading",
     "event_url": "https://livetv.sx/enx/eventinfo/330816601__/",
     "event_id": "330816601",
@@ -2478,6 +2457,27 @@
       {
         "team_name": "Reading",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3910.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Luton Town – Lincoln City",
+    "event_url": "https://livetv.sx/enx/eventinfo/330816600__/",
+    "event_id": "330816600",
+    "date_time": "17 January at 16:00",
+    "competition": "England. League One",
+    "parsed_datetime": "2026-01-17T16:00:00",
+    "logo_alt": "England. League One",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Luton Town",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3901.gif"
+      },
+      {
+        "team_name": "Lincoln City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34823.gif"
       }
     ],
     "streams": []
@@ -2567,27 +2567,6 @@
     "streams": []
   },
   {
-    "matchup": "Accrington Stanley – Milton Keynes",
-    "event_url": "https://livetv.sx/enx/eventinfo/330816627__/",
-    "event_id": "330816627",
-    "date_time": "17 January at 16:00",
-    "competition": "England. League Two",
-    "parsed_datetime": "2026-01-17T16:00:00",
-    "logo_alt": "England. League Two",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Accrington Stanley",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4042.gif"
-      },
-      {
-        "team_name": "Milton Keynes",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34377.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Bristol Rovers – Colchester Utd",
     "event_url": "https://livetv.sx/enx/eventinfo/330816626__/",
     "event_id": "330816626",
@@ -2625,27 +2604,6 @@
       {
         "team_name": "Harrogate Town",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5842.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Oldham Athletic – Cheltenham Town",
-    "event_url": "https://livetv.sx/enx/eventinfo/330816630__/",
-    "event_id": "330816630",
-    "date_time": "17 January at 16:00",
-    "competition": "England. League Two",
-    "parsed_datetime": "2026-01-17T16:00:00",
-    "logo_alt": "England. League Two",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Oldham Athletic",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33263.gif"
-      },
-      {
-        "team_name": "Cheltenham Town",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/24989.gif"
       }
     ],
     "streams": []
@@ -2693,27 +2651,6 @@
     "streams": []
   },
   {
-    "matchup": "Gillingham – Newport County",
-    "event_url": "https://livetv.sx/enx/eventinfo/330816632__/",
-    "event_id": "330816632",
-    "date_time": "17 January at 16:00",
-    "competition": "England. League Two",
-    "parsed_datetime": "2026-01-17T16:00:00",
-    "logo_alt": "England. League Two",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Gillingham",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20052.gif"
-      },
-      {
-        "team_name": "Newport County",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4065.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Fleetwood Town – Cambridge Utd",
     "event_url": "https://livetv.sx/enx/eventinfo/330816633__/",
     "event_id": "330816633",
@@ -2735,6 +2672,69 @@
     "streams": []
   },
   {
+    "matchup": "Oldham Athletic – Cheltenham Town",
+    "event_url": "https://livetv.sx/enx/eventinfo/330816630__/",
+    "event_id": "330816630",
+    "date_time": "17 January at 16:00",
+    "competition": "England. League Two",
+    "parsed_datetime": "2026-01-17T16:00:00",
+    "logo_alt": "England. League Two",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Oldham Athletic",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33263.gif"
+      },
+      {
+        "team_name": "Cheltenham Town",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/24989.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Accrington Stanley – Milton Keynes",
+    "event_url": "https://livetv.sx/enx/eventinfo/330816627__/",
+    "event_id": "330816627",
+    "date_time": "17 January at 16:00",
+    "competition": "England. League Two",
+    "parsed_datetime": "2026-01-17T16:00:00",
+    "logo_alt": "England. League Two",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Accrington Stanley",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4042.gif"
+      },
+      {
+        "team_name": "Milton Keynes",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34377.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Gillingham – Newport County",
+    "event_url": "https://livetv.sx/enx/eventinfo/330816632__/",
+    "event_id": "330816632",
+    "date_time": "17 January at 16:00",
+    "competition": "England. League Two",
+    "parsed_datetime": "2026-01-17T16:00:00",
+    "logo_alt": "England. League Two",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Gillingham",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20052.gif"
+      },
+      {
+        "team_name": "Newport County",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4065.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Crewe Alexandra – Barrow",
     "event_url": "https://livetv.sx/enx/eventinfo/330816634__/",
     "event_id": "330816634",
@@ -2751,6 +2751,27 @@
       {
         "team_name": "Barrow",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5565.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Liverpool – Burnley",
+    "event_url": "https://livetv.sx/enx/eventinfo/330816675__/",
+    "event_id": "330816675",
+    "date_time": "17 January at 16:00",
+    "competition": "England. Premier League",
+    "parsed_datetime": "2026-01-17T16:00:00",
+    "logo_alt": "England. Premier League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Liverpool",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30918.gif"
+      },
+      {
+        "team_name": "Burnley",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33045.gif"
       }
     ],
     "streams": []
@@ -2819,27 +2840,6 @@
     "streams": []
   },
   {
-    "matchup": "Liverpool – Burnley",
-    "event_url": "https://livetv.sx/enx/eventinfo/330816675__/",
-    "event_id": "330816675",
-    "date_time": "17 January at 16:00",
-    "competition": "England. Premier League",
-    "parsed_datetime": "2026-01-17T16:00:00",
-    "logo_alt": "England. Premier League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Liverpool",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30918.gif"
-      },
-      {
-        "team_name": "Burnley",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33045.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Leeds Utd – Fulham",
     "event_url": "https://livetv.sx/enx/eventinfo/330816676__/",
     "event_id": "330816676",
@@ -2856,27 +2856,6 @@
       {
         "team_name": "Fulham",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/148.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Chelsea – Brentford",
-    "event_url": "https://livetv.sx/enx/eventinfo/330816677__/",
-    "event_id": "330816677",
-    "date_time": "17 January at 16:00",
-    "competition": "England. Premier League",
-    "parsed_datetime": "2026-01-17T16:00:00",
-    "logo_alt": "England. Premier League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Chelsea",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/140.gif"
-      },
-      {
-        "team_name": "Brentford",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3908.gif"
       }
     ],
     "streams": []
@@ -2903,6 +2882,27 @@
     "streams": []
   },
   {
+    "matchup": "Chelsea – Brentford",
+    "event_url": "https://livetv.sx/enx/eventinfo/330816677__/",
+    "event_id": "330816677",
+    "date_time": "17 January at 16:00",
+    "competition": "England. Premier League",
+    "parsed_datetime": "2026-01-17T16:00:00",
+    "logo_alt": "England. Premier League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Chelsea",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/140.gif"
+      },
+      {
+        "team_name": "Brentford",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3908.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Braga B – Sao Joao Ver",
     "event_url": "https://livetv.sx/enx/eventinfo/330818996__/",
     "event_id": "330818996",
@@ -2919,6 +2919,27 @@
       {
         "team_name": "Sao Joao Ver",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/11470.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Charlton Athletic – Sheffield Utd",
+    "event_url": "https://livetv.sx/enx/eventinfo/330816712__/",
+    "event_id": "330816712",
+    "date_time": "17 January at 16:00",
+    "competition": "England. Championship",
+    "parsed_datetime": "2026-01-17T16:00:00",
+    "logo_alt": "England. Championship",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Charlton Athletic",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3892.gif"
+      },
+      {
+        "team_name": "Sheffield Utd",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3792.gif"
       }
     ],
     "streams": []
@@ -2945,21 +2966,9 @@
     "streams": []
   },
   {
-    "matchup": "Simulcast",
-    "event_url": "https://livetv.sx/enx/eventinfo/334336470_simulcast/",
-    "event_id": "334336470",
-    "date_time": "17 January at 16:00",
-    "competition": "England. Premier League",
-    "parsed_datetime": "2026-01-17T16:00:00",
-    "logo_alt": "England. Premier League",
-    "is_live": false,
-    "team_logos": [],
-    "streams": []
-  },
-  {
-    "matchup": "Charlton Athletic – Sheffield Utd",
-    "event_url": "https://livetv.sx/enx/eventinfo/330816712__/",
-    "event_id": "330816712",
+    "matchup": "Southampton – Hull City",
+    "event_url": "https://livetv.sx/enx/eventinfo/330816715__/",
+    "event_id": "330816715",
     "date_time": "17 January at 16:00",
     "competition": "England. Championship",
     "parsed_datetime": "2026-01-17T16:00:00",
@@ -2967,12 +2976,12 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Charlton Athletic",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3892.gif"
+        "team_name": "Southampton",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/453.gif"
       },
       {
-        "team_name": "Sheffield Utd",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3792.gif"
+        "team_name": "Hull City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/455.gif"
       }
     ],
     "streams": []
@@ -2999,9 +3008,9 @@
     "streams": []
   },
   {
-    "matchup": "Sheffield Wednesday – Portsmouth",
-    "event_url": "https://livetv.sx/enx/eventinfo/330816716__/",
-    "event_id": "330816716",
+    "matchup": "Stoke City – Queens Park Rangers",
+    "event_url": "https://livetv.sx/enx/eventinfo/330816714__/",
+    "event_id": "330816714",
     "date_time": "17 January at 16:00",
     "competition": "England. Championship",
     "parsed_datetime": "2026-01-17T16:00:00",
@@ -3009,14 +3018,26 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Sheffield Wednesday",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3890.gif"
+        "team_name": "Stoke City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3907.gif"
       },
       {
-        "team_name": "Portsmouth",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25257.gif"
+        "team_name": "Queens Park Rangers",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3894.gif"
       }
     ],
+    "streams": []
+  },
+  {
+    "matchup": "Simulcast",
+    "event_url": "https://livetv.sx/enx/eventinfo/334336470_simulcast/",
+    "event_id": "334336470",
+    "date_time": "17 January at 16:00",
+    "competition": "England. Premier League",
+    "parsed_datetime": "2026-01-17T16:00:00",
+    "logo_alt": "England. Premier League",
+    "is_live": false,
+    "team_logos": [],
     "streams": []
   },
   {
@@ -3041,9 +3062,9 @@
     "streams": []
   },
   {
-    "matchup": "Stoke City – Queens Park Rangers",
-    "event_url": "https://livetv.sx/enx/eventinfo/330816714__/",
-    "event_id": "330816714",
+    "matchup": "Sheffield Wednesday – Portsmouth",
+    "event_url": "https://livetv.sx/enx/eventinfo/330816716__/",
+    "event_id": "330816716",
     "date_time": "17 January at 16:00",
     "competition": "England. Championship",
     "parsed_datetime": "2026-01-17T16:00:00",
@@ -3051,33 +3072,12 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Stoke City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3907.gif"
+        "team_name": "Sheffield Wednesday",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3890.gif"
       },
       {
-        "team_name": "Queens Park Rangers",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3894.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Southampton – Hull City",
-    "event_url": "https://livetv.sx/enx/eventinfo/330816715__/",
-    "event_id": "330816715",
-    "date_time": "17 January at 16:00",
-    "competition": "England. Championship",
-    "parsed_datetime": "2026-01-17T16:00:00",
-    "logo_alt": "England. Championship",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Southampton",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/453.gif"
-      },
-      {
-        "team_name": "Hull City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/455.gif"
+        "team_name": "Portsmouth",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25257.gif"
       }
     ],
     "streams": []
@@ -3104,6 +3104,27 @@
     "streams": []
   },
   {
+    "matchup": "Cultural Leonesa – Sporting Gijon",
+    "event_url": "https://livetv.sx/enx/eventinfo/330823477__/",
+    "event_id": "330823477",
+    "date_time": "17 January at 16:15",
+    "competition": "Spain. Segunda Division",
+    "parsed_datetime": "2026-01-17T16:15:00",
+    "logo_alt": "Spain. Segunda Division",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Cultural Leonesa",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4461.gif"
+      },
+      {
+        "team_name": "Sporting Gijon",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3886.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Mallorca – Athletic Bilbao",
     "event_url": "https://livetv.sx/enx/eventinfo/330823453__/",
     "event_id": "330823453",
@@ -3125,6 +3146,27 @@
     "streams": []
   },
   {
+    "matchup": "TOP Oss – Emmen",
+    "event_url": "https://livetv.sx/enx/eventinfo/330824832__/",
+    "event_id": "330824832",
+    "date_time": "17 January at 16:30",
+    "competition": "Netherlands. Eerste Divisie",
+    "parsed_datetime": "2026-01-17T16:30:00",
+    "logo_alt": "Netherlands. Eerste Divisie",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "TOP Oss",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/983.gif"
+      },
+      {
+        "team_name": "Emmen",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/688.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Farul – Hermannstadt",
     "event_url": "https://livetv.sx/enx/eventinfo/330825326__/",
     "event_id": "330825326",
@@ -3141,27 +3183,6 @@
       {
         "team_name": "Hermannstadt",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1814.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Cultural Leonesa – Sporting Gijon",
-    "event_url": "https://livetv.sx/enx/eventinfo/330823477__/",
-    "event_id": "330823477",
-    "date_time": "17 January at 16:15",
-    "competition": "Spain. Segunda Division",
-    "parsed_datetime": "2026-01-17T16:15:00",
-    "logo_alt": "Spain. Segunda Division",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Cultural Leonesa",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4461.gif"
-      },
-      {
-        "team_name": "Sporting Gijon",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3886.gif"
       }
     ],
     "streams": []
@@ -3209,22 +3230,22 @@
     "streams": []
   },
   {
-    "matchup": "TOP Oss – Emmen",
-    "event_url": "https://livetv.sx/enx/eventinfo/330824832__/",
-    "event_id": "330824832",
+    "matchup": "Gil Vicente – Nacional",
+    "event_url": "https://livetv.sx/enx/eventinfo/330825102__/",
+    "event_id": "330825102",
     "date_time": "17 January at 16:30",
-    "competition": "Netherlands. Eerste Divisie",
+    "competition": "Portugal. Primeira Liga",
     "parsed_datetime": "2026-01-17T16:30:00",
-    "logo_alt": "Netherlands. Eerste Divisie",
+    "logo_alt": "Portugal. Primeira Liga",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "TOP Oss",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/983.gif"
+        "team_name": "Gil Vicente",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21719.gif"
       },
       {
-        "team_name": "Emmen",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/688.gif"
+        "team_name": "Nacional",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1122.gif"
       }
     ],
     "streams": []
@@ -3272,48 +3293,6 @@
     "streams": []
   },
   {
-    "matchup": "Gil Vicente – Nacional",
-    "event_url": "https://livetv.sx/enx/eventinfo/330825102__/",
-    "event_id": "330825102",
-    "date_time": "17 January at 16:30",
-    "competition": "Portugal. Primeira Liga",
-    "parsed_datetime": "2026-01-17T16:30:00",
-    "logo_alt": "Portugal. Primeira Liga",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Gil Vicente",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21719.gif"
-      },
-      {
-        "team_name": "Nacional",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1122.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Al-Ittihad – Etehad Al-Reef",
-    "event_url": "https://livetv.sx/enx/eventinfo/334118765__/",
-    "event_id": "334118765",
-    "date_time": "17 January at 17:00",
-    "competition": "Bahrain. Second Division",
-    "parsed_datetime": "2026-01-17T17:00:00",
-    "logo_alt": "Bahrain. Second Division",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Al-Ittihad",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1991.gif"
-      },
-      {
-        "team_name": "Etehad Al-Reef",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32605.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Hapoel Jerusalem – Ironi Tiberias",
     "event_url": "https://livetv.sx/enx/eventinfo/330823370__/",
     "event_id": "330823370",
@@ -3356,6 +3335,27 @@
     "streams": []
   },
   {
+    "matchup": "Al-Ittihad – Etehad Al-Reef",
+    "event_url": "https://livetv.sx/enx/eventinfo/334118765__/",
+    "event_id": "334118765",
+    "date_time": "17 January at 17:00",
+    "competition": "Bahrain. Second Division",
+    "parsed_datetime": "2026-01-17T17:00:00",
+    "logo_alt": "Bahrain. Second Division",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Ittihad",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1991.gif"
+      },
+      {
+        "team_name": "Etehad Al-Reef",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32605.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Glacis United – St Josephs",
     "event_url": "https://livetv.sx/enx/eventinfo/330823156__/",
     "event_id": "330823156",
@@ -3372,27 +3372,6 @@
       {
         "team_name": "St Josephs",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/955.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Esenler Erokspor – Vanspor",
-    "event_url": "https://livetv.sx/enx/eventinfo/330831786__/",
-    "event_id": "330831786",
-    "date_time": "17 January at 17:00",
-    "competition": "Turkey. 1 Lig",
-    "parsed_datetime": "2026-01-17T17:00:00",
-    "logo_alt": "Turkey. 1 Lig",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Esenler Erokspor",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10633.gif"
-      },
-      {
-        "team_name": "Vanspor",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9661.gif"
       }
     ],
     "streams": []
@@ -3482,22 +3461,22 @@
     "streams": []
   },
   {
-    "matchup": "Reggiana – Cesena",
-    "event_url": "https://livetv.sx/enx/eventinfo/330836298__/",
-    "event_id": "330836298",
-    "date_time": "17 January at 17:15",
-    "competition": "Italy. Serie B",
-    "parsed_datetime": "2026-01-17T17:15:00",
-    "logo_alt": "Italy. Serie B",
+    "matchup": "Esenler Erokspor – Vanspor",
+    "event_url": "https://livetv.sx/enx/eventinfo/330831786__/",
+    "event_id": "330831786",
+    "date_time": "17 January at 17:00",
+    "competition": "Turkey. 1 Lig",
+    "parsed_datetime": "2026-01-17T17:00:00",
+    "logo_alt": "Turkey. 1 Lig",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Reggiana",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8186.gif"
+        "team_name": "Esenler Erokspor",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10633.gif"
       },
       {
-        "team_name": "Cesena",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8716.gif"
+        "team_name": "Vanspor",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9661.gif"
       }
     ],
     "streams": []
@@ -3524,43 +3503,22 @@
     "streams": []
   },
   {
-    "matchup": "Guidonia Montecelio – Livorno",
-    "event_url": "https://livetv.sx/enx/eventinfo/331173175__/",
-    "event_id": "331173175",
-    "date_time": "17 January at 17:30",
-    "competition": "Italy. Serie C. Group B",
-    "parsed_datetime": "2026-01-17T17:30:00",
-    "logo_alt": "Italy. Serie C. Group B",
+    "matchup": "Reggiana – Cesena",
+    "event_url": "https://livetv.sx/enx/eventinfo/330836298__/",
+    "event_id": "330836298",
+    "date_time": "17 January at 17:15",
+    "competition": "Italy. Serie B",
+    "parsed_datetime": "2026-01-17T17:15:00",
+    "logo_alt": "Italy. Serie B",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Guidonia Montecelio",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/31495.gif"
+        "team_name": "Reggiana",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8186.gif"
       },
       {
-        "team_name": "Livorno",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33095.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Maccabi Bnei Raina – Ashdod",
-    "event_url": "https://livetv.sx/enx/eventinfo/330836136__/",
-    "event_id": "330836136",
-    "date_time": "17 January at 17:30",
-    "competition": "Israel. Premier League",
-    "parsed_datetime": "2026-01-17T17:30:00",
-    "logo_alt": "Israel. Premier League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Maccabi Bnei Raina",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35231.gif"
-      },
-      {
-        "team_name": "Ashdod",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/497.gif"
+        "team_name": "Cesena",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8716.gif"
       }
     ],
     "streams": []
@@ -3587,6 +3545,27 @@
     "streams": []
   },
   {
+    "matchup": "Guidonia Montecelio – Livorno",
+    "event_url": "https://livetv.sx/enx/eventinfo/331173175__/",
+    "event_id": "331173175",
+    "date_time": "17 January at 17:30",
+    "competition": "Italy. Serie C. Group B",
+    "parsed_datetime": "2026-01-17T17:30:00",
+    "logo_alt": "Italy. Serie C. Group B",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Guidonia Montecelio",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/31495.gif"
+      },
+      {
+        "team_name": "Livorno",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33095.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Pro Patria – Giana Erminio",
     "event_url": "https://livetv.sx/enx/eventinfo/330836395__/",
     "event_id": "330836395",
@@ -3608,22 +3587,22 @@
     "streams": []
   },
   {
-    "matchup": "Lumezzane – Alcione",
-    "event_url": "https://livetv.sx/enx/eventinfo/330836397__/",
-    "event_id": "330836397",
+    "matchup": "Maccabi Bnei Raina – Ashdod",
+    "event_url": "https://livetv.sx/enx/eventinfo/330836136__/",
+    "event_id": "330836136",
     "date_time": "17 January at 17:30",
-    "competition": "Italy. Serie C. Group A",
+    "competition": "Israel. Premier League",
     "parsed_datetime": "2026-01-17T17:30:00",
-    "logo_alt": "Italy. Serie C. Group A",
+    "logo_alt": "Israel. Premier League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Lumezzane",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/22038.gif"
+        "team_name": "Maccabi Bnei Raina",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35231.gif"
       },
       {
-        "team_name": "Alcione",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33172.gif"
+        "team_name": "Ashdod",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/497.gif"
       }
     ],
     "streams": []
@@ -3650,48 +3629,6 @@
     "streams": []
   },
   {
-    "matchup": "Al-Sailiya – Qatar SC",
-    "event_url": "https://livetv.sx/enx/eventinfo/330836453__/",
-    "event_id": "330836453",
-    "date_time": "17 January at 17:30",
-    "competition": "Qatar. Stars League",
-    "parsed_datetime": "2026-01-17T17:30:00",
-    "logo_alt": "Qatar. Stars League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Al-Sailiya",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35159.gif"
-      },
-      {
-        "team_name": "Qatar SC",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35161.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Puebla (W) –  Toluca (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/330858393__/",
-    "event_id": "330858393",
-    "date_time": "17 January at 18:00",
-    "competition": "Mexico. Women. Liga MX",
-    "parsed_datetime": "2026-01-17T18:00:00",
-    "logo_alt": "Mexico. Women. Liga MX",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Puebla (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6245.gif"
-      },
-      {
-        "team_name": "Toluca (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7816.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Asteras – Olympiacos",
     "event_url": "https://livetv.sx/enx/eventinfo/330835953__/",
     "event_id": "330835953",
@@ -3708,6 +3645,48 @@
       {
         "team_name": "Olympiacos",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30218.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Lumezzane – Alcione",
+    "event_url": "https://livetv.sx/enx/eventinfo/330836397__/",
+    "event_id": "330836397",
+    "date_time": "17 January at 17:30",
+    "competition": "Italy. Serie C. Group A",
+    "parsed_datetime": "2026-01-17T17:30:00",
+    "logo_alt": "Italy. Serie C. Group A",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Lumezzane",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/22038.gif"
+      },
+      {
+        "team_name": "Alcione",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33172.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Al-Sailiya – Qatar SC",
+    "event_url": "https://livetv.sx/enx/eventinfo/330836453__/",
+    "event_id": "330836453",
+    "date_time": "17 January at 17:30",
+    "competition": "Qatar. Stars League",
+    "parsed_datetime": "2026-01-17T17:30:00",
+    "logo_alt": "Qatar. Stars League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Sailiya",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35159.gif"
+      },
+      {
+        "team_name": "Qatar SC",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35161.gif"
       }
     ],
     "streams": []
@@ -3734,27 +3713,6 @@
     "streams": []
   },
   {
-    "matchup": "Luzern – Lugano",
-    "event_url": "https://livetv.sx/enx/eventinfo/330845623__/",
-    "event_id": "330845623",
-    "date_time": "17 January at 18:00",
-    "competition": "Switzerland. Super League",
-    "parsed_datetime": "2026-01-17T18:00:00",
-    "logo_alt": "Switzerland. Super League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Luzern",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/89.gif"
-      },
-      {
-        "team_name": "Lugano",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/640.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Winterthur – St Gallen",
     "event_url": "https://livetv.sx/enx/eventinfo/330845624__/",
     "event_id": "330845624",
@@ -3771,6 +3729,48 @@
       {
         "team_name": "St Gallen",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/91.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Puebla (W) –  Toluca (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/330858393__/",
+    "event_id": "330858393",
+    "date_time": "17 January at 18:00",
+    "competition": "Mexico. Women. Liga MX",
+    "parsed_datetime": "2026-01-17T18:00:00",
+    "logo_alt": "Mexico. Women. Liga MX",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Puebla (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6245.gif"
+      },
+      {
+        "team_name": "Toluca (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7816.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Luzern – Lugano",
+    "event_url": "https://livetv.sx/enx/eventinfo/330845623__/",
+    "event_id": "330845623",
+    "date_time": "17 January at 18:00",
+    "competition": "Switzerland. Super League",
+    "parsed_datetime": "2026-01-17T18:00:00",
+    "logo_alt": "Switzerland. Super League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Luzern",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/89.gif"
+      },
+      {
+        "team_name": "Lugano",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/640.gif"
       }
     ],
     "streams": []
@@ -3818,22 +3818,22 @@
     "streams": []
   },
   {
-    "matchup": "Napoli – Sassuolo",
-    "event_url": "https://livetv.sx/enx/eventinfo/330843120__/",
-    "event_id": "330843120",
-    "date_time": "17 January at 18:00",
-    "competition": "Italy. Serie A",
-    "parsed_datetime": "2026-01-17T18:00:00",
-    "logo_alt": "Italy. Serie A",
+    "matchup": "Westerlo – Cercle",
+    "event_url": "https://livetv.sx/enx/eventinfo/330806120__/",
+    "event_id": "330806120",
+    "date_time": "17 January at 18:15",
+    "competition": "Belgium. Pro League",
+    "parsed_datetime": "2026-01-17T18:15:00",
+    "logo_alt": "Belgium. Pro League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Napoli",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36752.gif"
+        "team_name": "Westerlo",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6271.gif"
       },
       {
-        "team_name": "Sassuolo",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/19521.gif"
+        "team_name": "Cercle",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26644.gif"
       }
     ],
     "streams": []
@@ -3860,22 +3860,43 @@
     "streams": []
   },
   {
-    "matchup": "Westerlo – Cercle",
-    "event_url": "https://livetv.sx/enx/eventinfo/330806120__/",
-    "event_id": "330806120",
-    "date_time": "17 January at 18:15",
-    "competition": "Belgium. Pro League",
-    "parsed_datetime": "2026-01-17T18:15:00",
-    "logo_alt": "Belgium. Pro League",
+    "matchup": "Nottingham Forest – Arsenal",
+    "event_url": "https://livetv.sx/enx/eventinfo/330849583__/",
+    "event_id": "330849583",
+    "date_time": "17 January at 18:30",
+    "competition": "England. Premier League",
+    "parsed_datetime": "2026-01-17T18:30:00",
+    "logo_alt": "England. Premier League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Westerlo",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6271.gif"
+        "team_name": "Nottingham Forest",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3905.gif"
       },
       {
-        "team_name": "Cercle",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26644.gif"
+        "team_name": "Arsenal",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/142.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Napoli – Sassuolo",
+    "event_url": "https://livetv.sx/enx/eventinfo/330843120__/",
+    "event_id": "330843120",
+    "date_time": "17 January at 18:00",
+    "competition": "Italy. Serie A",
+    "parsed_datetime": "2026-01-17T18:00:00",
+    "logo_alt": "Italy. Serie A",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Napoli",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36752.gif"
+      },
+      {
+        "team_name": "Sassuolo",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/19521.gif"
       }
     ],
     "streams": []
@@ -3902,48 +3923,6 @@
     "streams": []
   },
   {
-    "matchup": "Nottingham Forest – Arsenal",
-    "event_url": "https://livetv.sx/enx/eventinfo/330849583__/",
-    "event_id": "330849583",
-    "date_time": "17 January at 18:30",
-    "competition": "England. Premier League",
-    "parsed_datetime": "2026-01-17T18:30:00",
-    "logo_alt": "England. Premier League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Nottingham Forest",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3905.gif"
-      },
-      {
-        "team_name": "Arsenal",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/142.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "RB Leipzig – Bayern Munich",
-    "event_url": "https://livetv.sx/enx/eventinfo/330849948__/",
-    "event_id": "330849948",
-    "date_time": "17 January at 18:30",
-    "competition": "Germany. Bundesliga",
-    "parsed_datetime": "2026-01-17T18:30:00",
-    "logo_alt": "Germany. Bundesliga",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "RB Leipzig",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6925.gif"
-      },
-      {
-        "team_name": "Bayern Munich",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Swansea City – Birmingham City",
     "event_url": "https://livetv.sx/enx/eventinfo/330849625__/",
     "event_id": "330849625",
@@ -3965,22 +3944,22 @@
     "streams": []
   },
   {
-    "matchup": "Al Nassr – Al-Shabab Riyadh",
-    "event_url": "https://livetv.sx/enx/eventinfo/330852251__/",
-    "event_id": "330852251",
+    "matchup": "RB Leipzig – Bayern Munich",
+    "event_url": "https://livetv.sx/enx/eventinfo/330849948__/",
+    "event_id": "330849948",
     "date_time": "17 January at 18:30",
-    "competition": "Saudi Arabia. Pro League",
+    "competition": "Germany. Bundesliga",
     "parsed_datetime": "2026-01-17T18:30:00",
-    "logo_alt": "Saudi Arabia. Pro League",
+    "logo_alt": "Germany. Bundesliga",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Al Nassr",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35362.gif"
+        "team_name": "RB Leipzig",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6925.gif"
       },
       {
-        "team_name": "Al-Shabab Riyadh",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20684.gif"
+        "team_name": "Bayern Munich",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9.gif"
       }
     ],
     "streams": []
@@ -4028,43 +4007,22 @@
     "streams": []
   },
   {
-    "matchup": "Rapid Bucuresti – Metaloglobus",
-    "event_url": "https://livetv.sx/enx/eventinfo/330859780__/",
-    "event_id": "330859780",
-    "date_time": "17 January at 19:00",
-    "competition": "Romania. Liga 1",
-    "parsed_datetime": "2026-01-17T19:00:00",
-    "logo_alt": "Romania. Liga 1",
+    "matchup": "Al Nassr – Al-Shabab Riyadh",
+    "event_url": "https://livetv.sx/enx/eventinfo/330852251__/",
+    "event_id": "330852251",
+    "date_time": "17 January at 18:30",
+    "competition": "Saudi Arabia. Pro League",
+    "parsed_datetime": "2026-01-17T18:30:00",
+    "logo_alt": "Saudi Arabia. Pro League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Rapid Bucuresti",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5360.gif"
+        "team_name": "Al Nassr",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35362.gif"
       },
       {
-        "team_name": "Metaloglobus",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5363.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Alverca – Moreirense",
-    "event_url": "https://livetv.sx/enx/eventinfo/330859554__/",
-    "event_id": "330859554",
-    "date_time": "17 January at 19:00",
-    "competition": "Portugal. Primeira Liga",
-    "parsed_datetime": "2026-01-17T19:00:00",
-    "logo_alt": "Portugal. Primeira Liga",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Alverca",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4387.gif"
-      },
-      {
-        "team_name": "Moreirense",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/870.gif"
+        "team_name": "Al-Shabab Riyadh",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20684.gif"
       }
     ],
     "streams": []
@@ -4086,6 +4044,27 @@
       {
         "team_name": "Madrid (W)",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35678.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Rapid Bucuresti – Metaloglobus",
+    "event_url": "https://livetv.sx/enx/eventinfo/330859780__/",
+    "event_id": "330859780",
+    "date_time": "17 January at 19:00",
+    "competition": "Romania. Liga 1",
+    "parsed_datetime": "2026-01-17T19:00:00",
+    "logo_alt": "Romania. Liga 1",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Rapid Bucuresti",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5360.gif"
+      },
+      {
+        "team_name": "Metaloglobus",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5363.gif"
       }
     ],
     "streams": []
@@ -4133,22 +4112,22 @@
     "streams": []
   },
   {
-    "matchup": "Ismaily – Wadi Degla",
-    "event_url": "https://livetv.sx/enx/eventinfo/334748643__/",
-    "event_id": "334748643",
+    "matchup": "Alverca – Moreirense",
+    "event_url": "https://livetv.sx/enx/eventinfo/330859554__/",
+    "event_id": "330859554",
     "date_time": "17 January at 19:00",
-    "competition": "Egypt. League Cup",
+    "competition": "Portugal. Primeira Liga",
     "parsed_datetime": "2026-01-17T19:00:00",
-    "logo_alt": "Egypt. League Cup",
+    "logo_alt": "Portugal. Primeira Liga",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Ismaily",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1549.gif"
+        "team_name": "Alverca",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4387.gif"
       },
       {
-        "team_name": "Wadi Degla",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1546.gif"
+        "team_name": "Moreirense",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/870.gif"
       }
     ],
     "streams": []
@@ -4175,27 +4154,6 @@
     "streams": []
   },
   {
-    "matchup": "Toulouse – Nice",
-    "event_url": "https://livetv.sx/enx/eventinfo/330860200__/",
-    "event_id": "330860200",
-    "date_time": "17 January at 19:00",
-    "competition": "France. Ligue 1",
-    "parsed_datetime": "2026-01-17T19:00:00",
-    "logo_alt": "France. Ligue 1",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Toulouse",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33578.gif"
-      },
-      {
-        "team_name": "Nice",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/125.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Centro Oeste – Jataiense",
     "event_url": "https://livetv.sx/enx/eventinfo/331403020__/",
     "event_id": "331403020",
@@ -4212,6 +4170,48 @@
       {
         "team_name": "Jataiense",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12827.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Ismaily – Wadi Degla",
+    "event_url": "https://livetv.sx/enx/eventinfo/334748643__/",
+    "event_id": "334748643",
+    "date_time": "17 January at 19:00",
+    "competition": "Egypt. League Cup",
+    "parsed_datetime": "2026-01-17T19:00:00",
+    "logo_alt": "Egypt. League Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Ismaily",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1549.gif"
+      },
+      {
+        "team_name": "Wadi Degla",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1546.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Toulouse – Nice",
+    "event_url": "https://livetv.sx/enx/eventinfo/330860200__/",
+    "event_id": "330860200",
+    "date_time": "17 January at 19:00",
+    "competition": "France. Ligue 1",
+    "parsed_datetime": "2026-01-17T19:00:00",
+    "logo_alt": "France. Ligue 1",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Toulouse",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33578.gif"
+      },
+      {
+        "team_name": "Nice",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/125.gif"
       }
     ],
     "streams": []
@@ -4238,22 +4238,22 @@
     "streams": []
   },
   {
-    "matchup": "Quinho – Potiguar",
-    "event_url": "https://livetv.sx/enx/eventinfo/331439874__/",
-    "event_id": "331439874",
-    "date_time": "17 January at 20:00",
-    "competition": "Brazil. Campeonato Potiguar",
-    "parsed_datetime": "2026-01-17T20:00:00",
-    "logo_alt": "Brazil. Campeonato Potiguar",
+    "matchup": "Hound Dogs – Magpies",
+    "event_url": "https://livetv.sx/enx/eventinfo/330865371__/",
+    "event_id": "330865371",
+    "date_time": "17 January at 19:30",
+    "competition": "Gibraltar. Premier Division",
+    "parsed_datetime": "2026-01-17T19:30:00",
+    "logo_alt": "Gibraltar. Premier Division",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Quinho",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36844.gif"
+        "team_name": "Hound Dogs",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35038.gif"
       },
       {
-        "team_name": "Potiguar",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7022.gif"
+        "team_name": "Magpies",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30149.gif"
       }
     ],
     "streams": []
@@ -4280,64 +4280,22 @@
     "streams": []
   },
   {
-    "matchup": "Athletico-PR – Coritiba",
-    "event_url": "https://livetv.sx/enx/eventinfo/330873092__/",
-    "event_id": "330873092",
+    "matchup": "Quinho – Potiguar",
+    "event_url": "https://livetv.sx/enx/eventinfo/331439874__/",
+    "event_id": "331439874",
     "date_time": "17 January at 20:00",
-    "competition": "Brazil. Campeonato Paranaense",
+    "competition": "Brazil. Campeonato Potiguar",
     "parsed_datetime": "2026-01-17T20:00:00",
-    "logo_alt": "Brazil. Campeonato Paranaense",
+    "logo_alt": "Brazil. Campeonato Potiguar",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Athletico-PR",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/430.gif"
+        "team_name": "Quinho",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36844.gif"
       },
       {
-        "team_name": "Coritiba",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6283.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Hound Dogs – Magpies",
-    "event_url": "https://livetv.sx/enx/eventinfo/330865371__/",
-    "event_id": "330865371",
-    "date_time": "17 January at 19:30",
-    "competition": "Gibraltar. Premier Division",
-    "parsed_datetime": "2026-01-17T19:30:00",
-    "logo_alt": "Gibraltar. Premier Division",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Hound Dogs",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35038.gif"
-      },
-      {
-        "team_name": "Magpies",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30149.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Anapolis – Vila Nova",
-    "event_url": "https://livetv.sx/enx/eventinfo/331403021__/",
-    "event_id": "331403021",
-    "date_time": "17 January at 20:00",
-    "competition": "Brazil. Campeonato Goiano",
-    "parsed_datetime": "2026-01-17T20:00:00",
-    "logo_alt": "Brazil. Campeonato Goiano",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Anapolis",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/11200.gif"
-      },
-      {
-        "team_name": "Vila Nova",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33142.gif"
+        "team_name": "Potiguar",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7022.gif"
       }
     ],
     "streams": []
@@ -4364,22 +4322,43 @@
     "streams": []
   },
   {
-    "matchup": "ABC – Santa Cruz-RN",
-    "event_url": "https://livetv.sx/enx/eventinfo/331407168__/",
-    "event_id": "331407168",
+    "matchup": "Anapolis – Vila Nova",
+    "event_url": "https://livetv.sx/enx/eventinfo/331403021__/",
+    "event_id": "331403021",
     "date_time": "17 January at 20:00",
-    "competition": "Brazil. Campeonato Potiguar",
+    "competition": "Brazil. Campeonato Goiano",
     "parsed_datetime": "2026-01-17T20:00:00",
-    "logo_alt": "Brazil. Campeonato Potiguar",
+    "logo_alt": "Brazil. Campeonato Goiano",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "ABC",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6267.gif"
+        "team_name": "Anapolis",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/11200.gif"
       },
       {
-        "team_name": "Santa Cruz-RN",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/28858.gif"
+        "team_name": "Vila Nova",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33142.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Athletico-PR – Coritiba",
+    "event_url": "https://livetv.sx/enx/eventinfo/330873092__/",
+    "event_id": "330873092",
+    "date_time": "17 January at 20:00",
+    "competition": "Brazil. Campeonato Paranaense",
+    "parsed_datetime": "2026-01-17T20:00:00",
+    "logo_alt": "Brazil. Campeonato Paranaense",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Athletico-PR",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/430.gif"
+      },
+      {
+        "team_name": "Coritiba",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6283.gif"
       }
     ],
     "streams": []
@@ -4427,6 +4406,48 @@
     "streams": []
   },
   {
+    "matchup": "ABC – Santa Cruz-RN",
+    "event_url": "https://livetv.sx/enx/eventinfo/331407168__/",
+    "event_id": "331407168",
+    "date_time": "17 January at 20:00",
+    "competition": "Brazil. Campeonato Potiguar",
+    "parsed_datetime": "2026-01-17T20:00:00",
+    "logo_alt": "Brazil. Campeonato Potiguar",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "ABC",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6267.gif"
+      },
+      {
+        "team_name": "Santa Cruz-RN",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/28858.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Eupen – Beveren",
+    "event_url": "https://livetv.sx/enx/eventinfo/330873033__/",
+    "event_id": "330873033",
+    "date_time": "17 January at 20:00",
+    "competition": "Belgium. Challenger Pro League",
+    "parsed_datetime": "2026-01-17T20:00:00",
+    "logo_alt": "Belgium. Challenger Pro League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Eupen",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/986.gif"
+      },
+      {
+        "team_name": "Beveren",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21638.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Agua Santa – Sao Bento",
     "event_url": "https://livetv.sx/enx/eventinfo/331231516__/",
     "event_id": "331231516",
@@ -4469,6 +4490,27 @@
     "streams": []
   },
   {
+    "matchup": "Fortuna Sittard – PSV",
+    "event_url": "https://livetv.sx/enx/eventinfo/330875107__/",
+    "event_id": "330875107",
+    "date_time": "17 January at 20:00",
+    "competition": "Netherlands. Eredivisie",
+    "parsed_datetime": "2026-01-17T20:00:00",
+    "logo_alt": "Netherlands. Eredivisie",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Fortuna Sittard",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/647.gif"
+      },
+      {
+        "team_name": "PSV",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/472.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Excelsior – Telstar",
     "event_url": "https://livetv.sx/enx/eventinfo/330875108__/",
     "event_id": "330875108",
@@ -4490,27 +4532,6 @@
     "streams": []
   },
   {
-    "matchup": "Eupen – Beveren",
-    "event_url": "https://livetv.sx/enx/eventinfo/330873033__/",
-    "event_id": "330873033",
-    "date_time": "17 January at 20:00",
-    "competition": "Belgium. Challenger Pro League",
-    "parsed_datetime": "2026-01-17T20:00:00",
-    "logo_alt": "Belgium. Challenger Pro League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Eupen",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/986.gif"
-      },
-      {
-        "team_name": "Beveren",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21638.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Varzim – Sanjoanense",
     "event_url": "https://livetv.sx/enx/eventinfo/330875390__/",
     "event_id": "330875390",
@@ -4527,27 +4548,6 @@
       {
         "team_name": "Sanjoanense",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/11471.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Fortuna Sittard – PSV",
-    "event_url": "https://livetv.sx/enx/eventinfo/330875107__/",
-    "event_id": "330875107",
-    "date_time": "17 January at 20:00",
-    "competition": "Netherlands. Eredivisie",
-    "parsed_datetime": "2026-01-17T20:00:00",
-    "logo_alt": "Netherlands. Eredivisie",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Fortuna Sittard",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/647.gif"
-      },
-      {
-        "team_name": "PSV",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/472.gif"
       }
     ],
     "streams": []
@@ -4637,6 +4637,27 @@
     "streams": []
   },
   {
+    "matchup": "Cagliari – Juventus",
+    "event_url": "https://livetv.sx/enx/eventinfo/330891087__/",
+    "event_id": "330891087",
+    "date_time": "17 January at 20:45",
+    "competition": "Italy. Serie A",
+    "parsed_datetime": "2026-01-17T20:45:00",
+    "logo_alt": "Italy. Serie A",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Cagliari",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/62.gif"
+      },
+      {
+        "team_name": "Juventus",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6399.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Botafogo-RJ U-20 –  Itaquaquecetuba U-20",
     "event_url": "https://livetv.sx/enx/eventinfo/334826888__/",
     "event_id": "334826888",
@@ -4653,27 +4674,6 @@
       {
         "team_name": "Itaquaquecetuba U-20",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36893.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Foz do Iguacu – Andraus Brazil",
-    "event_url": "https://livetv.sx/enx/eventinfo/330917241__/",
-    "event_id": "330917241",
-    "date_time": "17 January at 21:00",
-    "competition": "Brazil. Campeonato Paranaense",
-    "parsed_datetime": "2026-01-17T21:00:00",
-    "logo_alt": "Brazil. Campeonato Paranaense",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Foz do Iguacu",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36861.gif"
-      },
-      {
-        "team_name": "Andraus Brazil",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/28668.gif"
       }
     ],
     "streams": []
@@ -4700,48 +4700,6 @@
     "streams": []
   },
   {
-    "matchup": "Union Saint-Gilloise – Mechelen",
-    "event_url": "https://livetv.sx/enx/eventinfo/330806123__/",
-    "event_id": "330806123",
-    "date_time": "17 January at 20:45",
-    "competition": "Belgium. Pro League",
-    "parsed_datetime": "2026-01-17T20:45:00",
-    "logo_alt": "Belgium. Pro League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Union Saint-Gilloise",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33406.gif"
-      },
-      {
-        "team_name": "Mechelen",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5796.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Cagliari – Juventus",
-    "event_url": "https://livetv.sx/enx/eventinfo/330891087__/",
-    "event_id": "330891087",
-    "date_time": "17 January at 20:45",
-    "competition": "Italy. Serie A",
-    "parsed_datetime": "2026-01-17T20:45:00",
-    "logo_alt": "Italy. Serie A",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Cagliari",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/62.gif"
-      },
-      {
-        "team_name": "Juventus",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6399.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Le Havre (W) –  PSG (W)",
     "event_url": "https://livetv.sx/enx/eventinfo/334938951__/",
     "event_id": "334938951",
@@ -4763,43 +4721,43 @@
     "streams": []
   },
   {
-    "matchup": "NAC Breda – NEC",
-    "event_url": "https://livetv.sx/enx/eventinfo/330892412__/",
-    "event_id": "330892412",
-    "date_time": "17 January at 21:00",
-    "competition": "Netherlands. Eredivisie",
-    "parsed_datetime": "2026-01-17T21:00:00",
-    "logo_alt": "Netherlands. Eredivisie",
+    "matchup": "Union Saint-Gilloise – Mechelen",
+    "event_url": "https://livetv.sx/enx/eventinfo/330806123__/",
+    "event_id": "330806123",
+    "date_time": "17 January at 20:45",
+    "competition": "Belgium. Pro League",
+    "parsed_datetime": "2026-01-17T20:45:00",
+    "logo_alt": "Belgium. Pro League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "NAC Breda",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/480.gif"
+        "team_name": "Union Saint-Gilloise",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33406.gif"
       },
       {
-        "team_name": "NEC",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6678.gif"
+        "team_name": "Mechelen",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5796.gif"
       }
     ],
     "streams": []
   },
   {
-    "matchup": "Real Betis – Villarreal",
-    "event_url": "https://livetv.sx/enx/eventinfo/330890944__/",
-    "event_id": "330890944",
+    "matchup": "Foz do Iguacu – Andraus Brazil",
+    "event_url": "https://livetv.sx/enx/eventinfo/330917241__/",
+    "event_id": "330917241",
     "date_time": "17 January at 21:00",
-    "competition": "Spain. Primera Division",
+    "competition": "Brazil. Campeonato Paranaense",
     "parsed_datetime": "2026-01-17T21:00:00",
-    "logo_alt": "Spain. Primera Division",
+    "logo_alt": "Brazil. Campeonato Paranaense",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Real Betis",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/42.gif"
+        "team_name": "Foz do Iguacu",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36861.gif"
       },
       {
-        "team_name": "Villarreal",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/39.gif"
+        "team_name": "Andraus Brazil",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/28668.gif"
       }
     ],
     "streams": []
@@ -4847,6 +4805,27 @@
     "streams": []
   },
   {
+    "matchup": "NAC Breda – NEC",
+    "event_url": "https://livetv.sx/enx/eventinfo/330892412__/",
+    "event_id": "330892412",
+    "date_time": "17 January at 21:00",
+    "competition": "Netherlands. Eredivisie",
+    "parsed_datetime": "2026-01-17T21:00:00",
+    "logo_alt": "Netherlands. Eredivisie",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "NAC Breda",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/480.gif"
+      },
+      {
+        "team_name": "NEC",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6678.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Almeria – Deportivo",
     "event_url": "https://livetv.sx/enx/eventinfo/330890970__/",
     "event_id": "330890970",
@@ -4863,6 +4842,27 @@
       {
         "team_name": "Deportivo",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/41.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Real Betis – Villarreal",
+    "event_url": "https://livetv.sx/enx/eventinfo/330890944__/",
+    "event_id": "330890944",
+    "date_time": "17 January at 21:00",
+    "competition": "Spain. Primera Division",
+    "parsed_datetime": "2026-01-17T21:00:00",
+    "logo_alt": "Spain. Primera Division",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Real Betis",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/42.gif"
+      },
+      {
+        "team_name": "Villarreal",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/39.gif"
       }
     ],
     "streams": []
@@ -4910,69 +4910,6 @@
     "streams": []
   },
   {
-    "matchup": "Angers – Marseille",
-    "event_url": "https://livetv.sx/enx/eventinfo/330902190__/",
-    "event_id": "330902190",
-    "date_time": "17 January at 21:05",
-    "competition": "France. Ligue 1",
-    "parsed_datetime": "2026-01-17T21:05:00",
-    "logo_alt": "France. Ligue 1",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Angers",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/19437.gif"
-      },
-      {
-        "team_name": "Marseille",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/120.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Ituano – Ferroviaria",
-    "event_url": "https://livetv.sx/enx/eventinfo/331231513__/",
-    "event_id": "331231513",
-    "date_time": "17 January at 22:00",
-    "competition": "Brazil. Campeonato Paulista 2",
-    "parsed_datetime": "2026-01-17T22:00:00",
-    "logo_alt": "Brazil. Campeonato Paulista 2",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Ituano",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6253.gif"
-      },
-      {
-        "team_name": "Ferroviaria",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6254.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Gremio Prudente – Osasco",
-    "event_url": "https://livetv.sx/enx/eventinfo/331231515__/",
-    "event_id": "331231515",
-    "date_time": "17 January at 22:00",
-    "competition": "Brazil. Campeonato Paulista 2",
-    "parsed_datetime": "2026-01-17T22:00:00",
-    "logo_alt": "Brazil. Campeonato Paulista 2",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Gremio Prudente",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26668.gif"
-      },
-      {
-        "team_name": "Osasco",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36880.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Goiatuba – Anapolina",
     "event_url": "https://livetv.sx/enx/eventinfo/331403022__/",
     "event_id": "331403022",
@@ -5015,22 +4952,22 @@
     "streams": []
   },
   {
-    "matchup": "Os Belenenses – 1º Dezembro",
-    "event_url": "https://livetv.sx/enx/eventinfo/330910559__/",
-    "event_id": "330910559",
-    "date_time": "17 January at 22:00",
-    "competition": "Portugal. Liga 3",
-    "parsed_datetime": "2026-01-17T22:00:00",
-    "logo_alt": "Portugal. Liga 3",
+    "matchup": "Angers – Marseille",
+    "event_url": "https://livetv.sx/enx/eventinfo/330902190__/",
+    "event_id": "330902190",
+    "date_time": "17 January at 21:05",
+    "competition": "France. Ligue 1",
+    "parsed_datetime": "2026-01-17T21:05:00",
+    "logo_alt": "France. Ligue 1",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Os Belenenses",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/17949.gif"
+        "team_name": "Angers",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/19437.gif"
       },
       {
-        "team_name": "1º Dezembro",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/31737.gif"
+        "team_name": "Marseille",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/120.gif"
       }
     ],
     "streams": []
@@ -5057,22 +4994,64 @@
     "streams": []
   },
   {
-    "matchup": "America de Cali – La Equidad",
-    "event_url": "https://livetv.sx/enx/eventinfo/332807429__/",
-    "event_id": "332807429",
-    "date_time": "17 January at 22:10",
-    "competition": "Colombia. Primera A",
-    "parsed_datetime": "2026-01-17T22:10:00",
-    "logo_alt": "Colombia. Primera A",
+    "matchup": "Os Belenenses – 1º Dezembro",
+    "event_url": "https://livetv.sx/enx/eventinfo/330910559__/",
+    "event_id": "330910559",
+    "date_time": "17 January at 22:00",
+    "competition": "Portugal. Liga 3",
+    "parsed_datetime": "2026-01-17T22:00:00",
+    "logo_alt": "Portugal. Liga 3",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "America de Cali",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/273.gif"
+        "team_name": "Os Belenenses",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/17949.gif"
       },
       {
-        "team_name": "La Equidad",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/275.gif"
+        "team_name": "1º Dezembro",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/31737.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Gremio Prudente – Osasco",
+    "event_url": "https://livetv.sx/enx/eventinfo/331231515__/",
+    "event_id": "331231515",
+    "date_time": "17 January at 22:00",
+    "competition": "Brazil. Campeonato Paulista 2",
+    "parsed_datetime": "2026-01-17T22:00:00",
+    "logo_alt": "Brazil. Campeonato Paulista 2",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Gremio Prudente",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26668.gif"
+      },
+      {
+        "team_name": "Osasco",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36880.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Ituano – Ferroviaria",
+    "event_url": "https://livetv.sx/enx/eventinfo/331231513__/",
+    "event_id": "331231513",
+    "date_time": "17 January at 22:00",
+    "competition": "Brazil. Campeonato Paulista 2",
+    "parsed_datetime": "2026-01-17T22:00:00",
+    "logo_alt": "Brazil. Campeonato Paulista 2",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Ituano",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6253.gif"
+      },
+      {
+        "team_name": "Ferroviaria",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6254.gif"
       }
     ],
     "streams": []
@@ -5099,27 +5078,6 @@
     "streams": []
   },
   {
-    "matchup": "Bangu – Madureira",
-    "event_url": "https://livetv.sx/enx/eventinfo/330917219__/",
-    "event_id": "330917219",
-    "date_time": "17 January at 22:30",
-    "competition": "Brazil. Campeonato Carioca",
-    "parsed_datetime": "2026-01-17T22:30:00",
-    "logo_alt": "Brazil. Campeonato Carioca",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Bangu",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5305.gif"
-      },
-      {
-        "team_name": "Madureira",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5342.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Boavista SC – Fluminense",
     "event_url": "https://livetv.sx/enx/eventinfo/330917218__/",
     "event_id": "330917218",
@@ -5136,6 +5094,48 @@
       {
         "team_name": "Fluminense",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/438.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "America de Cali – La Equidad",
+    "event_url": "https://livetv.sx/enx/eventinfo/332807429__/",
+    "event_id": "332807429",
+    "date_time": "17 January at 22:10",
+    "competition": "Colombia. Primera A",
+    "parsed_datetime": "2026-01-17T22:10:00",
+    "logo_alt": "Colombia. Primera A",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "America de Cali",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/273.gif"
+      },
+      {
+        "team_name": "La Equidad",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/275.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Bangu – Madureira",
+    "event_url": "https://livetv.sx/enx/eventinfo/330917219__/",
+    "event_id": "330917219",
+    "date_time": "17 January at 22:30",
+    "competition": "Brazil. Campeonato Carioca",
+    "parsed_datetime": "2026-01-17T22:30:00",
+    "logo_alt": "Brazil. Campeonato Carioca",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Bangu",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5305.gif"
+      },
+      {
+        "team_name": "Madureira",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5342.gif"
       }
     ],
     "streams": []
@@ -5246,27 +5246,6 @@
     "streams": []
   },
   {
-    "matchup": "Moca – Cibao",
-    "event_url": "https://livetv.sx/enx/eventinfo/334728736__/",
-    "event_id": "334728736",
-    "date_time": "17 January at 23:00",
-    "competition": "Dominican Republic. LDF",
-    "parsed_datetime": "2026-01-17T23:00:00",
-    "logo_alt": "Dominican Republic. LDF",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Moca",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26530.gif"
-      },
-      {
-        "team_name": "Cibao",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9234.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Gremio-RS – Sao Luiz",
     "event_url": "https://livetv.sx/enx/eventinfo/334938946__/",
     "event_id": "334938946",
@@ -5283,6 +5262,27 @@
       {
         "team_name": "Sao Luiz",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6337.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Moca – Cibao",
+    "event_url": "https://livetv.sx/enx/eventinfo/334728736__/",
+    "event_id": "334728736",
+    "date_time": "17 January at 23:00",
+    "competition": "Dominican Republic. LDF",
+    "parsed_datetime": "2026-01-17T23:00:00",
+    "logo_alt": "Dominican Republic. LDF",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Moca",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26530.gif"
+      },
+      {
+        "team_name": "Cibao",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9234.gif"
       }
     ],
     "streams": []
