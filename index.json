@@ -33,6 +33,18 @@
     "streams": []
   },
   {
+    "matchup": "Simulcast",
+    "event_url": "https://livetv.sx/enx/eventinfo/321349644_simulcast/",
+    "event_id": "321349644",
+    "date_time": "21 January at 21:00",
+    "competition": "Champions League",
+    "parsed_datetime": "2026-01-21T21:00:00",
+    "logo_alt": "Champions League",
+    "is_live": false,
+    "team_logos": [],
+    "streams": []
+  },
+  {
     "matchup": "Kolos – Wisla",
     "event_url": "https://livetv.sx/enx/eventinfo/335858843_kolos_wisla/",
     "event_id": "335858843",
@@ -49,39 +61,6 @@
       {
         "team_name": "Wisla",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/32190.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Simulcast",
-    "event_url": "https://livetv.sx/enx/eventinfo/321349644_simulcast/",
-    "event_id": "321349644",
-    "date_time": "21 January at 21:00",
-    "competition": "Champions League",
-    "parsed_datetime": "2026-01-21T21:00:00",
-    "logo_alt": "Champions League",
-    "is_live": false,
-    "team_logos": [],
-    "streams": []
-  },
-  {
-    "matchup": "Marseille – Liverpool",
-    "event_url": "https://livetv.sx/enx/eventinfo/332048888__/",
-    "event_id": "332048888",
-    "date_time": "21 January at 21:00",
-    "competition": "Champions League",
-    "parsed_datetime": "2026-01-21T21:00:00",
-    "logo_alt": "Champions League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Marseille",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/120.gif"
-      },
-      {
-        "team_name": "Liverpool",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30918.gif"
       }
     ],
     "streams": []
@@ -105,28 +84,32 @@
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10923.gif"
       }
     ],
-    "streams": []
-  },
-  {
-    "matchup": "Al-Okhdood – Al-Riyadh",
-    "event_url": "https://livetv.sx/enx/eventinfo/331994013__/",
-    "event_id": "331994013",
-    "date_time": "21 January at 16:30",
-    "competition": "Saudi Arabia. Pro League",
-    "parsed_datetime": "2026-01-21T16:30:00",
-    "logo_alt": "Saudi Arabia. Pro League",
-    "is_live": false,
-    "team_logos": [
+    "streams": [
       {
-        "team_name": "Al-Okhdood",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33337.gif"
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245198&lang=en&eid=331908070&lid=2926785&ci=2025&si=1",
+        "stream_title": "",
+        "stream_type": ""
       },
       {
-        "team_name": "Al-Riyadh",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30595.gif"
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2934526&lang=en&eid=331908070&lid=2934526&ci=2025&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=acestream&c=d63d8a57cf471394bfa9f619bbd68b01ae27a801&lang=en&eid=331908070&lid=2850353&ci=2025&si=1",
+        "stream_title": "",
+        "stream_type": ""
       }
-    ],
-    "streams": []
+    ]
   },
   {
     "matchup": "Cleopatra – Al Ittihad",
@@ -145,48 +128,6 @@
       {
         "team_name": "Al Ittihad",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1555.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "ZED – Modern Sport",
-    "event_url": "https://livetv.sx/enx/eventinfo/331986325__/",
-    "event_id": "331986325",
-    "date_time": "21 January at 16:00",
-    "competition": "Egypt. Premier League",
-    "parsed_datetime": "2026-01-21T16:00:00",
-    "logo_alt": "Egypt. Premier League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "ZED",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/29908.gif"
-      },
-      {
-        "team_name": "Modern Sport",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30213.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Atalanta – Athletic Bilbao",
-    "event_url": "https://livetv.sx/enx/eventinfo/332048886__/",
-    "event_id": "332048886",
-    "date_time": "21 January at 21:00",
-    "competition": "Champions League",
-    "parsed_datetime": "2026-01-21T21:00:00",
-    "logo_alt": "Champions League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Atalanta",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/59.gif"
-      },
-      {
-        "team_name": "Athletic Bilbao",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/44.gif"
       }
     ],
     "streams": []
@@ -213,22 +154,43 @@
     "streams": []
   },
   {
-    "matchup": "Qarabag – Eintracht",
-    "event_url": "https://livetv.sx/enx/eventinfo/332021909__/",
-    "event_id": "332021909",
-    "date_time": "21 January at 18:45",
+    "matchup": "Slavia Prague – Barcelona",
+    "event_url": "https://livetv.sx/enx/eventinfo/332048887__/",
+    "event_id": "332048887",
+    "date_time": "21 January at 21:00",
     "competition": "Champions League",
-    "parsed_datetime": "2026-01-21T18:45:00",
+    "parsed_datetime": "2026-01-21T21:00:00",
     "logo_alt": "Champions League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Qarabag",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30161.gif"
+        "team_name": "Slavia Prague",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30170.gif"
       },
       {
-        "team_name": "Eintracht",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/24.gif"
+        "team_name": "Barcelona",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "ZED – Modern Sport",
+    "event_url": "https://livetv.sx/enx/eventinfo/331986325__/",
+    "event_id": "331986325",
+    "date_time": "21 January at 16:00",
+    "competition": "Egypt. Premier League",
+    "parsed_datetime": "2026-01-21T16:00:00",
+    "logo_alt": "Egypt. Premier League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "ZED",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/29908.gif"
+      },
+      {
+        "team_name": "Modern Sport",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30213.gif"
       }
     ],
     "streams": []
@@ -255,22 +217,22 @@
     "streams": []
   },
   {
-    "matchup": "Galatasaray – Atletico Madrid",
-    "event_url": "https://livetv.sx/enx/eventinfo/332021908__/",
-    "event_id": "332021908",
-    "date_time": "21 January at 18:45",
+    "matchup": "Marseille – Liverpool",
+    "event_url": "https://livetv.sx/enx/eventinfo/332048888__/",
+    "event_id": "332048888",
+    "date_time": "21 January at 21:00",
     "competition": "Champions League",
-    "parsed_datetime": "2026-01-21T18:45:00",
+    "parsed_datetime": "2026-01-21T21:00:00",
     "logo_alt": "Champions League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Galatasaray",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20957.gif"
+        "team_name": "Marseille",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/120.gif"
       },
       {
-        "team_name": "Atletico Madrid",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35887.gif"
+        "team_name": "Liverpool",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30918.gif"
       }
     ],
     "streams": []
@@ -297,9 +259,30 @@
     "streams": []
   },
   {
-    "matchup": "Slavia Prague – Barcelona",
-    "event_url": "https://livetv.sx/enx/eventinfo/332048887__/",
-    "event_id": "332048887",
+    "matchup": "Al-Okhdood – Al-Riyadh",
+    "event_url": "https://livetv.sx/enx/eventinfo/331994013__/",
+    "event_id": "331994013",
+    "date_time": "21 January at 16:30",
+    "competition": "Saudi Arabia. Pro League",
+    "parsed_datetime": "2026-01-21T16:30:00",
+    "logo_alt": "Saudi Arabia. Pro League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Okhdood",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33337.gif"
+      },
+      {
+        "team_name": "Al-Riyadh",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30595.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Atalanta – Athletic Bilbao",
+    "event_url": "https://livetv.sx/enx/eventinfo/332048886__/",
+    "event_id": "332048886",
     "date_time": "21 January at 21:00",
     "competition": "Champions League",
     "parsed_datetime": "2026-01-21T21:00:00",
@@ -307,33 +290,54 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Slavia Prague",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30170.gif"
+        "team_name": "Atalanta",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/59.gif"
       },
       {
-        "team_name": "Barcelona",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5.gif"
+        "team_name": "Athletic Bilbao",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/44.gif"
       }
     ],
     "streams": []
   },
   {
-    "matchup": "Aris Limassol – AEL Limassol",
-    "event_url": "https://livetv.sx/enx/eventinfo/336230986__/",
-    "event_id": "336230986",
-    "date_time": "21 January at 17:00",
-    "competition": "Cyprus. Cup",
-    "parsed_datetime": "2026-01-21T17:00:00",
-    "logo_alt": "Cyprus. Cup",
+    "matchup": "Galatasaray – Atletico Madrid",
+    "event_url": "https://livetv.sx/enx/eventinfo/332021908__/",
+    "event_id": "332021908",
+    "date_time": "21 January at 18:45",
+    "competition": "Champions League",
+    "parsed_datetime": "2026-01-21T18:45:00",
+    "logo_alt": "Champions League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Aris Limassol",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6082.gif"
+        "team_name": "Galatasaray",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20957.gif"
       },
       {
-        "team_name": "AEL Limassol",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/912.gif"
+        "team_name": "Atletico Madrid",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35887.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Qarabag – Eintracht",
+    "event_url": "https://livetv.sx/enx/eventinfo/332021909__/",
+    "event_id": "332021909",
+    "date_time": "21 January at 18:45",
+    "competition": "Champions League",
+    "parsed_datetime": "2026-01-21T18:45:00",
+    "logo_alt": "Champions League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Qarabag",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30161.gif"
+      },
+      {
+        "team_name": "Eintracht",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/24.gif"
       }
     ],
     "streams": []
@@ -376,6 +380,27 @@
       {
         "team_name": "Al Nassr",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35362.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Aris Limassol – AEL Limassol",
+    "event_url": "https://livetv.sx/enx/eventinfo/336230986__/",
+    "event_id": "336230986",
+    "date_time": "21 January at 17:00",
+    "competition": "Cyprus. Cup",
+    "parsed_datetime": "2026-01-21T17:00:00",
+    "logo_alt": "Cyprus. Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Aris Limassol",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6082.gif"
+      },
+      {
+        "team_name": "AEL Limassol",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/912.gif"
       }
     ],
     "streams": []
@@ -477,6 +502,27 @@
     "streams": []
   },
   {
+    "matchup": "Juventus SP – Taubate",
+    "event_url": "https://livetv.sx/enx/eventinfo/332061472__/",
+    "event_id": "332061472",
+    "date_time": "21 January at 19:00",
+    "competition": "Brazil. Campeonato Paulista 2",
+    "parsed_datetime": "2026-01-21T19:00:00",
+    "logo_alt": "Brazil. Campeonato Paulista 2",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Juventus SP",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1226.gif"
+      },
+      {
+        "team_name": "Taubate",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7111.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Qarabag – Eintracht",
     "event_url": "https://livetv.sx/enx/eventinfo/332021909__/",
     "event_id": "332021909",
@@ -519,22 +565,22 @@
     "streams": []
   },
   {
-    "matchup": "Juventus SP – Taubate",
-    "event_url": "https://livetv.sx/enx/eventinfo/332061472__/",
-    "event_id": "332061472",
+    "matchup": "Smouha – Pharco",
+    "event_url": "https://livetv.sx/enx/eventinfo/332021144__/",
+    "event_id": "332021144",
     "date_time": "21 January at 19:00",
-    "competition": "Brazil. Campeonato Paulista 2",
+    "competition": "Egypt. Premier League",
     "parsed_datetime": "2026-01-21T19:00:00",
-    "logo_alt": "Brazil. Campeonato Paulista 2",
+    "logo_alt": "Egypt. Premier League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Juventus SP",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1226.gif"
+        "team_name": "Smouha",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1542.gif"
       },
       {
-        "team_name": "Taubate",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7111.gif"
+        "team_name": "Pharco",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/2012.gif"
       }
     ],
     "streams": []
@@ -561,55 +607,22 @@
     "streams": []
   },
   {
-    "matchup": "Simulcast",
-    "event_url": "https://livetv.sx/enx/eventinfo/321349644_simulcast/",
-    "event_id": "321349644",
-    "date_time": "21 January at 21:00",
-    "competition": "Champions League",
-    "parsed_datetime": "2026-01-21T21:00:00",
-    "logo_alt": "Champions League",
-    "is_live": false,
-    "team_logos": [],
-    "streams": []
-  },
-  {
-    "matchup": "Watford – Portsmouth",
-    "event_url": "https://livetv.sx/enx/eventinfo/332047514__/",
-    "event_id": "332047514",
-    "date_time": "21 January at 20:45",
-    "competition": "England. Championship",
-    "parsed_datetime": "2026-01-21T20:45:00",
-    "logo_alt": "England. Championship",
+    "matchup": "Arsenal (W) –  Manchester United (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/332033638__/",
+    "event_id": "332033638",
+    "date_time": "21 January at 20:00",
+    "competition": "England. Women. League Cup",
+    "parsed_datetime": "2026-01-21T20:00:00",
+    "logo_alt": "England. Women. League Cup",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Watford",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/150.gif"
+        "team_name": "Arsenal (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7105.gif"
       },
       {
-        "team_name": "Portsmouth",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25257.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Smouha – Pharco",
-    "event_url": "https://livetv.sx/enx/eventinfo/332021144__/",
-    "event_id": "332021144",
-    "date_time": "21 January at 19:00",
-    "competition": "Egypt. Premier League",
-    "parsed_datetime": "2026-01-21T19:00:00",
-    "logo_alt": "Egypt. Premier League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Smouha",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1542.gif"
-      },
-      {
-        "team_name": "Pharco",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/2012.gif"
+        "team_name": "Manchester United (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5153.gif"
       }
     ],
     "streams": []
@@ -657,45 +670,15 @@
     "streams": []
   },
   {
-    "matchup": "Southampton – Sheffield Utd",
-    "event_url": "https://livetv.sx/enx/eventinfo/332047515__/",
-    "event_id": "332047515",
-    "date_time": "21 January at 20:45",
-    "competition": "England. Championship",
-    "parsed_datetime": "2026-01-21T20:45:00",
-    "logo_alt": "England. Championship",
+    "matchup": "Simulcast",
+    "event_url": "https://livetv.sx/enx/eventinfo/321349644_simulcast/",
+    "event_id": "321349644",
+    "date_time": "21 January at 21:00",
+    "competition": "Champions League",
+    "parsed_datetime": "2026-01-21T21:00:00",
+    "logo_alt": "Champions League",
     "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Southampton",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/453.gif"
-      },
-      {
-        "team_name": "Sheffield Utd",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3792.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Arsenal (W) –  Manchester United (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/332033638__/",
-    "event_id": "332033638",
-    "date_time": "21 January at 20:00",
-    "competition": "England. Women. League Cup",
-    "parsed_datetime": "2026-01-21T20:00:00",
-    "logo_alt": "England. Women. League Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Arsenal (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7105.gif"
-      },
-      {
-        "team_name": "Manchester United (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5153.gif"
-      }
-    ],
+    "team_logos": [],
     "streams": []
   },
   {
@@ -715,27 +698,6 @@
       {
         "team_name": "Bangu",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5305.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Stoke City – Middlesbrough",
-    "event_url": "https://livetv.sx/enx/eventinfo/332047516__/",
-    "event_id": "332047516",
-    "date_time": "21 January at 21:00",
-    "competition": "England. Championship",
-    "parsed_datetime": "2026-01-21T21:00:00",
-    "logo_alt": "England. Championship",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Stoke City",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3907.gif"
-      },
-      {
-        "team_name": "Middlesbrough",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3903.gif"
       }
     ],
     "streams": []
@@ -762,43 +724,43 @@
     "streams": []
   },
   {
-    "matchup": "Newcastle United – PSV",
-    "event_url": "https://livetv.sx/enx/eventinfo/332048884__/",
-    "event_id": "332048884",
-    "date_time": "21 January at 21:00",
-    "competition": "Champions League",
-    "parsed_datetime": "2026-01-21T21:00:00",
-    "logo_alt": "Champions League",
+    "matchup": "Watford – Portsmouth",
+    "event_url": "https://livetv.sx/enx/eventinfo/332047514__/",
+    "event_id": "332047514",
+    "date_time": "21 January at 20:45",
+    "competition": "England. Championship",
+    "parsed_datetime": "2026-01-21T20:45:00",
+    "logo_alt": "England. Championship",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Newcastle United",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/145.gif"
+        "team_name": "Watford",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/150.gif"
       },
       {
-        "team_name": "PSV",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/472.gif"
+        "team_name": "Portsmouth",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25257.gif"
       }
     ],
     "streams": []
   },
   {
-    "matchup": "Juventus – Benfica",
-    "event_url": "https://livetv.sx/enx/eventinfo/332048885__/",
-    "event_id": "332048885",
-    "date_time": "21 January at 21:00",
-    "competition": "Champions League",
-    "parsed_datetime": "2026-01-21T21:00:00",
-    "logo_alt": "Champions League",
+    "matchup": "Southampton – Sheffield Utd",
+    "event_url": "https://livetv.sx/enx/eventinfo/332047515__/",
+    "event_id": "332047515",
+    "date_time": "21 January at 20:45",
+    "competition": "England. Championship",
+    "parsed_datetime": "2026-01-21T20:45:00",
+    "logo_alt": "England. Championship",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Juventus",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6399.gif"
+        "team_name": "Southampton",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/453.gif"
       },
       {
-        "team_name": "Benfica",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/344.gif"
+        "team_name": "Sheffield Utd",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3792.gif"
       }
     ],
     "streams": []
@@ -825,43 +787,22 @@
     "streams": []
   },
   {
-    "matchup": "Atalanta – Athletic Bilbao",
-    "event_url": "https://livetv.sx/enx/eventinfo/332048886__/",
-    "event_id": "332048886",
+    "matchup": "Stoke City – Middlesbrough",
+    "event_url": "https://livetv.sx/enx/eventinfo/332047516__/",
+    "event_id": "332047516",
     "date_time": "21 January at 21:00",
-    "competition": "Champions League",
+    "competition": "England. Championship",
     "parsed_datetime": "2026-01-21T21:00:00",
-    "logo_alt": "Champions League",
+    "logo_alt": "England. Championship",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Atalanta",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/59.gif"
+        "team_name": "Stoke City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3907.gif"
       },
       {
-        "team_name": "Athletic Bilbao",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/44.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Marseille – Liverpool",
-    "event_url": "https://livetv.sx/enx/eventinfo/332048888__/",
-    "event_id": "332048888",
-    "date_time": "21 January at 21:00",
-    "competition": "Champions League",
-    "parsed_datetime": "2026-01-21T21:00:00",
-    "logo_alt": "Champions League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Marseille",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/120.gif"
-      },
-      {
-        "team_name": "Liverpool",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30918.gif"
+        "team_name": "Middlesbrough",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3903.gif"
       }
     ],
     "streams": []
@@ -888,43 +829,85 @@
     "streams": []
   },
   {
-    "matchup": "Foz do Iguacu – Cianorte",
-    "event_url": "https://livetv.sx/enx/eventinfo/332088499__/",
-    "event_id": "332088499",
-    "date_time": "21 January at 22:30",
-    "competition": "Brazil. Campeonato Paranaense",
-    "parsed_datetime": "2026-01-21T22:30:00",
-    "logo_alt": "Brazil. Campeonato Paranaense",
+    "matchup": "Juventus – Benfica",
+    "event_url": "https://livetv.sx/enx/eventinfo/332048885__/",
+    "event_id": "332048885",
+    "date_time": "21 January at 21:00",
+    "competition": "Champions League",
+    "parsed_datetime": "2026-01-21T21:00:00",
+    "logo_alt": "Champions League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Foz do Iguacu",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36861.gif"
+        "team_name": "Juventus",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6399.gif"
       },
       {
-        "team_name": "Cianorte",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6282.gif"
+        "team_name": "Benfica",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/344.gif"
       }
     ],
     "streams": []
   },
   {
-    "matchup": "Noroeste – Capivariano",
-    "event_url": "https://livetv.sx/enx/eventinfo/332075063__/",
-    "event_id": "332075063",
-    "date_time": "21 January at 23:00",
-    "competition": "Brazil. Campeonato Paulista",
-    "parsed_datetime": "2026-01-21T23:00:00",
-    "logo_alt": "Brazil. Campeonato Paulista",
+    "matchup": "Marseille – Liverpool",
+    "event_url": "https://livetv.sx/enx/eventinfo/332048888__/",
+    "event_id": "332048888",
+    "date_time": "21 January at 21:00",
+    "competition": "Champions League",
+    "parsed_datetime": "2026-01-21T21:00:00",
+    "logo_alt": "Champions League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Noroeste",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12866.gif"
+        "team_name": "Marseille",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/120.gif"
       },
       {
-        "team_name": "Capivariano",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12861.gif"
+        "team_name": "Liverpool",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30918.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Newcastle United – PSV",
+    "event_url": "https://livetv.sx/enx/eventinfo/332048884__/",
+    "event_id": "332048884",
+    "date_time": "21 January at 21:00",
+    "competition": "Champions League",
+    "parsed_datetime": "2026-01-21T21:00:00",
+    "logo_alt": "Champions League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Newcastle United",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/145.gif"
+      },
+      {
+        "team_name": "PSV",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/472.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Atalanta – Athletic Bilbao",
+    "event_url": "https://livetv.sx/enx/eventinfo/332048886__/",
+    "event_id": "332048886",
+    "date_time": "21 January at 21:00",
+    "competition": "Champions League",
+    "parsed_datetime": "2026-01-21T21:00:00",
+    "logo_alt": "Champions League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Atalanta",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/59.gif"
+      },
+      {
+        "team_name": "Athletic Bilbao",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/44.gif"
       }
     ],
     "streams": []
@@ -951,43 +934,22 @@
     "streams": []
   },
   {
-    "matchup": "Botafogo-RJ – Volta Redonda",
-    "event_url": "https://livetv.sx/enx/eventinfo/332075010__/",
-    "event_id": "332075010",
-    "date_time": "21 January at 23:00",
-    "competition": "Brazil. Campeonato Carioca",
-    "parsed_datetime": "2026-01-21T23:00:00",
-    "logo_alt": "Brazil. Campeonato Carioca",
+    "matchup": "Foz do Iguacu – Cianorte",
+    "event_url": "https://livetv.sx/enx/eventinfo/332088499__/",
+    "event_id": "332088499",
+    "date_time": "21 January at 22:30",
+    "competition": "Brazil. Campeonato Paranaense",
+    "parsed_datetime": "2026-01-21T22:30:00",
+    "logo_alt": "Brazil. Campeonato Paranaense",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Botafogo-RJ",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/433.gif"
+        "team_name": "Foz do Iguacu",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36861.gif"
       },
       {
-        "team_name": "Volta Redonda",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33143.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Academica Vitoria – Maguary PE",
-    "event_url": "https://livetv.sx/enx/eventinfo/332061486__/",
-    "event_id": "332061486",
-    "date_time": "21 January at 22:00",
-    "competition": "Brazil. Campeonato Pernambucano",
-    "parsed_datetime": "2026-01-21T22:00:00",
-    "logo_alt": "Brazil. Campeonato Pernambucano",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Academica Vitoria",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12536.gif"
-      },
-      {
-        "team_name": "Maguary PE",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25243.gif"
+        "team_name": "Cianorte",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6282.gif"
       }
     ],
     "streams": []
@@ -1014,22 +976,43 @@
     "streams": []
   },
   {
-    "matchup": "Inter-RS – Inter SM",
-    "event_url": "https://livetv.sx/enx/eventinfo/336230978__/",
-    "event_id": "336230978",
-    "date_time": "21 January at 23:00",
-    "competition": "Brazil. Campeonato Gaucho",
-    "parsed_datetime": "2026-01-21T23:00:00",
-    "logo_alt": "Brazil. Campeonato Gaucho",
+    "matchup": "Academica Vitoria – Maguary PE",
+    "event_url": "https://livetv.sx/enx/eventinfo/332061486__/",
+    "event_id": "332061486",
+    "date_time": "21 January at 22:00",
+    "competition": "Brazil. Campeonato Pernambucano",
+    "parsed_datetime": "2026-01-21T22:00:00",
+    "logo_alt": "Brazil. Campeonato Pernambucano",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Inter-RS",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1073.gif"
+        "team_name": "Academica Vitoria",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12536.gif"
       },
       {
-        "team_name": "Inter SM",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34835.gif"
+        "team_name": "Maguary PE",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25243.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Noroeste – Capivariano",
+    "event_url": "https://livetv.sx/enx/eventinfo/332075063__/",
+    "event_id": "332075063",
+    "date_time": "21 January at 23:00",
+    "competition": "Brazil. Campeonato Paulista",
+    "parsed_datetime": "2026-01-21T23:00:00",
+    "logo_alt": "Brazil. Campeonato Paulista",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Noroeste",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12866.gif"
+      },
+      {
+        "team_name": "Capivariano",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12861.gif"
       }
     ],
     "streams": []
@@ -1056,27 +1039,6 @@
     "streams": []
   },
   {
-    "matchup": "Deportivo Achuapa – Comunicaciones",
-    "event_url": "https://livetv.sx/enx/eventinfo/332061616__/",
-    "event_id": "332061616",
-    "date_time": "21 January at 23:00",
-    "competition": "Guatemala. Liga Nacional",
-    "parsed_datetime": "2026-01-21T23:00:00",
-    "logo_alt": "Guatemala. Liga Nacional",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Deportivo Achuapa",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32253.gif"
-      },
-      {
-        "team_name": "Comunicaciones",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1166.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Coquimbo Unido – Deportes Limache",
     "event_url": "https://livetv.sx/enx/eventinfo/332064864__/",
     "event_id": "332064864",
@@ -1093,6 +1055,48 @@
       {
         "team_name": "Deportes Limache",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16058.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Inter-RS – Inter SM",
+    "event_url": "https://livetv.sx/enx/eventinfo/336230978__/",
+    "event_id": "336230978",
+    "date_time": "21 January at 23:00",
+    "competition": "Brazil. Campeonato Gaucho",
+    "parsed_datetime": "2026-01-21T23:00:00",
+    "logo_alt": "Brazil. Campeonato Gaucho",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Inter-RS",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1073.gif"
+      },
+      {
+        "team_name": "Inter SM",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34835.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Botafogo-RJ – Volta Redonda",
+    "event_url": "https://livetv.sx/enx/eventinfo/332075010__/",
+    "event_id": "332075010",
+    "date_time": "21 January at 23:00",
+    "competition": "Brazil. Campeonato Carioca",
+    "parsed_datetime": "2026-01-21T23:00:00",
+    "logo_alt": "Brazil. Campeonato Carioca",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Botafogo-RJ",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/433.gif"
+      },
+      {
+        "team_name": "Volta Redonda",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33143.gif"
       }
     ],
     "streams": []
@@ -1119,22 +1123,22 @@
     "streams": []
   },
   {
-    "matchup": "Atletico-PB – Esporte de Patos",
-    "event_url": "https://livetv.sx/enx/eventinfo/335017479__/",
-    "event_id": "335017479",
-    "date_time": "21 January at 23:30",
-    "competition": "Brazil. Campeonato Paraibano",
-    "parsed_datetime": "2026-01-21T23:30:00",
-    "logo_alt": "Brazil. Campeonato Paraibano",
+    "matchup": "Deportivo Achuapa – Comunicaciones",
+    "event_url": "https://livetv.sx/enx/eventinfo/332061616__/",
+    "event_id": "332061616",
+    "date_time": "21 January at 23:00",
+    "competition": "Guatemala. Liga Nacional",
+    "parsed_datetime": "2026-01-21T23:00:00",
+    "logo_alt": "Guatemala. Liga Nacional",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Atletico-PB",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6513.gif"
+        "team_name": "Deportivo Achuapa",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32253.gif"
       },
       {
-        "team_name": "Esporte de Patos",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32316.gif"
+        "team_name": "Comunicaciones",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1166.gif"
       }
     ],
     "streams": []
@@ -1161,6 +1165,27 @@
     "streams": []
   },
   {
+    "matchup": "Atletico-PB – Esporte de Patos",
+    "event_url": "https://livetv.sx/enx/eventinfo/335017479__/",
+    "event_id": "335017479",
+    "date_time": "21 January at 23:30",
+    "competition": "Brazil. Campeonato Paraibano",
+    "parsed_datetime": "2026-01-21T23:30:00",
+    "logo_alt": "Brazil. Campeonato Paraibano",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Atletico-PB",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6513.gif"
+      },
+      {
+        "team_name": "Esporte de Patos",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32316.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Sao Bento – Monte Azul",
     "event_url": "https://livetv.sx/enx/eventinfo/332061468__/",
     "event_id": "332061468",
@@ -1182,27 +1207,6 @@
     "streams": []
   },
   {
-    "matchup": "Sao Paolo – Portuguesa SP",
-    "event_url": "https://livetv.sx/enx/eventinfo/332081849__/",
-    "event_id": "332081849",
-    "date_time": "21 January at 23:30",
-    "competition": "Brazil. Campeonato Paulista",
-    "parsed_datetime": "2026-01-21T23:30:00",
-    "logo_alt": "Brazil. Campeonato Paulista",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Sao Paolo",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/249.gif"
-      },
-      {
-        "team_name": "Portuguesa SP",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7116.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Linense – Ituano",
     "event_url": "https://livetv.sx/enx/eventinfo/332061471__/",
     "event_id": "332061471",
@@ -1219,6 +1223,27 @@
       {
         "team_name": "Ituano",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6253.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Sao Paolo – Portuguesa SP",
+    "event_url": "https://livetv.sx/enx/eventinfo/332081849__/",
+    "event_id": "332081849",
+    "date_time": "21 January at 23:30",
+    "competition": "Brazil. Campeonato Paulista",
+    "parsed_datetime": "2026-01-21T23:30:00",
+    "logo_alt": "Brazil. Campeonato Paulista",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Sao Paolo",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/249.gif"
+      },
+      {
+        "team_name": "Portuguesa SP",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7116.gif"
       }
     ],
     "streams": []
