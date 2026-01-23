@@ -40,22 +40,102 @@
     "streams": []
   },
   {
-    "matchup": "Derby County – West Bromwich Albion",
-    "event_url": "https://livetv.sx/enx/eventinfo/332606315__/",
-    "event_id": "332606315",
-    "date_time": "23 January at 21:00",
-    "competition": "England. Championship",
-    "parsed_datetime": "2026-01-23T21:00:00",
-    "logo_alt": "England. Championship",
+    "matchup": "Qalali – East Riffa",
+    "event_url": "https://livetv.sx/enx/eventinfo/336616917__/",
+    "event_id": "336616917",
+    "date_time": "23 January at 17:00",
+    "competition": "Bahrain. Second Division",
+    "parsed_datetime": "2026-01-23T17:00:00",
+    "logo_alt": "Bahrain. Second Division",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Qalali",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6899.gif"
+      },
+      {
+        "team_name": "East Riffa",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1647.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Al-Ahly Cairo – Yanga",
+    "event_url": "https://livetv.sx/enx/eventinfo/332558176__/",
+    "event_id": "332558176",
+    "date_time": "23 January at 17:00",
+    "competition": "CAF Champions League",
+    "parsed_datetime": "2026-01-23T17:00:00",
+    "logo_alt": "CAF Champions League",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Al-Ahly Cairo",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26045.gif"
+      },
+      {
+        "team_name": "Yanga",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5887.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2936360&lang=en&eid=332558176&lid=2936360&ci=522&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2935665&lang=en&eid=332558176&lid=2935665&ci=522&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Al-Salt – Al-Faisaly Amman",
+    "event_url": "https://livetv.sx/enx/eventinfo/334158299__/",
+    "event_id": "334158299",
+    "date_time": "23 January at 16:30",
+    "competition": "Jordan. Premier League",
+    "parsed_datetime": "2026-01-23T16:30:00",
+    "logo_alt": "Jordan. Premier League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Derby County",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3893.gif"
+        "team_name": "Al-Salt",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6653.gif"
       },
       {
-        "team_name": "West Bromwich Albion",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3897.gif"
+        "team_name": "Al-Faisaly Amman",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6650.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Auxerre – PSG",
+    "event_url": "https://livetv.sx/enx/eventinfo/332595926__/",
+    "event_id": "332595926",
+    "date_time": "23 January at 20:00",
+    "competition": "France. Ligue 1",
+    "parsed_datetime": "2026-01-23T20:00:00",
+    "logo_alt": "France. Ligue 1",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Auxerre",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3931.gif"
+      },
+      {
+        "team_name": "PSG",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34520.gif"
       }
     ],
     "streams": []
@@ -124,22 +204,85 @@
     "streams": []
   },
   {
-    "matchup": "Auxerre – PSG",
-    "event_url": "https://livetv.sx/enx/eventinfo/332595926__/",
-    "event_id": "332595926",
+    "matchup": "Amiens – Laval",
+    "event_url": "https://livetv.sx/enx/eventinfo/332595942__/",
+    "event_id": "332595942",
     "date_time": "23 January at 20:00",
-    "competition": "France. Ligue 1",
+    "competition": "France. Ligue 2",
     "parsed_datetime": "2026-01-23T20:00:00",
-    "logo_alt": "France. Ligue 1",
+    "logo_alt": "France. Ligue 2",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Auxerre",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3931.gif"
+        "team_name": "Amiens",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30393.gif"
       },
       {
-        "team_name": "PSG",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34520.gif"
+        "team_name": "Laval",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6727.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Levante – Elche",
+    "event_url": "https://livetv.sx/enx/eventinfo/332607215__/",
+    "event_id": "332607215",
+    "date_time": "23 January at 21:00",
+    "competition": "Spain. Primera Division",
+    "parsed_datetime": "2026-01-23T21:00:00",
+    "logo_alt": "Spain. Primera Division",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Levante",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/43.gif"
+      },
+      {
+        "team_name": "Elche",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3876.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Vietnam U-23 –  South Korea U-23",
+    "event_url": "https://livetv.sx/enx/eventinfo/336132924__/",
+    "event_id": "336132924",
+    "date_time": "23 January at 16:00",
+    "competition": "AFC U-23 Asian Cup",
+    "parsed_datetime": "2026-01-23T16:00:00",
+    "logo_alt": "AFC U-23 Asian Cup",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Vietnam U-23",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag212.gif"
+      },
+      {
+        "team_name": "South Korea U-23",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag109.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Derby County – West Bromwich Albion",
+    "event_url": "https://livetv.sx/enx/eventinfo/332606315__/",
+    "event_id": "332606315",
+    "date_time": "23 January at 21:00",
+    "competition": "England. Championship",
+    "parsed_datetime": "2026-01-23T21:00:00",
+    "logo_alt": "England. Championship",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Derby County",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3893.gif"
+      },
+      {
+        "team_name": "West Bromwich Albion",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3897.gif"
       }
     ],
     "streams": []
@@ -181,27 +324,6 @@
         "stream_type": "Web"
       }
     ]
-  },
-  {
-    "matchup": "Vietnam U-23 –  South Korea U-23",
-    "event_url": "https://livetv.sx/enx/eventinfo/336132924__/",
-    "event_id": "336132924",
-    "date_time": "23 January at 16:00",
-    "competition": "AFC U-23 Asian Cup",
-    "parsed_datetime": "2026-01-23T16:00:00",
-    "logo_alt": "AFC U-23 Asian Cup",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Vietnam U-23",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag212.gif"
-      },
-      {
-        "team_name": "South Korea U-23",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag109.gif"
-      }
-    ],
-    "streams": []
   },
   {
     "matchup": "Inter – Pisa",
@@ -246,116 +368,6 @@
     "streams": []
   },
   {
-    "matchup": "Levante – Elche",
-    "event_url": "https://livetv.sx/enx/eventinfo/332607215__/",
-    "event_id": "332607215",
-    "date_time": "23 January at 21:00",
-    "competition": "Spain. Primera Division",
-    "parsed_datetime": "2026-01-23T21:00:00",
-    "logo_alt": "Spain. Primera Division",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Levante",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/43.gif"
-      },
-      {
-        "team_name": "Elche",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3876.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Al-Salt – Al-Faisaly Amman",
-    "event_url": "https://livetv.sx/enx/eventinfo/334158299__/",
-    "event_id": "334158299",
-    "date_time": "23 January at 16:30",
-    "competition": "Jordan. Premier League",
-    "parsed_datetime": "2026-01-23T16:30:00",
-    "logo_alt": "Jordan. Premier League",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Al-Salt",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6653.gif"
-      },
-      {
-        "team_name": "Al-Faisaly Amman",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6650.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Arabic",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/5.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=GJCR3zXYC9I&lang=en&eid=334158299&lid=2936398&ci=854&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
-  },
-  {
-    "matchup": "Amiens – Laval",
-    "event_url": "https://livetv.sx/enx/eventinfo/332595942__/",
-    "event_id": "332595942",
-    "date_time": "23 January at 20:00",
-    "competition": "France. Ligue 2",
-    "parsed_datetime": "2026-01-23T20:00:00",
-    "logo_alt": "France. Ligue 2",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Amiens",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30393.gif"
-      },
-      {
-        "team_name": "Laval",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6727.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Al-Ahly Cairo – Yanga",
-    "event_url": "https://livetv.sx/enx/eventinfo/332558176__/",
-    "event_id": "332558176",
-    "date_time": "23 January at 17:00",
-    "competition": "CAF Champions League",
-    "parsed_datetime": "2026-01-23T17:00:00",
-    "logo_alt": "CAF Champions League",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Al-Ahly Cairo",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26045.gif"
-      },
-      {
-        "team_name": "Yanga",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5887.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2936360&lang=en&eid=332558176&lid=2936360&ci=522&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2935665&lang=en&eid=332558176&lid=2935665&ci=522&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
     "matchup": "Standard Liege – Gent",
     "event_url": "https://livetv.sx/enx/eventinfo/332836003__/",
     "event_id": "332836003",
@@ -372,27 +384,6 @@
       {
         "team_name": "Gent",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/37004.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Qalali – East Riffa",
-    "event_url": "https://livetv.sx/enx/eventinfo/336616917__/",
-    "event_id": "336616917",
-    "date_time": "23 January at 17:00",
-    "competition": "Bahrain. Second Division",
-    "parsed_datetime": "2026-01-23T17:00:00",
-    "logo_alt": "Bahrain. Second Division",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Qalali",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6899.gif"
-      },
-      {
-        "team_name": "East Riffa",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1647.gif"
       }
     ],
     "streams": []
@@ -428,59 +419,6 @@
     ]
   },
   {
-    "matchup": "Simulcast",
-    "event_url": "https://livetv.sx/enx/eventinfo/336723654_simulcast/",
-    "event_id": "336723654",
-    "date_time": "23 January at 18:30",
-    "competition": "Germany. 2 Bundesliga",
-    "parsed_datetime": "2026-01-23T18:30:00",
-    "logo_alt": "Germany. 2 Bundesliga",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245212&lang=en&eid=336723654&lid=2912045&ci=31&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245237&lang=en&eid=336723654&lid=2912046&ci=31&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=246023&lang=en&eid=336723654&lid=2927808&ci=31&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2935757&lang=en&eid=336723654&lid=2935757&ci=31&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2927202&lang=en&eid=336723654&lid=2927202&ci=31&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
     "matchup": "Adana Demirspor – Bandirmaspor",
     "event_url": "https://livetv.sx/enx/eventinfo/332571045__/",
     "event_id": "332571045",
@@ -504,6 +442,14 @@
         "language": "Turkish",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
         "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2936528&lang=en&eid=332571045&lid=2936528&ci=179&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      },
+      {
+        "language": "Turkish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
+        "bitrate": "Bit Rate (Kbps)",
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2936202&lang=en&eid=332571045&lid=2936202&ci=179&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
@@ -511,32 +457,71 @@
     ]
   },
   {
-    "matchup": "Villefranche – Aubagne",
-    "event_url": "https://livetv.sx/enx/eventinfo/332571302__/",
-    "event_id": "332571302",
-    "date_time": "23 January at 18:00",
-    "competition": "France. National",
-    "parsed_datetime": "2026-01-23T18:00:00",
-    "logo_alt": "France. National",
+    "matchup": "Simulcast",
+    "event_url": "https://livetv.sx/enx/eventinfo/336723654_simulcast/",
+    "event_id": "336723654",
+    "date_time": "23 January at 18:30",
+    "competition": "Germany. 2 Bundesliga",
+    "parsed_datetime": "2026-01-23T18:30:00",
+    "logo_alt": "Germany. 2 Bundesliga",
     "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Villefranche",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6729.gif"
-      },
-      {
-        "team_name": "Aubagne",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35108.gif"
-      }
-    ],
+    "team_logos": [],
     "streams": [
       {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=soUrq7Cw7B8&lang=en&eid=332571302&lid=2935075&ci=188&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245825&lang=en&eid=336723654&lid=2914867&ci=31&si=1",
         "stream_title": "",
         "stream_type": ""
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245237&lang=en&eid=336723654&lid=2912046&ci=31&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=246023&lang=en&eid=336723654&lid=2927808&ci=31&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2661192&lang=en&eid=336723654&lid=2661192&ci=31&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2936574&lang=en&eid=336723654&lid=2936574&ci=31&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2927202&lang=en&eid=336723654&lid=2927202&ci=31&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2935757&lang=en&eid=336723654&lid=2935757&ci=31&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
       }
     ]
   },
@@ -548,7 +533,7 @@
     "competition": "Germany. Women. Bundesliga",
     "parsed_datetime": "2026-01-23T18:30:00",
     "logo_alt": "Germany. Women. Bundesliga",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Union Berlin (W)",
@@ -612,9 +597,9 @@
         "language": "German",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2935753&lang=en&eid=332574246&lid=2935753&ci=1423&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2936545&lang=en&eid=332574246&lid=2936545&ci=1423&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
+        "stream_type": "Voodc"
       },
       {
         "language": "German",
@@ -623,6 +608,36 @@
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2915608&lang=en&eid=332574246&lid=2915608&ci=1423&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Villefranche – Aubagne",
+    "event_url": "https://livetv.sx/enx/eventinfo/332571302__/",
+    "event_id": "332571302",
+    "date_time": "23 January at 18:00",
+    "competition": "France. National",
+    "parsed_datetime": "2026-01-23T18:00:00",
+    "logo_alt": "France. National",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Villefranche",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6729.gif"
+      },
+      {
+        "team_name": "Aubagne",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35108.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=soUrq7Cw7B8&lang=en&eid=332571302&lid=2935075&ci=188&si=1",
+        "stream_title": "",
+        "stream_type": ""
       }
     ]
   },
@@ -651,6 +666,14 @@
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
         "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242327&lang=en&eid=332571101&lid=2924882&ci=92&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Turkish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245392&lang=en&eid=332571101&lid=2912309&ci=92&si=1",
         "stream_title": "",
         "stream_type": ""
       },
@@ -695,20 +718,12 @@
         "stream_type": "Web"
       },
       {
-        "language": "Serbian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2917794&lang=en&eid=332571101&lid=2917794&ci=92&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
         "language": "Turkish",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2936142&lang=en&eid=332571101&lid=2936142&ci=92&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2936525&lang=en&eid=332571101&lid=2936525&ci=92&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
+        "stream_type": "Voodc"
       }
     ]
   },
@@ -720,7 +735,7 @@
     "competition": "Germany. 2 Bundesliga",
     "parsed_datetime": "2026-01-23T18:30:00",
     "logo_alt": "Germany. 2 Bundesliga",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Darmstadt",
@@ -737,6 +752,14 @@
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
         "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242313&lang=en&eid=332574162&lid=2819130&ci=31&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=246347&lang=en&eid=332574162&lid=2936575&ci=31&si=1",
         "stream_title": "",
         "stream_type": ""
       },
@@ -787,14 +810,152 @@
         "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=246024&lang=en&eid=332574162&lid=2927809&ci=31&si=1",
         "stream_title": "",
         "stream_type": ""
+      }
+    ]
+  },
+  {
+    "matchup": "Zakho – Duhok",
+    "event_url": "https://livetv.sx/enx/eventinfo/334699517__/",
+    "event_id": "334699517",
+    "date_time": "23 January at 18:30",
+    "competition": "Iraq. Premier League",
+    "parsed_datetime": "2026-01-23T18:30:00",
+    "logo_alt": "Iraq. Premier League",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Zakho",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10927.gif"
+      },
+      {
+        "team_name": "Duhok",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35659.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Arabic",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/5.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=Ngdtu5SF2lM&lang=en&eid=334699517&lid=2936569&ci=2637&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
+  },
+  {
+    "matchup": "Arminia – Holstein Kiel",
+    "event_url": "https://livetv.sx/enx/eventinfo/332574163__/",
+    "event_id": "332574163",
+    "date_time": "23 January at 18:30",
+    "competition": "Germany. 2 Bundesliga",
+    "parsed_datetime": "2026-01-23T18:30:00",
+    "logo_alt": "Germany. 2 Bundesliga",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Arminia",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3696.gif"
+      },
+      {
+        "team_name": "Holstein Kiel",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3700.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245213&lang=en&eid=332574163&lid=2912047&ci=31&si=1",
+        "stream_title": "",
+        "stream_type": ""
       },
       {
         "language": "German",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=246356&lang=en&eid=332574162&lid=2936266&ci=31&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245241&lang=en&eid=332574163&lid=2912048&ci=31&si=1",
         "stream_title": "",
         "stream_type": ""
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245814&lang=en&eid=332574163&lid=2914924&ci=31&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=246025&lang=en&eid=332574163&lid=2927810&ci=31&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2936543&lang=en&eid=332574163&lid=2936543&ci=31&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2934638&lang=en&eid=332574163&lid=2934638&ci=31&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2934374&lang=en&eid=332574163&lid=2934374&ci=31&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2935761&lang=en&eid=332574163&lid=2935761&ci=31&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Pacos de Ferreira – Viseu",
+    "event_url": "https://livetv.sx/enx/eventinfo/332582350__/",
+    "event_id": "332582350",
+    "date_time": "23 January at 19:00",
+    "competition": "Portugal. Segunda Liga",
+    "parsed_datetime": "2026-01-23T19:00:00",
+    "logo_alt": "Portugal. Segunda Liga",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Pacos de Ferreira",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3778.gif"
+      },
+      {
+        "team_name": "Viseu",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4376.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2936160&lang=en&eid=332582350&lid=2936160&ci=170&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
       }
     ]
   },
@@ -843,8 +1004,8 @@
         "stream_type": "Web"
       },
       {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
         "bitrate": "Bit Rate (Kbps)",
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2935783&lang=en&eid=332580137&lid=2935783&ci=135&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
@@ -859,113 +1020,6 @@
         "stream_type": "Web"
       }
     ]
-  },
-  {
-    "matchup": "Arminia – Holstein Kiel",
-    "event_url": "https://livetv.sx/enx/eventinfo/332574163__/",
-    "event_id": "332574163",
-    "date_time": "23 January at 18:30",
-    "competition": "Germany. 2 Bundesliga",
-    "parsed_datetime": "2026-01-23T18:30:00",
-    "logo_alt": "Germany. 2 Bundesliga",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Arminia",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3696.gif"
-      },
-      {
-        "team_name": "Holstein Kiel",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3700.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245213&lang=en&eid=332574163&lid=2912047&ci=31&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245241&lang=en&eid=332574163&lid=2912048&ci=31&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Serbian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=245814&lang=en&eid=332574163&lid=2914924&ci=31&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=246025&lang=en&eid=332574163&lid=2927810&ci=31&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2661223&lang=en&eid=332574163&lid=2661223&ci=31&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2934374&lang=en&eid=332574163&lid=2934374&ci=31&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2935761&lang=en&eid=332574163&lid=2935761&ci=31&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2934877&lang=en&eid=332574163&lid=2934877&ci=31&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Zakho – Duhok",
-    "event_url": "https://livetv.sx/enx/eventinfo/334699517__/",
-    "event_id": "334699517",
-    "date_time": "23 January at 18:30",
-    "competition": "Iraq. Premier League",
-    "parsed_datetime": "2026-01-23T18:30:00",
-    "logo_alt": "Iraq. Premier League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Zakho",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10927.gif"
-      },
-      {
-        "team_name": "Duhok",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35659.gif"
-      }
-    ],
-    "streams": []
   },
   {
     "matchup": "Mamelodi Sundowns – Al Hilal Omdurman",
@@ -994,6 +1048,44 @@
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2935665&lang=en&eid=332558174&lid=2935665&ci=522&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2936549&lang=en&eid=332558174&lid=2936549&ci=522&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Stade Briochin – Fleury 91",
+    "event_url": "https://livetv.sx/enx/eventinfo/332589454__/",
+    "event_id": "332589454",
+    "date_time": "23 January at 19:30",
+    "competition": "France. National",
+    "parsed_datetime": "2026-01-23T19:30:00",
+    "logo_alt": "France. National",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Stade Briochin",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6438.gif"
+      },
+      {
+        "team_name": "Fleury 91",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33167.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=2s6JNNlD8xw&lang=en&eid=332589454&lid=2935074&ci=188&si=1",
+        "stream_title": "",
+        "stream_type": ""
       }
     ]
   },
@@ -1018,8 +1110,8 @@
     ],
     "streams": [
       {
-        "language": "Croatian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/29.png",
+        "language": "Serbian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
         "bitrate": "Bit Rate (Kbps)",
         "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=246272&lang=en&eid=332582606&lid=2934061&ci=23&si=1",
         "stream_title": "",
@@ -1070,12 +1162,21 @@
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3936.gif"
       }
     ],
-    "streams": []
+    "streams": [
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=8xE0Y5Pcmxg&lang=en&eid=332589457&lid=2935071&ci=188&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
   },
   {
-    "matchup": "Paris 13 – Versailles",
-    "event_url": "https://livetv.sx/enx/eventinfo/332589455__/",
-    "event_id": "332589455",
+    "matchup": "Orleans – Sochaux",
+    "event_url": "https://livetv.sx/enx/eventinfo/332589456__/",
+    "event_id": "332589456",
     "date_time": "23 January at 19:30",
     "competition": "France. National",
     "parsed_datetime": "2026-01-23T19:30:00",
@@ -1083,12 +1184,72 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Paris 13",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21641.gif"
+        "team_name": "Orleans",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3937.gif"
       },
       {
-        "team_name": "Versailles",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33166.gif"
+        "team_name": "Sochaux",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3933.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=RkXIFWZzSfY&lang=en&eid=332589456&lid=2935072&ci=188&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
+  },
+  {
+    "matchup": "Caen – Quevilly",
+    "event_url": "https://livetv.sx/enx/eventinfo/332589458__/",
+    "event_id": "332589458",
+    "date_time": "23 January at 19:30",
+    "competition": "France. National",
+    "parsed_datetime": "2026-01-23T19:30:00",
+    "logo_alt": "France. National",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Caen",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/510.gif"
+      },
+      {
+        "team_name": "Quevilly",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7570.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=ca-Us0hN_rc&lang=en&eid=332589458&lid=2935070&ci=188&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
+  },
+  {
+    "matchup": "Ajaccio – Concarneau",
+    "event_url": "https://livetv.sx/enx/eventinfo/332589460__/",
+    "event_id": "332589460",
+    "date_time": "23 January at 19:30",
+    "competition": "France. National",
+    "parsed_datetime": "2026-01-23T19:30:00",
+    "logo_alt": "France. National",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Ajaccio",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3929.gif"
+      },
+      {
+        "team_name": "Concarneau",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7569.gif"
       }
     ],
     "streams": []
@@ -1112,35 +1273,14 @@
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3940.gif"
       }
     ],
-    "streams": []
-  },
-  {
-    "matchup": "Pacos de Ferreira – Viseu",
-    "event_url": "https://livetv.sx/enx/eventinfo/332582350__/",
-    "event_id": "332582350",
-    "date_time": "23 January at 19:00",
-    "competition": "Portugal. Segunda Liga",
-    "parsed_datetime": "2026-01-23T19:00:00",
-    "logo_alt": "Portugal. Segunda Liga",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Pacos de Ferreira",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3778.gif"
-      },
-      {
-        "team_name": "Viseu",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4376.gif"
-      }
-    ],
     "streams": [
       {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2936160&lang=en&eid=332582350&lid=2936160&ci=170&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=RKLKpLmjh14&lang=en&eid=332589459&lid=2935069&ci=188&si=1",
+        "stream_title": "",
+        "stream_type": ""
       }
     ]
   },
@@ -1166,30 +1306,21 @@
     "streams": []
   },
   {
-    "matchup": "Caen – Quevilly",
-    "event_url": "https://livetv.sx/enx/eventinfo/332589458__/",
-    "event_id": "332589458",
-    "date_time": "23 January at 19:30",
-    "competition": "France. National",
-    "parsed_datetime": "2026-01-23T19:30:00",
-    "logo_alt": "France. National",
+    "matchup": "Simulcast",
+    "event_url": "https://livetv.sx/enx/eventinfo/336723652_simulcast/",
+    "event_id": "336723652",
+    "date_time": "23 January at 20:00",
+    "competition": "France. Ligue 2",
+    "parsed_datetime": "2026-01-23T20:00:00",
+    "logo_alt": "France. Ligue 2",
     "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Caen",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/510.gif"
-      },
-      {
-        "team_name": "Quevilly",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7570.gif"
-      }
-    ],
+    "team_logos": [],
     "streams": []
   },
   {
-    "matchup": "Ajaccio – Concarneau",
-    "event_url": "https://livetv.sx/enx/eventinfo/332589460__/",
-    "event_id": "332589460",
+    "matchup": "Paris 13 – Versailles",
+    "event_url": "https://livetv.sx/enx/eventinfo/332589455__/",
+    "event_id": "332589455",
     "date_time": "23 January at 19:30",
     "competition": "France. National",
     "parsed_datetime": "2026-01-23T19:30:00",
@@ -1197,15 +1328,24 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Ajaccio",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3929.gif"
+        "team_name": "Paris 13",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21641.gif"
       },
       {
-        "team_name": "Concarneau",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7569.gif"
+        "team_name": "Versailles",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33166.gif"
       }
     ],
-    "streams": []
+    "streams": [
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=iRDopM3yKBw&lang=en&eid=332589455&lid=2935073&ci=188&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
   },
   {
     "matchup": "Everton (W) –  Brighton (W)",
@@ -1224,102 +1364,6 @@
       {
         "team_name": "Brighton (W)",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7782.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Simulcast",
-    "event_url": "https://livetv.sx/enx/eventinfo/336723652_simulcast/",
-    "event_id": "336723652",
-    "date_time": "23 January at 20:00",
-    "competition": "France. Ligue 2",
-    "parsed_datetime": "2026-01-23T20:00:00",
-    "logo_alt": "France. Ligue 2",
-    "is_live": false,
-    "team_logos": [],
-    "streams": []
-  },
-  {
-    "matchup": "Willem II – VVV-Venlo",
-    "event_url": "https://livetv.sx/enx/eventinfo/332594891__/",
-    "event_id": "332594891",
-    "date_time": "23 January at 20:00",
-    "competition": "Netherlands. Eerste Divisie",
-    "parsed_datetime": "2026-01-23T20:00:00",
-    "logo_alt": "Netherlands. Eerste Divisie",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Willem II",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30229.gif"
-      },
-      {
-        "team_name": "VVV-Venlo",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/519.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Orleans – Sochaux",
-    "event_url": "https://livetv.sx/enx/eventinfo/332589456__/",
-    "event_id": "332589456",
-    "date_time": "23 January at 19:30",
-    "competition": "France. National",
-    "parsed_datetime": "2026-01-23T19:30:00",
-    "logo_alt": "France. National",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Orleans",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3937.gif"
-      },
-      {
-        "team_name": "Sochaux",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3933.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Stade Briochin – Fleury 91",
-    "event_url": "https://livetv.sx/enx/eventinfo/332589454__/",
-    "event_id": "332589454",
-    "date_time": "23 January at 19:30",
-    "competition": "France. National",
-    "parsed_datetime": "2026-01-23T19:30:00",
-    "logo_alt": "France. National",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Stade Briochin",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6438.gif"
-      },
-      {
-        "team_name": "Fleury 91",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33167.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Vitesse – Den Haag",
-    "event_url": "https://livetv.sx/enx/eventinfo/332594892__/",
-    "event_id": "332594892",
-    "date_time": "23 January at 20:00",
-    "competition": "Netherlands. Eerste Divisie",
-    "parsed_datetime": "2026-01-23T20:00:00",
-    "logo_alt": "Netherlands. Eerste Divisie",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Vitesse",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/481.gif"
-      },
-      {
-        "team_name": "Den Haag",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/485.gif"
       }
     ],
     "streams": []
@@ -1346,9 +1390,9 @@
     "streams": []
   },
   {
-    "matchup": "De Graafschap – RKC Waalwijk",
-    "event_url": "https://livetv.sx/enx/eventinfo/332594896__/",
-    "event_id": "332594896",
+    "matchup": "Willem II – VVV-Venlo",
+    "event_url": "https://livetv.sx/enx/eventinfo/332594891__/",
+    "event_id": "332594891",
     "date_time": "23 January at 20:00",
     "competition": "Netherlands. Eerste Divisie",
     "parsed_datetime": "2026-01-23T20:00:00",
@@ -1356,20 +1400,20 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "De Graafschap",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33333.gif"
+        "team_name": "Willem II",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30229.gif"
       },
       {
-        "team_name": "RKC Waalwijk",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3855.gif"
+        "team_name": "VVV-Venlo",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/519.gif"
       }
     ],
     "streams": []
   },
   {
-    "matchup": "MVV Maastricht – Jong Utrecht",
-    "event_url": "https://livetv.sx/enx/eventinfo/332594894__/",
-    "event_id": "332594894",
+    "matchup": "Vitesse – Den Haag",
+    "event_url": "https://livetv.sx/enx/eventinfo/332594892__/",
+    "event_id": "332594892",
     "date_time": "23 January at 20:00",
     "competition": "Netherlands. Eerste Divisie",
     "parsed_datetime": "2026-01-23T20:00:00",
@@ -1377,12 +1421,12 @@
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "MVV Maastricht",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6593.gif"
+        "team_name": "Vitesse",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/481.gif"
       },
       {
-        "team_name": "Jong Utrecht",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5378.gif"
+        "team_name": "Den Haag",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/485.gif"
       }
     ],
     "streams": []
@@ -1430,6 +1474,27 @@
     "streams": []
   },
   {
+    "matchup": "De Graafschap – RKC Waalwijk",
+    "event_url": "https://livetv.sx/enx/eventinfo/332594896__/",
+    "event_id": "332594896",
+    "date_time": "23 January at 20:00",
+    "competition": "Netherlands. Eerste Divisie",
+    "parsed_datetime": "2026-01-23T20:00:00",
+    "logo_alt": "Netherlands. Eerste Divisie",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "De Graafschap",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33333.gif"
+      },
+      {
+        "team_name": "RKC Waalwijk",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3855.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Auxerre – PSG",
     "event_url": "https://livetv.sx/enx/eventinfo/332595926__/",
     "event_id": "332595926",
@@ -1451,6 +1516,27 @@
     "streams": []
   },
   {
+    "matchup": "MVV Maastricht – Jong Utrecht",
+    "event_url": "https://livetv.sx/enx/eventinfo/332594894__/",
+    "event_id": "332594894",
+    "date_time": "23 January at 20:00",
+    "competition": "Netherlands. Eerste Divisie",
+    "parsed_datetime": "2026-01-23T20:00:00",
+    "logo_alt": "Netherlands. Eerste Divisie",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "MVV Maastricht",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6593.gif"
+      },
+      {
+        "team_name": "Jong Utrecht",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5378.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Pau – Grenoble",
     "event_url": "https://livetv.sx/enx/eventinfo/332595938__/",
     "event_id": "332595938",
@@ -1467,6 +1553,48 @@
       {
         "team_name": "Grenoble",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3935.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Bastia – Montpellier",
+    "event_url": "https://livetv.sx/enx/eventinfo/332595940__/",
+    "event_id": "332595940",
+    "date_time": "23 January at 20:00",
+    "competition": "France. Ligue 2",
+    "parsed_datetime": "2026-01-23T20:00:00",
+    "logo_alt": "France. Ligue 2",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Bastia",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34820.gif"
+      },
+      {
+        "team_name": "Montpellier",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/133.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Amiens – Laval",
+    "event_url": "https://livetv.sx/enx/eventinfo/332595942__/",
+    "event_id": "332595942",
+    "date_time": "23 January at 20:00",
+    "competition": "France. Ligue 2",
+    "parsed_datetime": "2026-01-23T20:00:00",
+    "logo_alt": "France. Ligue 2",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Amiens",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30393.gif"
+      },
+      {
+        "team_name": "Laval",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6727.gif"
       }
     ],
     "streams": []
@@ -1500,27 +1628,6 @@
       {
         "team_name": "Rodez",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3928.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Bastia – Montpellier",
-    "event_url": "https://livetv.sx/enx/eventinfo/332595940__/",
-    "event_id": "332595940",
-    "date_time": "23 January at 20:00",
-    "competition": "France. Ligue 2",
-    "parsed_datetime": "2026-01-23T20:00:00",
-    "logo_alt": "France. Ligue 2",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Bastia",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34820.gif"
-      },
-      {
-        "team_name": "Montpellier",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/133.gif"
       }
     ],
     "streams": []
@@ -1568,22 +1675,22 @@
     "streams": []
   },
   {
-    "matchup": "Amiens – Laval",
-    "event_url": "https://livetv.sx/enx/eventinfo/332595942__/",
-    "event_id": "332595942",
+    "matchup": "Olympic Charleroi – Club NXT",
+    "event_url": "https://livetv.sx/enx/eventinfo/332592618__/",
+    "event_id": "332592618",
     "date_time": "23 January at 20:00",
-    "competition": "France. Ligue 2",
+    "competition": "Belgium. Challenger Pro League",
     "parsed_datetime": "2026-01-23T20:00:00",
-    "logo_alt": "France. Ligue 2",
+    "logo_alt": "Belgium. Challenger Pro League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Amiens",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30393.gif"
+        "team_name": "Olympic Charleroi",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/11895.gif"
       },
       {
-        "team_name": "Laval",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6727.gif"
+        "team_name": "Club NXT",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33154.gif"
       }
     ],
     "streams": []
@@ -1605,27 +1712,6 @@
       {
         "team_name": "Lumezzane",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/22038.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Olympic Charleroi – Club NXT",
-    "event_url": "https://livetv.sx/enx/eventinfo/332592618__/",
-    "event_id": "332592618",
-    "date_time": "23 January at 20:00",
-    "competition": "Belgium. Challenger Pro League",
-    "parsed_datetime": "2026-01-23T20:00:00",
-    "logo_alt": "Belgium. Challenger Pro League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Olympic Charleroi",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/11895.gif"
-      },
-      {
-        "team_name": "Club NXT",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33154.gif"
       }
     ],
     "streams": []
@@ -1736,22 +1822,22 @@
     "streams": []
   },
   {
-    "matchup": "Inter – Pisa",
-    "event_url": "https://livetv.sx/enx/eventinfo/332607339__/",
-    "event_id": "332607339",
+    "matchup": "Standard Liege – Gent",
+    "event_url": "https://livetv.sx/enx/eventinfo/332836003__/",
+    "event_id": "332836003",
     "date_time": "23 January at 20:45",
-    "competition": "Italy. Serie A",
+    "competition": "Belgium. Pro League",
     "parsed_datetime": "2026-01-23T20:45:00",
-    "logo_alt": "Italy. Serie A",
+    "logo_alt": "Belgium. Pro League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Inter",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26888.gif"
+        "team_name": "Standard Liege",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/461.gif"
       },
       {
-        "team_name": "Pisa",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/73.gif"
+        "team_name": "Gent",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/37004.gif"
       }
     ],
     "streams": []
@@ -1778,22 +1864,22 @@
     "streams": []
   },
   {
-    "matchup": "Standard Liege – Gent",
-    "event_url": "https://livetv.sx/enx/eventinfo/332836003__/",
-    "event_id": "332836003",
+    "matchup": "Inter – Pisa",
+    "event_url": "https://livetv.sx/enx/eventinfo/332607339__/",
+    "event_id": "332607339",
     "date_time": "23 January at 20:45",
-    "competition": "Belgium. Pro League",
+    "competition": "Italy. Serie A",
     "parsed_datetime": "2026-01-23T20:45:00",
-    "logo_alt": "Belgium. Pro League",
+    "logo_alt": "Italy. Serie A",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Standard Liege",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/461.gif"
+        "team_name": "Inter",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26888.gif"
       },
       {
-        "team_name": "Gent",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/37004.gif"
+        "team_name": "Pisa",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/73.gif"
       }
     ],
     "streams": []
@@ -1836,6 +1922,69 @@
       {
         "team_name": "West Bromwich Albion",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3897.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Levante – Elche",
+    "event_url": "https://livetv.sx/enx/eventinfo/332607215__/",
+    "event_id": "332607215",
+    "date_time": "23 January at 21:00",
+    "competition": "Spain. Primera Division",
+    "parsed_datetime": "2026-01-23T21:00:00",
+    "logo_alt": "Spain. Primera Division",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Levante",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/43.gif"
+      },
+      {
+        "team_name": "Elche",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3876.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Real Santander – Real Cartagena",
+    "event_url": "https://livetv.sx/enx/eventinfo/336910494__/",
+    "event_id": "336910494",
+    "date_time": "23 January at 21:30",
+    "competition": "Colombia. Primera B",
+    "parsed_datetime": "2026-01-23T21:30:00",
+    "logo_alt": "Colombia. Primera B",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Real Santander",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/2379.gif"
+      },
+      {
+        "team_name": "Real Cartagena",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/274.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Recoleta – Sportivo Trinidense",
+    "event_url": "https://livetv.sx/enx/eventinfo/332974514__/",
+    "event_id": "332974514",
+    "date_time": "23 January at 22:00",
+    "competition": "Paraguay. Primera Division",
+    "parsed_datetime": "2026-01-23T22:00:00",
+    "logo_alt": "Paraguay. Primera Division",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Recoleta",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32510.gif"
+      },
+      {
+        "team_name": "Sportivo Trinidense",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34738.gif"
       }
     ],
     "streams": []
@@ -1890,69 +2039,6 @@
       {
         "team_name": "Lanus",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34139.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Levante – Elche",
-    "event_url": "https://livetv.sx/enx/eventinfo/332607215__/",
-    "event_id": "332607215",
-    "date_time": "23 January at 21:00",
-    "competition": "Spain. Primera Division",
-    "parsed_datetime": "2026-01-23T21:00:00",
-    "logo_alt": "Spain. Primera Division",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Levante",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/43.gif"
-      },
-      {
-        "team_name": "Elche",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3876.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Recoleta – Sportivo Trinidense",
-    "event_url": "https://livetv.sx/enx/eventinfo/332974514__/",
-    "event_id": "332974514",
-    "date_time": "23 January at 22:00",
-    "competition": "Paraguay. Primera Division",
-    "parsed_datetime": "2026-01-23T22:00:00",
-    "logo_alt": "Paraguay. Primera Division",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Recoleta",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32510.gif"
-      },
-      {
-        "team_name": "Sportivo Trinidense",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34738.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Real Santander – Real Cartagena",
-    "event_url": "https://livetv.sx/enx/eventinfo/336910494__/",
-    "event_id": "336910494",
-    "date_time": "23 January at 21:30",
-    "competition": "Colombia. Primera B",
-    "parsed_datetime": "2026-01-23T21:30:00",
-    "logo_alt": "Colombia. Primera B",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Real Santander",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/2379.gif"
-      },
-      {
-        "team_name": "Real Cartagena",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/274.gif"
       }
     ],
     "streams": []
