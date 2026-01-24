@@ -7,7 +7,7 @@
     "competition": "Brazil. Campeonato Paulista",
     "parsed_datetime": "2026-01-24T22:30:00",
     "logo_alt": "Brazil. Campeonato Paulista",
-    "is_live": true,
+    "is_live": false,
     "team_logos": [
       {
         "team_name": "Palmeiras",
@@ -18,58 +18,103 @@
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/249.gif"
       }
     ],
+    "streams": []
+  },
+  {
+    "matchup": "USA (W) –  Paraguay (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/333007445__/",
+    "event_id": "333007445",
+    "date_time": "24 January at 23:30",
+    "competition": "Women. Friendly Match. National Teams",
+    "parsed_datetime": "2026-01-24T23:30:00",
+    "logo_alt": "Women. Friendly Match. National Teams",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "USA (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag205.gif"
+      },
+      {
+        "team_name": "Paraguay (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag161.gif"
+      }
+    ],
     "streams": [
       {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2937817&lang=en&eid=332983655&lid=2937817&ci=18&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2937690&lang=en&eid=333007445&lid=2937690&ci=6328&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2936311&lang=en&eid=333007445&lid=2936311&ci=6328&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2936987&lang=en&eid=333007445&lid=2936987&ci=6328&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/18.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2937689&lang=en&eid=333007445&lid=2937689&ci=6328&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Voodc"
       }
     ]
   },
   {
-    "matchup": "Patos de Minas – Itabirito",
-    "event_url": "https://livetv.sx/enx/eventinfo/337365151_patos_de_minas_itabirito/",
-    "event_id": "337365151",
-    "date_time": "24 January at 23:30",
-    "competition": "Brazil. Campeonato Mineiro",
-    "parsed_datetime": "2026-01-24T23:30:00",
-    "logo_alt": "Brazil. Campeonato Mineiro",
+    "matchup": "Alianza Lima – Inter Miami",
+    "event_url": "https://livetv.sx/enx/eventinfo/337385922_alianza_lima_inter_miami/",
+    "event_id": "337385922",
+    "date_time": "24 January at 23:00",
+    "competition": "Friendly Match",
+    "parsed_datetime": "2026-01-24T23:00:00",
+    "logo_alt": "Friendly Match",
     "is_live": true,
-    "team_logos": [],
-    "streams": [
+    "team_logos": [
       {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2937688&lang=en&eid=337365151&lid=2937688&ci=343&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
+        "team_name": "Alianza Lima",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/33431.gif"
+      },
+      {
+        "team_name": "Inter Miami",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/39600.gif"
       }
-    ]
+    ],
+    "streams": []
   },
   {
-    "matchup": "Patos de Minas – Itabirito",
-    "event_url": "https://livetv.sx/enx/eventinfo/337365151_patos_de_minas_itabirito/",
-    "event_id": "337365151",
-    "date_time": "24 January at 23:30",
-    "competition": "Brazil. Campeonato Mineiro",
-    "parsed_datetime": "2026-01-24T23:30:00",
-    "logo_alt": "Brazil. Campeonato Mineiro",
+    "matchup": "Alianza Lima – Inter Miami",
+    "event_url": "https://livetv.sx/enx/eventinfo/337385922_alianza_lima_inter_miami/",
+    "event_id": "337385922",
+    "date_time": "24 January at 23:00",
+    "competition": "Friendly Match",
+    "parsed_datetime": "2026-01-24T23:00:00",
+    "logo_alt": "Friendly Match",
     "is_live": true,
-    "team_logos": [],
-    "streams": [
+    "team_logos": [
       {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2937688&lang=en&eid=337365151&lid=2937688&ci=343&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
+        "team_name": "Alianza Lima",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/33431.gif"
+      },
+      {
+        "team_name": "Inter Miami",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/39600.gif"
       }
-    ]
+    ],
+    "streams": []
   },
   {
     "matchup": "Dominican Republic U17 (W) – Dominica U17 (W)",
@@ -105,6 +150,256 @@
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2937813&lang=en&eid=336964045&lid=2937813&ci=1532&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Voodc"
+      }
+    ]
+  },
+  {
+    "matchup": "Patos de Minas – Itabirito",
+    "event_url": "https://livetv.sx/enx/eventinfo/337365151_patos_de_minas_itabirito/",
+    "event_id": "337365151",
+    "date_time": "24 January at 23:30",
+    "competition": "Brazil. Campeonato Mineiro",
+    "parsed_datetime": "2026-01-24T23:30:00",
+    "logo_alt": "Brazil. Campeonato Mineiro",
+    "is_live": true,
+    "team_logos": [],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2937688&lang=en&eid=337365151&lid=2937688&ci=343&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      }
+    ]
+  },
+  {
+    "matchup": "Sao Jose – Monte Azul",
+    "event_url": "https://livetv.sx/enx/eventinfo/332995415__/",
+    "event_id": "332995415",
+    "date_time": "24 January at 23:00",
+    "competition": "Brazil. Campeonato Paulista 2",
+    "parsed_datetime": "2026-01-24T23:00:00",
+    "logo_alt": "Brazil. Campeonato Paulista 2",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Sao Jose",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4005.gif"
+      },
+      {
+        "team_name": "Monte Azul",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7113.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Sao Jose – Monte Azul",
+    "event_url": "https://livetv.sx/enx/eventinfo/332995415__/",
+    "event_id": "332995415",
+    "date_time": "24 January at 23:00",
+    "competition": "Brazil. Campeonato Paulista 2",
+    "parsed_datetime": "2026-01-24T23:00:00",
+    "logo_alt": "Brazil. Campeonato Paulista 2",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Sao Jose",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4005.gif"
+      },
+      {
+        "team_name": "Monte Azul",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7113.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Palmeiras – Sao Paolo",
+    "event_url": "https://livetv.sx/enx/eventinfo/332983655__/",
+    "event_id": "332983655",
+    "date_time": "24 January at 22:30",
+    "competition": "Brazil. Campeonato Paulista",
+    "parsed_datetime": "2026-01-24T22:30:00",
+    "logo_alt": "Brazil. Campeonato Paulista",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Palmeiras",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/431.gif"
+      },
+      {
+        "team_name": "Sao Paolo",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/249.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Anapolina – Goias",
+    "event_url": "https://livetv.sx/enx/eventinfo/337209024__/",
+    "event_id": "337209024",
+    "date_time": "24 January at 23:00",
+    "competition": "Brazil. Campeonato Goiano",
+    "parsed_datetime": "2026-01-24T23:00:00",
+    "logo_alt": "Brazil. Campeonato Goiano",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Anapolina",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/11203.gif"
+      },
+      {
+        "team_name": "Goias",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30293.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=PU39h8O-39Y&lang=en&eid=337209024&lid=2937103&ci=348&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
+  },
+  {
+    "matchup": "Gimnasia y Esgrima LP – Racing",
+    "event_url": "https://livetv.sx/enx/eventinfo/333006671__/",
+    "event_id": "333006671",
+    "date_time": "24 January at 23:30",
+    "competition": "Argentina. Liga Profesional",
+    "parsed_datetime": "2026-01-24T23:30:00",
+    "logo_alt": "Argentina. Liga Profesional",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Gimnasia y Esgrima LP",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/622.gif"
+      },
+      {
+        "team_name": "Racing",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/429.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2937678&lang=en&eid=333006671&lid=2937678&ci=16&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      },
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2934712&lang=en&eid=333006671&lid=2934712&ci=16&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Bandeirante – Portuguesa Santista",
+    "event_url": "https://livetv.sx/enx/eventinfo/337024083__/",
+    "event_id": "337024083",
+    "date_time": "24 January at 23:00",
+    "competition": "Brazil. Campeonato Paulista 3",
+    "parsed_datetime": "2026-01-24T23:00:00",
+    "logo_alt": "Brazil. Campeonato Paulista 3",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Bandeirante",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12864.gif"
+      },
+      {
+        "team_name": "Portuguesa Santista",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7112.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=AYn845mkO6k&lang=en&eid=337024083&lid=2937204&ci=2081&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
+  },
+  {
+    "matchup": "Gimnasia y Esgrima LP – Racing",
+    "event_url": "https://livetv.sx/enx/eventinfo/333006671__/",
+    "event_id": "333006671",
+    "date_time": "24 January at 23:30",
+    "competition": "Argentina. Liga Profesional",
+    "parsed_datetime": "2026-01-24T23:30:00",
+    "logo_alt": "Argentina. Liga Profesional",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Gimnasia y Esgrima LP",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/622.gif"
+      },
+      {
+        "team_name": "Racing",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/429.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2937678&lang=en&eid=333006671&lid=2937678&ci=16&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Voodc"
+      },
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2934712&lang=en&eid=333006671&lid=2934712&ci=16&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Anapolina – Goias",
+    "event_url": "https://livetv.sx/enx/eventinfo/337209024__/",
+    "event_id": "337209024",
+    "date_time": "24 January at 23:00",
+    "competition": "Brazil. Campeonato Goiano",
+    "parsed_datetime": "2026-01-24T23:00:00",
+    "logo_alt": "Brazil. Campeonato Goiano",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Anapolina",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/11203.gif"
+      },
+      {
+        "team_name": "Goias",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30293.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=PU39h8O-39Y&lang=en&eid=337209024&lid=2937103&ci=348&si=1",
+        "stream_title": "",
+        "stream_type": ""
       }
     ]
   },
@@ -169,326 +464,25 @@
     ]
   },
   {
-    "matchup": "Gimnasia y Esgrima LP – Racing",
-    "event_url": "https://livetv.sx/enx/eventinfo/333006671__/",
-    "event_id": "333006671",
+    "matchup": "Patos de Minas – Itabirito",
+    "event_url": "https://livetv.sx/enx/eventinfo/337365151_patos_de_minas_itabirito/",
+    "event_id": "337365151",
     "date_time": "24 January at 23:30",
-    "competition": "Argentina. Liga Profesional",
+    "competition": "Brazil. Campeonato Mineiro",
     "parsed_datetime": "2026-01-24T23:30:00",
-    "logo_alt": "Argentina. Liga Profesional",
+    "logo_alt": "Brazil. Campeonato Mineiro",
     "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Gimnasia y Esgrima LP",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/622.gif"
-      },
-      {
-        "team_name": "Racing",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/429.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2937678&lang=en&eid=333006671&lid=2937678&ci=16&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      },
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2934712&lang=en&eid=333006671&lid=2934712&ci=16&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Palmeiras – Sao Paolo",
-    "event_url": "https://livetv.sx/enx/eventinfo/332983655__/",
-    "event_id": "332983655",
-    "date_time": "24 January at 22:30",
-    "competition": "Brazil. Campeonato Paulista",
-    "parsed_datetime": "2026-01-24T22:30:00",
-    "logo_alt": "Brazil. Campeonato Paulista",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Palmeiras",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/431.gif"
-      },
-      {
-        "team_name": "Sao Paolo",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/249.gif"
-      }
-    ],
+    "team_logos": [],
     "streams": [
       {
         "language": "Portuguese",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2937817&lang=en&eid=332983655&lid=2937817&ci=18&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2937688&lang=en&eid=337365151&lid=2937688&ci=343&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Voodc"
       }
     ]
-  },
-  {
-    "matchup": "Bandeirante – Portuguesa Santista",
-    "event_url": "https://livetv.sx/enx/eventinfo/337024083__/",
-    "event_id": "337024083",
-    "date_time": "24 January at 23:00",
-    "competition": "Brazil. Campeonato Paulista 3",
-    "parsed_datetime": "2026-01-24T23:00:00",
-    "logo_alt": "Brazil. Campeonato Paulista 3",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Bandeirante",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12864.gif"
-      },
-      {
-        "team_name": "Portuguesa Santista",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7112.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=AYn845mkO6k&lang=en&eid=337024083&lid=2937204&ci=2081&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
-  },
-  {
-    "matchup": "Sao Jose – Monte Azul",
-    "event_url": "https://livetv.sx/enx/eventinfo/332995415__/",
-    "event_id": "332995415",
-    "date_time": "24 January at 23:00",
-    "competition": "Brazil. Campeonato Paulista 2",
-    "parsed_datetime": "2026-01-24T23:00:00",
-    "logo_alt": "Brazil. Campeonato Paulista 2",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Sao Jose",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4005.gif"
-      },
-      {
-        "team_name": "Monte Azul",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7113.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Atletico de San Luis (W) –  Tijuana (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/333019566__/",
-    "event_id": "333019566",
-    "date_time": "24 January at 23:30",
-    "competition": "Mexico. Women. Liga MX",
-    "parsed_datetime": "2026-01-24T23:30:00",
-    "logo_alt": "Mexico. Women. Liga MX",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Atletico de San Luis (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7862.gif"
-      },
-      {
-        "team_name": "Tijuana (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6239.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2937691&lang=en&eid=333019566&lid=2937691&ci=2334&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      }
-    ]
-  },
-  {
-    "matchup": "Anapolina – Goias",
-    "event_url": "https://livetv.sx/enx/eventinfo/337209024__/",
-    "event_id": "337209024",
-    "date_time": "24 January at 23:00",
-    "competition": "Brazil. Campeonato Goiano",
-    "parsed_datetime": "2026-01-24T23:00:00",
-    "logo_alt": "Brazil. Campeonato Goiano",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Anapolina",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/11203.gif"
-      },
-      {
-        "team_name": "Goias",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30293.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=PU39h8O-39Y&lang=en&eid=337209024&lid=2937103&ci=348&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
-  },
-  {
-    "matchup": "USA (W) –  Paraguay (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/333007445__/",
-    "event_id": "333007445",
-    "date_time": "24 January at 23:30",
-    "competition": "Women. Friendly Match. National Teams",
-    "parsed_datetime": "2026-01-24T23:30:00",
-    "logo_alt": "Women. Friendly Match. National Teams",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "USA (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag205.gif"
-      },
-      {
-        "team_name": "Paraguay (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/flag161.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2937690&lang=en&eid=333007445&lid=2937690&ci=6328&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2936311&lang=en&eid=333007445&lid=2936311&ci=6328&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2936987&lang=en&eid=333007445&lid=2936987&ci=6328&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/18.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2937689&lang=en&eid=333007445&lid=2937689&ci=6328&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      }
-    ]
-  },
-  {
-    "matchup": "Gimnasia y Esgrima LP – Racing",
-    "event_url": "https://livetv.sx/enx/eventinfo/333006671__/",
-    "event_id": "333006671",
-    "date_time": "24 January at 23:30",
-    "competition": "Argentina. Liga Profesional",
-    "parsed_datetime": "2026-01-24T23:30:00",
-    "logo_alt": "Argentina. Liga Profesional",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Gimnasia y Esgrima LP",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/622.gif"
-      },
-      {
-        "team_name": "Racing",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/429.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2937678&lang=en&eid=333006671&lid=2937678&ci=16&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Voodc"
-      },
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2934712&lang=en&eid=333006671&lid=2934712&ci=16&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Anapolina – Goias",
-    "event_url": "https://livetv.sx/enx/eventinfo/337209024__/",
-    "event_id": "337209024",
-    "date_time": "24 January at 23:00",
-    "competition": "Brazil. Campeonato Goiano",
-    "parsed_datetime": "2026-01-24T23:00:00",
-    "logo_alt": "Brazil. Campeonato Goiano",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Anapolina",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/11203.gif"
-      },
-      {
-        "team_name": "Goias",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30293.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=PU39h8O-39Y&lang=en&eid=337209024&lid=2937103&ci=348&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
-  },
-  {
-    "matchup": "Sao Jose – Monte Azul",
-    "event_url": "https://livetv.sx/enx/eventinfo/332995415__/",
-    "event_id": "332995415",
-    "date_time": "24 January at 23:00",
-    "competition": "Brazil. Campeonato Paulista 2",
-    "parsed_datetime": "2026-01-24T23:00:00",
-    "logo_alt": "Brazil. Campeonato Paulista 2",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Sao Jose",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4005.gif"
-      },
-      {
-        "team_name": "Monte Azul",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7113.gif"
-      }
-    ],
-    "streams": []
   },
   {
     "matchup": "Atletico de San Luis (W) –  Tijuana (W)",
