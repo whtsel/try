@@ -1,26 +1,5 @@
 [
   {
-    "matchup": "Liverpool – Newcastle United",
-    "event_url": "https://livetv.sx/enx/eventinfo/335173412__/",
-    "event_id": "335173412",
-    "date_time": "31 January at 21:00",
-    "competition": "England. Premier League",
-    "parsed_datetime": "2026-01-31T21:00:00",
-    "logo_alt": "England. Premier League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Liverpool",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30918.gif"
-      },
-      {
-        "team_name": "Newcastle United",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/145.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Alverca – Estrela",
     "event_url": "https://livetv.sx/enx/eventinfo/335558417__/",
     "event_id": "335558417",
@@ -28,7 +7,7 @@
     "competition": "Portugal. Primeira Liga",
     "parsed_datetime": "2026-01-31T21:30:00",
     "logo_alt": "Portugal. Primeira Liga",
-    "is_live": true,
+    "is_live": false,
     "team_logos": [
       {
         "team_name": "Alverca",
@@ -39,56 +18,160 @@
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9643.gif"
       }
     ],
+    "streams": []
+  },
+  {
+    "matchup": "Uniao Barbarense – Rio Preto",
+    "event_url": "https://livetv.sx/enx/eventinfo/339057373__/",
+    "event_id": "339057373",
+    "date_time": "31 January at 22:00",
+    "competition": "Brazil. Campeonato Paulista 3",
+    "parsed_datetime": "2026-01-31T22:00:00",
+    "logo_alt": "Brazil. Campeonato Paulista 3",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Uniao Barbarense",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16642.gif"
+      },
+      {
+        "team_name": "Rio Preto",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9495.gif"
+      }
+    ],
     "streams": [
       {
         "language": "Portuguese",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2662574&lang=en&eid=335558417&lid=2662574&ci=28&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=i7-FpsxVdBw&lang=en&eid=339057373&lid=2942668&ci=2081&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
+  },
+  {
+    "matchup": "Vizela – Portimonense",
+    "event_url": "https://livetv.sx/enx/eventinfo/335558440__/",
+    "event_id": "335558440",
+    "date_time": "31 January at 21:30",
+    "competition": "Portugal. Segunda Liga",
+    "parsed_datetime": "2026-01-31T21:30:00",
+    "logo_alt": "Portugal. Segunda Liga",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Vizela",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8364.gif"
       },
       {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942464&lang=en&eid=335558417&lid=2942464&ci=28&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
+        "team_name": "Portimonense",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/669.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Juan Pablo II – Cajamarca",
+    "event_url": "https://livetv.sx/enx/eventinfo/335189029__/",
+    "event_id": "335189029",
+    "date_time": "31 January at 21:15",
+    "competition": "Peru. Liga 1",
+    "parsed_datetime": "2026-01-31T21:15:00",
+    "logo_alt": "Peru. Liga 1",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Juan Pablo II",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/29296.gif"
       },
       {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2940667&lang=en&eid=335558417&lid=2940667&ci=28&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
+        "team_name": "Cajamarca",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33107.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Cobresal – Huachipato",
+    "event_url": "https://livetv.sx/enx/eventinfo/335596437__/",
+    "event_id": "335596437",
+    "date_time": "31 January at 22:00",
+    "competition": "Chile. Primera Division",
+    "parsed_datetime": "2026-01-31T22:00:00",
+    "logo_alt": "Chile. Primera Division",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Cobresal",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7799.gif"
       },
       {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924958&lang=en&eid=335558417&lid=2924958&ci=28&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
+        "team_name": "Huachipato",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21098.gif"
+      }
+    ],
+    "streams": [
       {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2916171&lang=en&eid=335558417&lid=2916171&ci=28&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2906301&lang=en&eid=335558417&lid=2906301&ci=28&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942618&lang=en&eid=335596437&lid=2942618&ci=51&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       }
     ]
+  },
+  {
+    "matchup": "Mixco – Coban Imperial",
+    "event_url": "https://livetv.sx/enx/eventinfo/335610636__/",
+    "event_id": "335610636",
+    "date_time": "31 January at 22:00",
+    "competition": "Guatemala. Liga Nacional",
+    "parsed_datetime": "2026-01-31T22:00:00",
+    "logo_alt": "Guatemala. Liga Nacional",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Mixco",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16112.gif"
+      },
+      {
+        "team_name": "Coban Imperial",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1722.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=zWmQikzJpCI&lang=en&eid=335610636&lid=2943071&ci=472&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
+  },
+  {
+    "matchup": "Vizela – Portimonense",
+    "event_url": "https://livetv.sx/enx/eventinfo/335558440__/",
+    "event_id": "335558440",
+    "date_time": "31 January at 21:30",
+    "competition": "Portugal. Segunda Liga",
+    "parsed_datetime": "2026-01-31T21:30:00",
+    "logo_alt": "Portugal. Segunda Liga",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Vizela",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8364.gif"
+      },
+      {
+        "team_name": "Portimonense",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/669.gif"
+      }
+    ],
+    "streams": []
   },
   {
     "matchup": "America – Necaxa",
@@ -137,307 +220,6 @@
     ]
   },
   {
-    "matchup": "Cordoba – Real Valladolid",
-    "event_url": "https://livetv.sx/enx/eventinfo/335174475__/",
-    "event_id": "335174475",
-    "date_time": "31 January at 21:00",
-    "competition": "Spain. Segunda Division",
-    "parsed_datetime": "2026-01-31T21:00:00",
-    "logo_alt": "Spain. Segunda Division",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Cordoba",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4514.gif"
-      },
-      {
-        "team_name": "Real Valladolid",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30199.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Juan Pablo II – Cajamarca",
-    "event_url": "https://livetv.sx/enx/eventinfo/335189029__/",
-    "event_id": "335189029",
-    "date_time": "31 January at 21:15",
-    "competition": "Peru. Liga 1",
-    "parsed_datetime": "2026-01-31T21:15:00",
-    "logo_alt": "Peru. Liga 1",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Juan Pablo II",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/29296.gif"
-      },
-      {
-        "team_name": "Cajamarca",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33107.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942613&lang=en&eid=335189029&lid=2942613&ci=110&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "San Lorenzo – Central Cordoba",
-    "event_url": "https://livetv.sx/enx/eventinfo/335186012__/",
-    "event_id": "335186012",
-    "date_time": "31 January at 21:30",
-    "competition": "Argentina. Liga Profesional",
-    "parsed_datetime": "2026-01-31T21:30:00",
-    "logo_alt": "Argentina. Liga Profesional",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "San Lorenzo",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/620.gif"
-      },
-      {
-        "team_name": "Central Cordoba",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/2983.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2934645&lang=en&eid=335186012&lid=2934645&ci=16&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942615&lang=en&eid=335186012&lid=2942615&ci=16&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/18.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942614&lang=en&eid=335186012&lid=2942614&ci=16&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2940809&lang=en&eid=335186012&lid=2940809&ci=16&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "AS Monaco – Rennes",
-    "event_url": "https://livetv.sx/enx/eventinfo/335189901__/",
-    "event_id": "335189901",
-    "date_time": "31 January at 21:05",
-    "competition": "France. Ligue 1",
-    "parsed_datetime": "2026-01-31T21:05:00",
-    "logo_alt": "France. Ligue 1",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "AS Monaco",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/31348.gif"
-      },
-      {
-        "team_name": "Rennes",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/121.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "AS Monaco – Rennes",
-    "event_url": "https://livetv.sx/enx/eventinfo/335189901__/",
-    "event_id": "335189901",
-    "date_time": "31 January at 21:05",
-    "competition": "France. Ligue 1",
-    "parsed_datetime": "2026-01-31T21:05:00",
-    "logo_alt": "France. Ligue 1",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "AS Monaco",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/31348.gif"
-      },
-      {
-        "team_name": "Rennes",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/121.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Alverca – Estrela",
-    "event_url": "https://livetv.sx/enx/eventinfo/335558417__/",
-    "event_id": "335558417",
-    "date_time": "31 January at 21:30",
-    "competition": "Portugal. Primeira Liga",
-    "parsed_datetime": "2026-01-31T21:30:00",
-    "logo_alt": "Portugal. Primeira Liga",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Alverca",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4387.gif"
-      },
-      {
-        "team_name": "Estrela",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9643.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2662574&lang=en&eid=335558417&lid=2662574&ci=28&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942464&lang=en&eid=335558417&lid=2942464&ci=28&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2940667&lang=en&eid=335558417&lid=2940667&ci=28&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924958&lang=en&eid=335558417&lid=2924958&ci=28&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2916171&lang=en&eid=335558417&lid=2916171&ci=28&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2906301&lang=en&eid=335558417&lid=2906301&ci=28&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Elche – Barcelona",
-    "event_url": "https://livetv.sx/enx/eventinfo/335174449__/",
-    "event_id": "335174449",
-    "date_time": "31 January at 21:00",
-    "competition": "Spain. Primera Division",
-    "parsed_datetime": "2026-01-31T21:00:00",
-    "logo_alt": "Spain. Primera Division",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Elche",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3876.gif"
-      },
-      {
-        "team_name": "Barcelona",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Elche – Barcelona",
-    "event_url": "https://livetv.sx/enx/eventinfo/335174449__/",
-    "event_id": "335174449",
-    "date_time": "31 January at 21:00",
-    "competition": "Spain. Primera Division",
-    "parsed_datetime": "2026-01-31T21:00:00",
-    "logo_alt": "Spain. Primera Division",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Elche",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3876.gif"
-      },
-      {
-        "team_name": "Barcelona",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Dundee United – Hearts",
-    "event_url": "https://livetv.sx/enx/eventinfo/335177984__/",
-    "event_id": "335177984",
-    "date_time": "31 January at 21:00",
-    "competition": "Scotland. Premiership",
-    "parsed_datetime": "2026-01-31T21:00:00",
-    "logo_alt": "Scotland. Premiership",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Dundee United",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5815.gif"
-      },
-      {
-        "team_name": "Hearts",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/398.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Liverpool – Newcastle United",
-    "event_url": "https://livetv.sx/enx/eventinfo/335173412__/",
-    "event_id": "335173412",
-    "date_time": "31 January at 21:00",
-    "competition": "England. Premier League",
-    "parsed_datetime": "2026-01-31T21:00:00",
-    "logo_alt": "England. Premier League",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Liverpool",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30918.gif"
-      },
-      {
-        "team_name": "Newcastle United",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/145.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Independiente – Velez Sarsfield",
     "event_url": "https://livetv.sx/enx/eventinfo/335247718__/",
     "event_id": "335247718",
@@ -445,7 +227,7 @@
     "competition": "Argentina. Liga Profesional",
     "parsed_datetime": "2026-01-31T23:45:00",
     "logo_alt": "Argentina. Liga Profesional",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Independiente",
@@ -508,94 +290,6 @@
     ]
   },
   {
-    "matchup": "Sparta Rotterdam – Groningen",
-    "event_url": "https://livetv.sx/enx/eventinfo/335176062__/",
-    "event_id": "335176062",
-    "date_time": "31 January at 21:00",
-    "competition": "Netherlands. Eredivisie",
-    "parsed_datetime": "2026-01-31T21:00:00",
-    "logo_alt": "Netherlands. Eredivisie",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Sparta Rotterdam",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3856.gif"
-      },
-      {
-        "team_name": "Groningen",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/478.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Sparta Rotterdam – Groningen",
-    "event_url": "https://livetv.sx/enx/eventinfo/335176062__/",
-    "event_id": "335176062",
-    "date_time": "31 January at 21:00",
-    "competition": "Netherlands. Eredivisie",
-    "parsed_datetime": "2026-01-31T21:00:00",
-    "logo_alt": "Netherlands. Eredivisie",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Sparta Rotterdam",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3856.gif"
-      },
-      {
-        "team_name": "Groningen",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/478.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Vizela – Portimonense",
-    "event_url": "https://livetv.sx/enx/eventinfo/335558440__/",
-    "event_id": "335558440",
-    "date_time": "31 January at 21:30",
-    "competition": "Portugal. Segunda Liga",
-    "parsed_datetime": "2026-01-31T21:30:00",
-    "logo_alt": "Portugal. Segunda Liga",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Vizela",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8364.gif"
-      },
-      {
-        "team_name": "Portimonense",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/669.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2915934&lang=en&eid=335558440&lid=2915934&ci=170&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942289&lang=en&eid=335558440&lid=2942289&ci=170&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2931291&lang=en&eid=335558440&lid=2931291&ci=170&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
     "matchup": "San Lorenzo – Central Cordoba",
     "event_url": "https://livetv.sx/enx/eventinfo/335186012__/",
     "event_id": "335186012",
@@ -603,7 +297,7 @@
     "competition": "Argentina. Liga Profesional",
     "parsed_datetime": "2026-01-31T21:30:00",
     "logo_alt": "Argentina. Liga Profesional",
-    "is_live": true,
+    "is_live": false,
     "team_logos": [
       {
         "team_name": "San Lorenzo",
@@ -614,70 +308,28 @@
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/2983.gif"
       }
     ],
-    "streams": [
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2934645&lang=en&eid=335186012&lid=2934645&ci=16&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942615&lang=en&eid=335186012&lid=2942615&ci=16&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/18.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942614&lang=en&eid=335186012&lid=2942614&ci=16&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2940809&lang=en&eid=335186012&lid=2940809&ci=16&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
+    "streams": []
   },
   {
-    "matchup": "Mixco – Coban Imperial",
-    "event_url": "https://livetv.sx/enx/eventinfo/335610636__/",
-    "event_id": "335610636",
-    "date_time": "31 January at 22:00",
-    "competition": "Guatemala. Liga Nacional",
-    "parsed_datetime": "2026-01-31T22:00:00",
-    "logo_alt": "Guatemala. Liga Nacional",
-    "is_live": true,
+    "matchup": "Alverca – Estrela",
+    "event_url": "https://livetv.sx/enx/eventinfo/335558417__/",
+    "event_id": "335558417",
+    "date_time": "31 January at 21:30",
+    "competition": "Portugal. Primeira Liga",
+    "parsed_datetime": "2026-01-31T21:30:00",
+    "logo_alt": "Portugal. Primeira Liga",
+    "is_live": false,
     "team_logos": [
       {
-        "team_name": "Mixco",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16112.gif"
+        "team_name": "Alverca",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4387.gif"
       },
       {
-        "team_name": "Coban Imperial",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1722.gif"
+        "team_name": "Estrela",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9643.gif"
       }
     ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=zWmQikzJpCI&lang=en&eid=335610636&lid=2943071&ci=472&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
+    "streams": []
   },
   {
     "matchup": "Nacional As – 2 de Mayo",
@@ -704,36 +356,6 @@
         "flag_src": "https://cdn.livetv872.me/img/linkflag/18.png",
         "bitrate": "Bit Rate (Kbps)",
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942620&lang=en&eid=335769356&lid=2942620&ci=442&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Cobresal – Huachipato",
-    "event_url": "https://livetv.sx/enx/eventinfo/335596437__/",
-    "event_id": "335596437",
-    "date_time": "31 January at 22:00",
-    "competition": "Chile. Primera Division",
-    "parsed_datetime": "2026-01-31T22:00:00",
-    "logo_alt": "Chile. Primera Division",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Cobresal",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7799.gif"
-      },
-      {
-        "team_name": "Huachipato",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21098.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942618&lang=en&eid=335596437&lid=2942618&ci=51&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       }
@@ -770,42 +392,25 @@
     ]
   },
   {
-    "matchup": "Votuporanguense – Gremio Prudente",
-    "event_url": "https://livetv.sx/enx/eventinfo/335198617__/",
-    "event_id": "335198617",
-    "date_time": "31 January at 22:00",
-    "competition": "Brazil. Campeonato Paulista 2",
-    "parsed_datetime": "2026-01-31T22:00:00",
-    "logo_alt": "Brazil. Campeonato Paulista 2",
-    "is_live": true,
+    "matchup": "San Lorenzo – Central Cordoba",
+    "event_url": "https://livetv.sx/enx/eventinfo/335186012__/",
+    "event_id": "335186012",
+    "date_time": "31 January at 21:30",
+    "competition": "Argentina. Liga Profesional",
+    "parsed_datetime": "2026-01-31T21:30:00",
+    "logo_alt": "Argentina. Liga Profesional",
+    "is_live": false,
     "team_logos": [
       {
-        "team_name": "Votuporanguense",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7123.gif"
+        "team_name": "San Lorenzo",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/620.gif"
       },
       {
-        "team_name": "Gremio Prudente",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26668.gif"
+        "team_name": "Central Cordoba",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/2983.gif"
       }
     ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=nbhvbjolXyY&lang=en&eid=335198617&lid=2942676&ci=2080&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942616&lang=en&eid=335198617&lid=2942616&ci=2080&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
+    "streams": []
   },
   {
     "matchup": "Cucuta Deportivo – Fortaleza CEIF",
@@ -838,81 +443,38 @@
     ]
   },
   {
-    "matchup": "XV de Jau – Francana",
-    "event_url": "https://livetv.sx/enx/eventinfo/339057444_xv_de_jau_francana/",
-    "event_id": "339057444",
-    "date_time": "31 January at 22:30",
-    "competition": "Brazil. Campeonato Paulista 3",
-    "parsed_datetime": "2026-01-31T22:30:00",
-    "logo_alt": "Brazil. Campeonato Paulista 3",
-    "is_live": true,
-    "team_logos": [],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=YnrO0B5cEvo&lang=en&eid=339057444&lid=2942673&ci=2081&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
-  },
-  {
-    "matchup": "Marilia – Paulista",
-    "event_url": "https://livetv.sx/enx/eventinfo/339057374__/",
-    "event_id": "339057374",
-    "date_time": "31 January at 22:30",
-    "competition": "Brazil. Campeonato Paulista 3",
-    "parsed_datetime": "2026-01-31T22:30:00",
-    "logo_alt": "Brazil. Campeonato Paulista 3",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Marilia",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9888.gif"
-      },
-      {
-        "team_name": "Paulista",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21233.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=fp-m9-Ld8AM&lang=en&eid=339057374&lid=2942666&ci=2081&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
-  },
-  {
-    "matchup": "Carabobo – Portuguesa",
-    "event_url": "https://livetv.sx/enx/eventinfo/335610613__/",
-    "event_id": "335610613",
+    "matchup": "Votuporanguense – Gremio Prudente",
+    "event_url": "https://livetv.sx/enx/eventinfo/335198617__/",
+    "event_id": "335198617",
     "date_time": "31 January at 22:00",
-    "competition": "Venezuela. Primera Division",
+    "competition": "Brazil. Campeonato Paulista 2",
     "parsed_datetime": "2026-01-31T22:00:00",
-    "logo_alt": "Venezuela. Primera Division",
+    "logo_alt": "Brazil. Campeonato Paulista 2",
     "is_live": true,
     "team_logos": [
       {
-        "team_name": "Carabobo",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34133.gif"
+        "team_name": "Votuporanguense",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7123.gif"
       },
       {
-        "team_name": "Portuguesa",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1323.gif"
+        "team_name": "Gremio Prudente",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26668.gif"
       }
     ],
     "streams": [
       {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942619&lang=en&eid=335610613&lid=2942619&ci=455&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=nbhvbjolXyY&lang=en&eid=335198617&lid=2942676&ci=2080&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942616&lang=en&eid=335198617&lid=2942616&ci=2080&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       }
@@ -979,43 +541,22 @@
     ]
   },
   {
-    "matchup": "Anguilla U17 (W) – British Virgin Islands U17 (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/337340185_anguilla_u17_w_british_virgin_islands_u17_w/",
-    "event_id": "337340185",
-    "date_time": "31 January at 23:00",
-    "competition": "Women. CONCACAF U-17 Championship",
-    "parsed_datetime": "2026-01-31T23:00:00",
-    "logo_alt": "Women. CONCACAF U-17 Championship",
-    "is_live": true,
-    "team_logos": [],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=Vy6ImkHdKEs&lang=en&eid=337340185&lid=2940062&ci=1532&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
-  },
-  {
-    "matchup": "Uniao Barbarense – Rio Preto",
-    "event_url": "https://livetv.sx/enx/eventinfo/339057373__/",
-    "event_id": "339057373",
-    "date_time": "31 January at 22:00",
+    "matchup": "Marilia – Paulista",
+    "event_url": "https://livetv.sx/enx/eventinfo/339057374__/",
+    "event_id": "339057374",
+    "date_time": "31 January at 22:30",
     "competition": "Brazil. Campeonato Paulista 3",
-    "parsed_datetime": "2026-01-31T22:00:00",
+    "parsed_datetime": "2026-01-31T22:30:00",
     "logo_alt": "Brazil. Campeonato Paulista 3",
     "is_live": true,
     "team_logos": [
       {
-        "team_name": "Uniao Barbarense",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16642.gif"
+        "team_name": "Marilia",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9888.gif"
       },
       {
-        "team_name": "Rio Preto",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9495.gif"
+        "team_name": "Paulista",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21233.gif"
       }
     ],
     "streams": [
@@ -1023,7 +564,88 @@
         "language": "Portuguese",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=i7-FpsxVdBw&lang=en&eid=339057373&lid=2942668&ci=2081&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=fp-m9-Ld8AM&lang=en&eid=339057374&lid=2942666&ci=2081&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
+  },
+  {
+    "matchup": "XV de Jau – Francana",
+    "event_url": "https://livetv.sx/enx/eventinfo/339057444_xv_de_jau_francana/",
+    "event_id": "339057444",
+    "date_time": "31 January at 22:30",
+    "competition": "Brazil. Campeonato Paulista 3",
+    "parsed_datetime": "2026-01-31T22:30:00",
+    "logo_alt": "Brazil. Campeonato Paulista 3",
+    "is_live": true,
+    "team_logos": [],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=YnrO0B5cEvo&lang=en&eid=339057444&lid=2942673&ci=2081&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
+  },
+  {
+    "matchup": "Carabobo – Portuguesa",
+    "event_url": "https://livetv.sx/enx/eventinfo/335610613__/",
+    "event_id": "335610613",
+    "date_time": "31 January at 22:00",
+    "competition": "Venezuela. Primera Division",
+    "parsed_datetime": "2026-01-31T22:00:00",
+    "logo_alt": "Venezuela. Primera Division",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Carabobo",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34133.gif"
+      },
+      {
+        "team_name": "Portuguesa",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1323.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942619&lang=en&eid=335610613&lid=2942619&ci=455&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Cruz Azul (W) –  Queretaro (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/335224912__/",
+    "event_id": "335224912",
+    "date_time": "31 January at 22:45",
+    "competition": "Mexico. Women. Liga MX",
+    "parsed_datetime": "2026-01-31T22:45:00",
+    "logo_alt": "Mexico. Women. Liga MX",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Cruz Azul (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6240.gif"
+      },
+      {
+        "team_name": "Queretaro (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7865.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=gg_hj2fg8W8&lang=en&eid=335224912&lid=2935332&ci=2334&si=1",
         "stream_title": "",
         "stream_type": ""
       }
@@ -1045,6 +667,27 @@
         "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
         "bitrate": "Bit Rate (Kbps)",
         "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=lZ5Sg7Wk23o&lang=en&eid=339057440&lid=2942663&ci=7303&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
+  },
+  {
+    "matchup": "Anguilla U17 (W) – British Virgin Islands U17 (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/337340185_anguilla_u17_w_british_virgin_islands_u17_w/",
+    "event_id": "337340185",
+    "date_time": "31 January at 23:00",
+    "competition": "Women. CONCACAF U-17 Championship",
+    "parsed_datetime": "2026-01-31T23:00:00",
+    "logo_alt": "Women. CONCACAF U-17 Championship",
+    "is_live": true,
+    "team_logos": [],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=Vy6ImkHdKEs&lang=en&eid=337340185&lid=2940062&ci=1532&si=1",
         "stream_title": "",
         "stream_type": ""
       }
@@ -1089,6 +732,66 @@
     ]
   },
   {
+    "matchup": "Potyguar Seridoense – ABC",
+    "event_url": "https://livetv.sx/enx/eventinfo/335574477__/",
+    "event_id": "335574477",
+    "date_time": "31 January at 23:00",
+    "competition": "Brazil. Campeonato Potiguar",
+    "parsed_datetime": "2026-01-31T23:00:00",
+    "logo_alt": "Brazil. Campeonato Potiguar",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Potyguar Seridoense",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20120.gif"
+      },
+      {
+        "team_name": "ABC",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6267.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=O7f7ktB5njw&lang=en&eid=335574477&lid=2937098&ci=1242&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
+  },
+  {
+    "matchup": "Sporting Jacksonville (W) –  Carolina Ascent (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/339057384__/",
+    "event_id": "339057384",
+    "date_time": "31 January at 23:00",
+    "competition": "USA. Women. USL",
+    "parsed_datetime": "2026-01-31T23:00:00",
+    "logo_alt": "USA. Women. USL",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Sporting Jacksonville (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36172.gif"
+      },
+      {
+        "team_name": "Carolina Ascent (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33389.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943076&lang=en&eid=339057384&lid=2943076&ci=7948&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
     "matchup": "Sao Jose – Inter de Limeira",
     "event_url": "https://livetv.sx/enx/eventinfo/335223578__/",
     "event_id": "335223578",
@@ -1127,66 +830,6 @@
     ]
   },
   {
-    "matchup": "Potyguar Seridoense – ABC",
-    "event_url": "https://livetv.sx/enx/eventinfo/335574477__/",
-    "event_id": "335574477",
-    "date_time": "31 January at 23:00",
-    "competition": "Brazil. Campeonato Potiguar",
-    "parsed_datetime": "2026-01-31T23:00:00",
-    "logo_alt": "Brazil. Campeonato Potiguar",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Potyguar Seridoense",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20120.gif"
-      },
-      {
-        "team_name": "ABC",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6267.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=O7f7ktB5njw&lang=en&eid=335574477&lid=2937098&ci=1242&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
-  },
-  {
-    "matchup": "Cruz Azul (W) –  Queretaro (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/335224912__/",
-    "event_id": "335224912",
-    "date_time": "31 January at 22:45",
-    "competition": "Mexico. Women. Liga MX",
-    "parsed_datetime": "2026-01-31T22:45:00",
-    "logo_alt": "Mexico. Women. Liga MX",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Cruz Azul (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6240.gif"
-      },
-      {
-        "team_name": "Queretaro (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7865.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=gg_hj2fg8W8&lang=en&eid=335224912&lid=2935332&ci=2334&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
-  },
-  {
     "matchup": "Dallas Trinity (W) –  Brooklyn (W)",
     "event_url": "https://livetv.sx/enx/eventinfo/339057385__/",
     "event_id": "339057385",
@@ -1217,32 +860,23 @@
     ]
   },
   {
-    "matchup": "Sporting Jacksonville (W) –  Carolina Ascent (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/339057384__/",
-    "event_id": "339057384",
-    "date_time": "31 January at 23:00",
-    "competition": "USA. Women. USL",
-    "parsed_datetime": "2026-01-31T23:00:00",
-    "logo_alt": "USA. Women. USL",
+    "matchup": "Penapolense – Jacarei",
+    "event_url": "https://livetv.sx/enx/eventinfo/339057441_penapolense_jacarei/",
+    "event_id": "339057441",
+    "date_time": "31 January at 23:30",
+    "competition": "Brazil. Campeonato Paulista 4",
+    "parsed_datetime": "2026-01-31T23:30:00",
+    "logo_alt": "Brazil. Campeonato Paulista 4",
     "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Sporting Jacksonville (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36172.gif"
-      },
-      {
-        "team_name": "Carolina Ascent (W)",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33389.gif"
-      }
-    ],
+    "team_logos": [],
     "streams": [
       {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943076&lang=en&eid=339057384&lid=2943076&ci=7948&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=5IcFHo8QYQ0&lang=en&eid=339057441&lid=2942662&ci=7303&si=1",
+        "stream_title": "",
+        "stream_type": ""
       }
     ]
   },
@@ -1323,21 +957,30 @@
     ]
   },
   {
-    "matchup": "Penapolense – Jacarei",
-    "event_url": "https://livetv.sx/enx/eventinfo/339057441_penapolense_jacarei/",
-    "event_id": "339057441",
+    "matchup": "VOCEM – Taquaritinga",
+    "event_url": "https://livetv.sx/enx/eventinfo/339057377__/",
+    "event_id": "339057377",
     "date_time": "31 January at 23:30",
     "competition": "Brazil. Campeonato Paulista 4",
     "parsed_datetime": "2026-01-31T23:30:00",
     "logo_alt": "Brazil. Campeonato Paulista 4",
-    "is_live": false,
-    "team_logos": [],
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "VOCEM",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/29376.gif"
+      },
+      {
+        "team_name": "Taquaritinga",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30700.gif"
+      }
+    ],
     "streams": [
       {
         "language": "Portuguese",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=5IcFHo8QYQ0&lang=en&eid=339057441&lid=2942662&ci=7303&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=iljIorSxfL0&lang=en&eid=339057377&lid=2942652&ci=7303&si=1",
         "stream_title": "",
         "stream_type": ""
       }
@@ -1351,7 +994,7 @@
     "competition": "Argentina. Liga Profesional",
     "parsed_datetime": "2026-01-31T23:45:00",
     "logo_alt": "Argentina. Liga Profesional",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Independiente",
@@ -1410,36 +1053,6 @@
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2915943&lang=en&eid=335247718&lid=2915943&ci=16&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "VOCEM – Taquaritinga",
-    "event_url": "https://livetv.sx/enx/eventinfo/339057377__/",
-    "event_id": "339057377",
-    "date_time": "31 January at 23:30",
-    "competition": "Brazil. Campeonato Paulista 4",
-    "parsed_datetime": "2026-01-31T23:30:00",
-    "logo_alt": "Brazil. Campeonato Paulista 4",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "VOCEM",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/29376.gif"
-      },
-      {
-        "team_name": "Taquaritinga",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30700.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=iljIorSxfL0&lang=en&eid=339057377&lid=2942652&ci=7303&si=1",
-        "stream_title": "",
-        "stream_type": ""
       }
     ]
   }
