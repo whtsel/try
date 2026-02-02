@@ -1,32 +1,486 @@
 [
   {
-    "matchup": "Operario FEC – Azuriz",
-    "event_url": "https://livetv.sx/enx/eventinfo/338166328__/",
-    "event_id": "338166328",
-    "date_time": "1 February at 22:30",
-    "competition": "Brazil. Campeonato Paranaense",
-    "parsed_datetime": "2026-02-01T22:30:00",
-    "logo_alt": "Brazil. Campeonato Paranaense",
+    "matchup": "Rosario Central – River Plate",
+    "event_url": "https://livetv.sx/enx/eventinfo/335664844__/",
+    "event_id": "335664844",
+    "date_time": "2 February at 1:30",
+    "competition": "Argentina. Liga Profesional",
+    "parsed_datetime": "2026-02-02T01:30:00",
+    "logo_alt": "Argentina. Liga Profesional",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Rosario Central",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1116.gif"
+      },
+      {
+        "team_name": "River Plate",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/422.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242328&lang=en&eid=335664844&lid=2924883&ci=16&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242311&lang=en&eid=335664844&lid=2812093&ci=16&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=246089&lang=en&eid=335664844&lid=2930491&ci=16&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242327&lang=en&eid=335664844&lid=2941897&ci=16&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242346&lang=en&eid=335664844&lid=2924884&ci=16&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2939076&lang=en&eid=335664844&lid=2939076&ci=16&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943601&lang=en&eid=335664844&lid=2943601&ci=16&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943007&lang=en&eid=335664844&lid=2943007&ci=16&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Rosario Central – River Plate",
+    "event_url": "https://livetv.sx/enx/eventinfo/335664844__/",
+    "event_id": "335664844",
+    "date_time": "2 February at 1:30",
+    "competition": "Argentina. Liga Profesional",
+    "parsed_datetime": "2026-02-02T01:30:00",
+    "logo_alt": "Argentina. Liga Profesional",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Rosario Central",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1116.gif"
+      },
+      {
+        "team_name": "River Plate",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/422.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242328&lang=en&eid=335664844&lid=2924883&ci=16&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242311&lang=en&eid=335664844&lid=2812093&ci=16&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=246089&lang=en&eid=335664844&lid=2930491&ci=16&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242327&lang=en&eid=335664844&lid=2941897&ci=16&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242346&lang=en&eid=335664844&lid=2924884&ci=16&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2939076&lang=en&eid=335664844&lid=2939076&ci=16&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943601&lang=en&eid=335664844&lid=2943601&ci=16&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943007&lang=en&eid=335664844&lid=2943007&ci=16&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Botafogo-RJ – Fluminense",
+    "event_url": "https://livetv.sx/enx/eventinfo/335650523__/",
+    "event_id": "335650523",
+    "date_time": "2 February at 0:30",
+    "competition": "Brazil. Campeonato Carioca",
+    "parsed_datetime": "2026-02-02T00:30:00",
+    "logo_alt": "Brazil. Campeonato Carioca",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Botafogo-RJ",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/433.gif"
+      },
+      {
+        "team_name": "Fluminense",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/438.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942927&lang=en&eid=335650523&lid=2942927&ci=30&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Palestino – Nublense",
+    "event_url": "https://livetv.sx/enx/eventinfo/335596432__/",
+    "event_id": "335596432",
+    "date_time": "2 February at 0:30",
+    "competition": "Chile. Primera Division",
+    "parsed_datetime": "2026-02-02T00:30:00",
+    "logo_alt": "Chile. Primera Division",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Operario FEC",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6281.gif"
+        "team_name": "Palestino",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/501.gif"
       },
       {
-        "team_name": "Azuriz",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/29821.gif"
+        "team_name": "Nublense",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8014.gif"
       }
     ],
     "streams": []
   },
   {
-    "matchup": "Belize U17 (W) – United States Virgin Islands U17 (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/337340191_belize_u17_w_united_states_virgin_islands_u17_w/",
-    "event_id": "337340191",
-    "date_time": "1 February at 23:00",
+    "matchup": "Defensa y Justicia – Estudiantes LP",
+    "event_url": "https://livetv.sx/enx/eventinfo/335883268__/",
+    "event_id": "335883268",
+    "date_time": "2 February at 23:45",
+    "competition": "Argentina. Liga Profesional",
+    "parsed_datetime": "2026-02-02T23:45:00",
+    "logo_alt": "Argentina. Liga Profesional",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Defensa y Justicia",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1115.gif"
+      },
+      {
+        "team_name": "Estudiantes LP",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36876.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Sunderland – Burnley",
+    "event_url": "https://livetv.sx/enx/eventinfo/335877001__/",
+    "event_id": "335877001",
+    "date_time": "2 February at 21:00",
+    "competition": "England. Premier League",
+    "parsed_datetime": "2026-02-02T21:00:00",
+    "logo_alt": "England. Premier League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Sunderland",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4032.gif"
+      },
+      {
+        "team_name": "Burnley",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33045.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Deportivo Mictlan – Deportivo Achuapa",
+    "event_url": "https://livetv.sx/enx/eventinfo/335610634__/",
+    "event_id": "335610634",
+    "date_time": "2 February at 1:00",
+    "competition": "Guatemala. Liga Nacional",
+    "parsed_datetime": "2026-02-02T01:00:00",
+    "logo_alt": "Guatemala. Liga Nacional",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Deportivo Mictlan",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16113.gif"
+      },
+      {
+        "team_name": "Deportivo Achuapa",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32253.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Gimnasia y Esgrima LP – Aldosivi",
+    "event_url": "https://livetv.sx/enx/eventinfo/335883267__/",
+    "event_id": "335883267",
+    "date_time": "2 February at 21:30",
+    "competition": "Argentina. Liga Profesional",
+    "parsed_datetime": "2026-02-02T21:30:00",
+    "logo_alt": "Argentina. Liga Profesional",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Gimnasia y Esgrima LP",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/622.gif"
+      },
+      {
+        "team_name": "Aldosivi",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1112.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Botafogo-SP – Palmeiras",
+    "event_url": "https://livetv.sx/enx/eventinfo/335650587__/",
+    "event_id": "335650587",
+    "date_time": "2 February at 0:30",
+    "competition": "Brazil. Campeonato Paulista",
+    "parsed_datetime": "2026-02-02T00:30:00",
+    "logo_alt": "Brazil. Campeonato Paulista",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Botafogo-SP",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26546.gif"
+      },
+      {
+        "team_name": "Palmeiras",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/431.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Tigre – Racing",
+    "event_url": "https://livetv.sx/enx/eventinfo/335913939__/",
+    "event_id": "335913939",
+    "date_time": "2 February at 23:45",
+    "competition": "Argentina. Liga Profesional",
+    "parsed_datetime": "2026-02-02T23:45:00",
+    "logo_alt": "Argentina. Liga Profesional",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Tigre",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34362.gif"
+      },
+      {
+        "team_name": "Racing",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/429.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Mallorca – Sevilla",
+    "event_url": "https://livetv.sx/enx/eventinfo/335877900__/",
+    "event_id": "335877900",
+    "date_time": "2 February at 21:00",
+    "competition": "Spain. Primera Division",
+    "parsed_datetime": "2026-02-02T21:00:00",
+    "logo_alt": "Spain. Primera Division",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Mallorca",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3768.gif"
+      },
+      {
+        "team_name": "Sevilla",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Casa Pia – Porto",
+    "event_url": "https://livetv.sx/enx/eventinfo/335558418__/",
+    "event_id": "335558418",
+    "date_time": "2 February at 21:45",
+    "competition": "Portugal. Primeira Liga",
+    "parsed_datetime": "2026-02-02T21:45:00",
+    "logo_alt": "Portugal. Primeira Liga",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Casa Pia",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1436.gif"
+      },
+      {
+        "team_name": "Porto",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/338.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Once Caldas – Jaguares de Cordoba",
+    "event_url": "https://livetv.sx/enx/eventinfo/335651579__/",
+    "event_id": "335651579",
+    "date_time": "2 February at 0:10",
+    "competition": "Colombia. Primera A",
+    "parsed_datetime": "2026-02-02T00:10:00",
+    "logo_alt": "Colombia. Primera A",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Once Caldas",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/743.gif"
+      },
+      {
+        "team_name": "Jaguares de Cordoba",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1453.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Dinamo Zagreb – Vukovar '91",
+    "event_url": "https://livetv.sx/enx/eventinfo/335845890__/",
+    "event_id": "335845890",
+    "date_time": "2 February at 18:00",
+    "competition": "Croatia. HNL",
+    "parsed_datetime": "2026-02-02T18:00:00",
+    "logo_alt": "Croatia. HNL",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Dinamo Zagreb",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/28655.gif"
+      },
+      {
+        "team_name": "Vukovar '91",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/13168.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Udinese – Roma",
+    "event_url": "https://livetv.sx/enx/eventinfo/335878019__/",
+    "event_id": "335878019",
+    "date_time": "2 February at 20:45",
+    "competition": "Italy. Serie A",
+    "parsed_datetime": "2026-02-02T20:45:00",
+    "logo_alt": "Italy. Serie A",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Udinese",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/61.gif"
+      },
+      {
+        "team_name": "Roma",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/54.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "AVS – Braga",
+    "event_url": "https://livetv.sx/enx/eventinfo/335558419__/",
+    "event_id": "335558419",
+    "date_time": "2 February at 19:45",
+    "competition": "Portugal. Primeira Liga",
+    "parsed_datetime": "2026-02-02T19:45:00",
+    "logo_alt": "Portugal. Primeira Liga",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "AVS",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26892.gif"
+      },
+      {
+        "team_name": "Braga",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3775.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Dominican Republic U17 (W) – Nicaragua U17 (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/337340193_dominican_republic_u17_w_nicaragua_u17_w/",
+    "event_id": "337340193",
+    "date_time": "2 February at 2:00",
     "competition": "Women. CONCACAF U-17 Championship",
-    "parsed_datetime": "2026-02-01T23:00:00",
+    "parsed_datetime": "2026-02-02T02:00:00",
     "logo_alt": "Women. CONCACAF U-17 Championship",
     "is_live": true,
     "team_logos": [],
@@ -35,401 +489,1043 @@
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=RHElIkT-wzg&lang=en&eid=337340191&lid=2943683&ci=1532&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943030&lang=en&eid=337340191&lid=2943030&ci=1532&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943031&lang=en&eid=337340193&lid=2943031&ci=1532&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=SYCQPvBNR_Q&lang=en&eid=337340193&lid=2943685&ci=1532&si=1",
+        "stream_title": "",
+        "stream_type": ""
       }
     ]
   },
   {
-    "matchup": "Moca – Delfines Del Este",
-    "event_url": "https://livetv.sx/enx/eventinfo/339142207__/",
-    "event_id": "339142207",
-    "date_time": "1 February at 23:00",
-    "competition": "Dominican Republic. LDF",
-    "parsed_datetime": "2026-02-01T23:00:00",
-    "logo_alt": "Dominican Republic. LDF",
+    "matchup": "Pachuca (W) –  UANL (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/335673181__/",
+    "event_id": "335673181",
+    "date_time": "2 February at 2:00",
+    "competition": "Mexico. Women. Liga MX",
+    "parsed_datetime": "2026-02-02T02:00:00",
+    "logo_alt": "Mexico. Women. Liga MX",
     "is_live": true,
     "team_logos": [
       {
-        "team_name": "Moca",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26530.gif"
+        "team_name": "Pachuca (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6244.gif"
       },
       {
-        "team_name": "Delfines Del Este",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/14668.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=r3p4PGkqSCY&lang=en&eid=339142207&lid=2943281&ci=6860&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
-  },
-  {
-    "matchup": "Atletico-PB – Nacional de Patos",
-    "event_url": "https://livetv.sx/enx/eventinfo/335592692__/",
-    "event_id": "335592692",
-    "date_time": "1 February at 22:30",
-    "competition": "Brazil. Campeonato Paraibano",
-    "parsed_datetime": "2026-02-01T22:30:00",
-    "logo_alt": "Brazil. Campeonato Paraibano",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Atletico-PB",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6513.gif"
-      },
-      {
-        "team_name": "Nacional de Patos",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34753.gif"
+        "team_name": "UANL (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7861.gif"
       }
     ],
     "streams": []
   },
   {
-    "matchup": "Atletico-PB – Nacional de Patos",
-    "event_url": "https://livetv.sx/enx/eventinfo/335592692__/",
-    "event_id": "335592692",
-    "date_time": "1 February at 22:30",
-    "competition": "Brazil. Campeonato Paraibano",
-    "parsed_datetime": "2026-02-01T22:30:00",
-    "logo_alt": "Brazil. Campeonato Paraibano",
+    "matchup": "Qatar U20 – Pakhtakor",
+    "event_url": "https://livetv.sx/enx/eventinfo/338489239_qatar_u20_pakhtakor/",
+    "event_id": "338489239",
+    "date_time": "2 February at 14:30",
+    "competition": "Friendly Match. National Teams",
+    "parsed_datetime": "2026-02-02T14:30:00",
+    "logo_alt": "Friendly Match. National Teams",
+    "is_live": false,
+    "team_logos": [],
+    "streams": []
+  },
+  {
+    "matchup": "Millonarios – Ind Medellin",
+    "event_url": "https://livetv.sx/enx/eventinfo/335309149__/",
+    "event_id": "335309149",
+    "date_time": "2 February at 2:10",
+    "competition": "Colombia. Primera A",
+    "parsed_datetime": "2026-02-02T02:10:00",
+    "logo_alt": "Colombia. Primera A",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Millonarios",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34740.gif"
+      },
+      {
+        "team_name": "Ind Medellin",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34567.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2940816&lang=en&eid=335309149&lid=2940816&ci=19&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943595&lang=en&eid=335309149&lid=2943595&ci=19&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Llaneros – Aguilas Doradas",
+    "event_url": "https://livetv.sx/enx/eventinfo/335679221__/",
+    "event_id": "335679221",
+    "date_time": "2 February at 2:30",
+    "competition": "Colombia. Primera A",
+    "parsed_datetime": "2026-02-02T02:30:00",
+    "logo_alt": "Colombia. Primera A",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Llaneros",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30356.gif"
+      },
+      {
+        "team_name": "Aguilas Doradas",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1776.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943010&lang=en&eid=335679221&lid=2943010&ci=19&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943594&lang=en&eid=335679221&lid=2943594&ci=19&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Albirex Niigata – Geylang International",
+    "event_url": "https://livetv.sx/enx/eventinfo/335789624__/",
+    "event_id": "335789624",
+    "date_time": "2 February at 12:30",
+    "competition": "Singapore. S-League",
+    "parsed_datetime": "2026-02-02T12:30:00",
+    "logo_alt": "Singapore. S-League",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Atletico-PB",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6513.gif"
+        "team_name": "Albirex Niigata",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9606.gif"
       },
       {
-        "team_name": "Nacional de Patos",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34753.gif"
+        "team_name": "Geylang International",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9609.gif"
       }
     ],
     "streams": []
   },
   {
-    "matchup": "Noroeste – Velo Clube",
-    "event_url": "https://livetv.sx/enx/eventinfo/335574416__/",
-    "event_id": "335574416",
-    "date_time": "1 February at 23:30",
-    "competition": "Brazil. Campeonato Paulista",
-    "parsed_datetime": "2026-02-01T23:30:00",
-    "logo_alt": "Brazil. Campeonato Paulista",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Noroeste",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12866.gif"
-      },
-      {
-        "team_name": "Velo Clube",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9496.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943617&lang=en&eid=335574416&lid=2943617&ci=18&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Boca Juniors – Newell`s Old Boys",
-    "event_url": "https://livetv.sx/enx/eventinfo/335635091__/",
-    "event_id": "335635091",
-    "date_time": "1 February at 23:15",
-    "competition": "Argentina. Liga Profesional",
-    "parsed_datetime": "2026-02-01T23:15:00",
-    "logo_alt": "Argentina. Liga Profesional",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Boca Juniors",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/246.gif"
-      },
-      {
-        "team_name": "Newell`s Old Boys",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/509.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247755&lang=en&eid=335635091&lid=2943425&ci=16&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242328&lang=en&eid=335635091&lid=2924883&ci=16&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2666844&lang=en&eid=335635091&lid=2666844&ci=16&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943020&lang=en&eid=335635091&lid=2943020&ci=16&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242311&lang=en&eid=335635091&lid=2812093&ci=16&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=246089&lang=en&eid=335635091&lid=2930491&ci=16&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242327&lang=en&eid=335635091&lid=2941897&ci=16&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242346&lang=en&eid=335635091&lid=2924884&ci=16&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
-  },
-  {
-    "matchup": "Noroeste – Velo Clube",
-    "event_url": "https://livetv.sx/enx/eventinfo/335574416__/",
-    "event_id": "335574416",
-    "date_time": "1 February at 23:30",
-    "competition": "Brazil. Campeonato Paulista",
-    "parsed_datetime": "2026-02-01T23:30:00",
-    "logo_alt": "Brazil. Campeonato Paulista",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Noroeste",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12866.gif"
-      },
-      {
-        "team_name": "Velo Clube",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9496.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943617&lang=en&eid=335574416&lid=2943617&ci=18&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Sousa – Esporte de Patos",
-    "event_url": "https://livetv.sx/enx/eventinfo/335592691__/",
-    "event_id": "335592691",
-    "date_time": "1 February at 23:00",
-    "competition": "Brazil. Campeonato Paraibano",
-    "parsed_datetime": "2026-02-01T23:00:00",
-    "logo_alt": "Brazil. Campeonato Paraibano",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Sousa",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6515.gif"
-      },
-      {
-        "team_name": "Esporte de Patos",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32316.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=6ZXqfmjV22o&lang=en&eid=335592691&lid=2937104&ci=1332&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
-  },
-  {
-    "matchup": "Sousa – Esporte de Patos",
-    "event_url": "https://livetv.sx/enx/eventinfo/335592691__/",
-    "event_id": "335592691",
-    "date_time": "1 February at 23:00",
-    "competition": "Brazil. Campeonato Paraibano",
-    "parsed_datetime": "2026-02-01T23:00:00",
-    "logo_alt": "Brazil. Campeonato Paraibano",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Sousa",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6515.gif"
-      },
-      {
-        "team_name": "Esporte de Patos",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32316.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=6ZXqfmjV22o&lang=en&eid=335592691&lid=2937104&ci=1332&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
-  },
-  {
-    "matchup": "Boca Juniors – Newell`s Old Boys",
-    "event_url": "https://livetv.sx/enx/eventinfo/335635091__/",
-    "event_id": "335635091",
-    "date_time": "1 February at 23:15",
-    "competition": "Argentina. Liga Profesional",
-    "parsed_datetime": "2026-02-01T23:15:00",
-    "logo_alt": "Argentina. Liga Profesional",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Boca Juniors",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/246.gif"
-      },
-      {
-        "team_name": "Newell`s Old Boys",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/509.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247755&lang=en&eid=335635091&lid=2943425&ci=16&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242328&lang=en&eid=335635091&lid=2924883&ci=16&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2666844&lang=en&eid=335635091&lid=2666844&ci=16&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943020&lang=en&eid=335635091&lid=2943020&ci=16&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242311&lang=en&eid=335635091&lid=2812093&ci=16&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=246089&lang=en&eid=335635091&lid=2930491&ci=16&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242327&lang=en&eid=335635091&lid=2941897&ci=16&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242346&lang=en&eid=335635091&lid=2924884&ci=16&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
-  },
-  {
-    "matchup": "Operario FEC – Azuriz",
-    "event_url": "https://livetv.sx/enx/eventinfo/338166328__/",
-    "event_id": "338166328",
-    "date_time": "1 February at 22:30",
-    "competition": "Brazil. Campeonato Paranaense",
-    "parsed_datetime": "2026-02-01T22:30:00",
-    "logo_alt": "Brazil. Campeonato Paranaense",
+    "matchup": "Bani Yas – Al Jazira",
+    "event_url": "https://livetv.sx/enx/eventinfo/335823717__/",
+    "event_id": "335823717",
+    "date_time": "2 February at 15:35",
+    "competition": "UAE. Cup",
+    "parsed_datetime": "2026-02-02T15:35:00",
+    "logo_alt": "UAE. Cup",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Operario FEC",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6281.gif"
+        "team_name": "Bani Yas",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9190.gif"
       },
       {
-        "team_name": "Azuriz",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/29821.gif"
+        "team_name": "Al Jazira",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9187.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Shabab Al-Ordon – Al-Faisaly Amman",
+    "event_url": "https://livetv.sx/enx/eventinfo/335802066__/",
+    "event_id": "335802066",
+    "date_time": "2 February at 14:00",
+    "competition": "Jordan. Premier League",
+    "parsed_datetime": "2026-02-02T14:00:00",
+    "logo_alt": "Jordan. Premier League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Shabab Al-Ordon",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6654.gif"
+      },
+      {
+        "team_name": "Al-Faisaly Amman",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6650.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Al-Riyadh – Al Nassr",
+    "event_url": "https://livetv.sx/enx/eventinfo/335829447__/",
+    "event_id": "335829447",
+    "date_time": "2 February at 16:15",
+    "competition": "Saudi Arabia. Pro League",
+    "parsed_datetime": "2026-02-02T16:15:00",
+    "logo_alt": "Saudi Arabia. Pro League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Riyadh",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30595.gif"
+      },
+      {
+        "team_name": "Al Nassr",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35362.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Al-Ramtha – Al-Hussein",
+    "event_url": "https://livetv.sx/enx/eventinfo/335827147__/",
+    "event_id": "335827147",
+    "date_time": "2 February at 16:30",
+    "competition": "Jordan. Premier League",
+    "parsed_datetime": "2026-02-02T16:30:00",
+    "logo_alt": "Jordan. Premier League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Ramtha",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6651.gif"
+      },
+      {
+        "team_name": "Al-Hussein",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34996.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Manama – Al Riffa",
+    "event_url": "https://livetv.sx/enx/eventinfo/339235540__/",
+    "event_id": "339235540",
+    "date_time": "2 February at 17:00",
+    "competition": "Bahrain. Cup",
+    "parsed_datetime": "2026-02-02T17:00:00",
+    "logo_alt": "Bahrain. Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Manama",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/29410.gif"
+      },
+      {
+        "team_name": "Al Riffa",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1535.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Dinamo Zagreb – Vukovar '91",
+    "event_url": "https://livetv.sx/enx/eventinfo/335845890__/",
+    "event_id": "335845890",
+    "date_time": "2 February at 18:00",
+    "competition": "Croatia. HNL",
+    "parsed_datetime": "2026-02-02T18:00:00",
+    "logo_alt": "Croatia. HNL",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Dinamo Zagreb",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/28655.gif"
+      },
+      {
+        "team_name": "Vukovar '91",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/13168.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Botosani – Otelul Galati",
+    "event_url": "https://livetv.sx/enx/eventinfo/335856469__/",
+    "event_id": "335856469",
+    "date_time": "2 February at 17:30",
+    "competition": "Romania. Liga 1",
+    "parsed_datetime": "2026-02-02T17:30:00",
+    "logo_alt": "Romania. Liga 1",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Botosani",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30243.gif"
+      },
+      {
+        "team_name": "Otelul Galati",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16594.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Al-Muharraq – Isa Town",
+    "event_url": "https://livetv.sx/enx/eventinfo/339235541__/",
+    "event_id": "339235541",
+    "date_time": "2 February at 17:00",
+    "competition": "Bahrain. Cup",
+    "parsed_datetime": "2026-02-02T17:00:00",
+    "logo_alt": "Bahrain. Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Muharraq",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1538.gif"
+      },
+      {
+        "team_name": "Isa Town",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/11752.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Fiorentina (W) –  Napoli (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/339059782__/",
+    "event_id": "339059782",
+    "date_time": "2 February at 18:00",
+    "competition": "Italy. Women. Serie A",
+    "parsed_datetime": "2026-02-02T18:00:00",
+    "logo_alt": "Italy. Women. Serie A",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Fiorentina (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21746.gif"
+      },
+      {
+        "team_name": "Napoli (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30773.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Esenler Erokspor – Umraniyespor",
+    "event_url": "https://livetv.sx/enx/eventinfo/335540550__/",
+    "event_id": "335540550",
+    "date_time": "2 February at 18:00",
+    "competition": "Turkey. 1 Lig",
+    "parsed_datetime": "2026-02-02T18:00:00",
+    "logo_alt": "Turkey. 1 Lig",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Esenler Erokspor",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10633.gif"
+      },
+      {
+        "team_name": "Umraniyespor",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5328.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Hapoel Ramat Gan – Hapoel Raanana",
+    "event_url": "https://livetv.sx/enx/eventinfo/334776392__/",
+    "event_id": "334776392",
+    "date_time": "2 February at 18:00",
+    "competition": "Israel. Liga Leumit",
+    "parsed_datetime": "2026-02-02T18:00:00",
+    "logo_alt": "Israel. Liga Leumit",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Hapoel Ramat Gan",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4850.gif"
+      },
+      {
+        "team_name": "Hapoel Raanana",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/782.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Hapoel Kfar Shalem – Kiryat Yam",
+    "event_url": "https://livetv.sx/enx/eventinfo/334776393__/",
+    "event_id": "334776393",
+    "date_time": "2 February at 18:00",
+    "competition": "Israel. Liga Leumit",
+    "parsed_datetime": "2026-02-02T18:00:00",
+    "logo_alt": "Israel. Liga Leumit",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Hapoel Kfar Shalem",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/12558.gif"
+      },
+      {
+        "team_name": "Kiryat Yam",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32048.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Hapoel Rishon LeZion – Maccabi Herzliya",
+    "event_url": "https://livetv.sx/enx/eventinfo/334776391__/",
+    "event_id": "334776391",
+    "date_time": "2 February at 18:00",
+    "competition": "Israel. Liga Leumit",
+    "parsed_datetime": "2026-02-02T18:00:00",
+    "logo_alt": "Israel. Liga Leumit",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Hapoel Rishon LeZion",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4293.gif"
+      },
+      {
+        "team_name": "Maccabi Herzliya",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4981.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Wolfsburg (W) –  Cologne (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/335842791__/",
+    "event_id": "335842791",
+    "date_time": "2 February at 18:00",
+    "competition": "Germany. Women. Bundesliga",
+    "parsed_datetime": "2026-02-02T18:00:00",
+    "logo_alt": "Germany. Women. Bundesliga",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Wolfsburg (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4772.gif"
+      },
+      {
+        "team_name": "Cologne (W)",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4773.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Al-Okhdood – Neom",
+    "event_url": "https://livetv.sx/enx/eventinfo/335850898__/",
+    "event_id": "335850898",
+    "date_time": "2 February at 18:30",
+    "competition": "Saudi Arabia. Pro League",
+    "parsed_datetime": "2026-02-02T18:30:00",
+    "logo_alt": "Saudi Arabia. Pro League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Okhdood",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33337.gif"
+      },
+      {
+        "team_name": "Neom",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35364.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Kocaelispor – Fenerbahce",
+    "event_url": "https://livetv.sx/enx/eventinfo/335559039__/",
+    "event_id": "335559039",
+    "date_time": "2 February at 18:00",
+    "competition": "Turkey. Super League",
+    "parsed_datetime": "2026-02-02T18:00:00",
+    "logo_alt": "Turkey. Super League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Kocaelispor",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7072.gif"
+      },
+      {
+        "team_name": "Fenerbahce",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/553.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Al-Hilal Riyadh – Al Ahli Jeddah",
+    "event_url": "https://livetv.sx/enx/eventinfo/335850899__/",
+    "event_id": "335850899",
+    "date_time": "2 February at 18:30",
+    "competition": "Saudi Arabia. Pro League",
+    "parsed_datetime": "2026-02-02T18:30:00",
+    "logo_alt": "Saudi Arabia. Pro League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Hilal Riyadh",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26915.gif"
+      },
+      {
+        "team_name": "Al Ahli Jeddah",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35358.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Guyana U17 (W) – Saint Vincent & Grenadines U17 (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/337340194_guyana_u17_w_saint_vincent_and_grenadines_u17_w/",
+    "event_id": "337340194",
+    "date_time": "2 February at 20:00",
+    "competition": "Women. CONCACAF U-17 Championship",
+    "parsed_datetime": "2026-02-02T20:00:00",
+    "logo_alt": "Women. CONCACAF U-17 Championship",
+    "is_live": false,
+    "team_logos": [],
+    "streams": []
+  },
+  {
+    "matchup": "Nieciecza – Cracovia",
+    "event_url": "https://livetv.sx/enx/eventinfo/335856150__/",
+    "event_id": "335856150",
+    "date_time": "2 February at 19:00",
+    "competition": "Poland. Ekstraklasa",
+    "parsed_datetime": "2026-02-02T19:00:00",
+    "logo_alt": "Poland. Ekstraklasa",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Nieciecza",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/22404.gif"
+      },
+      {
+        "team_name": "Cracovia",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/31220.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Jong Utrecht – VVV-Venlo",
+    "event_url": "https://livetv.sx/enx/eventinfo/335867288__/",
+    "event_id": "335867288",
+    "date_time": "2 February at 20:00",
+    "competition": "Netherlands. Eerste Divisie",
+    "parsed_datetime": "2026-02-02T20:00:00",
+    "logo_alt": "Netherlands. Eerste Divisie",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Jong Utrecht",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5378.gif"
+      },
+      {
+        "team_name": "VVV-Venlo",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/519.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Kiryat Shmona – Maccabi Tel Aviv",
+    "event_url": "https://livetv.sx/enx/eventinfo/335127504__/",
+    "event_id": "335127504",
+    "date_time": "2 February at 19:00",
+    "competition": "Israel. Premier League",
+    "parsed_datetime": "2026-02-02T19:00:00",
+    "logo_alt": "Israel. Premier League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Kiryat Shmona",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/491.gif"
+      },
+      {
+        "team_name": "Maccabi Tel Aviv",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30165.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "AVS – Braga",
+    "event_url": "https://livetv.sx/enx/eventinfo/335558419__/",
+    "event_id": "335558419",
+    "date_time": "2 February at 19:45",
+    "competition": "Portugal. Primeira Liga",
+    "parsed_datetime": "2026-02-02T19:45:00",
+    "logo_alt": "Portugal. Primeira Liga",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "AVS",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26892.gif"
+      },
+      {
+        "team_name": "Braga",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3775.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Jong PSV – Cambuur",
+    "event_url": "https://livetv.sx/enx/eventinfo/335867289__/",
+    "event_id": "335867289",
+    "date_time": "2 February at 20:00",
+    "competition": "Netherlands. Eerste Divisie",
+    "parsed_datetime": "2026-02-02T20:00:00",
+    "logo_alt": "Netherlands. Eerste Divisie",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Jong PSV",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5375.gif"
+      },
+      {
+        "team_name": "Cambuur",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6580.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Jong Ajax – Willem II",
+    "event_url": "https://livetv.sx/enx/eventinfo/335867290__/",
+    "event_id": "335867290",
+    "date_time": "2 February at 20:00",
+    "competition": "Netherlands. Eerste Divisie",
+    "parsed_datetime": "2026-02-02T20:00:00",
+    "logo_alt": "Netherlands. Eerste Divisie",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Jong Ajax",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34765.gif"
+      },
+      {
+        "team_name": "Willem II",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30229.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Vitesse – Eindhoven",
+    "event_url": "https://livetv.sx/enx/eventinfo/337978066__/",
+    "event_id": "337978066",
+    "date_time": "2 February at 20:00",
+    "competition": "Netherlands. Eerste Divisie",
+    "parsed_datetime": "2026-02-02T20:00:00",
+    "logo_alt": "Netherlands. Eerste Divisie",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Vitesse",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/481.gif"
+      },
+      {
+        "team_name": "Eindhoven",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33178.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "MVV Maastricht – Almere City",
+    "event_url": "https://livetv.sx/enx/eventinfo/337978067__/",
+    "event_id": "337978067",
+    "date_time": "2 February at 20:00",
+    "competition": "Netherlands. Eerste Divisie",
+    "parsed_datetime": "2026-02-02T20:00:00",
+    "logo_alt": "Netherlands. Eerste Divisie",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "MVV Maastricht",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6593.gif"
+      },
+      {
+        "team_name": "Almere City",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7145.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Rosenborg – Goeteborg",
+    "event_url": "https://livetv.sx/enx/eventinfo/339043115__/",
+    "event_id": "339043115",
+    "date_time": "2 February at 20:30",
+    "competition": "The Atlantic Cup",
+    "parsed_datetime": "2026-02-02T20:30:00",
+    "logo_alt": "The Atlantic Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Rosenborg",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/280.gif"
+      },
+      {
+        "team_name": "Goeteborg",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1057.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Mirandes – Malaga",
+    "event_url": "https://livetv.sx/enx/eventinfo/335871853__/",
+    "event_id": "335871853",
+    "date_time": "2 February at 20:30",
+    "competition": "Spain. Segunda Division",
+    "parsed_datetime": "2026-02-02T20:30:00",
+    "logo_alt": "Spain. Segunda Division",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Mirandes",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3881.gif"
+      },
+      {
+        "team_name": "Malaga",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/49.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Udinese – Roma",
+    "event_url": "https://livetv.sx/enx/eventinfo/335878019__/",
+    "event_id": "335878019",
+    "date_time": "2 February at 20:45",
+    "competition": "Italy. Serie A",
+    "parsed_datetime": "2026-02-02T20:45:00",
+    "logo_alt": "Italy. Serie A",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Udinese",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/61.gif"
+      },
+      {
+        "team_name": "Roma",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/54.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Giana Erminio – Union Brescia",
+    "event_url": "https://livetv.sx/enx/eventinfo/335871998__/",
+    "event_id": "335871998",
+    "date_time": "2 February at 20:30",
+    "competition": "Italy. Serie C. Group A",
+    "parsed_datetime": "2026-02-02T20:30:00",
+    "logo_alt": "Italy. Serie C. Group A",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Giana Erminio",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/8694.gif"
+      },
+      {
+        "team_name": "Union Brescia",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35037.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Renate – Alcione",
+    "event_url": "https://livetv.sx/enx/eventinfo/335871997__/",
+    "event_id": "335871997",
+    "date_time": "2 February at 20:30",
+    "competition": "Italy. Serie C. Group A",
+    "parsed_datetime": "2026-02-02T20:30:00",
+    "logo_alt": "Italy. Serie C. Group A",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Renate",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/31202.gif"
+      },
+      {
+        "team_name": "Alcione",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33172.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Cayman Islands U17 (W) – Saint Lucia U17 (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/337340195_cayman_islands_u17_w_saint_lucia_u17_w/",
+    "event_id": "337340195",
+    "date_time": "2 February at 21:00",
+    "competition": "Women. CONCACAF U-17 Championship",
+    "parsed_datetime": "2026-02-02T21:00:00",
+    "logo_alt": "Women. CONCACAF U-17 Championship",
+    "is_live": false,
+    "team_logos": [],
+    "streams": []
+  },
+  {
+    "matchup": "Mallorca – Sevilla",
+    "event_url": "https://livetv.sx/enx/eventinfo/335877900__/",
+    "event_id": "335877900",
+    "date_time": "2 February at 21:00",
+    "competition": "Spain. Primera Division",
+    "parsed_datetime": "2026-02-02T21:00:00",
+    "logo_alt": "Spain. Primera Division",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Mallorca",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3768.gif"
+      },
+      {
+        "team_name": "Sevilla",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Gimnasia y Esgrima LP – Aldosivi",
+    "event_url": "https://livetv.sx/enx/eventinfo/335883267__/",
+    "event_id": "335883267",
+    "date_time": "2 February at 21:30",
+    "competition": "Argentina. Liga Profesional",
+    "parsed_datetime": "2026-02-02T21:30:00",
+    "logo_alt": "Argentina. Liga Profesional",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Gimnasia y Esgrima LP",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/622.gif"
+      },
+      {
+        "team_name": "Aldosivi",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1112.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Comerciantes Unidos – Deportivo Moquegua",
+    "event_url": "https://livetv.sx/enx/eventinfo/335879721__/",
+    "event_id": "335879721",
+    "date_time": "2 February at 21:00",
+    "competition": "Peru. Liga 1",
+    "parsed_datetime": "2026-02-02T21:00:00",
+    "logo_alt": "Peru. Liga 1",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Comerciantes Unidos",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30235.gif"
+      },
+      {
+        "team_name": "Deportivo Moquegua",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33300.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Marica – Volta Redonda",
+    "event_url": "https://livetv.sx/enx/eventinfo/335877223__/",
+    "event_id": "335877223",
+    "date_time": "2 February at 21:00",
+    "competition": "Brazil. Campeonato Carioca",
+    "parsed_datetime": "2026-02-02T21:00:00",
+    "logo_alt": "Brazil. Campeonato Carioca",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Marica",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21201.gif"
+      },
+      {
+        "team_name": "Volta Redonda",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33143.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Grenada U17 (W) – Anguilla U17 (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/337340196_grenada_u17_w_anguilla_u17_w/",
+    "event_id": "337340196",
+    "date_time": "2 February at 23:00",
+    "competition": "Women. CONCACAF U-17 Championship",
+    "parsed_datetime": "2026-02-02T23:00:00",
+    "logo_alt": "Women. CONCACAF U-17 Championship",
+    "is_live": false,
+    "team_logos": [],
+    "streams": []
+  },
+  {
+    "matchup": "Sunderland – Burnley",
+    "event_url": "https://livetv.sx/enx/eventinfo/335877001__/",
+    "event_id": "335877001",
+    "date_time": "2 February at 21:00",
+    "competition": "England. Premier League",
+    "parsed_datetime": "2026-02-02T21:00:00",
+    "logo_alt": "England. Premier League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Sunderland",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/4032.gif"
+      },
+      {
+        "team_name": "Burnley",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33045.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Recoleta – Libertad",
+    "event_url": "https://livetv.sx/enx/eventinfo/335892009__/",
+    "event_id": "335892009",
+    "date_time": "2 February at 22:00",
+    "competition": "Paraguay. Primera Division",
+    "parsed_datetime": "2026-02-02T22:00:00",
+    "logo_alt": "Paraguay. Primera Division",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Recoleta",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/32510.gif"
+      },
+      {
+        "team_name": "Libertad",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/256.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Casa Pia – Porto",
+    "event_url": "https://livetv.sx/enx/eventinfo/335558418__/",
+    "event_id": "335558418",
+    "date_time": "2 February at 21:45",
+    "competition": "Portugal. Primeira Liga",
+    "parsed_datetime": "2026-02-02T21:45:00",
+    "logo_alt": "Portugal. Primeira Liga",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Casa Pia",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1436.gif"
+      },
+      {
+        "team_name": "Porto",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/338.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Everton VM – Union La Calera",
+    "event_url": "https://livetv.sx/enx/eventinfo/335596434__/",
+    "event_id": "335596434",
+    "date_time": "2 February at 22:00",
+    "competition": "Chile. Primera Division",
+    "parsed_datetime": "2026-02-02T22:00:00",
+    "logo_alt": "Chile. Primera Division",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Everton VM",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34758.gif"
+      },
+      {
+        "team_name": "Union La Calera",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/29509.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Floresta – Ferroviario",
+    "event_url": "https://livetv.sx/enx/eventinfo/337241414__/",
+    "event_id": "337241414",
+    "date_time": "2 February at 23:00",
+    "competition": "Brazil. Campeonato Ceara",
+    "parsed_datetime": "2026-02-02T23:00:00",
+    "logo_alt": "Brazil. Campeonato Ceara",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Floresta",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6023.gif"
+      },
+      {
+        "team_name": "Ferroviario",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30304.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Defensa y Justicia – Estudiantes LP",
+    "event_url": "https://livetv.sx/enx/eventinfo/335883268__/",
+    "event_id": "335883268",
+    "date_time": "2 February at 23:45",
+    "competition": "Argentina. Liga Profesional",
+    "parsed_datetime": "2026-02-02T23:45:00",
+    "logo_alt": "Argentina. Liga Profesional",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Defensa y Justicia",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1115.gif"
+      },
+      {
+        "team_name": "Estudiantes LP",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36876.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Tigre – Racing",
+    "event_url": "https://livetv.sx/enx/eventinfo/335913939__/",
+    "event_id": "335913939",
+    "date_time": "2 February at 23:45",
+    "competition": "Argentina. Liga Profesional",
+    "parsed_datetime": "2026-02-02T23:45:00",
+    "logo_alt": "Argentina. Liga Profesional",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Tigre",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34362.gif"
+      },
+      {
+        "team_name": "Racing",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/429.gif"
       }
     ],
     "streams": []
