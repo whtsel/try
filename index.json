@@ -1,5 +1,36 @@
 [
   {
+    "matchup": "Lithuania U18 –  Poland U18",
+    "event_url": "https://livetv.sx/enx/eventinfo/339818286_lithuania_u18_poland_u18/",
+    "event_id": "339818286",
+    "date_time": "17:00 (4 Nations Cup)",
+    "logo_alt": "Ice Hockey. 4 Nations Cup",
+    "is_live": false,
+    "team_logos": [],
+    "streams": []
+  },
+  {
+    "matchup": "Rio-Preto – Uniao Sao Joao",
+    "event_url": "https://livetv.sx/enx/eventinfo/340282358_rio_preto_uniao_sao_joao/",
+    "event_id": "340282358",
+    "date_time": "4 February at 19:00",
+    "competition": "Brazil. Campeonato Paulista 3",
+    "parsed_datetime": "2026-02-04T19:00:00",
+    "logo_alt": "Brazil. Campeonato Paulista 3",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Rio-Preto",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/27725.gif"
+      },
+      {
+        "team_name": "Uniao Sao Joao",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/9556.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Simulcast",
     "event_url": "https://livetv.sx/enx/eventinfo/339989763_simulcast/",
     "event_id": "339989763",
@@ -7,17 +38,9 @@
     "competition": "France. Cup",
     "parsed_datetime": "2026-02-04T20:30:00",
     "logo_alt": "France. Cup",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [],
     "streams": [
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247824&lang=en&eid=339989763&lid=2944349&ci=74&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
       {
         "language": "French",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
@@ -27,12 +50,28 @@
         "stream_type": ""
       },
       {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242274&lang=en&eid=339989763&lid=2925205&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242285&lang=en&eid=339989763&lid=2925202&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
         "language": "French",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945341&lang=en&eid=339989763&lid=2945341&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242757&lang=en&eid=339989763&lid=2940384&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
       },
       {
         "language": "French",
@@ -49,34 +88,363 @@
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944717&lang=en&eid=339989763&lid=2944717&ci=74&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945341&lang=en&eid=339989763&lid=2945341&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
       }
     ]
   },
   {
-    "matchup": "Kahraba Ismailia – Zamalek",
-    "event_url": "https://livetv.sx/enx/eventinfo/336420795__/",
-    "event_id": "336420795",
+    "matchup": "Rio Claro – Rio Branco",
+    "event_url": "https://livetv.sx/enx/eventinfo/340077363__/",
+    "event_id": "340077363",
     "date_time": "4 February at 19:00",
-    "competition": "Egypt. Premier League",
+    "competition": "Brazil. Campeonato Paulista 3",
     "parsed_datetime": "2026-02-04T19:00:00",
-    "logo_alt": "Egypt. Premier League",
+    "logo_alt": "Brazil. Campeonato Paulista 3",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Rio Claro",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7120.gif"
+      },
+      {
+        "team_name": "Rio Branco",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16615.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Uniao Suzano – Catanduva",
+    "event_url": "https://livetv.sx/enx/eventinfo/340084108__/",
+    "event_id": "340084108",
+    "date_time": "4 February at 19:00",
+    "competition": "Brazil. Campeonato Paulista 3",
+    "parsed_datetime": "2026-02-04T19:00:00",
+    "logo_alt": "Brazil. Campeonato Paulista 3",
     "is_live": true,
     "team_logos": [
       {
-        "team_name": "Kahraba Ismailia",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35043.gif"
+        "team_name": "Uniao Suzano",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25394.gif"
       },
       {
-        "team_name": "Zamalek",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1548.gif"
+        "team_name": "Catanduva",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21352.gif"
       }
     ],
     "streams": [
       {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=ct-B8ksnbCU&lang=en&eid=340084108&lid=2945216&ci=2081&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
+  },
+  {
+    "matchup": "Maccabi Bnei Raina – Hapoel Beer Sheva",
+    "event_url": "https://livetv.sx/enx/eventinfo/338179755__/",
+    "event_id": "338179755",
+    "date_time": "4 February at 19:00",
+    "competition": "Israel. State Cup",
+    "parsed_datetime": "2026-02-04T19:00:00",
+    "logo_alt": "Israel. State Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Maccabi Bnei Raina",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35231.gif"
+      },
+      {
+        "team_name": "Hapoel Beer Sheva",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/780.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Troyes – Lens",
+    "event_url": "https://livetv.sx/enx/eventinfo/336656684__/",
+    "event_id": "336656684",
+    "date_time": "4 February at 21:00",
+    "competition": "France. Cup",
+    "parsed_datetime": "2026-02-04T21:00:00",
+    "logo_alt": "France. Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Troyes",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26675.gif"
+      },
+      {
+        "team_name": "Lens",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/27961.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944759&lang=en&eid=336656684&lid=2944759&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943259&lang=en&eid=336656684&lid=2943259&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943893&lang=en&eid=336656684&lid=2943893&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2661161&lang=en&eid=336656684&lid=2661161&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924460&lang=en&eid=336656684&lid=2924460&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2917797&lang=en&eid=336656684&lid=2917797&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945367&lang=en&eid=336656684&lid=2945367&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2941575&lang=en&eid=336656684&lid=2941575&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Lorient – Paris",
+    "event_url": "https://livetv.sx/enx/eventinfo/336656680__/",
+    "event_id": "336656680",
+    "date_time": "4 February at 20:30",
+    "competition": "France. Cup",
+    "parsed_datetime": "2026-02-04T20:30:00",
+    "logo_alt": "France. Cup",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Lorient",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3923.gif"
+      },
+      {
+        "team_name": "Paris",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3939.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247379&lang=en&eid=336656680&lid=2941711&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247489&lang=en&eid=336656680&lid=2942383&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247766&lang=en&eid=336656680&lid=2945116&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247639&lang=en&eid=336656680&lid=2943270&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2925322&lang=en&eid=336656680&lid=2925322&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945327&lang=en&eid=336656680&lid=2945327&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945328&lang=en&eid=336656680&lid=2945328&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945596&lang=en&eid=336656680&lid=2945596&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "RB Bragantino – Atletico-MG",
+    "event_url": "https://livetv.sx/enx/eventinfo/336478274__/",
+    "event_id": "336478274",
+    "date_time": "4 February at 23:00",
+    "competition": "Brazil. Serie A",
+    "parsed_datetime": "2026-02-04T23:00:00",
+    "logo_alt": "Brazil. Serie A",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "RB Bragantino",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/518.gif"
+      },
+      {
+        "team_name": "Atletico-MG",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/432.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Nice – Montpellier",
+    "event_url": "https://livetv.sx/enx/eventinfo/336656682__/",
+    "event_id": "336656682",
+    "date_time": "4 February at 20:30",
+    "competition": "France. Cup",
+    "parsed_datetime": "2026-02-04T20:30:00",
+    "logo_alt": "France. Cup",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Nice",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/125.gif"
+      },
+      {
+        "team_name": "Montpellier",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/133.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247381&lang=en&eid=336656682&lid=2941951&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=248148&lang=en&eid=336656682&lid=2945007&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
         "language": "",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945614&lang=en&eid=336420795&lid=2945614&ci=270&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247703&lang=en&eid=336656682&lid=2945620&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247704&lang=en&eid=336656682&lid=2943272&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2661228&lang=en&eid=336656682&lid=2661228&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Serbian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944648&lang=en&eid=336656682&lid=2944648&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945334&lang=en&eid=336656682&lid=2945334&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945153&lang=en&eid=336656682&lid=2945153&ci=74&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       }
@@ -107,14 +475,6 @@
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
         "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242914&lang=en&eid=336448032&lid=2828767&ci=143&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247504&lang=en&eid=336448032&lid=2942792&ci=143&si=1",
         "stream_title": "",
         "stream_type": ""
       },
@@ -162,6 +522,14 @@
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945352&lang=en&eid=336448032&lid=2945352&ci=143&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944871&lang=en&eid=336448032&lid=2944871&ci=143&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
@@ -169,251 +537,25 @@
     ]
   },
   {
-    "matchup": "Lithuania U18 –  Poland U18",
-    "event_url": "https://livetv.sx/enx/eventinfo/339818286_lithuania_u18_poland_u18/",
-    "event_id": "339818286",
-    "date_time": "17:00 (4 Nations Cup)",
-    "logo_alt": "Ice Hockey. 4 Nations Cup",
-    "is_live": false,
-    "team_logos": [],
-    "streams": []
-  },
-  {
-    "matchup": "Nice – Montpellier",
-    "event_url": "https://livetv.sx/enx/eventinfo/336656682__/",
-    "event_id": "336656682",
-    "date_time": "4 February at 20:30",
-    "competition": "France. Cup",
-    "parsed_datetime": "2026-02-04T20:30:00",
-    "logo_alt": "France. Cup",
+    "matchup": "NEC – Volendam",
+    "event_url": "https://livetv.sx/enx/eventinfo/336656665__/",
+    "event_id": "336656665",
+    "date_time": "4 February at 18:45",
+    "competition": "Netherlands. KNVB Cup",
+    "parsed_datetime": "2026-02-04T18:45:00",
+    "logo_alt": "Netherlands. KNVB Cup",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Nice",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/125.gif"
+        "team_name": "NEC",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6678.gif"
       },
       {
-        "team_name": "Montpellier",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/133.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=248148&lang=en&eid=336656682&lid=2945007&ci=74&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=248166&lang=en&eid=336656682&lid=2944997&ci=74&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2661228&lang=en&eid=336656682&lid=2661228&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945333&lang=en&eid=336656682&lid=2945333&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945153&lang=en&eid=336656682&lid=2945153&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945334&lang=en&eid=336656682&lid=2945334&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2925312&lang=en&eid=336656682&lid=2925312&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924165&lang=en&eid=336656682&lid=2924165&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Rio Claro – Rio Branco",
-    "event_url": "https://livetv.sx/enx/eventinfo/340077363__/",
-    "event_id": "340077363",
-    "date_time": "4 February at 19:00",
-    "competition": "Brazil. Campeonato Paulista 3",
-    "parsed_datetime": "2026-02-04T19:00:00",
-    "logo_alt": "Brazil. Campeonato Paulista 3",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Rio Claro",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7120.gif"
-      },
-      {
-        "team_name": "Rio Branco",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/16615.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=ZmRQSGTGo44&lang=en&eid=340077363&lid=2945215&ci=2081&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
-  },
-  {
-    "matchup": "Maccabi Bnei Raina – Hapoel Beer Sheva",
-    "event_url": "https://livetv.sx/enx/eventinfo/338179755__/",
-    "event_id": "338179755",
-    "date_time": "4 February at 19:00",
-    "competition": "Israel. State Cup",
-    "parsed_datetime": "2026-02-04T19:00:00",
-    "logo_alt": "Israel. State Cup",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Maccabi Bnei Raina",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35231.gif"
-      },
-      {
-        "team_name": "Hapoel Beer Sheva",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/780.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Hebrew",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/15.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945312&lang=en&eid=338179755&lid=2945312&ci=249&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "RB Bragantino – Atletico-MG",
-    "event_url": "https://livetv.sx/enx/eventinfo/336478274__/",
-    "event_id": "336478274",
-    "date_time": "4 February at 23:00",
-    "competition": "Brazil. Serie A",
-    "parsed_datetime": "2026-02-04T23:00:00",
-    "logo_alt": "Brazil. Serie A",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "RB Bragantino",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/518.gif"
-      },
-      {
-        "team_name": "Atletico-MG",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/432.gif"
+        "team_name": "Volendam",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7142.gif"
       }
     ],
     "streams": []
-  },
-  {
-    "matchup": "Galatasaray – Istanbulspor",
-    "event_url": "https://livetv.sx/enx/eventinfo/337975096__/",
-    "event_id": "337975096",
-    "date_time": "4 February at 18:30",
-    "competition": "Turkey. Cup",
-    "parsed_datetime": "2026-02-04T18:30:00",
-    "logo_alt": "Turkey. Cup",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Galatasaray",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20957.gif"
-      },
-      {
-        "team_name": "Istanbulspor",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5325.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Turkish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2927251&lang=en&eid=337975096&lid=2927251&ci=193&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Turkish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945302&lang=en&eid=337975096&lid=2945302&ci=193&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Turkish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945271&lang=en&eid=337975096&lid=2945271&ci=193&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Turkish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944743&lang=en&eid=337975096&lid=2944743&ci=193&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Turkish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944711&lang=en&eid=337975096&lid=2944711&ci=193&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Turkish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/10.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944559&lang=en&eid=337975096&lid=2944559&ci=193&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
   },
   {
     "matchup": "Lyon – Laval",
@@ -423,7 +565,7 @@
     "competition": "France. Cup",
     "parsed_datetime": "2026-02-04T20:30:00",
     "logo_alt": "France. Cup",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Lyon",
@@ -435,6 +577,14 @@
       }
     ],
     "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945332&lang=en&eid=336656681&lid=2945332&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
       {
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
@@ -452,26 +602,10 @@
         "stream_type": "Web"
       },
       {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945332&lang=en&eid=336656681&lid=2945332&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
         "language": "French",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
         "bitrate": "Bit Rate (Kbps)",
         "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247956&lang=en&eid=336656681&lid=2945118&ci=74&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=248146&lang=en&eid=336656681&lid=2945005&ci=74&si=1",
         "stream_title": "",
         "stream_type": ""
       },
@@ -492,134 +626,10 @@
         "stream_type": "Web"
       },
       {
-        "language": "Serbian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944647&lang=en&eid=336656681&lid=2944647&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "NEC – Volendam",
-    "event_url": "https://livetv.sx/enx/eventinfo/336656665__/",
-    "event_id": "336656665",
-    "date_time": "4 February at 18:45",
-    "competition": "Netherlands. KNVB Cup",
-    "parsed_datetime": "2026-02-04T18:45:00",
-    "logo_alt": "Netherlands. KNVB Cup",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "NEC",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6678.gif"
-      },
-      {
-        "team_name": "Volendam",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7142.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Dutch",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/4.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247953&lang=en&eid=336656665&lid=2944956&ci=52&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Dutch",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/4.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2923573&lang=en&eid=336656665&lid=2923573&ci=52&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Dutch",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/4.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945307&lang=en&eid=336656665&lid=2945307&ci=52&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Dutch",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/4.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945306&lang=en&eid=336656665&lid=2945306&ci=52&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Lorient – Paris",
-    "event_url": "https://livetv.sx/enx/eventinfo/336656680__/",
-    "event_id": "336656680",
-    "date_time": "4 February at 20:30",
-    "competition": "France. Cup",
-    "parsed_datetime": "2026-02-04T20:30:00",
-    "logo_alt": "France. Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Lorient",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3923.gif"
-      },
-      {
-        "team_name": "Paris",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3939.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247766&lang=en&eid=336656680&lid=2945116&ci=74&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
         "language": "French",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2661229&lang=en&eid=336656680&lid=2661229&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2925322&lang=en&eid=336656680&lid=2925322&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945328&lang=en&eid=336656680&lid=2945328&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944681&lang=en&eid=336656680&lid=2944681&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945329&lang=en&eid=336656680&lid=2945329&ci=74&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944557&lang=en&eid=336656681&lid=2944557&ci=74&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       },
@@ -627,15 +637,7 @@
         "language": "Serbian",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944751&lang=en&eid=336656680&lid=2944751&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924163&lang=en&eid=336656680&lid=2924163&ci=74&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944647&lang=en&eid=336656681&lid=2944647&ci=74&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       }
@@ -649,7 +651,7 @@
     "competition": "France. Cup",
     "parsed_datetime": "2026-02-04T20:30:00",
     "logo_alt": "France. Cup",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Toulouse",
@@ -728,169 +730,32 @@
     ]
   },
   {
-    "matchup": "Omonia – AEL Limassol",
-    "event_url": "https://livetv.sx/enx/eventinfo/339989812__/",
-    "event_id": "339989812",
-    "date_time": "4 February at 18:00",
-    "competition": "Cyprus. Cup",
-    "parsed_datetime": "2026-02-04T18:00:00",
-    "logo_alt": "Cyprus. Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Omonia",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/672.gif"
-      },
-      {
-        "team_name": "AEL Limassol",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/912.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Uniao Suzano – Catanduva",
-    "event_url": "https://livetv.sx/enx/eventinfo/340084108__/",
-    "event_id": "340084108",
+    "matchup": "Kahraba Ismailia – Zamalek",
+    "event_url": "https://livetv.sx/enx/eventinfo/336420795__/",
+    "event_id": "336420795",
     "date_time": "4 February at 19:00",
-    "competition": "Brazil. Campeonato Paulista 3",
+    "competition": "Egypt. Premier League",
     "parsed_datetime": "2026-02-04T19:00:00",
-    "logo_alt": "Brazil. Campeonato Paulista 3",
+    "logo_alt": "Egypt. Premier League",
     "is_live": true,
     "team_logos": [
       {
-        "team_name": "Uniao Suzano",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25394.gif"
+        "team_name": "Kahraba Ismailia",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/35043.gif"
       },
       {
-        "team_name": "Catanduva",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21352.gif"
+        "team_name": "Zamalek",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/1548.gif"
       }
     ],
     "streams": [
       {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "language": "Arabic",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/5.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=ct-B8ksnbCU&lang=en&eid=340084108&lid=2945216&ci=2081&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
-  },
-  {
-    "matchup": "Troyes – Lens",
-    "event_url": "https://livetv.sx/enx/eventinfo/336656684__/",
-    "event_id": "336656684",
-    "date_time": "4 February at 21:00",
-    "competition": "France. Cup",
-    "parsed_datetime": "2026-02-04T21:00:00",
-    "logo_alt": "France. Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Troyes",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26675.gif"
-      },
-      {
-        "team_name": "Lens",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/27961.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944759&lang=en&eid=336656684&lid=2944759&ci=74&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945614&lang=en&eid=336420795&lid=2945614&ci=270&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943259&lang=en&eid=336656684&lid=2943259&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943893&lang=en&eid=336656684&lid=2943893&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247559&lang=en&eid=336656684&lid=2943252&ci=74&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2661161&lang=en&eid=336656684&lid=2661161&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924460&lang=en&eid=336656684&lid=2924460&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945367&lang=en&eid=336656684&lid=2945367&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2941575&lang=en&eid=336656684&lid=2941575&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Rio-Preto – Uniao Sao Joao",
-    "event_url": "https://livetv.sx/enx/eventinfo/340282358_rio_preto_uniao_sao_joao/",
-    "event_id": "340282358",
-    "date_time": "4 February at 19:00",
-    "competition": "Brazil. Campeonato Paulista 3",
-    "parsed_datetime": "2026-02-04T19:00:00",
-    "logo_alt": "Brazil. Campeonato Paulista 3",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Rio-Preto",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/27725.gif"
-      },
-      {
-        "team_name": "Uniao Sao Joao",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/9556.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=Clvd-B0oYw0&lang=en&eid=340282358&lid=2945218&ci=2081&si=1",
-        "stream_title": "",
-        "stream_type": ""
       }
     ]
   },
@@ -915,8 +780,8 @@
     ],
     "streams": [
       {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
         "bitrate": "Bit Rate (Kbps)",
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945616&lang=en&eid=337975104&lid=2945616&ci=254&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
@@ -1007,17 +872,9 @@
     "competition": "France. Cup",
     "parsed_datetime": "2026-02-04T20:30:00",
     "logo_alt": "France. Cup",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [],
     "streams": [
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247824&lang=en&eid=339989763&lid=2944349&ci=74&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
       {
         "language": "French",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
@@ -1027,12 +884,28 @@
         "stream_type": ""
       },
       {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242274&lang=en&eid=339989763&lid=2925205&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242285&lang=en&eid=339989763&lid=2925202&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
         "language": "French",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945341&lang=en&eid=339989763&lid=2945341&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242757&lang=en&eid=339989763&lid=2940384&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
       },
       {
         "language": "French",
@@ -1047,6 +920,44 @@
         "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
         "bitrate": "Bit Rate (Kbps)",
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944717&lang=en&eid=339989763&lid=2944717&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945341&lang=en&eid=339989763&lid=2945341&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "St Gallen – Basel",
+    "event_url": "https://livetv.sx/enx/eventinfo/337975105__/",
+    "event_id": "337975105",
+    "date_time": "4 February at 20:15",
+    "competition": "Switzerland. Cup",
+    "parsed_datetime": "2026-02-04T20:15:00",
+    "logo_alt": "Switzerland. Cup",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "St Gallen",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/91.gif"
+      },
+      {
+        "team_name": "Basel",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/27814.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Italian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/12.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943821&lang=en&eid=337975105&lid=2943821&ci=254&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       }
@@ -1097,18 +1008,18 @@
         "stream_type": "Web"
       },
       {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "language": "Greek",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/28.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "http://surl.li/zlepoo",
-        "stream_title": "",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944686&lang=en&eid=336427417&lid=2944686&ci=54&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       },
       {
         "language": "Greek",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/28.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944686&lang=en&eid=336427417&lid=2944686&ci=54&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2941571&lang=en&eid=336427417&lid=2941571&ci=54&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       },
@@ -1121,10 +1032,182 @@
         "stream_type": "Web"
       },
       {
-        "language": "Greek",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/28.png",
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2941571&lang=en&eid=336427417&lid=2941571&ci=54&si=1",
+        "stream_url": "http://surl.li/zlepoo",
+        "stream_title": "",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Lyon – Laval",
+    "event_url": "https://livetv.sx/enx/eventinfo/336656681__/",
+    "event_id": "336656681",
+    "date_time": "4 February at 20:30",
+    "competition": "France. Cup",
+    "parsed_datetime": "2026-02-04T20:30:00",
+    "logo_alt": "France. Cup",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Lyon",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/116.gif"
+      },
+      {
+        "team_name": "Laval",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6727.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945332&lang=en&eid=336656681&lid=2945332&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944753&lang=en&eid=336656681&lid=2944753&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942905&lang=en&eid=336656681&lid=2942905&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247956&lang=en&eid=336656681&lid=2945118&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2701309&lang=en&eid=336656681&lid=2701309&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944872&lang=en&eid=336656681&lid=2944872&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944557&lang=en&eid=336656681&lid=2944557&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Serbian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944647&lang=en&eid=336656681&lid=2944647&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Lorient – Paris",
+    "event_url": "https://livetv.sx/enx/eventinfo/336656680__/",
+    "event_id": "336656680",
+    "date_time": "4 February at 20:30",
+    "competition": "France. Cup",
+    "parsed_datetime": "2026-02-04T20:30:00",
+    "logo_alt": "France. Cup",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Lorient",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3923.gif"
+      },
+      {
+        "team_name": "Paris",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3939.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247379&lang=en&eid=336656680&lid=2941711&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247489&lang=en&eid=336656680&lid=2942383&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247766&lang=en&eid=336656680&lid=2945116&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247639&lang=en&eid=336656680&lid=2943270&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2925322&lang=en&eid=336656680&lid=2925322&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945327&lang=en&eid=336656680&lid=2945327&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945328&lang=en&eid=336656680&lid=2945328&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945596&lang=en&eid=336656680&lid=2945596&ci=74&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       }
@@ -1138,7 +1221,7 @@
     "competition": "Poland. Ekstraklasa",
     "parsed_datetime": "2026-02-04T20:30:00",
     "logo_alt": "Poland. Ekstraklasa",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Jagiellonia",
@@ -1217,122 +1300,6 @@
     ]
   },
   {
-    "matchup": "St Gallen – Basel",
-    "event_url": "https://livetv.sx/enx/eventinfo/337975105__/",
-    "event_id": "337975105",
-    "date_time": "4 February at 20:15",
-    "competition": "Switzerland. Cup",
-    "parsed_datetime": "2026-02-04T20:15:00",
-    "logo_alt": "Switzerland. Cup",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "St Gallen",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/91.gif"
-      },
-      {
-        "team_name": "Basel",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/27814.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Italian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/12.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943821&lang=en&eid=337975105&lid=2943821&ci=254&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Lorient – Paris",
-    "event_url": "https://livetv.sx/enx/eventinfo/336656680__/",
-    "event_id": "336656680",
-    "date_time": "4 February at 20:30",
-    "competition": "France. Cup",
-    "parsed_datetime": "2026-02-04T20:30:00",
-    "logo_alt": "France. Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Lorient",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3923.gif"
-      },
-      {
-        "team_name": "Paris",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3939.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247766&lang=en&eid=336656680&lid=2945116&ci=74&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2661229&lang=en&eid=336656680&lid=2661229&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2925322&lang=en&eid=336656680&lid=2925322&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945328&lang=en&eid=336656680&lid=2945328&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944681&lang=en&eid=336656680&lid=2944681&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945329&lang=en&eid=336656680&lid=2945329&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Serbian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944751&lang=en&eid=336656680&lid=2944751&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924163&lang=en&eid=336656680&lid=2924163&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
     "matchup": "Toulouse – Amiens",
     "event_url": "https://livetv.sx/enx/eventinfo/336656683__/",
     "event_id": "336656683",
@@ -1340,7 +1307,7 @@
     "competition": "France. Cup",
     "parsed_datetime": "2026-02-04T20:30:00",
     "logo_alt": "France. Cup",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Toulouse",
@@ -1419,92 +1386,6 @@
     ]
   },
   {
-    "matchup": "Nice – Montpellier",
-    "event_url": "https://livetv.sx/enx/eventinfo/336656682__/",
-    "event_id": "336656682",
-    "date_time": "4 February at 20:30",
-    "competition": "France. Cup",
-    "parsed_datetime": "2026-02-04T20:30:00",
-    "logo_alt": "France. Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Nice",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/125.gif"
-      },
-      {
-        "team_name": "Montpellier",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/133.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=248148&lang=en&eid=336656682&lid=2945007&ci=74&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=248166&lang=en&eid=336656682&lid=2944997&ci=74&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2661228&lang=en&eid=336656682&lid=2661228&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945333&lang=en&eid=336656682&lid=2945333&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945153&lang=en&eid=336656682&lid=2945153&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945334&lang=en&eid=336656682&lid=2945334&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2925312&lang=en&eid=336656682&lid=2925312&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924165&lang=en&eid=336656682&lid=2924165&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
     "matchup": "Charleroi – Union Saint-Gilloise",
     "event_url": "https://livetv.sx/enx/eventinfo/336440878__/",
     "event_id": "336440878",
@@ -1512,7 +1393,7 @@
     "competition": "Belgium. Cup",
     "parsed_datetime": "2026-02-04T20:30:00",
     "logo_alt": "Belgium. Cup",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Charleroi",
@@ -1535,22 +1416,22 @@
     ]
   },
   {
-    "matchup": "Lyon – Laval",
-    "event_url": "https://livetv.sx/enx/eventinfo/336656681__/",
-    "event_id": "336656681",
+    "matchup": "Nice – Montpellier",
+    "event_url": "https://livetv.sx/enx/eventinfo/336656682__/",
+    "event_id": "336656682",
     "date_time": "4 February at 20:30",
     "competition": "France. Cup",
     "parsed_datetime": "2026-02-04T20:30:00",
     "logo_alt": "France. Cup",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
-        "team_name": "Lyon",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/116.gif"
+        "team_name": "Nice",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/125.gif"
       },
       {
-        "team_name": "Laval",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/6727.gif"
+        "team_name": "Montpellier",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/133.gif"
       }
     ],
     "streams": [
@@ -1558,31 +1439,7 @@
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944753&lang=en&eid=336656681&lid=2944753&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942905&lang=en&eid=336656681&lid=2942905&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945332&lang=en&eid=336656681&lid=2945332&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247956&lang=en&eid=336656681&lid=2945118&ci=74&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247381&lang=en&eid=336656682&lid=2941951&ci=74&si=1",
         "stream_title": "",
         "stream_type": ""
       },
@@ -1590,7 +1447,15 @@
         "language": "French",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=248146&lang=en&eid=336656681&lid=2945005&ci=74&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=248148&lang=en&eid=336656682&lid=2945007&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247703&lang=en&eid=336656682&lid=2945620&ci=74&si=1",
         "stream_title": "",
         "stream_type": ""
       },
@@ -1598,15 +1463,15 @@
         "language": "French",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2701309&lang=en&eid=336656681&lid=2701309&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247704&lang=en&eid=336656682&lid=2943272&ci=74&si=1",
+        "stream_title": "",
+        "stream_type": ""
       },
       {
         "language": "French",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944872&lang=en&eid=336656681&lid=2944872&ci=74&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2661228&lang=en&eid=336656682&lid=2661228&ci=74&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       },
@@ -1614,39 +1479,55 @@
         "language": "Serbian",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944647&lang=en&eid=336656681&lid=2944647&ci=74&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944648&lang=en&eid=336656682&lid=2944648&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945334&lang=en&eid=336656682&lid=2945334&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945153&lang=en&eid=336656682&lid=2945153&ci=74&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       }
     ]
   },
   {
-    "matchup": "Hibernian – Dundee United",
-    "event_url": "https://livetv.sx/enx/eventinfo/336452132__/",
-    "event_id": "336452132",
-    "date_time": "4 February at 20:45",
-    "competition": "Scotland. Premiership",
-    "parsed_datetime": "2026-02-04T20:45:00",
-    "logo_alt": "Scotland. Premiership",
-    "is_live": false,
+    "matchup": "Maguary PE – Retro",
+    "event_url": "https://livetv.sx/enx/eventinfo/339730620__/",
+    "event_id": "339730620",
+    "date_time": "4 February at 20:30",
+    "competition": "Brazil. Campeonato Pernambucano",
+    "parsed_datetime": "2026-02-04T20:30:00",
+    "logo_alt": "Brazil. Campeonato Pernambucano",
+    "is_live": true,
     "team_logos": [
       {
-        "team_name": "Hibernian",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/399.gif"
+        "team_name": "Maguary PE",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25243.gif"
       },
       {
-        "team_name": "Dundee United",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5815.gif"
+        "team_name": "Retro",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33322.gif"
       }
     ],
     "streams": [
       {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945349&lang=en&eid=336452132&lid=2945349&ci=47&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=eYwvUWt5Opo&lang=en&eid=339730620&lid=2944254&ci=697&si=1",
+        "stream_title": "",
+        "stream_type": ""
       }
     ]
   },
@@ -1658,7 +1539,7 @@
     "competition": "Scotland. Premiership",
     "parsed_datetime": "2026-02-04T20:45:00",
     "logo_alt": "Scotland. Premiership",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Rangers",
@@ -1682,7 +1563,7 @@
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945347&lang=en&eid=336452130&lid=2945347&ci=47&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945143&lang=en&eid=336452130&lid=2945143&ci=47&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       },
@@ -1690,148 +1571,41 @@
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945143&lang=en&eid=336452130&lid=2945143&ci=47&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945347&lang=en&eid=336452130&lid=2945347&ci=47&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       }
     ]
   },
   {
-    "matchup": "Maguary PE – Retro",
-    "event_url": "https://livetv.sx/enx/eventinfo/339730620__/",
-    "event_id": "339730620",
-    "date_time": "4 February at 20:30",
-    "competition": "Brazil. Campeonato Pernambucano",
-    "parsed_datetime": "2026-02-04T20:30:00",
-    "logo_alt": "Brazil. Campeonato Pernambucano",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Maguary PE",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25243.gif"
-      },
-      {
-        "team_name": "Retro",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/33322.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=youtube&c=eYwvUWt5Opo&lang=en&eid=339730620&lid=2944254&ci=697&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
-  },
-  {
-    "matchup": "Holstein Kiel – Stuttgart",
-    "event_url": "https://livetv.sx/enx/eventinfo/336448622__/",
-    "event_id": "336448622",
-    "date_time": "4 February at 20:45",
-    "competition": "Germany. DFB Cup",
-    "parsed_datetime": "2026-02-04T20:45:00",
-    "logo_alt": "Germany. DFB Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Holstein Kiel",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3700.gif"
-      },
-      {
-        "team_name": "Stuttgart",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/707.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Ukrainian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/3.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242355&lang=en&eid=336448622&lid=2812168&ci=82&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247540&lang=en&eid=336448622&lid=2942757&ci=82&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247542&lang=en&eid=336448622&lid=2942758&ci=82&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=248119&lang=en&eid=336448622&lid=2944965&ci=82&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=248120&lang=en&eid=336448622&lid=2944966&ci=82&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=248185&lang=en&eid=336448622&lid=2945113&ci=82&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=227403&lang=en&eid=336448622&lid=2944935&ci=82&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Ukrainian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/3.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=227655&lang=en&eid=336448622&lid=2945617&ci=82&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
-  },
-  {
-    "matchup": "Dundee – Motherwell",
-    "event_url": "https://livetv.sx/enx/eventinfo/336452133__/",
-    "event_id": "336452133",
+    "matchup": "Livingston – Falkirk",
+    "event_url": "https://livetv.sx/enx/eventinfo/336452131__/",
+    "event_id": "336452131",
     "date_time": "4 February at 20:45",
     "competition": "Scotland. Premiership",
     "parsed_datetime": "2026-02-04T20:45:00",
     "logo_alt": "Scotland. Premiership",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
-        "team_name": "Dundee",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30249.gif"
+        "team_name": "Livingston",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34721.gif"
       },
       {
-        "team_name": "Motherwell",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/401.gif"
+        "team_name": "Falkirk",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5553.gif"
       }
     ],
-    "streams": []
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945348&lang=en&eid=336452131&lid=2945348&ci=47&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
   },
   {
     "matchup": "Inter – Torino",
@@ -1889,7 +1663,7 @@
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942800&lang=en&eid=336449044&lid=2942800&ci=75&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944706&lang=en&eid=336449044&lid=2944706&ci=75&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       },
@@ -1897,7 +1671,7 @@
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944706&lang=en&eid=336449044&lid=2944706&ci=75&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2942800&lang=en&eid=336449044&lid=2942800&ci=75&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       },
@@ -1920,22 +1694,22 @@
     ]
   },
   {
-    "matchup": "Livingston – Falkirk",
-    "event_url": "https://livetv.sx/enx/eventinfo/336452131__/",
-    "event_id": "336452131",
+    "matchup": "Hibernian – Dundee United",
+    "event_url": "https://livetv.sx/enx/eventinfo/336452132__/",
+    "event_id": "336452132",
     "date_time": "4 February at 20:45",
     "competition": "Scotland. Premiership",
     "parsed_datetime": "2026-02-04T20:45:00",
     "logo_alt": "Scotland. Premiership",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
-        "team_name": "Livingston",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34721.gif"
+        "team_name": "Hibernian",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/399.gif"
       },
       {
-        "team_name": "Falkirk",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5553.gif"
+        "team_name": "Dundee United",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/5815.gif"
       }
     ],
     "streams": [
@@ -1943,17 +1717,202 @@
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944043&lang=en&eid=336452131&lid=2944043&ci=47&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945349&lang=en&eid=336452132&lid=2945349&ci=47&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Holstein Kiel – Stuttgart",
+    "event_url": "https://livetv.sx/enx/eventinfo/336448622__/",
+    "event_id": "336448622",
+    "date_time": "4 February at 20:45",
+    "competition": "Germany. DFB Cup",
+    "parsed_datetime": "2026-02-04T20:45:00",
+    "logo_alt": "Germany. DFB Cup",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Holstein Kiel",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/3700.gif"
+      },
+      {
+        "team_name": "Stuttgart",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/707.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247383&lang=en&eid=336448622&lid=2941962&ci=82&si=1",
+        "stream_title": "",
+        "stream_type": ""
       },
       {
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945348&lang=en&eid=336452131&lid=2945348&ci=47&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247708&lang=en&eid=336448622&lid=2943686&ci=82&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Ukrainian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/3.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242355&lang=en&eid=336448622&lid=2812168&ci=82&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247540&lang=en&eid=336448622&lid=2942757&ci=82&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247542&lang=en&eid=336448622&lid=2942758&ci=82&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Serbian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/17.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247557&lang=en&eid=336448622&lid=2943796&ci=82&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=248119&lang=en&eid=336448622&lid=2944965&ci=82&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=248120&lang=en&eid=336448622&lid=2944966&ci=82&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
+  },
+  {
+    "matchup": "Dundee – Motherwell",
+    "event_url": "https://livetv.sx/enx/eventinfo/336452133__/",
+    "event_id": "336452133",
+    "date_time": "4 February at 20:45",
+    "competition": "Scotland. Premiership",
+    "parsed_datetime": "2026-02-04T20:45:00",
+    "logo_alt": "Scotland. Premiership",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Dundee",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/30249.gif"
+      },
+      {
+        "team_name": "Motherwell",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/401.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Alaves – Real Sociedad",
+    "event_url": "https://livetv.sx/enx/eventinfo/336656661__/",
+    "event_id": "336656661",
+    "date_time": "4 February at 21:00",
+    "competition": "Spain. Copa del Rey",
+    "parsed_datetime": "2026-02-04T21:00:00",
+    "logo_alt": "Spain. Copa del Rey",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Alaves",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/17058.gif"
+      },
+      {
+        "team_name": "Real Sociedad",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/46.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242328&lang=en&eid=336656661&lid=2924883&ci=55&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247388&lang=en&eid=336656661&lid=2944407&ci=55&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247813&lang=en&eid=336656661&lid=2944424&ci=55&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944757&lang=en&eid=336656661&lid=2944757&ci=55&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247598&lang=en&eid=336656661&lid=2944010&ci=55&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=237115&lang=en&eid=336656661&lid=2924379&ci=55&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Ukrainian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/3.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=237323&lang=en&eid=336656661&lid=2944262&ci=55&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242327&lang=en&eid=336656661&lid=2941897&ci=55&si=1",
+        "stream_title": "",
+        "stream_type": ""
       }
     ]
   },
@@ -2013,7 +1972,7 @@
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943979&lang=en&eid=336656660&lid=2943979&ci=55&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945360&lang=en&eid=336656660&lid=2945360&ci=55&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       },
@@ -2021,7 +1980,7 @@
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945360&lang=en&eid=336656660&lid=2945360&ci=55&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943979&lang=en&eid=336656660&lid=2943979&ci=55&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       },
@@ -2130,68 +2089,22 @@
     ]
   },
   {
-    "matchup": "Belgrano II – Boca Juniors II",
-    "event_url": "https://livetv.sx/enx/eventinfo/340131204__/",
-    "event_id": "340131204",
+    "matchup": "Troyes – Lens",
+    "event_url": "https://livetv.sx/enx/eventinfo/336656684__/",
+    "event_id": "336656684",
     "date_time": "4 February at 21:00",
-    "competition": "Argentina. Reserve League",
+    "competition": "France. Cup",
     "parsed_datetime": "2026-02-04T21:00:00",
-    "logo_alt": "Argentina. Reserve League",
+    "logo_alt": "France. Cup",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Belgrano II",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25479.gif"
+        "team_name": "Troyes",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26675.gif"
       },
       {
-        "team_name": "Boca Juniors II",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/19017.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247978&lang=en&eid=340131204&lid=2945020&ci=1843&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247988&lang=en&eid=340131204&lid=2945021&ci=1843&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247991&lang=en&eid=340131204&lid=2945022&ci=1843&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
-  },
-  {
-    "matchup": "Alaves – Real Sociedad",
-    "event_url": "https://livetv.sx/enx/eventinfo/336656661__/",
-    "event_id": "336656661",
-    "date_time": "4 February at 21:00",
-    "competition": "Spain. Copa del Rey",
-    "parsed_datetime": "2026-02-04T21:00:00",
-    "logo_alt": "Spain. Copa del Rey",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Alaves",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/17058.gif"
-      },
-      {
-        "team_name": "Real Sociedad",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/46.gif"
+        "team_name": "Lens",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/27961.gif"
       }
     ],
     "streams": [
@@ -2199,65 +2112,65 @@
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247388&lang=en&eid=336656661&lid=2944407&ci=55&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247813&lang=en&eid=336656661&lid=2944424&ci=55&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944757&lang=en&eid=336656661&lid=2944757&ci=55&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944759&lang=en&eid=336656684&lid=2944759&ci=74&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       },
       {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247598&lang=en&eid=336656661&lid=2944010&ci=55&si=1",
-        "stream_title": "",
-        "stream_type": ""
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943259&lang=en&eid=336656684&lid=2943259&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
       },
       {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=237115&lang=en&eid=336656661&lid=2924379&ci=55&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Ukrainian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/3.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=237323&lang=en&eid=336656661&lid=2944262&ci=55&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/1.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242327&lang=en&eid=336656661&lid=2941897&ci=55&si=1",
-        "stream_title": "",
-        "stream_type": ""
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943893&lang=en&eid=336656684&lid=2943893&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
       },
       {
         "language": "French",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242328&lang=en&eid=336656661&lid=2924883&ci=55&si=1",
-        "stream_title": "",
-        "stream_type": ""
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2661161&lang=en&eid=336656684&lid=2661161&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924460&lang=en&eid=336656684&lid=2924460&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2917797&lang=en&eid=336656684&lid=2917797&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945367&lang=en&eid=336656684&lid=2945367&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2941575&lang=en&eid=336656684&lid=2941575&ci=74&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
       }
     ]
   },
@@ -2309,22 +2222,6 @@
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242757&lang=en&eid=336452134&lid=2940384&ci=47&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943978&lang=en&eid=336452134&lid=2943978&ci=47&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944756&lang=en&eid=336452134&lid=2944756&ci=47&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
@@ -2344,34 +2241,12 @@
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944578&lang=en&eid=336452134&lid=2944578&ci=47&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Troyes – Lens",
-    "event_url": "https://livetv.sx/enx/eventinfo/336656684__/",
-    "event_id": "336656684",
-    "date_time": "4 February at 21:00",
-    "competition": "France. Cup",
-    "parsed_datetime": "2026-02-04T21:00:00",
-    "logo_alt": "France. Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Troyes",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/26675.gif"
       },
-      {
-        "team_name": "Lens",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/27961.gif"
-      }
-    ],
-    "streams": [
       {
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944759&lang=en&eid=336656684&lid=2944759&ci=74&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944552&lang=en&eid=336452134&lid=2944552&ci=47&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       },
@@ -2379,85 +2254,7 @@
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943259&lang=en&eid=336656684&lid=2943259&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943893&lang=en&eid=336656684&lid=2943893&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247559&lang=en&eid=336656684&lid=2943252&ci=74&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2661161&lang=en&eid=336656684&lid=2661161&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924460&lang=en&eid=336656684&lid=2924460&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945367&lang=en&eid=336656684&lid=2945367&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2941575&lang=en&eid=336656684&lid=2941575&ci=74&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Real Santander – Atletico Cali",
-    "event_url": "https://livetv.sx/enx/eventinfo/336910508__/",
-    "event_id": "336910508",
-    "date_time": "4 February at 21:00",
-    "competition": "Colombia. Primera B",
-    "parsed_datetime": "2026-02-04T21:00:00",
-    "logo_alt": "Colombia. Primera B",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Real Santander",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/2379.gif"
-      },
-      {
-        "team_name": "Atletico Cali",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7987.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945371&lang=en&eid=336910508&lid=2945371&ci=896&si=1",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943978&lang=en&eid=336452134&lid=2943978&ci=47&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       }
@@ -2488,14 +2285,6 @@
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
         "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=242914&lang=en&eid=336448032&lid=2828767&ci=143&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247504&lang=en&eid=336448032&lid=2942792&ci=143&si=1",
         "stream_title": "",
         "stream_type": ""
       },
@@ -2543,23 +2332,19 @@
         "language": "English",
         "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945352&lang=en&eid=336448032&lid=2945352&ci=143&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
         "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944871&lang=en&eid=336448032&lid=2944871&ci=143&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       }
     ]
-  },
-  {
-    "matchup": "Uruguay U20 (W) – Venezuela U20 (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/340289416_uruguay_u20_w_venezuela_u20_w/",
-    "event_id": "340289416",
-    "date_time": "4 February at 22:00",
-    "competition": "South American U-20 Championship",
-    "parsed_datetime": "2026-02-04T22:00:00",
-    "logo_alt": "South American U-20 Championship",
-    "is_live": false,
-    "team_logos": [],
-    "streams": []
   },
   {
     "matchup": "Paraguay U20 (W) – Chile U20 (W)",
@@ -2572,6 +2357,82 @@
     "is_live": false,
     "team_logos": [],
     "streams": []
+  },
+  {
+    "matchup": "Real Santander – Atletico Cali",
+    "event_url": "https://livetv.sx/enx/eventinfo/336910508__/",
+    "event_id": "336910508",
+    "date_time": "4 February at 21:00",
+    "competition": "Colombia. Primera B",
+    "parsed_datetime": "2026-02-04T21:00:00",
+    "logo_alt": "Colombia. Primera B",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Real Santander",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/2379.gif"
+      },
+      {
+        "team_name": "Atletico Cali",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7987.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945371&lang=en&eid=336910508&lid=2945371&ci=896&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
+    "matchup": "Belgrano II – Boca Juniors II",
+    "event_url": "https://livetv.sx/enx/eventinfo/340131204__/",
+    "event_id": "340131204",
+    "date_time": "4 February at 21:00",
+    "competition": "Argentina. Reserve League",
+    "parsed_datetime": "2026-02-04T21:00:00",
+    "logo_alt": "Argentina. Reserve League",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Belgrano II",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25479.gif"
+      },
+      {
+        "team_name": "Boca Juniors II",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/19017.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247978&lang=en&eid=340131204&lid=2945020&ci=1843&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247988&lang=en&eid=340131204&lid=2945021&ci=1843&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247991&lang=en&eid=340131204&lid=2945022&ci=1843&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ]
   },
   {
     "matchup": "Tigres Bogota – Orsomarso",
@@ -2604,131 +2465,15 @@
     ]
   },
   {
-    "matchup": "AD Fafe – Torreense",
-    "event_url": "https://livetv.sx/enx/eventinfo/336656666__/",
-    "event_id": "336656666",
-    "date_time": "4 February at 21:15",
-    "competition": "Portugal. Cup",
-    "parsed_datetime": "2026-02-04T21:15:00",
-    "logo_alt": "Portugal. Cup",
+    "matchup": "Uruguay U20 (W) – Venezuela U20 (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/340289416_uruguay_u20_w_venezuela_u20_w/",
+    "event_id": "340289416",
+    "date_time": "4 February at 22:00",
+    "competition": "South American U-20 Championship",
+    "parsed_datetime": "2026-02-04T22:00:00",
+    "logo_alt": "South American U-20 Championship",
     "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "AD Fafe",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10228.gif"
-      },
-      {
-        "team_name": "Torreense",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21717.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247764&lang=en&eid=336656666&lid=2944017&ci=76&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2916171&lang=en&eid=336656666&lid=2916171&ci=76&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945374&lang=en&eid=336656666&lid=2945374&ci=76&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945375&lang=en&eid=336656666&lid=2945375&ci=76&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944760&lang=en&eid=336656666&lid=2944760&ci=76&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924958&lang=en&eid=336656666&lid=2924958&ci=76&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943832&lang=en&eid=336656666&lid=2943832&ci=76&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv872.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944250&lang=en&eid=336656666&lid=2944250&ci=76&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Quinho – Potyguar Seridoense",
-    "event_url": "https://livetv.sx/enx/eventinfo/336420424__/",
-    "event_id": "336420424",
-    "date_time": "4 February at 22:30",
-    "competition": "Brazil. Campeonato Potiguar",
-    "parsed_datetime": "2026-02-04T22:30:00",
-    "logo_alt": "Brazil. Campeonato Potiguar",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Quinho",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36844.gif"
-      },
-      {
-        "team_name": "Potyguar Seridoense",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20120.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "RB Bragantino – Atletico-MG",
-    "event_url": "https://livetv.sx/enx/eventinfo/336478274__/",
-    "event_id": "336478274",
-    "date_time": "4 February at 23:00",
-    "competition": "Brazil. Serie A",
-    "parsed_datetime": "2026-02-04T23:00:00",
-    "logo_alt": "Brazil. Serie A",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "RB Bragantino",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/518.gif"
-      },
-      {
-        "team_name": "Atletico-MG",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/432.gif"
-      }
-    ],
+    "team_logos": [],
     "streams": []
   },
   {
@@ -2753,6 +2498,113 @@
     "streams": []
   },
   {
+    "matchup": "Quinho – Potyguar Seridoense",
+    "event_url": "https://livetv.sx/enx/eventinfo/336420424__/",
+    "event_id": "336420424",
+    "date_time": "4 February at 22:30",
+    "competition": "Brazil. Campeonato Potiguar",
+    "parsed_datetime": "2026-02-04T22:30:00",
+    "logo_alt": "Brazil. Campeonato Potiguar",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Quinho",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36844.gif"
+      },
+      {
+        "team_name": "Potyguar Seridoense",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/20120.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "AD Fafe – Torreense",
+    "event_url": "https://livetv.sx/enx/eventinfo/336656666__/",
+    "event_id": "336656666",
+    "date_time": "4 February at 21:15",
+    "competition": "Portugal. Cup",
+    "parsed_datetime": "2026-02-04T21:15:00",
+    "logo_alt": "Portugal. Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "AD Fafe",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/10228.gif"
+      },
+      {
+        "team_name": "Torreense",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/21717.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2944250&lang=en&eid=336656666&lid=2944250&ci=76&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer2.php?t=alieztv&c=247764&lang=en&eid=336656666&lid=2944017&ci=76&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2916171&lang=en&eid=336656666&lid=2916171&ci=76&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943906&lang=en&eid=336656666&lid=2943906&ci=76&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945375&lang=en&eid=336656666&lid=2945375&ci=76&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2943832&lang=en&eid=336656666&lid=2943832&ci=76&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2945374&lang=en&eid=336656666&lid=2945374&ci=76&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv872.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv872.me/webplayer.php?t=ifr&c=2924958&lang=en&eid=336656666&lid=2924958&ci=76&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ]
+  },
+  {
     "matchup": "Maracana – Quixada",
     "event_url": "https://livetv.sx/enx/eventinfo/337230607__/",
     "event_id": "337230607",
@@ -2769,69 +2621,6 @@
       {
         "team_name": "Quixada",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36867.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Itapirense – Marilia",
-    "event_url": "https://livetv.sx/enx/eventinfo/340084110__/",
-    "event_id": "340084110",
-    "date_time": "4 February at 23:00",
-    "competition": "Brazil. Campeonato Paulista 3",
-    "parsed_datetime": "2026-02-04T23:00:00",
-    "logo_alt": "Brazil. Campeonato Paulista 3",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Itapirense",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25425.gif"
-      },
-      {
-        "team_name": "Marilia",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9888.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Talleres de Cordoba – Argentino de Merlo",
-    "event_url": "https://livetv.sx/enx/eventinfo/336463045__/",
-    "event_id": "336463045",
-    "date_time": "4 February at 23:00",
-    "competition": "Argentina. Cup",
-    "parsed_datetime": "2026-02-04T23:00:00",
-    "logo_alt": "Argentina. Cup",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Talleres de Cordoba",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34881.gif"
-      },
-      {
-        "team_name": "Argentino de Merlo",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34639.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
-    "matchup": "Internacional Palmira – Deportes Quindio",
-    "event_url": "https://livetv.sx/enx/eventinfo/336910511__/",
-    "event_id": "336910511",
-    "date_time": "4 February at 23:30",
-    "competition": "Colombia. Primera B",
-    "parsed_datetime": "2026-02-04T23:30:00",
-    "logo_alt": "Colombia. Primera B",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Internacional Palmira",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/29060.gif"
-      },
-      {
-        "team_name": "Deportes Quindio",
-        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7982.gif"
       }
     ],
     "streams": []
@@ -2858,6 +2647,48 @@
     "streams": []
   },
   {
+    "matchup": "Itapirense – Marilia",
+    "event_url": "https://livetv.sx/enx/eventinfo/340084110__/",
+    "event_id": "340084110",
+    "date_time": "4 February at 23:00",
+    "competition": "Brazil. Campeonato Paulista 3",
+    "parsed_datetime": "2026-02-04T23:00:00",
+    "logo_alt": "Brazil. Campeonato Paulista 3",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Itapirense",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/25425.gif"
+      },
+      {
+        "team_name": "Marilia",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/9888.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "RB Bragantino – Atletico-MG",
+    "event_url": "https://livetv.sx/enx/eventinfo/336478274__/",
+    "event_id": "336478274",
+    "date_time": "4 February at 23:00",
+    "competition": "Brazil. Serie A",
+    "parsed_datetime": "2026-02-04T23:00:00",
+    "logo_alt": "Brazil. Serie A",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "RB Bragantino",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/518.gif"
+      },
+      {
+        "team_name": "Atletico-MG",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/432.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Francana – Desportivo Brasil",
     "event_url": "https://livetv.sx/enx/eventinfo/340084111__/",
     "event_id": "340084111",
@@ -2879,6 +2710,27 @@
     "streams": []
   },
   {
+    "matchup": "Talleres de Cordoba – Argentino de Merlo",
+    "event_url": "https://livetv.sx/enx/eventinfo/336463045__/",
+    "event_id": "336463045",
+    "date_time": "4 February at 23:00",
+    "competition": "Argentina. Cup",
+    "parsed_datetime": "2026-02-04T23:00:00",
+    "logo_alt": "Argentina. Cup",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Talleres de Cordoba",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34881.gif"
+      },
+      {
+        "team_name": "Argentino de Merlo",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/34639.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
     "matchup": "Serra Branca – Confianca PB",
     "event_url": "https://livetv.sx/enx/eventinfo/339389975__/",
     "event_id": "339389975",
@@ -2895,6 +2747,27 @@
       {
         "team_name": "Confianca PB",
         "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/36933.gif"
+      }
+    ],
+    "streams": []
+  },
+  {
+    "matchup": "Internacional Palmira – Deportes Quindio",
+    "event_url": "https://livetv.sx/enx/eventinfo/336910511__/",
+    "event_id": "336910511",
+    "date_time": "4 February at 23:30",
+    "competition": "Colombia. Primera B",
+    "parsed_datetime": "2026-02-04T23:30:00",
+    "logo_alt": "Colombia. Primera B",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Internacional Palmira",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/29060.gif"
+      },
+      {
+        "team_name": "Deportes Quindio",
+        "logo_url": "https://cdn.livetv872.me/img/teams/fullsize/ods/7982.gif"
       }
     ],
     "streams": []
