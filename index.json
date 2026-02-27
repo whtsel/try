@@ -1,26 +1,5 @@
 [
   {
-    "matchup": "Cobresal – La Serena",
-    "event_url": "https://livetv.sx/enx/eventinfo/343250205__/",
-    "event_id": "343250205",
-    "date_time": "27 February at 22:00",
-    "competition": "Chile. Primera Division",
-    "parsed_datetime": "2026-02-27T22:00:00",
-    "logo_alt": "Chile. Primera Division",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Cobresal",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7799.gif"
-      },
-      {
-        "team_name": "La Serena",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7800.gif"
-      }
-    ],
-    "streams": []
-  },
-  {
     "matchup": "Portuguesa – Monagas",
     "event_url": "https://livetv.sx/enx/eventinfo/343617343__/",
     "event_id": "343617343",
@@ -28,7 +7,7 @@
     "competition": "Venezuela. Primera Division",
     "parsed_datetime": "2026-02-27T22:30:00",
     "logo_alt": "Venezuela. Primera Division",
-    "is_live": true,
+    "is_live": false,
     "team_logos": [
       {
         "team_name": "Portuguesa",
@@ -39,22 +18,35 @@
         "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/936.gif"
       }
     ],
+    "streams": []
+  },
+  {
+    "matchup": "Maghreb de Fes – KACM",
+    "event_url": "https://livetv.sx/enx/eventinfo/343533569__/",
+    "event_id": "343533569",
+    "date_time": "27 February at 23:00",
+    "competition": "Morocco. Botola Pro",
+    "parsed_datetime": "2026-02-27T23:00:00",
+    "logo_alt": "Morocco. Botola Pro",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Maghreb de Fes",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/8427.gif"
+      },
+      {
+        "team_name": "KACM",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6969.gif"
+      }
+    ],
     "streams": [
       {
         "language": "",
         "flag_src": "https://cdn.livetv873.me/img/linkflag/0.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=KXFZ10m5sQE&lang=en&eid=343617343&lid=2963804&ci=455&si=1",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=zxBTOa1HqD8&lang=en&eid=343533569&lid=2963805&ci=551&si=1",
         "stream_title": "",
         "stream_type": ""
-      },
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2963491&lang=en&eid=343617343&lid=2963491&ci=455&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
       }
     ]
   },
@@ -89,34 +81,25 @@
     ]
   },
   {
-    "matchup": "Maghreb de Fes – KACM",
-    "event_url": "https://livetv.sx/enx/eventinfo/343533569__/",
-    "event_id": "343533569",
-    "date_time": "27 February at 23:00",
-    "competition": "Morocco. Botola Pro",
-    "parsed_datetime": "2026-02-27T23:00:00",
-    "logo_alt": "Morocco. Botola Pro",
-    "is_live": true,
+    "matchup": "Portuguesa – Monagas",
+    "event_url": "https://livetv.sx/enx/eventinfo/343617343__/",
+    "event_id": "343617343",
+    "date_time": "27 February at 22:30",
+    "competition": "Venezuela. Primera Division",
+    "parsed_datetime": "2026-02-27T22:30:00",
+    "logo_alt": "Venezuela. Primera Division",
+    "is_live": false,
     "team_logos": [
       {
-        "team_name": "Maghreb de Fes",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/8427.gif"
+        "team_name": "Portuguesa",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1323.gif"
       },
       {
-        "team_name": "KACM",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6969.gif"
+        "team_name": "Monagas",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/936.gif"
       }
     ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=zxBTOa1HqD8&lang=en&eid=343533569&lid=2963805&ci=551&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ]
+    "streams": []
   },
   {
     "matchup": "Melgar – Los Chankas",
@@ -142,53 +125,15 @@
         "language": "Spanish",
         "flag_src": "https://cdn.livetv873.me/img/linkflag/7.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2962723&lang=en&eid=343594207&lid=2962723&ci=110&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
         "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2963492&lang=en&eid=343594207&lid=2963492&ci=110&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
-      }
-    ]
-  },
-  {
-    "matchup": "Portuguesa – Monagas",
-    "event_url": "https://livetv.sx/enx/eventinfo/343617343__/",
-    "event_id": "343617343",
-    "date_time": "27 February at 22:30",
-    "competition": "Venezuela. Primera Division",
-    "parsed_datetime": "2026-02-27T22:30:00",
-    "logo_alt": "Venezuela. Primera Division",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Portuguesa",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1323.gif"
-      },
-      {
-        "team_name": "Monagas",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/936.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=KXFZ10m5sQE&lang=en&eid=343617343&lid=2963804&ci=455&si=1",
-        "stream_title": "",
-        "stream_type": ""
       },
       {
         "language": "Spanish",
         "flag_src": "https://cdn.livetv873.me/img/linkflag/7.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2963491&lang=en&eid=343617343&lid=2963491&ci=455&si=1",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2962723&lang=en&eid=343594207&lid=2962723&ci=110&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       }
