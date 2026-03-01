@@ -5,38 +5,43 @@ from datetime import datetime
 import urllib3
 import re
 from urllib.parse import urljoin
+import time
+import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
 import os
-import uuid
-import hashlib
-from concurrent.futures import ThreadPoolExecutor, as_completed
+import tempfile
 
+# Suppress SSL warnings
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 class BroadcastScraper:
-    def __init__(self, base_url="https://livetv.sx", max_workers=15):
+    def __init__(self, base_url="https://livetv.sx", max_workers=10):
         self.base_url = base_url
         self.max_workers = max_workers
         self.session = requests.Session()
         self.session.verify = False 
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
         })
-
-    def _generate_stable_id(self, matchup_str):
-        return hashlib.md5(matchup_str.encode()).hexdigest()[:12]
+        
+        self.stats_lock = threading.Lock()
+        self.successful_requests = 0
+        self.failed_requests = 0
 
     def _parse_broadcast_item(self, table):
+        fixture_data = {}
         try:
             link_tag = table.find('a', class_='live') or table.find('a', class_='bottomgray')
             if not link_tag: return None
-            matchup = link_tag.get_text(strip=True)
-            fixture_data = {'matchup': matchup}
+            
+            fixture_data['matchup'] = link_tag.get_text(strip=True)
             stream_href = link_tag.get('href', '')
             if stream_href:
-                fixture_data['event_url'] = urljoin(self.base_url, stream_href)
+                fixture_data['event_url'] = self.base_url + stream_href if stream_href.startswith('/') else stream_href
                 match = re.search(r'/eventinfo/(\d+)', stream_href)
-                fixture_data['event_id'] = match.group(1) if match else self._generate_stable_id(matchup)
+                if match: fixture_data['event_id'] = match.group(1)
             
             evdesc_span = table.find('span', class_='evdesc')
             if evdesc_span:
@@ -45,84 +50,195 @@ class BroadcastScraper:
                     fixture_data['date_time'] = desc_parts[0]
                     if len(desc_parts) >= 2: fixture_data['competition'] = desc_parts[1].strip('()')
                     try:
-                        m = re.search(r'(\d+)\s+([A-Za-z]+)\s+at\s+(\d+:\d+)', desc_parts[0])
+                        month_pattern = r'(\d+)\s+([A-Za-z]+)\s+at\s+(\d+:\d+)'
+                        m = re.search(month_pattern, desc_parts[0])
                         if m:
                             date_part = f"{m.group(1)} {m.group(2)} at {m.group(3)}"
                             parsed_date = datetime.strptime(date_part, '%d %B at %H:%M').replace(year=datetime.now().year)
                             fixture_data['parsed_datetime'] = parsed_date.isoformat()
                             fixture_data['datetime_obj'] = parsed_date
                     except: pass
-            fixture_data['is_live'] = table.find('img', src=lambda x: x and 'live.gif' in x) is not None
+            
+            img_tag = table.find('img', alt=True)
+            if img_tag: fixture_data['logo_alt'] = img_tag['alt']
+            live_img = table.find('img', src=lambda x: x and 'live.gif' in x)
+            fixture_data['is_live'] = live_img is not None
             return fixture_data
         except: return None
 
+    def _extract_lineups(self, soup):
+        lineups = {"home_team": [], "away_team": []}
+        try:
+            lineup_header = soup.find('span', string=re.compile(r'Starting Lineup', re.I))
+            if lineup_header:
+                row = lineup_header.find_parent('tr').find_next_sibling('tr')
+                cells = row.find_all('td', class_='small', limit=2)
+                keys = ["home_team", "away_team"]
+                for idx, key in enumerate(keys):
+                    if idx < len(cells):
+                        players = cells[idx].get_text('\n', strip=True).split('\n')
+                        lineups[key] = [p.strip() for p in players if p.strip()]
+        except: pass
+        return lineups
+
+    def _extract_league_table(self, soup):
+        standings = []
+        try:
+            header = soup.find('b', string='Pl')
+            if not header: return standings
+            table = header.find_parent('table')
+            for row in table.find_all('tr'):
+                cols = row.find_all('td')
+                if len(cols) >= 6:
+                    pos = cols[0].find('span', class_='date')
+                    team = cols[1].find('a', class_='ps')
+                    if pos and team:
+                        standings.append({
+                            'pos': pos.get_text(strip=True),
+                            'team': team.get_text(strip=True),
+                            'played': cols[2].get_text(strip=True),
+                            'pts': cols[7].get_text(strip=True) if len(cols) > 7 else ""
+                        })
+        except: pass
+        return standings
+
+    def _parse_stream_table(self, table):
+        try:
+            cells = table.find_all('td')
+            if len(cells) < 7: return None
+            stream_data = {}
+            flag_img = cells[0].find('img')
+            if flag_img:
+                src = flag_img.get('src', '')
+                stream_data['language'] = flag_img.get('title', '')
+                stream_data['flag_src'] = 'https:' + src if src.startswith('//') else src
+            
+            stream_data['bitrate'] = cells[1].get('title', '')
+            play_link = cells[5].find('a')
+            if play_link:
+                href = play_link.get('href', '')
+                stream_data['stream_url'] = urljoin(self.base_url, href) if href.startswith('/') else href
+                stream_data['stream_title'] = play_link.get('title', '')
+            
+            type_cell = cells[6]
+            stream_data['stream_type'] = type_cell.get_text(strip=True)
+            return stream_data
+        except: return None
+
     def get_fixtures_for_sport(self, sport_url):
+        today_fixtures = []
         try:
             response = self.session.get(sport_url, timeout=15)
+            response.raise_for_status()
+            with self.stats_lock: self.successful_requests += 1
             soup = BeautifulSoup(response.content, 'html.parser')
             today_day = datetime.now().day
-            tables = soup.find_all('table', {'cellpadding': '1', 'cellspacing': '2'})
-            fixtures = []
-            for t in tables:
-                f = self._parse_broadcast_item(t)
-                if f:
-                    dt = f.get('datetime_obj')
-                    if (dt and dt.day == today_day) or (str(today_day) in f.get('date_time', '')):
-                        fixtures.append(f)
-            return fixtures
-        except: return []
+            fixture_tables = soup.find_all('table', {'cellpadding': '1', 'cellspacing': '2'})
+            
+            for table in fixture_tables:
+                fixture = self._parse_broadcast_item(table)
+                if fixture:
+                    is_today = False
+                    if fixture.get('datetime_obj'):
+                        if fixture['datetime_obj'].day == today_day: is_today = True
+                    elif fixture.get('date_time'):
+                        if str(today_day) in fixture['date_time']: is_today = True
+                    
+                    if is_today and not any(f.get('event_id') == fixture.get('event_id') for f in today_fixtures if f.get('event_id')):
+                        today_fixtures.append(fixture)
+            return today_fixtures
+        except:
+            with self.stats_lock: self.failed_requests += 1
+            return []
 
     def get_event_details_concurrent(self, event_url):
         try:
-            resp = self.session.get(event_url, timeout=10)
-            soup = BeautifulSoup(resp.content, 'html.parser')
-            details = {'streams': []}
-            lb = soup.find('div', id='links_block')
-            if lb:
-                for t in lb.find_all('table', class_='lnktbj'):
-                    cells = t.find_all('td')
-                    if len(cells) >= 7 and cells[5].find('a'):
-                        details['streams'].append({
-                            'language': cells[0].find('img').get('title', 'Multi') if cells[0].find('img') else 'Multi',
-                            'stream_url': urljoin(self.base_url, cells[5].find('a').get('href')),
-                            'stream_type': cells[6].get_text(strip=True)
-                        })
-            return details
-        except: return None
+            response = self.session.get(event_url, timeout=15)
+            response.raise_for_status()
+            with self.stats_lock: self.successful_requests += 1
+            soup = BeautifulSoup(response.content, 'html.parser')
+            
+            event_data = {
+                'team_logos': [],
+                'streams': [],
+                'starting_lineups': self._extract_lineups(soup),
+                'league_table': self._extract_league_table(soup)
+            }
+            
+            logos = soup.find_all('img', itemprop='image', alt=True)
+            for img in logos:
+                src = img.get('src', '')
+                event_data['team_logos'].append({
+                    'team_name': img.get('alt', '').strip(),
+                    'logo_url': urljoin(self.base_url, src) if src.startswith('/') else src
+                })
+            
+            links_block = soup.find('div', id='links_block')
+            if links_block:
+                tables = links_block.find_all('table', class_='lnktbj')
+                for t in tables:
+                    s = self._parse_stream_table(t)
+                    if s: event_data['streams'].append(s)
+            
+            return event_data
+        except:
+            with self.stats_lock: self.failed_requests += 1
+            return None
 
     def process_fixture_concurrent(self, fixture):
         url = fixture.get('event_url')
         if url:
-            d = self.get_event_details_concurrent(url)
-            if d: fixture.update(d)
+            details = self.get_event_details_concurrent(url)
+            if details:
+                fixture.update(details)
         return fixture
 
-def run_scraper_and_get_data(max_workers=15):
-    scraper = BroadcastScraper(max_workers=max_workers)
+def run_scraper_and_get_data(max_workers=10):
+    scraper = BroadcastScraper(max_workers=max_workers) 
     sport_url = "https://livetv.sx/enx/allupcomingsports/1/"
     today_fixtures = scraper.get_fixtures_for_sport(sport_url)
-    final_data_map = {}
+    
+    if not today_fixtures:
+        return []
+    
+    final_list = []
     with ThreadPoolExecutor(max_workers=scraper.max_workers) as executor:
-        futures = {executor.submit(scraper.process_fixture_concurrent, f): f for f in today_fixtures}
+        futures = [executor.submit(scraper.process_fixture_concurrent, f) for f in today_fixtures]
         for future in as_completed(futures):
             try:
-                item = future.result(timeout=45)
+                item = future.result(timeout=30)
                 if not item: continue
-                eid = item.get('event_id') or str(uuid.uuid4())
+                
+                # Cleanup internal objects before output
                 if 'datetime_obj' in item: del item['datetime_obj']
-                final_data_map[eid] = {
-                    "event_id": eid,
-                    "matchup": item.get("matchup", "Unknown"),
+                
+                # Ensure the structure matches your needs
+                processed_entry = {
+                    "event_id": item.get('event_id', ""),
+                    "matchup": item.get("matchup", "Unknown Match"),
                     "event_url": item.get("event_url", ""),
                     "competition": item.get("competition", "General"),
+                    "date_time": item.get("date_time", ""),
                     "parsed_datetime": item.get("parsed_datetime", ""),
                     "is_live": item.get("is_live", False),
+                    "team_logos": item.get("team_logos", []),
                     "streams": item.get("streams", []),
+                    "starting_lineups": item.get("starting_lineups", {"home_team": [], "away_team": []}),
+                    "league_table": item.get("league_table", []),
                     "last_updated": datetime.now().isoformat()
                 }
-            except Exception as e:
-                print(f"Skipping thread: {e}")
-    return final_data_map
+                final_list.append(processed_entry)
+            except: pass
+
+    # PRODUCTION SAVE TO index.json
+    try:
+        with open('index.json', 'w', encoding='utf-8') as f:
+            json.dump(final_list, f, indent=4, ensure_ascii=False)
+        print(f"✅ index.json updated with {len(final_list)} events.")
+    except Exception as e:
+        print(f"❌ File Error: {e}")
+        
+    return final_list
 
 if __name__ == "__main__":
-    run_scraper_and_get_data(max_workers=15)
+    run_scraper_and_get_data()
