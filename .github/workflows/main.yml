@@ -12,10 +12,10 @@ permissions:
 
 jobs:
   scrape_and_deploy:
-    # This block links the URL to your GitHub Actions UI
     environment:
       name: github-pages
-      url: ${{ steps:deployment.outputs.page_url }}
+      # FIX: Changed colon to dot below
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     
     steps:
@@ -34,7 +34,7 @@ jobs:
           pip install requests beautifulsoup4 urllib3
 
       - name: Run Scraper
-        # Ensure your file is main.py or update this to vrt.py
+        # Ensure your entry file is named main.py
         run: python main.py
       
       - name: Commit and Push Data
@@ -42,7 +42,9 @@ jobs:
           git config --global user.name "Views-Bot"
           git config --global user.email "bot@views-project.local"
           git add index.json
+          # Only commits if changes exist; skips if no changes found
           git diff --quiet && git diff --staged --quiet || (git commit -m "Live Data Update: $(date)" && git push)
+        continue-on-error: true
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -50,8 +52,8 @@ jobs:
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.' # Serves index.json at the root of your Pages URL
+          path: '.' 
       
       - name: Deploy to GitHub Pages
-        id: deployment # This ID must match the 'url' variable above
+        id: deployment 
         uses: actions/deploy-pages@v4
