@@ -10,7 +10,6 @@ import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
 import os
-import tempfile
 
 # Suppress SSL warnings
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -25,7 +24,6 @@ class BroadcastScraper:
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
         })
-        
         self.stats_lock = threading.Lock()
         self.successful_requests = 0
         self.failed_requests = 0
@@ -157,14 +155,12 @@ class BroadcastScraper:
             response.raise_for_status()
             with self.stats_lock: self.successful_requests += 1
             soup = BeautifulSoup(response.content, 'html.parser')
-            
             event_data = {
                 'team_logos': [],
                 'streams': [],
                 'starting_lineups': self._extract_lineups(soup),
                 'league_table': self._extract_league_table(soup)
             }
-            
             logos = soup.find_all('img', itemprop='image', alt=True)
             for img in logos:
                 src = img.get('src', '')
@@ -172,14 +168,12 @@ class BroadcastScraper:
                     'team_name': img.get('alt', '').strip(),
                     'logo_url': urljoin(self.base_url, src) if src.startswith('/') else src
                 })
-            
             links_block = soup.find('div', id='links_block')
             if links_block:
                 tables = links_block.find_all('table', class_='lnktbj')
                 for t in tables:
                     s = self._parse_stream_table(t)
                     if s: event_data['streams'].append(s)
-            
             return event_data
         except:
             with self.stats_lock: self.failed_requests += 1
@@ -208,11 +202,8 @@ def run_scraper_and_get_data(max_workers=10):
             try:
                 item = future.result(timeout=30)
                 if not item: continue
-                
-                # Cleanup internal objects before output
                 if 'datetime_obj' in item: del item['datetime_obj']
                 
-                # Ensure the structure matches your needs
                 processed_entry = {
                     "event_id": item.get('event_id', ""),
                     "matchup": item.get("matchup", "Unknown Match"),
@@ -230,11 +221,11 @@ def run_scraper_and_get_data(max_workers=10):
                 final_list.append(processed_entry)
             except: pass
 
-    # PRODUCTION SAVE TO index.json
+    # INSTANT WIPE & SAVE (Mode 'w' wipes index.json before writing)
     try:
         with open('index.json', 'w', encoding='utf-8') as f:
             json.dump(final_list, f, indent=4, ensure_ascii=False)
-        print(f"✅ index.json updated with {len(final_list)} events.")
+        print(f"✅ index.json wiped and updated with {len(final_list)} fresh events.")
     except Exception as e:
         print(f"❌ File Error: {e}")
         
