@@ -1,59 +1,45 @@
-name: Global Production API
+import json
+import uuid
+import os
+# Ensure your logic file is named vrt.py in the same directory
+from vrt import run_scraper_and_get_data
 
-on:
-  schedule:
-    - cron: '*/15 * * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
-  pages: write
-  id-token: write
-
-jobs:
-  scrape_and_deploy:
-    environment:
-      name: github-pages
-      # FIX: Changed colon to dot below
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+def main():
+    """
+    MASTER EXECUTION: Orchestrates production-level scraping and 
+    finalizes index.json for global consumption.
+    """
+    print("🚀 Starting Production Scrape (Max Workers: 15)...")
     
-    steps:
-      - name: Checkout Code
-        uses: actions/checkout@v4
+    # 1. Fetch data as a dictionary: { "id123": { "matchup": "...", ... } }
+    # Note: Ensure vrt.py function is defined as: def run_scraper_and_get_data(max_workers=15):
+    data_map = run_scraper_and_get_data(max_workers=15)
+    
+    if not data_map:
+        print("⚠️ No data retrieved. Skipping update.")
+        return
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-          cache: 'pip'
-      
-      - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 urllib3
+    # 2. Iterate correctly over Dictionary VALUES to add/check IDs
+    processed_list = []
+    for event_id, item in data_map.items():
+        # Ensure event_id is embedded in the object for the frontend
+        if not item.get('event_id'):
+            item['event_id'] = event_id if event_id else str(uuid.uuid4())
+        
+        processed_list.append(item)
 
-      - name: Run Scraper
-        # Ensure your entry file is named main.py
-        run: python main.py
-      
-      - name: Commit and Push Data
-        run: |
-          git config --global user.name "Views-Bot"
-          git config --global user.email "bot@views-project.local"
-          git add index.json
-          # Only commits if changes exist; skips if no changes found
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Live Data Update: $(date)" && git push)
-        continue-on-error: true
+    # 3. Final Production Save
+    # We save as a LIST of objects [] instead of a MAP {} 
+    # if your frontend expects an array for .map() functions.
+    output_path = 'index.json'
+    try:
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(processed_list, f, indent=2, ensure_ascii=False)
+        
+        file_size = os.path.getsize(output_path) / 1024
+        print(f"✅ Production API Ready: {output_path} ({len(processed_list)} items, {file_size:.2f} KB)")
+    except Exception as e:
+        print(f"❌ Critical Save Error: {e}")
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      
-      - name: Upload Pages Artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: '.' 
-      
-      - name: Deploy to GitHub Pages
-        id: deployment 
-        uses: actions/deploy-pages@v4
+if __name__ == "__main__":
+    main()
