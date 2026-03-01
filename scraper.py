@@ -1,20 +1,59 @@
-import json
-import uuid
-from vrt import run_scraper_and_get_data
+name: Global Production API
 
-def main():
-    # 1. Pass max_workers to the core logic
-    # 2. vrt.py already saves to index.json atomically
-    data = run_scraper_and_get_data(max_workers=15)
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scrape_and_deploy:
+    environment:
+      name: github-pages
+      # FIX: Changed colon to dot below
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
     
-    # Optional: If you need to do post-processing on the returned dict:
-    for event_id, details in data.items():
-        if not event_id:
-            # This is a fallback, though vrt.py handles this now
-            new_id = str(uuid.uuid4())
-            print(f"Generated fallback ID for: {details['matchup']}")
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
 
-    print(f"Production Scraping Complete. {len(data)} events indexed.")
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+      
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 urllib3
 
-if __name__ == "__main__":
-    main()
+      - name: Run Scraper
+        # Ensure your entry file is named main.py
+        run: python main.py
+      
+      - name: Commit and Push Data
+        run: |
+          git config --global user.name "Views-Bot"
+          git config --global user.email "bot@views-project.local"
+          git add index.json
+          # Only commits if changes exist; skips if no changes found
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Live Data Update: $(date)" && git push)
+        continue-on-error: true
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.' 
+      
+      - name: Deploy to GitHub Pages
+        id: deployment 
+        uses: actions/deploy-pages@v4
