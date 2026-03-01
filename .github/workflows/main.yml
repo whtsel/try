@@ -7,41 +7,51 @@ on:
 
 permissions:
   contents: write
-  pages: write      # Added: Permission to publish to the web
-  id-token: write   # Added: Security token for deployment
+  pages: write
+  id-token: write
 
 jobs:
   scrape_and_deploy:
+    # This block links the URL to your GitHub Actions UI
+    environment:
+      name: github-pages
+      url: ${{ steps:deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+          cache: 'pip'
       
       - name: Install Dependencies
-        run: pip install requests beautifulsoup4 urllib3
-      
-      - name: Run Scraper
-        run: python scraper.py
-      
-      - name: Push to Repository
         run: |
-          git config --global user.name "Production-Bot"
-          git config --global user.email "bot@github.com"
-          git add index.json
-          git commit -m "Data Update: $(date)" || exit 0
-          git push
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 urllib3
 
-      # --- ADD THESE STEPS BELOW TO FIX THE 404 ---
+      - name: Run Scraper
+        # Ensure your file is main.py or update this to vrt.py
+        run: python main.py
+      
+      - name: Commit and Push Data
+        run: |
+          git config --global user.name "Views-Bot"
+          git config --global user.email "bot@views-project.local"
+          git add index.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Live Data Update: $(date)" && git push)
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
       
-      - name: Upload artifact
+      - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.' # Hosts everything in your main folder
+          path: '.' # Serves index.json at the root of your Pages URL
       
       - name: Deploy to GitHub Pages
-        id: deployment
+        id: deployment # This ID must match the 'url' variable above
         uses: actions/deploy-pages@v4
