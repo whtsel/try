@@ -97,7 +97,6 @@ class BroadcastScraper:
             if d: fixture.update(d)
         return fixture
 
-# CRITICAL FIX: Ensure max_workers has a default value for safe importing
 def run_scraper_and_get_data(max_workers=15):
     scraper = BroadcastScraper(max_workers=max_workers)
     sport_url = "https://livetv.sx/enx/allupcomingsports/1/"
@@ -112,6 +111,7 @@ def run_scraper_and_get_data(max_workers=15):
                 eid = item.get('event_id') or str(uuid.uuid4())
                 if 'datetime_obj' in item: del item['datetime_obj']
                 final_data_map[eid] = {
+                    "event_id": eid,
                     "matchup": item.get("matchup", "Unknown"),
                     "event_url": item.get("event_url", ""),
                     "competition": item.get("competition", "General"),
@@ -125,4 +125,4 @@ def run_scraper_and_get_data(max_workers=15):
     return final_data_map
 
 if __name__ == "__main__":
-    run_scraper_and_get_data()
+    run_scraper_and_get_data(max_workers=15)
