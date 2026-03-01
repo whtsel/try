@@ -3,16 +3,18 @@ import uuid
 from vrt import run_scraper_and_get_data
 
 def main():
-    # Production-scale workers
+    # 1. Pass max_workers to the core logic
+    # 2. vrt.py already saves to index.json atomically
     data = run_scraper_and_get_data(max_workers=15)
     
-    # Add unique IDs so your frontend doesn't glitch
-    for item in data:
-        if not item.get('event_id'):
-            item['event_id'] = str(uuid.uuid4())
+    # Optional: If you need to do post-processing on the returned dict:
+    for event_id, details in data.items():
+        if not event_id:
+            # This is a fallback, though vrt.py handles this now
+            new_id = str(uuid.uuid4())
+            print(f"Generated fallback ID for: {details['matchup']}")
 
-    with open('index.json', 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+    print(f"Production Scraping Complete. {len(data)} events indexed.")
 
 if __name__ == "__main__":
     main()
