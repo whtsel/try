@@ -12,6 +12,7 @@ import uuid
 import hashlib
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+# Production-level suppression of insecure warnings
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 class BroadcastScraper:
@@ -28,6 +29,7 @@ class BroadcastScraper:
         self.failed_requests = 0
 
     def _generate_stable_id(self, matchup_str):
+        """Creates a consistent 12-char ID based on the matchup names."""
         return hashlib.md5(matchup_str.encode()).hexdigest()[:12]
 
     def _parse_broadcast_item(self, table):
@@ -75,6 +77,7 @@ class BroadcastScraper:
                 f = self._parse_broadcast_item(t)
                 if f:
                     dt = f.get('datetime_obj')
+                    # Match today's fixtures specifically
                     if (dt and dt.day == today_day) or (str(today_day) in f.get('date_time', '')):
                         fixtures.append(f)
             return fixtures
@@ -84,9 +87,8 @@ class BroadcastScraper:
         try:
             resp = self.session.get(event_url, timeout=15)
             soup = BeautifulSoup(resp.content, 'html.parser')
-            details = {'team_logos': [], 'streams': [], 'starting_lineups': {'home_team': [], 'away_team': []}, 'league_table': []}
+            details = {'streams': []}
             
-            # Simplified link extraction logic
             lb = soup.find('div', id='links_block')
             if lb:
                 for t in lb.find_all('table', class_='lnktbj'):
@@ -108,31 +110,54 @@ class BroadcastScraper:
         return fixture
 
 def run_scraper_and_get_data(max_workers=15):
+    """
+    UPGRADED: Orchestrates concurrent scraping with robust error handling 
+    for the Views Project production pipeline.
+    """
     scraper = BroadcastScraper(max_workers=max_workers)
     sport_url = "https://livetv.sx/enx/allupcomingsports/1/"
     today_fixtures = scraper.get_fixtures_for_sport(sport_url)
     
     final_data_map = {}
+    
+    # Use ThreadPoolExecutor for high-concurrency detail fetching
     with ThreadPoolExecutor(max_workers=scraper.max_workers) as executor:
-        futures = [executor.submit(scraper.process_fixture_concurrent, f) for f in today_fixtures]
+        futures = {executor.submit(scraper.process_fixture_concurrent, f): f for f in today_fixtures}
+        
         for future in as_completed(futures):
-            item = future.result()
-            eid = item.get('event_id') or str(uuid.uuid4())
-            if 'datetime_obj' in item: del item['datetime_obj']
-            
-            final_data_map[eid] = {
-                "matchup": item.get("matchup", "Unknown"),
-                "event_url": item.get("event_url", ""),
-                "competition": item.get("competition", "General"),
-                "parsed_datetime": item.get("parsed_datetime", ""),
-                "is_live": item.get("is_live", False),
-                "streams": item.get("streams", []),
-                "last_updated": datetime.now().isoformat()
-            }
+            try:
+                # 45-second timeout to prevent stalling the GitHub Action
+                item = future.result(timeout=45) 
+                if not item: continue
+                
+                eid = item.get('event_id') or str(uuid.uuid4())
+                
+                # Cleanup: remove temporary objects before JSON serialization
+                if 'datetime_obj' in item: del item['datetime_obj']
+                
+                # Production data schema
+                final_data_map[eid] = {
+                    "matchup": item.get("matchup", "Unknown"),
+                    "event_url": item.get("event_url", ""),
+                    "competition": item.get("competition", "General"),
+                    "parsed_datetime": item.get("parsed_datetime", ""),
+                    "is_live": item.get("is_live", False),
+                    "streams": item.get("streams", []),
+                    "last_updated": datetime.now().isoformat()
+                }
+            except Exception as e:
+                print(f"Skipping failed fixture thread: {e}")
 
-    # Atomic Save
-    tmp_fd, tmp_path = tempfile.mkstemp(dir=".", prefix="index.json.tmp")
-    with os.fdopen(tmp_fd, 'w', encoding='utf-8') as f:
-        json.dump(final_data_map, f, indent=4, ensure_ascii=False)
-    os.replace(tmp_path, "index.json")
+    # Atomic Save to prevent corruption during file writes
+    tmp_path = "index.json.tmp"
+    try:
+        with open(tmp_path, 'w', encoding='utf-8') as f:
+            json.dump(final_data_map, f, indent=4, ensure_ascii=False)
+        os.replace(tmp_path, "index.json")
+    except Exception as e:
+        print(f"Failed to save index.json: {e}")
+    
     return final_data_map
+
+if __name__ == "__main__":
+    run_scraper_and_get_data()
