@@ -7,12 +7,10 @@ import re
 from urllib.parse import urljoin
 import threading
 import os
-import tempfile
 import uuid
 import hashlib
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# Production-level suppression of insecure warnings
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 class BroadcastScraper:
@@ -24,25 +22,19 @@ class BroadcastScraper:
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         })
-        self.stats_lock = threading.Lock()
-        self.successful_requests = 0
-        self.failed_requests = 0
 
     def _generate_stable_id(self, matchup_str):
-        """Creates a consistent 12-char ID based on the matchup names."""
         return hashlib.md5(matchup_str.encode()).hexdigest()[:12]
 
     def _parse_broadcast_item(self, table):
         try:
             link_tag = table.find('a', class_='live') or table.find('a', class_='bottomgray')
             if not link_tag: return None
-            
             matchup = link_tag.get_text(strip=True)
             fixture_data = {'matchup': matchup}
             stream_href = link_tag.get('href', '')
-            
             if stream_href:
-                fixture_data['event_url'] = self.base_url + stream_href if stream_href.startswith('/') else stream_href
+                fixture_data['event_url'] = urljoin(self.base_url, stream_href)
                 match = re.search(r'/eventinfo/(\d+)', stream_href)
                 fixture_data['event_id'] = match.group(1) if match else self._generate_stable_id(matchup)
             
@@ -60,7 +52,6 @@ class BroadcastScraper:
                             fixture_data['parsed_datetime'] = parsed_date.isoformat()
                             fixture_data['datetime_obj'] = parsed_date
                     except: pass
-            
             fixture_data['is_live'] = table.find('img', src=lambda x: x and 'live.gif' in x) is not None
             return fixture_data
         except: return None
@@ -71,13 +62,11 @@ class BroadcastScraper:
             soup = BeautifulSoup(response.content, 'html.parser')
             today_day = datetime.now().day
             tables = soup.find_all('table', {'cellpadding': '1', 'cellspacing': '2'})
-            
             fixtures = []
             for t in tables:
                 f = self._parse_broadcast_item(t)
                 if f:
                     dt = f.get('datetime_obj')
-                    # Match today's fixtures specifically
                     if (dt and dt.day == today_day) or (str(today_day) in f.get('date_time', '')):
                         fixtures.append(f)
             return fixtures
@@ -85,10 +74,9 @@ class BroadcastScraper:
 
     def get_event_details_concurrent(self, event_url):
         try:
-            resp = self.session.get(event_url, timeout=15)
+            resp = self.session.get(event_url, timeout=10)
             soup = BeautifulSoup(resp.content, 'html.parser')
             details = {'streams': []}
-            
             lb = soup.find('div', id='links_block')
             if lb:
                 for t in lb.find_all('table', class_='lnktbj'):
@@ -109,33 +97,20 @@ class BroadcastScraper:
             if d: fixture.update(d)
         return fixture
 
+# CRITICAL FIX: Ensure max_workers has a default value for safe importing
 def run_scraper_and_get_data(max_workers=15):
-    """
-    UPGRADED: Orchestrates concurrent scraping with robust error handling 
-    for the Views Project production pipeline.
-    """
     scraper = BroadcastScraper(max_workers=max_workers)
     sport_url = "https://livetv.sx/enx/allupcomingsports/1/"
     today_fixtures = scraper.get_fixtures_for_sport(sport_url)
-    
     final_data_map = {}
-    
-    # Use ThreadPoolExecutor for high-concurrency detail fetching
     with ThreadPoolExecutor(max_workers=scraper.max_workers) as executor:
         futures = {executor.submit(scraper.process_fixture_concurrent, f): f for f in today_fixtures}
-        
         for future in as_completed(futures):
             try:
-                # 45-second timeout to prevent stalling the GitHub Action
-                item = future.result(timeout=45) 
+                item = future.result(timeout=45)
                 if not item: continue
-                
                 eid = item.get('event_id') or str(uuid.uuid4())
-                
-                # Cleanup: remove temporary objects before JSON serialization
                 if 'datetime_obj' in item: del item['datetime_obj']
-                
-                # Production data schema
                 final_data_map[eid] = {
                     "matchup": item.get("matchup", "Unknown"),
                     "event_url": item.get("event_url", ""),
@@ -146,17 +121,7 @@ def run_scraper_and_get_data(max_workers=15):
                     "last_updated": datetime.now().isoformat()
                 }
             except Exception as e:
-                print(f"Skipping failed fixture thread: {e}")
-
-    # Atomic Save to prevent corruption during file writes
-    tmp_path = "index.json.tmp"
-    try:
-        with open(tmp_path, 'w', encoding='utf-8') as f:
-            json.dump(final_data_map, f, indent=4, ensure_ascii=False)
-        os.replace(tmp_path, "index.json")
-    except Exception as e:
-        print(f"Failed to save index.json: {e}")
-    
+                print(f"Skipping thread: {e}")
     return final_data_map
 
 if __name__ == "__main__":
