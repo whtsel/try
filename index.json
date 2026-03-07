@@ -1,73 +1,492 @@
 [
   {
-    "event_id": "345773846",
-    "matchup": "PSV – AZ",
-    "event_url": "https://livetv.sx/enx/eventinfo/345773846__/",
-    "competition": "Netherlands. Eredivisie",
-    "date_time": "7 March at 20:00",
-    "parsed_datetime": "2026-03-07T20:00:00",
+    "event_id": "345787944",
+    "matchup": "New York City – Orlando City",
+    "event_url": "https://livetv.sx/enx/eventinfo/345787944__/",
+    "competition": "USA. MLS",
+    "date_time": "7 March at 20:30",
+    "parsed_datetime": "2026-03-07T20:30:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "New York City",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34382.gif"
+      },
+      {
+        "team_name": "Orlando City",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1264.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970149&lang=en&eid=345787944&lid=2970149&ci=64&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2955705&lang=en&eid=345787944&lid=2955705&ci=64&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2966355&lang=en&eid=345787944&lid=2966355&ci=64&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970148&lang=en&eid=345787944&lid=2970148&ci=64&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2951608&lang=en&eid=345787944&lid=2951608&ci=64&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [
+        "49.",
+        "Matt Freese",
+        "(G)",
+        "05.",
+        "Kai Trewin",
+        "13.",
+        "Thiago Martins",
+        "22.",
+        "Kevin O’Toole",
+        "24.",
+        "Tayvon Gray",
+        "10.",
+        "Maxi Moralez",
+        "21.",
+        "Aiden O’Neill",
+        "26.",
+        "Agustin Ojeda",
+        "17.",
+        "Hannes Wolf",
+        "07.",
+        "Nicolas Fernandez",
+        "55.",
+        "Keaton Parks"
+      ],
+      "away_team": [
+        "71.",
+        "Maxime Crepeau",
+        "(G)",
+        "87.",
+        "Marco Pasalic",
+        "10.",
+        "Martin Ojeda",
+        "14.",
+        "Tyrese Spicer",
+        "77.",
+        "Ivan Angulo",
+        "08.",
+        "Braian Ojeda",
+        "05.",
+        "Luis Otavio",
+        "04.",
+        "David Brekalo",
+        "21.",
+        "Nolan Miller",
+        "24.",
+        "Griffin Dorsey",
+        "29.",
+        "Tahir Reid-Brown"
+      ]
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:21.173220"
+  },
+  {
+    "event_id": "346091074",
+    "matchup": "Dunfermline – Aberdeen",
+    "event_url": "https://livetv.sx/enx/eventinfo/346091074__/",
+    "competition": "Scotland. Cup",
+    "date_time": "7 March at 20:30",
+    "parsed_datetime": "2026-03-07T20:30:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "PSV",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/472.gif"
+        "team_name": "Dunfermline",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/9207.gif"
       },
       {
-        "team_name": "AZ",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/474.gif"
+        "team_name": "Aberdeen",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/397.gif"
       }
     ],
     "streams": [],
     "starting_lineups": {
       "home_team": [
-        "32.",
-        "Matej Kovar",
+        "13.",
+        "Aston Oxborough",
         "(G)",
-        "34.",
-        "Ismael Saibari",
-        "27.",
-        "Dennis Man",
-        "23.",
-        "Joey Veerman",
-        "10.",
-        "Paul Wanner",
-        "05.",
-        "Ivan Perisic",
-        "25.",
-        "Kilian Sildillia",
-        "22.",
-        "Jerdy Schouten",
+        "14.",
+        "Alfons Amade",
+        "26.",
+        "Andy Tod",
         "08.",
-        "Sergino Dest",
-        "09.",
-        "Ricardo Pepi",
-        "04.",
-        "Armando Obispo"
+        "Charlie Gilmour",
+        "20.",
+        "Christopher Kane",
+        "39.",
+        "Freddie Turley",
+        "02.",
+        "Jeremiah",
+        "03.",
+        "Kieran Ngwenya",
+        "10.",
+        "Matty Todd",
+        "19.",
+        "Olly Thomas",
+        "47.",
+        "Robbie Fraser"
       ],
       "away_team": [
         "01.",
-        "Rome Owusu-Oduro",
+        "Dimitar Mitov",
         "(G)",
-        "17.",
-        "Isak Steiner Jensen",
-        "10.",
-        "Sven Mijnans",
-        "06.",
-        "Peer Koopmeiners",
-        "34.",
-        "Mees de Wit",
-        "27.",
-        "Ro-Zangelo Daal",
-        "09.",
-        "Troy Parrott",
-        "03.",
-        "Wouter Goes",
-        "05.",
-        "Alexandre Penetra",
+        "15.",
+        "Kevin Nisbet",
         "22.",
-        "Elijah Dijkstra",
+        "Jack Milne",
+        "04.",
+        "Graeme Shinnie",
+        "38.",
+        "Dylan Lobban",
+        "25.",
+        "Lyall Cameron",
+        "03.",
+        "Mitchel Frame",
+        "11.",
+        "Nicolas Milanovic",
+        "16.",
+        "Stuart Armstrong",
+        "26.",
+        "Tom McIntyre",
+        "81.",
+        "Topi Keskinen"
+      ]
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:22.144189"
+  },
+  {
+    "event_id": "345797810",
+    "matchup": "Newcastle United – Manchester City",
+    "event_url": "https://livetv.sx/enx/eventinfo/345797810__/",
+    "competition": "England. FA Cup",
+    "date_time": "7 March at 21:00",
+    "parsed_datetime": "2026-03-07T21:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Newcastle United",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/145.gif"
+      },
+      {
+        "team_name": "Manchester City",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/147.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250762&lang=en&eid=345797810&lid=2969738&ci=8&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=227555&lang=en&eid=345797810&lid=2969450&ci=8&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=242313&lang=en&eid=345797810&lid=2819130&ci=8&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=243219&lang=en&eid=345797810&lid=2897516&ci=8&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=243366&lang=en&eid=345797810&lid=2970485&ci=8&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250645&lang=en&eid=345797810&lid=2969557&ci=8&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250647&lang=en&eid=345797810&lid=2969593&ci=8&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2661214&lang=en&eid=345797810&lid=2661214&ci=8&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [
+        "32.",
+        "Aaron Ramsdale",
+        "(G)",
+        "18.",
+        "William Osula",
+        "28.",
+        "Joseph Willock",
+        "27.",
+        "Nick Woltemade",
+        "02.",
+        "Kieran Trippier",
+        "03.",
+        "Lewis Hall",
+        "04.",
+        "Sven Botman",
+        "08.",
+        "Sandro Tonali",
+        "12.",
+        "Malick Thiaw",
+        "20.",
+        "Anthony Elanga",
+        "11.",
+        "Harvey Barnes"
+      ],
+      "away_team": [
+        "01.",
+        "James Trafford",
+        "(G)",
+        "11.",
+        "Jeremy Doku",
+        "26.",
+        "Savinho",
+        "04.",
+        "Tijjani Reijnders",
+        "07.",
+        "Omar Marmoush",
+        "33.",
+        "Nico O’Reilly",
+        "14.",
+        "Nico Gonzalez",
+        "06.",
+        "Nathan Ake",
+        "05.",
+        "John Stones",
+        "45.",
+        "Abdukodir Khusanov",
+        "27.",
+        "Matheus Nunes"
+      ]
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:22.722981"
+  },
+  {
+    "event_id": "350690662",
+    "matchup": "Potiguar – America de Natal",
+    "event_url": "https://livetv.sx/enx/eventinfo/350690662__/",
+    "competition": "Brazil. Campeonato Potiguar",
+    "date_time": "7 March at 20:00",
+    "parsed_datetime": "2026-03-07T20:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Potiguar",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7022.gif"
+      },
+      {
+        "team_name": "America de Natal",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/4000.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:23.097998"
+  },
+  {
+    "event_id": "345800571",
+    "matchup": "Excelsior – Heerenveen",
+    "event_url": "https://livetv.sx/enx/eventinfo/345800571__/",
+    "competition": "Netherlands. Eredivisie",
+    "date_time": "7 March at 21:00",
+    "parsed_datetime": "2026-03-07T21:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Excelsior",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30478.gif"
+      },
+      {
+        "team_name": "Heerenveen",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/475.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Dutch",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/4.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250545&lang=en&eid=345800571&lid=2970246&ci=22&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Dutch",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/4.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2661232&lang=en&eid=345800571&lid=2661232&ci=22&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Dutch",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/4.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2665498&lang=en&eid=345800571&lid=2665498&ci=22&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Dutch",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/4.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2968749&lang=en&eid=345800571&lid=2968749&ci=22&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Dutch",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/4.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2968418&lang=en&eid=345800571&lid=2968418&ci=22&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2962268&lang=en&eid=345800571&lid=2962268&ci=22&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Dutch",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/4.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2946569&lang=en&eid=345800571&lid=2946569&ci=22&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Dutch",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/4.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970018&lang=en&eid=345800571&lid=2970018&ci=22&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [
+        "01.",
+        "Stijn van Gassel",
+        "(G)",
+        "10.",
+        "Noah Naujoks",
+        "11.",
+        "Gyan de Regt",
         "23.",
-        "Billy van Duijl"
+        "Irakli Yegoian",
+        "14.",
+        "Lewis Schouten",
+        "15.",
+        "Simon Janssen",
+        "20.",
+        "Lennard Hartjes",
+        "04.",
+        "Casper Widell",
+        "03.",
+        "Rick Meissen",
+        "30.",
+        "Derensili Sanches",
+        "02.",
+        "Ilias Bronkhorst"
+      ],
+      "away_team": [
+        "22.",
+        "Bernt Klaverboer",
+        "(G)",
+        "20.",
+        "Jacob Trenskow",
+        "18.",
+        "Lasse Nordaas",
+        "08.",
+        "Luuk Brouwers",
+        "03.",
+        "Maas Willemsen",
+        "10.",
+        "Ringo Meerveld",
+        "04.",
+        "Sam Kersten",
+        "06.",
+        "Joris van Overeem",
+        "07.",
+        "Maxence Rivera",
+        "45.",
+        "Oliver Braude",
+        "19.",
+        "Vasilios Zagaritis"
       ]
     },
     "league_table": [
@@ -180,250 +599,81 @@
         "pts": "18"
       }
     ],
-    "last_updated": "2026-03-07T21:13:50.715036"
+    "last_updated": "2026-03-07T21:34:23.425185"
   },
   {
-    "event_id": "345797810",
-    "matchup": "Newcastle United – Manchester City",
-    "event_url": "https://livetv.sx/enx/eventinfo/345797810__/",
-    "competition": "England. FA Cup",
-    "date_time": "7 March at 21:00",
-    "parsed_datetime": "2026-03-07T21:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Newcastle United",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/145.gif"
-      },
-      {
-        "team_name": "Manchester City",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/147.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250762&lang=en&eid=345797810&lid=2969738&ci=8&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=227555&lang=en&eid=345797810&lid=2969450&ci=8&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=242313&lang=en&eid=345797810&lid=2819130&ci=8&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=243219&lang=en&eid=345797810&lid=2897516&ci=8&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=243366&lang=en&eid=345797810&lid=2970485&ci=8&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250645&lang=en&eid=345797810&lid=2969557&ci=8&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250647&lang=en&eid=345797810&lid=2969593&ci=8&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2661214&lang=en&eid=345797810&lid=2661214&ci=8&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [
-        "32.",
-        "Aaron Ramsdale",
-        "(G)",
-        "02.",
-        "Kieran Trippier",
-        "03.",
-        "Lewis Hall",
-        "04.",
-        "Sven Botman",
-        "12.",
-        "Malick Thiaw",
-        "11.",
-        "Harvey Barnes",
-        "08.",
-        "Sandro Tonali",
-        "27.",
-        "Nick Woltemade",
-        "20.",
-        "Anthony Elanga",
-        "28.",
-        "Joseph Willock",
-        "18.",
-        "William Osula"
-      ],
-      "away_team": [
-        "01.",
-        "James Trafford",
-        "(G)",
-        "26.",
-        "Savinho",
-        "06.",
-        "Nathan Ake",
-        "27.",
-        "Matheus Nunes",
-        "45.",
-        "Abdukodir Khusanov",
-        "04.",
-        "Tijjani Reijnders",
-        "11.",
-        "Jeremy Doku",
-        "07.",
-        "Omar Marmoush",
-        "14.",
-        "Nico Gonzalez",
-        "33.",
-        "Nico O’Reilly",
-        "05.",
-        "John Stones"
-      ]
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:52.136246"
-  },
-  {
-    "event_id": "350947082",
-    "matchup": "Northern Ireland (W) –  Turkey (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/350947082__/",
-    "competition": "Women. European Championship Qualification",
-    "date_time": "7 March at 20:00",
-    "parsed_datetime": "2026-03-07T20:00:00",
+    "event_id": "345784885",
+    "matchup": "Bochum – Kaiserslautern",
+    "event_url": "https://livetv.sx/enx/eventinfo/345784885__/",
+    "competition": "Germany. 2 Bundesliga",
+    "date_time": "7 March at 20:30",
+    "parsed_datetime": "2026-03-07T20:30:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Northern Ireland (W)",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag1004.gif"
+        "team_name": "Bochum",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/3705.gif"
       },
       {
-        "team_name": "Turkey (W)",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag198.gif"
+        "team_name": "Kaiserslautern",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/3957.gif"
       }
     ],
     "streams": [],
     "starting_lineups": {
-      "home_team": [],
-      "away_team": []
+      "home_team": [
+        "01.",
+        "Timo Horn",
+        "(G)",
+        "03.",
+        "Philipp Strompf",
+        "29.",
+        "Farid Alfa-Ruprecht",
+        "21.",
+        "Francis Onyeka",
+        "23.",
+        "Koji Miyoshi",
+        "24.",
+        "Mats Pannewig",
+        "19.",
+        "Matus Bero",
+        "32.",
+        "Maximilian Wittek",
+        "20.",
+        "Noah Loosli",
+        "13.",
+        "Oliver Olsen",
+        "33.",
+        "Philipp Hofmann"
+      ],
+      "away_team": [
+        "01.",
+        "Julian Krahl",
+        "(G)",
+        "37.",
+        "Leon Robinson",
+        "11.",
+        "Kenny Prince Redondo",
+        "05.",
+        "Ji-Soo Kim",
+        "03.",
+        "Florian Kleinhansl",
+        "06.",
+        "Fabian Kunze",
+        "31.",
+        "Luca Sirch",
+        "26.",
+        "Paul Joly",
+        "17.",
+        "Norman Bassette",
+        "15.",
+        "Naatan Skyttae",
+        "07.",
+        "Marlon Ritter"
+      ]
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:13:52.743386"
-  },
-  {
-    "event_id": "346432022",
-    "matchup": "Londrina – Operario FEC",
-    "event_url": "https://livetv.sx/enx/eventinfo/346432022__/",
-    "competition": "Brazil. Campeonato Paranaense",
-    "date_time": "7 March at 20:00",
-    "parsed_datetime": "2026-03-07T20:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Londrina",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1103.gif"
-      },
-      {
-        "team_name": "Operario FEC",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6281.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=eH5rSxUObnI&lang=en&eid=346432022&lid=2961313&ci=440&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970135&lang=en&eid=346432022&lid=2970135&ci=440&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:52.857961"
-  },
-  {
-    "event_id": "350690662",
-    "matchup": "Potiguar – America de Natal",
-    "event_url": "https://livetv.sx/enx/eventinfo/350690662__/",
-    "competition": "Brazil. Campeonato Potiguar",
-    "date_time": "7 March at 20:00",
-    "parsed_datetime": "2026-03-07T20:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Potiguar",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7022.gif"
-      },
-      {
-        "team_name": "America de Natal",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/4000.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=J28wDvwPRhE&lang=en&eid=350690662&lid=2969401&ci=1242&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:53.298883"
+    "last_updated": "2026-03-07T21:34:23.425204"
   },
   {
     "event_id": "345843328",
@@ -432,7 +682,7 @@
     "competition": "USA. MLS",
     "date_time": "7 March at 22:30",
     "parsed_datetime": "2026-03-07T22:30:00",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "DC United",
@@ -498,24 +748,24 @@
         "01.",
         "Sean Johnson",
         "(G)",
-        "23.",
-        "Brandon Servania",
-        "07.",
-        "Peglow",
-        "10.",
-        "Gabriel Pirani",
+        "05.",
+        "Silvan Hefti",
+        "03.",
+        "Lucas Bartlett",
         "04.",
         "Matti Peltola",
         "15.",
         "Kye Rowles",
-        "05.",
-        "Silvan Hefti",
         "06.",
         "Keisuke Kurokawa",
-        "03.",
-        "Lucas Bartlett",
+        "10.",
+        "Gabriel Pirani",
+        "07.",
+        "Peglow",
         "09.",
         "Tai Baribo",
+        "23.",
+        "Brandon Servania",
         "25.",
         "Jackson Hopkins"
       ],
@@ -523,30 +773,30 @@
         "97.",
         "Dayne St. Clair",
         "(G)",
-        "04.",
-        "Facundo Mura",
-        "16.",
-        "Micael",
-        "32.",
-        "Noah Allen",
-        "37.",
-        "Maximiliano Falcon",
-        "07.",
-        "Rodrigo De Paul",
-        "08.",
-        "Telasco Segovia",
-        "42.",
-        "Yannick Bright",
-        "19.",
-        "German Berterame",
         "10.",
         "Lionel Messi",
+        "08.",
+        "Telasco Segovia",
+        "07.",
+        "Rodrigo De Paul",
+        "37.",
+        "Maximiliano Falcon",
+        "32.",
+        "Noah Allen",
+        "19.",
+        "German Berterame",
+        "42.",
+        "Yannick Bright",
         "24.",
-        "Mateo Silvetti"
+        "Mateo Silvetti",
+        "16.",
+        "Micael",
+        "04.",
+        "Facundo Mura"
       ]
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:13:53.298899"
+    "last_updated": "2026-03-07T21:34:23.875132"
   },
   {
     "event_id": "345787945",
@@ -555,7 +805,7 @@
     "competition": "USA. MLS",
     "date_time": "7 March at 20:30",
     "parsed_datetime": "2026-03-07T20:30:00",
-    "is_live": true,
+    "is_live": false,
     "team_logos": [
       {
         "team_name": "New England",
@@ -572,24 +822,98 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:13:53.433655"
+    "last_updated": "2026-03-07T21:34:23.875149"
   },
   {
-    "event_id": "350964053",
-    "matchup": "Barretos – Aracatuba",
-    "event_url": "https://livetv.sx/enx/eventinfo/350964053__/",
-    "competition": "Brazil. Campeonato Paulista 4",
-    "date_time": "7 March at 20:00",
-    "parsed_datetime": "2026-03-07T20:00:00",
+    "event_id": "345788737",
+    "matchup": "Lugano – Luzern",
+    "event_url": "https://livetv.sx/enx/eventinfo/345788737__/",
+    "competition": "Switzerland. Super League",
+    "date_time": "7 March at 20:30",
+    "parsed_datetime": "2026-03-07T20:30:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Barretos",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/12867.gif"
+        "team_name": "Lugano",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/640.gif"
       },
       {
-        "team_name": "Aracatuba",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/32407.gif"
+        "team_name": "Luzern",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/89.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [
+        "16.",
+        "David von Ballmoos",
+        "(G)",
+        "03.",
+        "Hannes Delcroix",
+        "06.",
+        "Antonios Papadopoulos",
+        "46.",
+        "Mattia Zanotti",
+        "17.",
+        "Lars Lukas Mai",
+        "08.",
+        "Anto Grgic",
+        "11.",
+        "Renato Steffen",
+        "25.",
+        "Uran Bislimi",
+        "21.",
+        "Yanis Cimignani",
+        "09.",
+        "Georgios Koutsias",
+        "91.",
+        "Kevin Behrens"
+      ],
+      "away_team": [
+        "01.",
+        "Pascal Loretz",
+        "(G)",
+        "24.",
+        "Tyron Owusu",
+        "20.",
+        "Pius Dorn",
+        "22.",
+        "Ruben Dantas",
+        "46.",
+        "Bung Meng Freimann",
+        "06.",
+        "Taisei Abe",
+        "11.",
+        "Matteo Di Giusto",
+        "16.",
+        "Oscar Kabwit",
+        "19.",
+        "Andrej Vasovic",
+        "09.",
+        "Adrian Grbic",
+        "04.",
+        "Adrian Bajrami"
+      ]
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:23.952643"
+  },
+  {
+    "event_id": "345798030",
+    "matchup": "Rio Cuarto – Instituto",
+    "event_url": "https://livetv.sx/enx/eventinfo/345798030__/",
+    "competition": "Argentina. Liga Profesional",
+    "date_time": "7 March at 21:00",
+    "parsed_datetime": "2026-03-07T21:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Rio Cuarto",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10222.gif"
+      },
+      {
+        "team_name": "Instituto",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10169.gif"
       }
     ],
     "streams": [],
@@ -598,7 +922,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:13:53.433671"
+    "last_updated": "2026-03-07T21:34:24.078310"
   },
   {
     "event_id": "346147119",
@@ -858,7 +1182,307 @@
         "pts": "17"
       }
     ],
-    "last_updated": "2026-03-07T21:13:53.433677"
+    "last_updated": "2026-03-07T21:34:24.384868"
+  },
+  {
+    "event_id": "346432022",
+    "matchup": "Londrina – Operario FEC",
+    "event_url": "https://livetv.sx/enx/eventinfo/346432022__/",
+    "competition": "Brazil. Campeonato Paranaense",
+    "date_time": "7 March at 20:00",
+    "parsed_datetime": "2026-03-07T20:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Londrina",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1103.gif"
+      },
+      {
+        "team_name": "Operario FEC",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6281.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:24.534839"
+  },
+  {
+    "event_id": "345787947",
+    "matchup": "Rhode Island – Loudoun United",
+    "event_url": "https://livetv.sx/enx/eventinfo/345787947__/",
+    "competition": "USA. USL",
+    "date_time": "7 March at 20:30",
+    "parsed_datetime": "2026-03-07T20:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Rhode Island",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/29042.gif"
+      },
+      {
+        "team_name": "Loudoun United",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/5969.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:24.580903"
+  },
+  {
+    "event_id": "345815931",
+    "matchup": "Toulouse – Marseille",
+    "event_url": "https://livetv.sx/enx/eventinfo/345815931__/",
+    "competition": "France. Ligue 1",
+    "date_time": "7 March at 21:05",
+    "parsed_datetime": "2026-03-07T21:05:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Toulouse",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/33578.gif"
+      },
+      {
+        "team_name": "Marseille",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/120.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2941103&lang=en&eid=345815931&lid=2941103&ci=37&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Croatian",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/29.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250392&lang=en&eid=345815931&lid=2970079&ci=37&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Bulgarian",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/16.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250556&lang=en&eid=345815931&lid=2970249&ci=37&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250558&lang=en&eid=345815931&lid=2970218&ci=37&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250563&lang=en&eid=345815931&lid=2970220&ci=37&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=223277&lang=en&eid=345815931&lid=2968370&ci=37&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=237230&lang=en&eid=345815931&lid=2962858&ci=37&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Ukrainian",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/3.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=241015&lang=en&eid=345815931&lid=2965147&ci=37&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [
+        "01.",
+        "Guillaume Restes",
+        "(G)",
+        "02.",
+        "Rasmus Nicolaisen",
+        "19.",
+        "Djibril Sidibe",
+        "03.",
+        "Mark McKenzie",
+        "12.",
+        "Warren Kamanzi",
+        "23.",
+        "Cristian Casseres Jr.",
+        "18.",
+        "Pape Demba Diop",
+        "20.",
+        "Emersonn",
+        "15.",
+        "Aron Doennum",
+        "10.",
+        "Yann Gboho",
+        "24.",
+        "Dayann Methalie"
+      ],
+      "away_team": [
+        "01.",
+        "Geronimo Rulli",
+        "(G)",
+        "17.",
+        "Pierre-Emerick",
+        "27.",
+        "Quinten Timber",
+        "23.",
+        "Pierre-Emile",
+        "19.",
+        "Geoffrey Kondogbia",
+        "14.",
+        "Igor Paixao",
+        "10.",
+        "Mason Greenwood",
+        "32.",
+        "Facundo Medina",
+        "22.",
+        "Timothy Weah",
+        "28.",
+        "Benjamin Pavard",
+        "05.",
+        "Leonardo Balerdi"
+      ]
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "PSG",
+        "played": "25",
+        "pts": "57"
+      },
+      {
+        "pos": "2",
+        "team": "Lens",
+        "played": "24",
+        "pts": "53"
+      },
+      {
+        "pos": "3",
+        "team": "Lyon",
+        "played": "24",
+        "pts": "45"
+      },
+      {
+        "pos": "4",
+        "team": "Marseille",
+        "played": "24",
+        "pts": "43"
+      },
+      {
+        "pos": "5",
+        "team": "AS Monaco",
+        "played": "25",
+        "pts": "40"
+      },
+      {
+        "pos": "6",
+        "team": "Lille",
+        "played": "24",
+        "pts": "40"
+      },
+      {
+        "pos": "7",
+        "team": "Rennes",
+        "played": "24",
+        "pts": "40"
+      },
+      {
+        "pos": "8",
+        "team": "Strasbourg",
+        "played": "24",
+        "pts": "35"
+      },
+      {
+        "pos": "9",
+        "team": "Brest",
+        "played": "24",
+        "pts": "33"
+      },
+      {
+        "pos": "10",
+        "team": "Lorient",
+        "played": "24",
+        "pts": "33"
+      },
+      {
+        "pos": "11",
+        "team": "Angers",
+        "played": "25",
+        "pts": "32"
+      },
+      {
+        "pos": "12",
+        "team": "Toulouse",
+        "played": "24",
+        "pts": "31"
+      },
+      {
+        "pos": "13",
+        "team": "Le Havre",
+        "played": "24",
+        "pts": "26"
+      },
+      {
+        "pos": "14",
+        "team": "Paris",
+        "played": "24",
+        "pts": "26"
+      },
+      {
+        "pos": "15",
+        "team": "Nice",
+        "played": "24",
+        "pts": "24"
+      },
+      {
+        "pos": "16",
+        "team": "Auxerre",
+        "played": "24",
+        "pts": "18"
+      },
+      {
+        "pos": "17",
+        "team": "Nantes",
+        "played": "25",
+        "pts": "17"
+      },
+      {
+        "pos": "18",
+        "team": "Metz",
+        "played": "24",
+        "pts": "13"
+      }
+    ],
+    "last_updated": "2026-03-07T21:34:24.615103"
   },
   {
     "event_id": "346194064",
@@ -1090,766 +1714,7 @@
         "pts": "10"
       }
     ],
-    "last_updated": "2026-03-07T21:13:53.433682"
-  },
-  {
-    "event_id": "345775154",
-    "matchup": "Saint-Etienne – Red Star",
-    "event_url": "https://livetv.sx/enx/eventinfo/345775154__/",
-    "competition": "France. Ligue 2",
-    "date_time": "7 March at 20:00",
-    "parsed_datetime": "2026-03-07T20:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Saint-Etienne",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/28314.gif"
-      },
-      {
-        "team_name": "Red Star",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6435.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [
-        "30.",
-        "Gautier Larsonneur",
-        "(G)",
-        "03.",
-        "Mickael Nade",
-        "11.",
-        "Benjamin Old",
-        "26.",
-        "Julien Le Cardinal",
-        "39.",
-        "Kevin Pedro",
-        "14.",
-        "Abdoulaye Kante",
-        "07.",
-        "Irvin Cardona",
-        "22.",
-        "Zuriko Davitashvili",
-        "20.",
-        "Augustine Boakye",
-        "09.",
-        "Lucas Stassin",
-        "28.",
-        "Igor Miladinovic"
-      ],
-      "away_team": [
-        "16.",
-        "Gaetan Poussin",
-        "(G)",
-        "24.",
-        "Pierre Lemonnier",
-        "20.",
-        "Dylan Durivaux",
-        "07.",
-        "Damien Durand",
-        "98.",
-        "Ryad Hachem",
-        "22.",
-        "Dembo Sylla",
-        "11.",
-        "Kemo Cisse",
-        "10.",
-        "Saif-Eddine Khaoui",
-        "04.",
-        "Balthazar Pierret",
-        "27.",
-        "Bradley Danger",
-        "09.",
-        "Pape Meissa Ba"
-      ]
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:53.638564"
-  },
-  {
-    "event_id": "345800571",
-    "matchup": "Excelsior – Heerenveen",
-    "event_url": "https://livetv.sx/enx/eventinfo/345800571__/",
-    "competition": "Netherlands. Eredivisie",
-    "date_time": "7 March at 21:00",
-    "parsed_datetime": "2026-03-07T21:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Excelsior",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30478.gif"
-      },
-      {
-        "team_name": "Heerenveen",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/475.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Dutch",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/4.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250545&lang=en&eid=345800571&lid=2970246&ci=22&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Dutch",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/4.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2661232&lang=en&eid=345800571&lid=2661232&ci=22&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Dutch",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/4.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2665498&lang=en&eid=345800571&lid=2665498&ci=22&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Dutch",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/4.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2968749&lang=en&eid=345800571&lid=2968749&ci=22&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Dutch",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/4.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2968418&lang=en&eid=345800571&lid=2968418&ci=22&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2962268&lang=en&eid=345800571&lid=2962268&ci=22&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Dutch",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/4.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2946569&lang=en&eid=345800571&lid=2946569&ci=22&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Dutch",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/4.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970018&lang=en&eid=345800571&lid=2970018&ci=22&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [
-        "01.",
-        "Stijn van Gassel",
-        "(G)",
-        "15.",
-        "Simon Janssen",
-        "04.",
-        "Casper Widell",
-        "30.",
-        "Derensili Sanches",
-        "11.",
-        "Gyan de Regt",
-        "02.",
-        "Ilias Bronkhorst",
-        "23.",
-        "Irakli Yegoian",
-        "20.",
-        "Lennard Hartjes",
-        "14.",
-        "Lewis Schouten",
-        "10.",
-        "Noah Naujoks",
-        "03.",
-        "Rick Meissen"
-      ],
-      "away_team": [
-        "22.",
-        "Bernt Klaverboer",
-        "(G)",
-        "18.",
-        "Lasse Nordaas",
-        "06.",
-        "Joris van Overeem",
-        "20.",
-        "Jacob Trenskow",
-        "19.",
-        "Vasilios Zagaritis",
-        "08.",
-        "Luuk Brouwers",
-        "03.",
-        "Maas Willemsen",
-        "04.",
-        "Sam Kersten",
-        "10.",
-        "Ringo Meerveld",
-        "45.",
-        "Oliver Braude",
-        "07.",
-        "Maxence Rivera"
-      ]
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "PSV",
-        "played": "25",
-        "pts": "65"
-      },
-      {
-        "pos": "2",
-        "team": "Feyenoord",
-        "played": "25",
-        "pts": "48"
-      },
-      {
-        "pos": "3",
-        "team": "Ajax",
-        "played": "26",
-        "pts": "44"
-      },
-      {
-        "pos": "4",
-        "team": "NEC",
-        "played": "25",
-        "pts": "43"
-      },
-      {
-        "pos": "5",
-        "team": "Twente",
-        "played": "25",
-        "pts": "41"
-      },
-      {
-        "pos": "6",
-        "team": "AZ",
-        "played": "25",
-        "pts": "39"
-      },
-      {
-        "pos": "7",
-        "team": "Sparta Rotterdam",
-        "played": "25",
-        "pts": "37"
-      },
-      {
-        "pos": "8",
-        "team": "Utrecht",
-        "played": "26",
-        "pts": "35"
-      },
-      {
-        "pos": "9",
-        "team": "Heerenveen",
-        "played": "25",
-        "pts": "34"
-      },
-      {
-        "pos": "10",
-        "team": "Groningen",
-        "played": "26",
-        "pts": "34"
-      },
-      {
-        "pos": "11",
-        "team": "Fortuna Sittard",
-        "played": "25",
-        "pts": "32"
-      },
-      {
-        "pos": "12",
-        "team": "Go Ahead Eagles",
-        "played": "25",
-        "pts": "29"
-      },
-      {
-        "pos": "13",
-        "team": "PEC Zwolle",
-        "played": "25",
-        "pts": "28"
-      },
-      {
-        "pos": "14",
-        "team": "Volendam",
-        "played": "25",
-        "pts": "27"
-      },
-      {
-        "pos": "15",
-        "team": "Excelsior",
-        "played": "25",
-        "pts": "26"
-      },
-      {
-        "pos": "16",
-        "team": "NAC Breda",
-        "played": "25",
-        "pts": "22"
-      },
-      {
-        "pos": "17",
-        "team": "Telstar",
-        "played": "25",
-        "pts": "21"
-      },
-      {
-        "pos": "18",
-        "team": "Heracles Almelo",
-        "played": "26",
-        "pts": "18"
-      }
-    ],
-    "last_updated": "2026-03-07T21:13:53.682778"
-  },
-  {
-    "event_id": "345815931",
-    "matchup": "Toulouse – Marseille",
-    "event_url": "https://livetv.sx/enx/eventinfo/345815931__/",
-    "competition": "France. Ligue 1",
-    "date_time": "7 March at 21:05",
-    "parsed_datetime": "2026-03-07T21:05:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Toulouse",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/33578.gif"
-      },
-      {
-        "team_name": "Marseille",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/120.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2941103&lang=en&eid=345815931&lid=2941103&ci=37&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Croatian",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/29.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250392&lang=en&eid=345815931&lid=2970079&ci=37&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Bulgarian",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/16.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250556&lang=en&eid=345815931&lid=2970249&ci=37&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250558&lang=en&eid=345815931&lid=2970218&ci=37&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250563&lang=en&eid=345815931&lid=2970220&ci=37&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "French",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/11.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=223277&lang=en&eid=345815931&lid=2968370&ci=37&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/1.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=237230&lang=en&eid=345815931&lid=2962858&ci=37&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Ukrainian",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/3.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=241015&lang=en&eid=345815931&lid=2965147&ci=37&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [
-        "01.",
-        "Guillaume Restes",
-        "(G)",
-        "02.",
-        "Rasmus Nicolaisen",
-        "03.",
-        "Mark McKenzie",
-        "12.",
-        "Warren Kamanzi",
-        "19.",
-        "Djibril Sidibe",
-        "23.",
-        "Cristian Casseres Jr.",
-        "18.",
-        "Pape Demba Diop",
-        "15.",
-        "Aron Doennum",
-        "10.",
-        "Yann Gboho",
-        "24.",
-        "Dayann Methalie",
-        "20.",
-        "Emersonn"
-      ],
-      "away_team": [
-        "01.",
-        "Geronimo Rulli",
-        "(G)",
-        "32.",
-        "Facundo Medina",
-        "10.",
-        "Mason Greenwood",
-        "14.",
-        "Igor Paixao",
-        "19.",
-        "Geoffrey Kondogbia",
-        "23.",
-        "Pierre-Emile",
-        "27.",
-        "Quinten Timber",
-        "17.",
-        "Pierre-Emerick",
-        "28.",
-        "Benjamin Pavard",
-        "22.",
-        "Timothy Weah",
-        "05.",
-        "Leonardo Balerdi"
-      ]
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "PSG",
-        "played": "25",
-        "pts": "57"
-      },
-      {
-        "pos": "2",
-        "team": "Lens",
-        "played": "24",
-        "pts": "53"
-      },
-      {
-        "pos": "3",
-        "team": "Lyon",
-        "played": "24",
-        "pts": "45"
-      },
-      {
-        "pos": "4",
-        "team": "Marseille",
-        "played": "24",
-        "pts": "43"
-      },
-      {
-        "pos": "5",
-        "team": "AS Monaco",
-        "played": "25",
-        "pts": "40"
-      },
-      {
-        "pos": "6",
-        "team": "Lille",
-        "played": "24",
-        "pts": "40"
-      },
-      {
-        "pos": "7",
-        "team": "Rennes",
-        "played": "24",
-        "pts": "40"
-      },
-      {
-        "pos": "8",
-        "team": "Strasbourg",
-        "played": "24",
-        "pts": "35"
-      },
-      {
-        "pos": "9",
-        "team": "Brest",
-        "played": "24",
-        "pts": "33"
-      },
-      {
-        "pos": "10",
-        "team": "Lorient",
-        "played": "24",
-        "pts": "33"
-      },
-      {
-        "pos": "11",
-        "team": "Angers",
-        "played": "25",
-        "pts": "32"
-      },
-      {
-        "pos": "12",
-        "team": "Toulouse",
-        "played": "24",
-        "pts": "31"
-      },
-      {
-        "pos": "13",
-        "team": "Le Havre",
-        "played": "24",
-        "pts": "26"
-      },
-      {
-        "pos": "14",
-        "team": "Paris",
-        "played": "24",
-        "pts": "26"
-      },
-      {
-        "pos": "15",
-        "team": "Nice",
-        "played": "24",
-        "pts": "24"
-      },
-      {
-        "pos": "16",
-        "team": "Auxerre",
-        "played": "24",
-        "pts": "18"
-      },
-      {
-        "pos": "17",
-        "team": "Nantes",
-        "played": "25",
-        "pts": "17"
-      },
-      {
-        "pos": "18",
-        "team": "Metz",
-        "played": "24",
-        "pts": "13"
-      }
-    ],
-    "last_updated": "2026-03-07T21:13:53.749525"
-  },
-  {
-    "event_id": "345102698",
-    "matchup": "Al-Kholood – Al Quadisiya",
-    "event_url": "https://livetv.sx/enx/eventinfo/345102698__/",
-    "competition": "Saudi Arabia. Pro League",
-    "date_time": "7 March at 20:00",
-    "parsed_datetime": "2026-03-07T20:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Al-Kholood",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/35361.gif"
-      },
-      {
-        "team_name": "Al Quadisiya",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30593.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [
-        "31.",
-        "Juan Cozzani",
-        "(G)",
-        "46.",
-        "Abdulaziz Al Aliwa",
-        "07.",
-        "Sultan Al-Shahri",
-        "39.",
-        "Abdulrahman Al-Dosari",
-        "03.",
-        "Edgaras Utkus",
-        "11.",
-        "Hattan Sultan Bahbri",
-        "10.",
-        "Iker Kortajarena",
-        "06.",
-        "John Buckley",
-        "23.",
-        "Norbert Gyomber",
-        "18.",
-        "Ramiro Enrique",
-        "38.",
-        "Shaquille Pinas"
-      ],
-      "away_team": [
-        "28.",
-        "Ahmed Ali Al Kassar",
-        "(G)",
-        "22.",
-        "Christopher Bonsu",
-        "04.",
-        "Jehad Thakri",
-        "17.",
-        "Gaston Alvarez",
-        "33.",
-        "Julian Quinones",
-        "05.",
-        "Julian Weigl",
-        "32.",
-        "Mateo Retegui",
-        "02.",
-        "Mohammed Abu Al",
-        "06.",
-        "Nacho Fernandez",
-        "08.",
-        "Nahitan Nandez",
-        "25.",
-        "Otavio"
-      ]
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:54.210732"
-  },
-  {
-    "event_id": "345787944",
-    "matchup": "New York City – Orlando City",
-    "event_url": "https://livetv.sx/enx/eventinfo/345787944__/",
-    "competition": "USA. MLS",
-    "date_time": "7 March at 20:30",
-    "parsed_datetime": "2026-03-07T20:30:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "New York City",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34382.gif"
-      },
-      {
-        "team_name": "Orlando City",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1264.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970149&lang=en&eid=345787944&lid=2970149&ci=64&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2955705&lang=en&eid=345787944&lid=2955705&ci=64&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2966355&lang=en&eid=345787944&lid=2966355&ci=64&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970148&lang=en&eid=345787944&lid=2970148&ci=64&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2951608&lang=en&eid=345787944&lid=2951608&ci=64&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [
-        "49.",
-        "Matt Freese",
-        "(G)",
-        "55.",
-        "Keaton Parks",
-        "07.",
-        "Nicolas Fernandez",
-        "21.",
-        "Aiden O’Neill",
-        "10.",
-        "Maxi Moralez",
-        "24.",
-        "Tayvon Gray",
-        "22.",
-        "Kevin O’Toole",
-        "13.",
-        "Thiago Martins",
-        "05.",
-        "Kai Trewin",
-        "17.",
-        "Hannes Wolf",
-        "26.",
-        "Agustin Ojeda"
-      ],
-      "away_team": [
-        "71.",
-        "Maxime Crepeau",
-        "(G)",
-        "04.",
-        "David Brekalo",
-        "21.",
-        "Nolan Miller",
-        "24.",
-        "Griffin Dorsey",
-        "29.",
-        "Tahir Reid-Brown",
-        "05.",
-        "Luis Otavio",
-        "08.",
-        "Braian Ojeda",
-        "77.",
-        "Ivan Angulo",
-        "87.",
-        "Marco Pasalic",
-        "10.",
-        "Martin Ojeda",
-        "14.",
-        "Tyrese Spicer"
-      ]
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:54.210753"
+    "last_updated": "2026-03-07T21:34:24.871233"
   },
   {
     "event_id": "346172818",
@@ -2109,533 +1974,7 @@
         "pts": "15"
       }
     ],
-    "last_updated": "2026-03-07T21:13:54.487218"
-  },
-  {
-    "event_id": "345771401",
-    "matchup": "Olympic Charleroi – RWDM Brussels",
-    "event_url": "https://livetv.sx/enx/eventinfo/345771401__/",
-    "competition": "Belgium. Challenger Pro League",
-    "date_time": "7 March at 20:00",
-    "parsed_datetime": "2026-03-07T20:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Olympic Charleroi",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/11895.gif"
-      },
-      {
-        "team_name": "RWDM Brussels",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/35070.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:54.847361"
-  },
-  {
-    "event_id": "347909584",
-    "matchup": "Shabab Al-Ordon – Al-Salt",
-    "event_url": "https://livetv.sx/enx/eventinfo/347909584__/",
-    "competition": "Jordan. Premier League",
-    "date_time": "7 March at 20:00",
-    "parsed_datetime": "2026-03-07T20:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Shabab Al-Ordon",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6654.gif"
-      },
-      {
-        "team_name": "Al-Salt",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6653.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:55.181687"
-  },
-  {
-    "event_id": "345771402",
-    "matchup": "Lommel – Kortrijk",
-    "event_url": "https://livetv.sx/enx/eventinfo/345771402__/",
-    "competition": "Belgium. Challenger Pro League",
-    "date_time": "7 March at 20:00",
-    "parsed_datetime": "2026-03-07T20:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Lommel",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30286.gif"
-      },
-      {
-        "team_name": "Kortrijk",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1340.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:55.587647"
-  },
-  {
-    "event_id": "350816474",
-    "matchup": "Ancona-Matelica – Pistoiese",
-    "event_url": "https://livetv.sx/enx/eventinfo/350816474__/",
-    "competition": "Italy. Cup. Serie D",
-    "date_time": "7 March at 20:00",
-    "parsed_datetime": "2026-03-07T20:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Ancona-Matelica",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/16598.gif"
-      },
-      {
-        "team_name": "Pistoiese",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/33090.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:55.651939"
-  },
-  {
-    "event_id": "350878929",
-    "matchup": "Brooklyn (W) –  DC Power (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/350878929__/",
-    "competition": "USA. Women. USL",
-    "date_time": "7 March at 20:00",
-    "parsed_datetime": "2026-03-07T20:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Brooklyn (W)",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/33893.gif"
-      },
-      {
-        "team_name": "DC Power (W)",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/33829.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:55.694888"
-  },
-  {
-    "event_id": "345787427",
-    "matchup": "Widzew Lodz – Lech Poznan",
-    "event_url": "https://livetv.sx/enx/eventinfo/345787427__/",
-    "competition": "Poland. Ekstraklasa",
-    "date_time": "7 March at 20:15",
-    "parsed_datetime": "2026-03-07T20:15:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Widzew Lodz",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/4205.gif"
-      },
-      {
-        "team_name": "Lech Poznan",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/405.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [
-        "30.",
-        "Veljko Ilic",
-        "(G)",
-        "04.",
-        "Mateusz Zyro",
-        "10.",
-        "Fran Alvarez",
-        "17.",
-        "Christopher Cheng",
-        "21.",
-        "Lukas Lerager",
-        "25.",
-        "Przemyslaw Wisniewski",
-        "91.",
-        "Marcel Krajewski",
-        "99.",
-        "Sebastian Bergier",
-        "53.",
-        "Steve Kapuadi",
-        "06.",
-        "Juljan Shehu",
-        "08.",
-        "Emil Kornvig"
-      ],
-      "away_team": [
-        "41.",
-        "Bartosz Mrozek",
-        "(G)",
-        "23.",
-        "Gisli Thordarson",
-        "72.",
-        "Mateusz Skrzypczak",
-        "14.",
-        "Leo Bengtsson",
-        "06.",
-        "Timothy Noor Ouma",
-        "27.",
-        "Wojciech Monka",
-        "07.",
-        "Yannick Agnero",
-        "88.",
-        "Taofeek Ismaheel",
-        "15.",
-        "Michal Gurgul",
-        "20.",
-        "Robert Gumny",
-        "77.",
-        "Luis Palma"
-      ]
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:55.955168"
-  },
-  {
-    "event_id": "345787947",
-    "matchup": "Rhode Island – Loudoun United",
-    "event_url": "https://livetv.sx/enx/eventinfo/345787947__/",
-    "competition": "USA. USL",
-    "date_time": "7 March at 20:30",
-    "parsed_datetime": "2026-03-07T20:30:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Rhode Island",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/29042.gif"
-      },
-      {
-        "team_name": "Loudoun United",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/5969.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970151&lang=en&eid=345787947&lid=2970151&ci=1084&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:55.981813"
-  },
-  {
-    "event_id": "345774565",
-    "matchup": "Al-Ettifaq – Al-Shabab Riyadh",
-    "event_url": "https://livetv.sx/enx/eventinfo/345774565__/",
-    "competition": "Saudi Arabia. Pro League",
-    "date_time": "7 March at 20:00",
-    "parsed_datetime": "2026-03-07T20:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Al-Ettifaq",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1530.gif"
-      },
-      {
-        "team_name": "Al-Shabab Riyadh",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/20684.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [
-        "01.",
-        "Marek Rodak",
-        "(G)",
-        "17.",
-        "Khalid Al Ghannam",
-        "03.",
-        "Abdullah Madu",
-        "05.",
-        "Francisco Calvo",
-        "18.",
-        "Joao Costa",
-        "61.",
-        "Radhi Al Otaibi",
-        "07.",
-        "Mukhtar Sheik",
-        "70.",
-        "Abdullah Ahmed",
-        "11.",
-        "Ondrej Duda",
-        "10.",
-        "Alvaro Medran",
-        "08.",
-        "Georginio Wijnaldum"
-      ],
-      "away_team": [
-        "43.",
-        "Marcelo Grohe",
-        "(G)",
-        "17.",
-        "Mohammed Al-Thani",
-        "08.",
-        "Josh Brownhill",
-        "14.",
-        "Vincent Sierro",
-        "22.",
-        "Hammam Al-Hammami",
-        "29.",
-        "Yacine Adli",
-        "09.",
-        "Abderrazak Hamdallah",
-        "10.",
-        "Yannick Carrasco",
-        "03.",
-        "Ali Al-Bulayhi",
-        "04.",
-        "Wesley Hoedt",
-        "31.",
-        "Saad Balobaid"
-      ]
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:56.039051"
-  },
-  {
-    "event_id": "345774564",
-    "matchup": "Al Nassr – Neom",
-    "event_url": "https://livetv.sx/enx/eventinfo/345774564__/",
-    "competition": "Saudi Arabia. Pro League",
-    "date_time": "7 March at 20:00",
-    "parsed_datetime": "2026-03-07T20:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Al Nassr",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/35362.gif"
-      },
-      {
-        "team_name": "Neom",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/35364.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [
-        "24.",
-        "Bento Krepski",
-        "(G)",
-        "09.",
-        "Abdullah Al-Hamdan",
-        "11.",
-        "Marcelo Brozovic",
-        "20.",
-        "Angelo Gabriel",
-        "26.",
-        "Inigo Martinez",
-        "10.",
-        "Sadio Mane",
-        "12.",
-        "Nawaf Al-Boushail",
-        "05.",
-        "Abdulelah Al Amri",
-        "03.",
-        "Mohamed Simakan",
-        "21.",
-        "Kingsley Coman",
-        "79.",
-        "Joao Felix"
-      ],
-      "away_team": [
-        "81.",
-        "Luis Maximiano",
-        "(G)",
-        "18.",
-        "Ala’a Al-Haji",
-        "72.",
-        "Amadou Kone",
-        "93.",
-        "Awn Al Slaluli",
-        "08.",
-        "Abdoulaye Doucoure",
-        "80.",
-        "Rayane Messi",
-        "44.",
-        "Nathan Zeze",
-        "27.",
-        "Hawsawi Ahmed",
-        "91.",
-        "Alexandre Lacazette",
-        "10.",
-        "Said Benrahma",
-        "02.",
-        "Mohammed Al Burayk"
-      ]
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:56.413202"
-  },
-  {
-    "event_id": "345784885",
-    "matchup": "Bochum – Kaiserslautern",
-    "event_url": "https://livetv.sx/enx/eventinfo/345784885__/",
-    "competition": "Germany. 2 Bundesliga",
-    "date_time": "7 March at 20:30",
-    "parsed_datetime": "2026-03-07T20:30:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Bochum",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/3705.gif"
-      },
-      {
-        "team_name": "Kaiserslautern",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/3957.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250373&lang=en&eid=345784885&lid=2969234&ci=31&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250382&lang=en&eid=345784885&lid=2969228&ci=31&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Croatian",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/29.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250397&lang=en&eid=345784885&lid=2969317&ci=31&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250488&lang=en&eid=345784885&lid=2969231&ci=31&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250518&lang=en&eid=345784885&lid=2969235&ci=31&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Greek",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/28.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250524&lang=en&eid=345784885&lid=2970226&ci=31&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250748&lang=en&eid=345784885&lid=2969853&ci=31&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250761&lang=en&eid=345784885&lid=2969852&ci=31&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [
-        "01.",
-        "Timo Horn",
-        "(G)",
-        "03.",
-        "Philipp Strompf",
-        "13.",
-        "Oliver Olsen",
-        "32.",
-        "Maximilian Wittek",
-        "20.",
-        "Noah Loosli",
-        "19.",
-        "Matus Bero",
-        "21.",
-        "Francis Onyeka",
-        "23.",
-        "Koji Miyoshi",
-        "24.",
-        "Mats Pannewig",
-        "29.",
-        "Farid Alfa-Ruprecht",
-        "33.",
-        "Philipp Hofmann"
-      ],
-      "away_team": [
-        "01.",
-        "Julian Krahl",
-        "(G)",
-        "26.",
-        "Paul Joly",
-        "37.",
-        "Leon Robinson",
-        "31.",
-        "Luca Sirch",
-        "05.",
-        "Ji-Soo Kim",
-        "15.",
-        "Naatan Skyttae",
-        "11.",
-        "Kenny Prince Redondo",
-        "07.",
-        "Marlon Ritter",
-        "06.",
-        "Fabian Kunze",
-        "03.",
-        "Florian Kleinhansl",
-        "17.",
-        "Norman Bassette"
-      ]
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:56.544456"
+    "last_updated": "2026-03-07T21:34:24.920122"
   },
   {
     "event_id": "345785187",
@@ -2661,122 +2000,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:13:56.849688"
+    "last_updated": "2026-03-07T21:34:24.920138"
   },
   {
-    "event_id": "345788737",
-    "matchup": "Lugano – Luzern",
-    "event_url": "https://livetv.sx/enx/eventinfo/345788737__/",
-    "competition": "Switzerland. Super League",
+    "event_id": "345785189",
+    "matchup": "Ghazl El Mehalla – Pharco",
+    "event_url": "https://livetv.sx/enx/eventinfo/345785189__/",
+    "competition": "Egypt. Premier League",
     "date_time": "7 March at 20:30",
     "parsed_datetime": "2026-03-07T20:30:00",
-    "is_live": true,
+    "is_live": false,
     "team_logos": [
       {
-        "team_name": "Lugano",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/640.gif"
+        "team_name": "Ghazl El Mehalla",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/33575.gif"
       },
       {
-        "team_name": "Luzern",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/89.gif"
+        "team_name": "Pharco",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/2012.gif"
       }
     ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2967997&lang=en&eid=345788737&lid=2967997&ci=87&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250797&lang=en&eid=345788737&lid=2969857&ci=87&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2666635&lang=en&eid=345788737&lid=2666635&ci=87&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2961117&lang=en&eid=345788737&lid=2961117&ci=87&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970153&lang=en&eid=345788737&lid=2970153&ci=87&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
+    "streams": [],
     "starting_lineups": {
-      "home_team": [
-        "16.",
-        "David von Ballmoos",
-        "(G)",
-        "03.",
-        "Hannes Delcroix",
-        "06.",
-        "Antonios Papadopoulos",
-        "17.",
-        "Lars Lukas Mai",
-        "46.",
-        "Mattia Zanotti",
-        "08.",
-        "Anto Grgic",
-        "11.",
-        "Renato Steffen",
-        "25.",
-        "Uran Bislimi",
-        "21.",
-        "Yanis Cimignani",
-        "09.",
-        "Georgios Koutsias",
-        "91.",
-        "Kevin Behrens"
-      ],
-      "away_team": [
-        "01.",
-        "Pascal Loretz",
-        "(G)",
-        "22.",
-        "Ruben Dantas",
-        "20.",
-        "Pius Dorn",
-        "04.",
-        "Adrian Bajrami",
-        "19.",
-        "Andrej Vasovic",
-        "09.",
-        "Adrian Grbic",
-        "24.",
-        "Tyron Owusu",
-        "16.",
-        "Oscar Kabwit",
-        "11.",
-        "Matteo Di Giusto",
-        "06.",
-        "Taisei Abe",
-        "46.",
-        "Bung Meng Freimann"
-      ]
+      "home_team": [],
+      "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:13:56.985719"
+    "last_updated": "2026-03-07T21:34:25.405450"
   },
   {
     "event_id": "345785188",
@@ -2802,130 +2052,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:13:57.130156"
-  },
-  {
-    "event_id": "346091074",
-    "matchup": "Dunfermline – Aberdeen",
-    "event_url": "https://livetv.sx/enx/eventinfo/346091074__/",
-    "competition": "Scotland. Cup",
-    "date_time": "7 March at 20:30",
-    "parsed_datetime": "2026-03-07T20:30:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Dunfermline",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/9207.gif"
-      },
-      {
-        "team_name": "Aberdeen",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/397.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=alieztv&c=250360&lang=en&eid=346091074&lid=2969748&ci=17&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2968925&lang=en&eid=346091074&lid=2968925&ci=17&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2968747&lang=en&eid=346091074&lid=2968747&ci=17&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2946627&lang=en&eid=346091074&lid=2946627&ci=17&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2959448&lang=en&eid=346091074&lid=2959448&ci=17&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Bulgarian",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/16.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2966351&lang=en&eid=346091074&lid=2966351&ci=17&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [
-        "13.",
-        "Aston Oxborough",
-        "(G)",
-        "14.",
-        "Alfons Amade",
-        "26.",
-        "Andy Tod",
-        "08.",
-        "Charlie Gilmour",
-        "20.",
-        "Christopher Kane",
-        "39.",
-        "Freddie Turley",
-        "02.",
-        "Jeremiah",
-        "03.",
-        "Kieran Ngwenya",
-        "10.",
-        "Matty Todd",
-        "19.",
-        "Olly Thomas",
-        "47.",
-        "Robbie Fraser"
-      ],
-      "away_team": [
-        "01.",
-        "Dimitar Mitov",
-        "(G)",
-        "15.",
-        "Kevin Nisbet",
-        "22.",
-        "Jack Milne",
-        "04.",
-        "Graeme Shinnie",
-        "38.",
-        "Dylan Lobban",
-        "25.",
-        "Lyall Cameron",
-        "03.",
-        "Mitchel Frame",
-        "11.",
-        "Nicolas Milanovic",
-        "16.",
-        "Stuart Armstrong",
-        "26.",
-        "Tom McIntyre",
-        "81.",
-        "Topi Keskinen"
-      ]
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:57.285515"
+    "last_updated": "2026-03-07T21:34:25.459099"
   },
   {
     "event_id": "350947084",
@@ -2968,247 +2095,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:13:57.693092"
-  },
-  {
-    "event_id": "345785189",
-    "matchup": "Ghazl El Mehalla – Pharco",
-    "event_url": "https://livetv.sx/enx/eventinfo/345785189__/",
-    "competition": "Egypt. Premier League",
-    "date_time": "7 March at 20:30",
-    "parsed_datetime": "2026-03-07T20:30:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Ghazl El Mehalla",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/33575.gif"
-      },
-      {
-        "team_name": "Pharco",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/2012.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Arabic",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/5.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2968827&lang=en&eid=345785189&lid=2968827&ci=270&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:57.740785"
-  },
-  {
-    "event_id": "345797982",
-    "matchup": "Almagro – Atlanta",
-    "event_url": "https://livetv.sx/enx/eventinfo/345797982__/",
-    "competition": "Argentina. Primera Nacional",
-    "date_time": "7 March at 21:00",
-    "parsed_datetime": "2026-03-07T21:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Almagro",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/2210.gif"
-      },
-      {
-        "team_name": "Atlanta",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10175.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:58.348984"
-  },
-  {
-    "event_id": "347685385",
-    "matchup": "Progreso – Albion",
-    "event_url": "https://livetv.sx/enx/eventinfo/347685385__/",
-    "competition": "Uruguay. Primera Division",
-    "date_time": "7 March at 21:00",
-    "parsed_datetime": "2026-03-07T21:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Progreso",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/17734.gif"
-      },
-      {
-        "team_name": "Albion",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30535.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970481&lang=en&eid=347685385&lid=2970481&ci=99&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:58.422217"
-  },
-  {
-    "event_id": "346432020",
-    "matchup": "Botafogo-PB – Serra Branca",
-    "event_url": "https://livetv.sx/enx/eventinfo/346432020__/",
-    "competition": "Brazil. Campeonato Paraibano",
-    "date_time": "7 March at 21:00",
-    "parsed_datetime": "2026-03-07T21:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Botafogo-PB",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6076.gif"
-      },
-      {
-        "team_name": "Serra Branca",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/32463.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=yCoxLEey55Q&lang=en&eid=346432020&lid=2961316&ci=1332&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:58.478049"
-  },
-  {
-    "event_id": "345797981",
-    "matchup": "Nueva Chicago – Atletico Rafaela",
-    "event_url": "https://livetv.sx/enx/eventinfo/345797981__/",
-    "competition": "Argentina. Primera Nacional",
-    "date_time": "7 March at 21:00",
-    "parsed_datetime": "2026-03-07T21:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Nueva Chicago",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34549.gif"
-      },
-      {
-        "team_name": "Atletico Rafaela",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10223.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:58.784979"
-  },
-  {
-    "event_id": "345798878",
-    "matchup": "Sligo Rovers – Drogheda United",
-    "event_url": "https://livetv.sx/enx/eventinfo/345798878__/",
-    "competition": "Ireland. Premier Division",
-    "date_time": "7 March at 20:45",
-    "parsed_datetime": "2026-03-07T20:45:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Sligo Rovers",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/389.gif"
-      },
-      {
-        "team_name": "Drogheda United",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6482.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970155&lang=en&eid=345798878&lid=2970155&ci=45&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [
-        "29.",
-        "Sam Sargeant",
-        "(G)",
-        "17.",
-        "Sean McHale",
-        "04.",
-        "Sebastian Quirk",
-        "33.",
-        "Jeannot Esua",
-        "52.",
-        "Gareth McElroy",
-        "07.",
-        "William Fitzgerald",
-        "14.",
-        "James McManus",
-        "19.",
-        "Alex Nolan",
-        "28.",
-        "Ryan O’Kane",
-        "11.",
-        "Cian Kavanagh",
-        "71.",
-        "Daire Patton"
-      ],
-      "away_team": [
-        "01.",
-        "Luke Dennison",
-        "(G)",
-        "03.",
-        "Conor Kane",
-        "04.",
-        "Andrew Quinn",
-        "19.",
-        "Ryan Brennan",
-        "14.",
-        "Mark Doyle",
-        "05.",
-        "Leo Burney",
-        "08.",
-        "Ethan O’Brien",
-        "10.",
-        "Brandon Kavanagh",
-        "22.",
-        "Conor Keeley",
-        "15.",
-        "Dare Kareem",
-        "02.",
-        "Edwin Agbaje"
-      ]
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:13:58.785013"
+    "last_updated": "2026-03-07T21:34:25.459114"
   },
   {
     "event_id": "345798098",
@@ -3243,6 +2130,16 @@
         "37.",
         "Kjell Scherpen",
         "(G)",
+        "10.",
+        "Anouar Ait El Hadj",
+        "11.",
+        "Guilherme Smith",
+        "23.",
+        "Besfort Zeneli",
+        "25.",
+        "Anan Khalaili",
+        "08.",
+        "Adem Zorgane",
         "06.",
         "Kamiel van de Perre",
         "26.",
@@ -3251,16 +2148,6 @@
         "Christian Burgess",
         "07.",
         "Mohammed Fuseini",
-        "25.",
-        "Anan Khalaili",
-        "23.",
-        "Besfort Zeneli",
-        "11.",
-        "Guilherme Smith",
-        "10.",
-        "Anouar Ait El Hadj",
-        "08.",
-        "Adem Zorgane",
         "05.",
         "Kevin Mac Allister"
       ],
@@ -3268,26 +2155,26 @@
         "26.",
         "Tobias Lawal",
         "(G)",
-        "38.",
-        "Daan Heymans",
+        "03.",
+        "Mujaid Sadick",
+        "06.",
+        "Matte Smets",
         "29.",
         "Robin Mirisola",
-        "18.",
-        "Joris Kayembe Ditu",
-        "24.",
-        "Nikolas Sattlberger",
-        "20.",
-        "Konstantinos Karetsas",
+        "38.",
+        "Daan Heymans",
         "14.",
         "Collins Sor",
+        "20.",
+        "Konstantinos Karetsas",
+        "24.",
+        "Nikolas Sattlberger",
+        "18.",
+        "Joris Kayembe Ditu",
         "77.",
         "Zakaria El Ouahdi",
         "10.",
-        "Junya Ito",
-        "06.",
-        "Matte Smets",
-        "03.",
-        "Mujaid Sadick"
+        "Junya Ito"
       ]
     },
     "league_table": [
@@ -3388,7 +2275,160 @@
         "pts": "3"
       }
     ],
-    "last_updated": "2026-03-07T21:13:58.785020"
+    "last_updated": "2026-03-07T21:34:25.880942"
+  },
+  {
+    "event_id": "345798878",
+    "matchup": "Sligo Rovers – Drogheda United",
+    "event_url": "https://livetv.sx/enx/eventinfo/345798878__/",
+    "competition": "Ireland. Premier Division",
+    "date_time": "7 March at 20:45",
+    "parsed_datetime": "2026-03-07T20:45:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Sligo Rovers",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/389.gif"
+      },
+      {
+        "team_name": "Drogheda United",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6482.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970155&lang=en&eid=345798878&lid=2970155&ci=45&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [
+        "29.",
+        "Sam Sargeant",
+        "(G)",
+        "04.",
+        "Sebastian Quirk",
+        "17.",
+        "Sean McHale",
+        "07.",
+        "William Fitzgerald",
+        "33.",
+        "Jeannot Esua",
+        "52.",
+        "Gareth McElroy",
+        "14.",
+        "James McManus",
+        "71.",
+        "Daire Patton",
+        "28.",
+        "Ryan O’Kane",
+        "19.",
+        "Alex Nolan",
+        "11.",
+        "Cian Kavanagh"
+      ],
+      "away_team": [
+        "01.",
+        "Luke Dennison",
+        "(G)",
+        "19.",
+        "Ryan Brennan",
+        "10.",
+        "Brandon Kavanagh",
+        "04.",
+        "Andrew Quinn",
+        "05.",
+        "Leo Burney",
+        "03.",
+        "Conor Kane",
+        "22.",
+        "Conor Keeley",
+        "08.",
+        "Ethan O’Brien",
+        "14.",
+        "Mark Doyle",
+        "15.",
+        "Dare Kareem",
+        "02.",
+        "Edwin Agbaje"
+      ]
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:26.044495"
+  },
+  {
+    "event_id": "346432020",
+    "matchup": "Botafogo-PB – Serra Branca",
+    "event_url": "https://livetv.sx/enx/eventinfo/346432020__/",
+    "competition": "Brazil. Campeonato Paraibano",
+    "date_time": "7 March at 21:00",
+    "parsed_datetime": "2026-03-07T21:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Botafogo-PB",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6076.gif"
+      },
+      {
+        "team_name": "Serra Branca",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/32463.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=yCoxLEey55Q&lang=en&eid=346432020&lid=2961316&ci=1332&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:26.112234"
+  },
+  {
+    "event_id": "347685385",
+    "matchup": "Progreso – Albion",
+    "event_url": "https://livetv.sx/enx/eventinfo/347685385__/",
+    "competition": "Uruguay. Primera Division",
+    "date_time": "7 March at 21:00",
+    "parsed_datetime": "2026-03-07T21:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Progreso",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/17734.gif"
+      },
+      {
+        "team_name": "Albion",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30535.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970481&lang=en&eid=347685385&lid=2970481&ci=99&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:26.236747"
   },
   {
     "event_id": "345798960",
@@ -3519,24 +2559,24 @@
       ]
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:13:59.064261"
+    "last_updated": "2026-03-07T21:34:26.579391"
   },
   {
-    "event_id": "345797984",
-    "matchup": "Acassuso – San Miguel",
-    "event_url": "https://livetv.sx/enx/eventinfo/345797984__/",
+    "event_id": "345797981",
+    "matchup": "Nueva Chicago – Atletico Rafaela",
+    "event_url": "https://livetv.sx/enx/eventinfo/345797981__/",
     "competition": "Argentina. Primera Nacional",
     "date_time": "7 March at 21:00",
     "parsed_datetime": "2026-03-07T21:00:00",
     "is_live": true,
     "team_logos": [
       {
-        "team_name": "Acassuso",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10520.gif"
+        "team_name": "Nueva Chicago",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34549.gif"
       },
       {
-        "team_name": "San Miguel",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10577.gif"
+        "team_name": "Atletico Rafaela",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10223.gif"
       }
     ],
     "streams": [],
@@ -3545,7 +2585,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:13:59.287831"
+    "last_updated": "2026-03-07T21:34:26.637660"
+  },
+  {
+    "event_id": "345797982",
+    "matchup": "Almagro – Atlanta",
+    "event_url": "https://livetv.sx/enx/eventinfo/345797982__/",
+    "competition": "Argentina. Primera Nacional",
+    "date_time": "7 March at 21:00",
+    "parsed_datetime": "2026-03-07T21:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Almagro",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/2210.gif"
+      },
+      {
+        "team_name": "Atlanta",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10175.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:26.742068"
   },
   {
     "event_id": "345797983",
@@ -3571,24 +2637,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:13:59.465518"
+    "last_updated": "2026-03-07T21:34:26.980643"
   },
   {
-    "event_id": "345798031",
-    "matchup": "Aldosivi – Independiente R",
-    "event_url": "https://livetv.sx/enx/eventinfo/345798031__/",
-    "competition": "Argentina. Liga Profesional",
+    "event_id": "345797984",
+    "matchup": "Acassuso – San Miguel",
+    "event_url": "https://livetv.sx/enx/eventinfo/345797984__/",
+    "competition": "Argentina. Primera Nacional",
     "date_time": "7 March at 21:00",
     "parsed_datetime": "2026-03-07T21:00:00",
     "is_live": true,
     "team_logos": [
       {
-        "team_name": "Aldosivi",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1112.gif"
+        "team_name": "Acassuso",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10520.gif"
       },
       {
-        "team_name": "Independiente R",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1117.gif"
+        "team_name": "San Miguel",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10577.gif"
       }
     ],
     "streams": [],
@@ -3597,7 +2663,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:13:59.880231"
+    "last_updated": "2026-03-07T21:34:27.056260"
   },
   {
     "event_id": "345825900",
@@ -3623,42 +2689,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:00.049460"
-  },
-  {
-    "event_id": "350763727",
-    "matchup": "Delfines Del Este – Moca",
-    "event_url": "https://livetv.sx/enx/eventinfo/350763727__/",
-    "competition": "Dominican Republic. LDF",
-    "date_time": "7 March at 21:00",
-    "parsed_datetime": "2026-03-07T21:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Delfines Del Este",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/14668.gif"
-      },
-      {
-        "team_name": "Moca",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/26530.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=Le4P0_WFh58&lang=en&eid=350763727&lid=2969819&ci=6860&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:14:00.153288"
+    "last_updated": "2026-03-07T21:34:27.056277"
   },
   {
     "event_id": "350927978",
@@ -3693,7 +2724,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:00.153303"
+    "last_updated": "2026-03-07T21:34:27.221818"
+  },
+  {
+    "event_id": "345798031",
+    "matchup": "Aldosivi – Independiente R",
+    "event_url": "https://livetv.sx/enx/eventinfo/345798031__/",
+    "competition": "Argentina. Liga Profesional",
+    "date_time": "7 March at 21:00",
+    "parsed_datetime": "2026-03-07T21:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Aldosivi",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1112.gif"
+      },
+      {
+        "team_name": "Independiente R",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1117.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:27.257945"
   },
   {
     "event_id": "350763726",
@@ -3728,120 +2785,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:00.286391"
+    "last_updated": "2026-03-07T21:34:27.846660"
   },
   {
-    "event_id": "345798030",
-    "matchup": "Rio Cuarto – Instituto",
-    "event_url": "https://livetv.sx/enx/eventinfo/345798030__/",
-    "competition": "Argentina. Liga Profesional",
+    "event_id": "350763727",
+    "matchup": "Delfines Del Este – Moca",
+    "event_url": "https://livetv.sx/enx/eventinfo/350763727__/",
+    "competition": "Dominican Republic. LDF",
     "date_time": "7 March at 21:00",
     "parsed_datetime": "2026-03-07T21:00:00",
     "is_live": true,
     "team_logos": [
       {
-        "team_name": "Rio Cuarto",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10222.gif"
+        "team_name": "Delfines Del Este",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/14668.gif"
       },
       {
-        "team_name": "Instituto",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10169.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:14:00.571348"
-  },
-  {
-    "event_id": "347414146",
-    "matchup": "Al-Karma – Erbil",
-    "event_url": "https://livetv.sx/enx/eventinfo/347414146__/",
-    "competition": "Iraq. Premier League",
-    "date_time": "7 March at 21:15",
-    "parsed_datetime": "2026-03-07T21:15:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Al-Karma",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/33994.gif"
-      },
-      {
-        "team_name": "Erbil",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/12074.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Arabic",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/5.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=Yzwtz50LJTk&lang=en&eid=347414146&lid=2970263&ci=2637&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:14:01.288121"
-  },
-  {
-    "event_id": "347414145",
-    "matchup": "Duhok – Al-Shorta",
-    "event_url": "https://livetv.sx/enx/eventinfo/347414145__/",
-    "competition": "Iraq. Premier League",
-    "date_time": "7 March at 21:15",
-    "parsed_datetime": "2026-03-07T21:15:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Duhok",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/35659.gif"
-      },
-      {
-        "team_name": "Al-Shorta",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/8130.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Arabic",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/5.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=kgntZYIOBds&lang=en&eid=347414145&lid=2970262&ci=2637&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:14:01.513047"
-  },
-  {
-    "event_id": "345826335",
-    "matchup": "Zamora – Carabobo",
-    "event_url": "https://livetv.sx/enx/eventinfo/345826335__/",
-    "competition": "Venezuela. Primera Division",
-    "date_time": "7 March at 22:00",
-    "parsed_datetime": "2026-03-07T22:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Zamora",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/949.gif"
-      },
-      {
-        "team_name": "Carabobo",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34133.gif"
+        "team_name": "Moca",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/26530.gif"
       }
     ],
     "streams": [
@@ -3849,9 +2810,9 @@
         "language": "Spanish",
         "flag_src": "https://cdn.livetv873.me/img/linkflag/7.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970176&lang=en&eid=345826335&lid=2970176&ci=455&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=Le4P0_WFh58&lang=en&eid=350763727&lid=2969819&ci=6860&si=1",
+        "stream_title": "",
+        "stream_type": ""
       }
     ],
     "starting_lineups": {
@@ -3859,7 +2820,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:01.696195"
+    "last_updated": "2026-03-07T21:34:27.846676"
   },
   {
     "event_id": "350947086",
@@ -3918,7 +2879,77 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:01.729394"
+    "last_updated": "2026-03-07T21:34:27.877776"
+  },
+  {
+    "event_id": "347414146",
+    "matchup": "Al-Karma – Erbil",
+    "event_url": "https://livetv.sx/enx/eventinfo/347414146__/",
+    "competition": "Iraq. Premier League",
+    "date_time": "7 March at 21:15",
+    "parsed_datetime": "2026-03-07T21:15:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Al-Karma",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/33994.gif"
+      },
+      {
+        "team_name": "Erbil",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/12074.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Arabic",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/5.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=Yzwtz50LJTk&lang=en&eid=347414146&lid=2970263&ci=2637&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:28.114866"
+  },
+  {
+    "event_id": "347414145",
+    "matchup": "Duhok – Al-Shorta",
+    "event_url": "https://livetv.sx/enx/eventinfo/347414145__/",
+    "competition": "Iraq. Premier League",
+    "date_time": "7 March at 21:15",
+    "parsed_datetime": "2026-03-07T21:15:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Duhok",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/35659.gif"
+      },
+      {
+        "team_name": "Al-Shorta",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/8130.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Arabic",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/5.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=kgntZYIOBds&lang=en&eid=347414145&lid=2970262&ci=2637&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:28.305030"
   },
   {
     "event_id": "345812835",
@@ -3977,68 +3008,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:01.757245"
-  },
-  {
-    "event_id": "349800378",
-    "matchup": "Peru (W) –  Salvador (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/349800378__/",
-    "competition": "Women. Friendly Match. National Teams",
-    "date_time": "7 March at 21:30",
-    "parsed_datetime": "2026-03-07T21:30:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Peru (W)",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag154.gif"
-      },
-      {
-        "team_name": "Salvador (W)",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag176.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=mwVfiJ0mbjo&lang=en&eid=349800378&lid=2970490&ci=6328&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:14:01.934185"
-  },
-  {
-    "event_id": "351269442",
-    "matchup": "Catanduva – Uniao Sao Joao",
-    "event_url": "https://livetv.sx/enx/eventinfo/351269442_catanduva_uniao_sao_joao/",
-    "competition": "Brazil. Campeonato Paulista 3",
-    "date_time": "7 March at 22:00",
-    "parsed_datetime": "2026-03-07T22:00:00",
-    "is_live": true,
-    "team_logos": [],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=oHwqHGIcDkg&lang=en&eid=351269442&lid=2969835&ci=2081&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:14:02.069151"
+    "last_updated": "2026-03-07T21:34:28.355257"
   },
   {
     "event_id": "345800829",
@@ -4121,7 +3091,129 @@
       ]
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:02.139189"
+    "last_updated": "2026-03-07T21:34:28.501698"
+  },
+  {
+    "event_id": "351269442",
+    "matchup": "Catanduva – Uniao Sao Joao",
+    "event_url": "https://livetv.sx/enx/eventinfo/351269442_catanduva_uniao_sao_joao/",
+    "competition": "Brazil. Campeonato Paulista 3",
+    "date_time": "7 March at 22:00",
+    "parsed_datetime": "2026-03-07T22:00:00",
+    "is_live": true,
+    "team_logos": [],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=oHwqHGIcDkg&lang=en&eid=351269442&lid=2969835&ci=2081&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:29.012965"
+  },
+  {
+    "event_id": "349800378",
+    "matchup": "Peru (W) –  Salvador (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/349800378__/",
+    "competition": "Women. Friendly Match. National Teams",
+    "date_time": "7 March at 21:30",
+    "parsed_datetime": "2026-03-07T21:30:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Peru (W)",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag154.gif"
+      },
+      {
+        "team_name": "Salvador (W)",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag176.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=mwVfiJ0mbjo&lang=en&eid=349800378&lid=2970490&ci=6328&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:29.050885"
+  },
+  {
+    "event_id": "345826335",
+    "matchup": "Zamora – Carabobo",
+    "event_url": "https://livetv.sx/enx/eventinfo/345826335__/",
+    "competition": "Venezuela. Primera Division",
+    "date_time": "7 March at 22:00",
+    "parsed_datetime": "2026-03-07T22:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Zamora",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/949.gif"
+      },
+      {
+        "team_name": "Carabobo",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34133.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970176&lang=en&eid=345826335&lid=2970176&ci=455&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:29.196697"
+  },
+  {
+    "event_id": "345825902",
+    "matchup": "Flandria – Arsenal de Sarandi",
+    "event_url": "https://livetv.sx/enx/eventinfo/345825902__/",
+    "competition": "Argentina. Primera B Metropolitana",
+    "date_time": "7 March at 22:00",
+    "parsed_datetime": "2026-03-07T22:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Flandria",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10662.gif"
+      },
+      {
+        "team_name": "Arsenal de Sarandi",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/423.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:29.232358"
   },
   {
     "event_id": "345830184",
@@ -4164,107 +3256,55 @@
         "01.",
         "Tomas Ahumada",
         "(G)",
-        "04.",
-        "Daniel Pina",
-        "13.",
-        "Enzo Ferrario",
-        "29.",
-        "Marcelo Ortiz",
-        "07.",
-        "Paolo Guajardo",
-        "10.",
-        "Rodrigo Cabral",
-        "08.",
-        "Marco Collao",
-        "09.",
-        "Diego Coelho",
         "28.",
         "Federico Mateos",
+        "10.",
+        "Rodrigo Cabral",
+        "18.",
+        "Nicolas Aedo",
+        "08.",
+        "Marco Collao",
+        "07.",
+        "Paolo Guajardo",
+        "29.",
+        "Marcelo Ortiz",
+        "13.",
+        "Enzo Ferrario",
+        "04.",
+        "Daniel Pina",
         "23.",
         "Esteban Matus",
-        "18.",
-        "Nicolas Aedo"
+        "09.",
+        "Diego Coelho"
       ],
       "away_team": [
         "01.",
         "Fernando de Paul",
         "(G)",
+        "02.",
+        "Jonathan Villagra",
+        "04.",
+        "Joaquin Sosa",
+        "26.",
+        "Diego Ulloa",
+        "28.",
+        "Jeyson Rojas",
+        "05.",
+        "Victor Mendez",
+        "06.",
+        "Tomas Alarcon",
+        "08.",
+        "Alvaro Madrid",
+        "10.",
+        "Lautaro Pastran",
         "23.",
         "Arturo Vidal",
         "19.",
-        "Maximiliano Romero",
-        "08.",
-        "Alvaro Madrid",
-        "06.",
-        "Tomas Alarcon",
-        "05.",
-        "Victor Mendez",
-        "28.",
-        "Jeyson Rojas",
-        "26.",
-        "Diego Ulloa",
-        "04.",
-        "Joaquin Sosa",
-        "02.",
-        "Jonathan Villagra",
-        "10.",
-        "Lautaro Pastran"
+        "Maximiliano Romero"
       ]
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:02.331528"
-  },
-  {
-    "event_id": "345825902",
-    "matchup": "Flandria – Arsenal de Sarandi",
-    "event_url": "https://livetv.sx/enx/eventinfo/345825902__/",
-    "competition": "Argentina. Primera B Metropolitana",
-    "date_time": "7 March at 22:00",
-    "parsed_datetime": "2026-03-07T22:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Flandria",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10662.gif"
-      },
-      {
-        "team_name": "Arsenal de Sarandi",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/423.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:14:02.845361"
-  },
-  {
-    "event_id": "345825901",
-    "matchup": "Ituzaingo – Laferrere",
-    "event_url": "https://livetv.sx/enx/eventinfo/345825901__/",
-    "competition": "Argentina. Primera B Metropolitana",
-    "date_time": "7 March at 22:00",
-    "parsed_datetime": "2026-03-07T22:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Ituzaingo",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10769.gif"
-      },
-      {
-        "team_name": "Laferrere",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10764.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:14:02.961428"
+    "last_updated": "2026-03-07T21:34:29.254747"
   },
   {
     "event_id": "345825903",
@@ -4290,33 +3330,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:03.177845"
-  },
-  {
-    "event_id": "345825905",
-    "matchup": "Deportivo Armenio – Argentino de Merlo",
-    "event_url": "https://livetv.sx/enx/eventinfo/345825905__/",
-    "competition": "Argentina. Primera B Metropolitana",
-    "date_time": "7 March at 22:00",
-    "parsed_datetime": "2026-03-07T22:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Deportivo Armenio",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30271.gif"
-      },
-      {
-        "team_name": "Argentino de Merlo",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34639.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:14:03.276853"
+    "last_updated": "2026-03-07T21:34:29.467662"
   },
   {
     "event_id": "345825904",
@@ -4342,7 +3356,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:03.594513"
+    "last_updated": "2026-03-07T21:34:29.612743"
+  },
+  {
+    "event_id": "345825901",
+    "matchup": "Ituzaingo – Laferrere",
+    "event_url": "https://livetv.sx/enx/eventinfo/345825901__/",
+    "competition": "Argentina. Primera B Metropolitana",
+    "date_time": "7 March at 22:00",
+    "parsed_datetime": "2026-03-07T22:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Ituzaingo",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10769.gif"
+      },
+      {
+        "team_name": "Laferrere",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10764.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:29.713491"
   },
   {
     "event_id": "345825907",
@@ -4368,7 +3408,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:03.634035"
+    "last_updated": "2026-03-07T21:34:30.148787"
   },
   {
     "event_id": "345825906",
@@ -4394,33 +3434,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:03.674485"
-  },
-  {
-    "event_id": "345825909",
-    "matchup": "Brown de Adrogue – Talleres Remedios",
-    "event_url": "https://livetv.sx/enx/eventinfo/345825909__/",
-    "competition": "Argentina. Primera B Metropolitana",
-    "date_time": "7 March at 22:00",
-    "parsed_datetime": "2026-03-07T22:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Brown de Adrogue",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1192.gif"
-      },
-      {
-        "team_name": "Talleres Remedios",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10525.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:14:04.082839"
+    "last_updated": "2026-03-07T21:34:30.176449"
   },
   {
     "event_id": "345825910",
@@ -4446,7 +3460,85 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:04.239890"
+    "last_updated": "2026-03-07T21:34:30.190558"
+  },
+  {
+    "event_id": "345825909",
+    "matchup": "Brown de Adrogue – Talleres Remedios",
+    "event_url": "https://livetv.sx/enx/eventinfo/345825909__/",
+    "competition": "Argentina. Primera B Metropolitana",
+    "date_time": "7 March at 22:00",
+    "parsed_datetime": "2026-03-07T22:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Brown de Adrogue",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1192.gif"
+      },
+      {
+        "team_name": "Talleres Remedios",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10525.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:30.344998"
+  },
+  {
+    "event_id": "345825908",
+    "matchup": "Comunicaciones – UAI Urquiza",
+    "event_url": "https://livetv.sx/enx/eventinfo/345825908__/",
+    "competition": "Argentina. Primera B Metropolitana",
+    "date_time": "7 March at 22:00",
+    "parsed_datetime": "2026-03-07T22:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Comunicaciones",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/544.gif"
+      },
+      {
+        "team_name": "UAI Urquiza",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/33448.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:30.491646"
+  },
+  {
+    "event_id": "345825905",
+    "matchup": "Deportivo Armenio – Argentino de Merlo",
+    "event_url": "https://livetv.sx/enx/eventinfo/345825905__/",
+    "competition": "Argentina. Primera B Metropolitana",
+    "date_time": "7 March at 22:00",
+    "parsed_datetime": "2026-03-07T22:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Deportivo Armenio",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30271.gif"
+      },
+      {
+        "team_name": "Argentino de Merlo",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34639.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:30.491661"
   },
   {
     "event_id": "345827241",
@@ -4515,22 +3607,22 @@
         "(G)",
         "05.",
         "Diego Hernandez",
-        "29.",
-        "Hernan Lopes",
         "26.",
         "Dylan Lozano",
+        "29.",
+        "Hernan Lopes",
         "32.",
         "Javier Mena",
-        "10.",
-        "Bryan Uruena",
-        "19.",
-        "Frank Lozano",
         "15.",
         "Fabian Charales",
-        "24.",
-        "Juan Avalo",
+        "10.",
+        "Bryan Uruena",
         "25.",
         "Juan Roa",
+        "24.",
+        "Juan Avalo",
+        "19.",
+        "Frank Lozano",
         "09.",
         "Jorge Rivaldo"
       ],
@@ -4538,6 +3630,18 @@
         "01.",
         "David Ospina",
         "(G)",
+        "08.",
+        "Mateus Uribe",
+        "20.",
+        "Milton Casco",
+        "16.",
+        "William Tesillo",
+        "06.",
+        "Felipe Roman",
+        "04.",
+        "Cesar Haydar",
+        "13.",
+        "Nicolas Rodriguez",
         "17.",
         "Cristian Arango",
         "21.",
@@ -4545,40 +3649,63 @@
         "29.",
         "Andres Sarmiento",
         "09.",
-        "Alfredo Morelos",
-        "04.",
-        "Cesar Haydar",
-        "06.",
-        "Felipe Roman",
-        "16.",
-        "William Tesillo",
-        "13.",
-        "Nicolas Rodriguez",
-        "08.",
-        "Mateus Uribe",
-        "20.",
-        "Milton Casco"
+        "Alfredo Morelos"
       ]
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:04.759070"
+    "last_updated": "2026-03-07T21:34:30.735735"
   },
   {
-    "event_id": "345825908",
-    "matchup": "Comunicaciones – UAI Urquiza",
-    "event_url": "https://livetv.sx/enx/eventinfo/345825908__/",
-    "competition": "Argentina. Primera B Metropolitana",
+    "event_id": "346276028",
+    "matchup": "Barcelona SC – Emelec",
+    "event_url": "https://livetv.sx/enx/eventinfo/346276028__/",
+    "competition": "Ecuador. Serie A",
+    "date_time": "7 March at 22:30",
+    "parsed_datetime": "2026-03-07T22:30:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Barcelona SC",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34332.gif"
+      },
+      {
+        "team_name": "Emelec",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34466.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970184&lang=en&eid=346276028&lid=2970184&ci=307&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:31.322692"
+  },
+  {
+    "event_id": "349738226",
+    "matchup": "Botafogo-RJ – Bangu",
+    "event_url": "https://livetv.sx/enx/eventinfo/349738226__/",
+    "competition": "Brazil. Campeonato Carioca",
     "date_time": "7 March at 22:00",
     "parsed_datetime": "2026-03-07T22:00:00",
     "is_live": true,
     "team_logos": [
       {
-        "team_name": "Comunicaciones",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/544.gif"
+        "team_name": "Botafogo-RJ",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/433.gif"
       },
       {
-        "team_name": "UAI Urquiza",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/33448.gif"
+        "team_name": "Bangu",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/5305.gif"
       }
     ],
     "streams": [],
@@ -4587,7 +3714,42 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:04.915187"
+    "last_updated": "2026-03-07T21:34:31.373746"
+  },
+  {
+    "event_id": "345844300",
+    "matchup": "Independiente – Mushuc Runa",
+    "event_url": "https://livetv.sx/enx/eventinfo/345844300__/",
+    "competition": "Ecuador. Serie A",
+    "date_time": "7 March at 22:30",
+    "parsed_datetime": "2026-03-07T22:30:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Independiente",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/925.gif"
+      },
+      {
+        "team_name": "Mushuc Runa",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7059.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970182&lang=en&eid=345844300&lid=2970182&ci=307&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:31.435849"
   },
   {
     "event_id": "346252228",
@@ -4622,7 +3784,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:05.077700"
+    "last_updated": "2026-03-07T21:34:31.507791"
+  },
+  {
+    "event_id": "345839828",
+    "matchup": "Chaco For Ever – Colon Santa Fe",
+    "event_url": "https://livetv.sx/enx/eventinfo/345839828__/",
+    "competition": "Argentina. Primera Nacional",
+    "date_time": "7 March at 22:30",
+    "parsed_datetime": "2026-03-07T22:30:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Chaco For Ever",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34552.gif"
+      },
+      {
+        "team_name": "Colon Santa Fe",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/426.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:31.655600"
   },
   {
     "event_id": "346254507",
@@ -4631,7 +3819,7 @@
     "competition": "Paraguay. Primera Division",
     "date_time": "7 March at 22:30",
     "parsed_datetime": "2026-03-07T22:30:00",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Guarani As",
@@ -4657,155 +3845,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:05.203863"
-  },
-  {
-    "event_id": "345844300",
-    "matchup": "Independiente – Mushuc Runa",
-    "event_url": "https://livetv.sx/enx/eventinfo/345844300__/",
-    "competition": "Ecuador. Serie A",
-    "date_time": "7 March at 22:30",
-    "parsed_datetime": "2026-03-07T22:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Independiente",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/925.gif"
-      },
-      {
-        "team_name": "Mushuc Runa",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7059.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970182&lang=en&eid=345844300&lid=2970182&ci=307&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:14:05.203882"
-  },
-  {
-    "event_id": "349738226",
-    "matchup": "Botafogo-RJ – Bangu",
-    "event_url": "https://livetv.sx/enx/eventinfo/349738226__/",
-    "competition": "Brazil. Campeonato Carioca",
-    "date_time": "7 March at 22:00",
-    "parsed_datetime": "2026-03-07T22:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Botafogo-RJ",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/433.gif"
-      },
-      {
-        "team_name": "Bangu",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/5305.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:14:05.203889"
-  },
-  {
-    "event_id": "346276028",
-    "matchup": "Barcelona SC – Emelec",
-    "event_url": "https://livetv.sx/enx/eventinfo/346276028__/",
-    "competition": "Ecuador. Serie A",
-    "date_time": "7 March at 22:30",
-    "parsed_datetime": "2026-03-07T22:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Barcelona SC",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34332.gif"
-      },
-      {
-        "team_name": "Emelec",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34466.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv873.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970184&lang=en&eid=346276028&lid=2970184&ci=307&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:14:05.346730"
-  },
-  {
-    "event_id": "345839828",
-    "matchup": "Chaco For Ever – Colon Santa Fe",
-    "event_url": "https://livetv.sx/enx/eventinfo/345839828__/",
-    "competition": "Argentina. Primera Nacional",
-    "date_time": "7 March at 22:30",
-    "parsed_datetime": "2026-03-07T22:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Chaco For Ever",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34552.gif"
-      },
-      {
-        "team_name": "Colon Santa Fe",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/426.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:14:05.788725"
-  },
-  {
-    "event_id": "345855323",
-    "matchup": "KACM – HUSA",
-    "event_url": "https://livetv.sx/enx/eventinfo/345855323__/",
-    "competition": "Morocco. Botola Pro",
-    "date_time": "7 March at 23:00",
-    "parsed_datetime": "2026-03-07T23:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "KACM",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6969.gif"
-      },
-      {
-        "team_name": "HUSA",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/899.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:14:06.080667"
+    "last_updated": "2026-03-07T21:34:31.818053"
   },
   {
     "event_id": "346273282",
@@ -4831,7 +3871,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:06.151077"
+    "last_updated": "2026-03-07T21:34:31.918829"
   },
   {
     "event_id": "345826340",
@@ -4874,33 +3914,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:06.316308"
-  },
-  {
-    "event_id": "345855321",
-    "matchup": "RS Zemamra – ASFAR",
-    "event_url": "https://livetv.sx/enx/eventinfo/345855321__/",
-    "competition": "Morocco. Botola Pro",
-    "date_time": "7 March at 23:00",
-    "parsed_datetime": "2026-03-07T23:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "RS Zemamra",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6549.gif"
-      },
-      {
-        "team_name": "ASFAR",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30579.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-03-07T21:14:06.464559"
+    "last_updated": "2026-03-07T21:34:32.226175"
   },
   {
     "event_id": "351269220",
@@ -4926,24 +3940,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:06.816835"
+    "last_updated": "2026-03-07T21:34:32.471896"
   },
   {
-    "event_id": "345853797",
-    "matchup": "Temperley – San Martin T",
-    "event_url": "https://livetv.sx/enx/eventinfo/345853797__/",
-    "competition": "Argentina. Primera Nacional",
+    "event_id": "345855321",
+    "matchup": "RS Zemamra – ASFAR",
+    "event_url": "https://livetv.sx/enx/eventinfo/345855321__/",
+    "competition": "Morocco. Botola Pro",
     "date_time": "7 March at 23:00",
     "parsed_datetime": "2026-03-07T23:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Temperley",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1174.gif"
+        "team_name": "RS Zemamra",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6549.gif"
       },
       {
-        "team_name": "San Martin T",
-        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10661.gif"
+        "team_name": "ASFAR",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30579.gif"
       }
     ],
     "streams": [],
@@ -4952,7 +3966,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:06.842178"
+    "last_updated": "2026-03-07T21:34:32.507038"
   },
   {
     "event_id": "345855322",
@@ -4978,7 +3992,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:06.856025"
+    "last_updated": "2026-03-07T21:34:32.596677"
   },
   {
     "event_id": "351258614",
@@ -5004,7 +4018,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:07.183196"
+    "last_updated": "2026-03-07T21:34:32.666239"
+  },
+  {
+    "event_id": "345855323",
+    "matchup": "KACM – HUSA",
+    "event_url": "https://livetv.sx/enx/eventinfo/345855323__/",
+    "competition": "Morocco. Botola Pro",
+    "date_time": "7 March at 23:00",
+    "parsed_datetime": "2026-03-07T23:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "KACM",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6969.gif"
+      },
+      {
+        "team_name": "HUSA",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/899.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:32.681723"
   },
   {
     "event_id": "350069426",
@@ -5039,7 +4079,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:07.183216"
+    "last_updated": "2026-03-07T21:34:32.834889"
+  },
+  {
+    "event_id": "345853797",
+    "matchup": "Temperley – San Martin T",
+    "event_url": "https://livetv.sx/enx/eventinfo/345853797__/",
+    "competition": "Argentina. Primera Nacional",
+    "date_time": "7 March at 23:00",
+    "parsed_datetime": "2026-03-07T23:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Temperley",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1174.gif"
+      },
+      {
+        "team_name": "San Martin T",
+        "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10661.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-03-07T21:34:32.847958"
   },
   {
     "event_id": "350927980",
@@ -5059,13 +4125,22 @@
         "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/37365.gif"
       }
     ],
-    "streams": [],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv873.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=jU3owZPh3Zk&lang=en&eid=350927980&lid=2969827&ci=7303&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:07.325283"
+    "last_updated": "2026-03-07T21:34:33.162331"
   },
   {
     "event_id": "345867425",
@@ -5091,6 +4166,6 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-03-07T21:14:07.372429"
+    "last_updated": "2026-03-07T21:34:33.180003"
   }
 ]
