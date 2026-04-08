@@ -8,13 +8,22 @@
     "parsed_datetime": "",
     "is_live": false,
     "team_logos": [],
-    "streams": [],
+    "streams": [
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv874.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv874.me/webplayer2.php?t=acestream&c=3e1f6de8444abb15efeadb97952d6324e5b6ed9f&lang=en&eid=365319261&lid=2783167&ci=600&si=46",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:44.587918"
+    "last_updated": "2026-04-08T06:49:32.663933"
   },
   {
     "event_id": "365509076",
@@ -40,41 +49,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:45.167297"
-  },
-  {
-    "event_id": "365109162",
-    "matchup": "2026 European Championship",
-    "event_url": "https://livetv.sx/enx/eventinfo/365109162_2026_european_championship/",
-    "competition": "General",
-    "date_time": "8:00 (European Championship)",
-    "parsed_datetime": "",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:45.768826"
-  },
-  {
-    "event_id": "365508254",
-    "matchup": "Uruguay U18 (W) – Ethiopia U18 (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/365508254_uruguay_u18_w_ethiopia_u18_w/",
-    "competition": "Friendly Tournament. National Teams",
-    "date_time": "8 April at 9:30",
-    "parsed_datetime": "2026-04-08T09:30:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:45.802083"
+    "last_updated": "2026-04-08T06:49:33.307971"
   },
   {
     "event_id": "365508253",
@@ -91,7 +66,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:45.929570"
+    "last_updated": "2026-04-08T06:49:33.770519"
+  },
+  {
+    "event_id": "365109162",
+    "matchup": "2026 European Championship",
+    "event_url": "https://livetv.sx/enx/eventinfo/365109162_2026_european_championship/",
+    "competition": "General",
+    "date_time": "8:00 (European Championship)",
+    "parsed_datetime": "",
+    "is_live": false,
+    "team_logos": [],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv874.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv874.me/webplayer2.php?t=youtube&c=Z_6wqYsqytA&lang=en&eid=365109162&lid=2992920&ci=691&si=31",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:33.855853"
   },
   {
     "event_id": "365489191",
@@ -325,23 +326,162 @@
         "pts": "1"
       }
     ],
-    "last_updated": "2026-04-08T05:01:46.004375"
+    "last_updated": "2026-04-08T06:49:33.939230"
   },
   {
-    "event_id": "365590605",
-    "matchup": "Betov / Ostapenkov –  Uchida / Tajima",
-    "event_url": "https://livetv.sx/enx/eventinfo/365590605_betov__ostapenkov_uchida__tajima/",
+    "event_id": "365508254",
+    "matchup": "Uruguay U18 (W) – Ethiopia U18 (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/365508254_uruguay_u18_w_ethiopia_u18_w/",
+    "competition": "Friendly Tournament. National Teams",
+    "date_time": "8 April at 9:30",
+    "parsed_datetime": "2026-04-08T09:30:00",
+    "is_live": false,
+    "team_logos": [],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:34.008127"
+  },
+  {
+    "event_id": "361352518",
+    "matchup": "Coquimbo Unido – Nacional M",
+    "event_url": "https://livetv.sx/enx/eventinfo/361352518__/",
+    "competition": "Copa Libertadores",
+    "date_time": "8 April at 23:00",
+    "parsed_datetime": "2026-04-08T23:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Coquimbo Unido",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/7801.gif"
+      },
+      {
+        "team_name": "Nacional M",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/942.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:34.069805"
+  },
+  {
+    "event_id": "361352517",
+    "matchup": "Mirassol – Lanus",
+    "event_url": "https://livetv.sx/enx/eventinfo/361352517__/",
+    "competition": "Copa Libertadores",
+    "date_time": "8 April at 23:00",
+    "parsed_datetime": "2026-04-08T23:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Mirassol",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/30289.gif"
+      },
+      {
+        "team_name": "Lanus",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/34139.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:34.157680"
+  },
+  {
+    "event_id": "361213954",
+    "matchup": "Philippine Army –  Kaya",
+    "event_url": "https://livetv.sx/enx/eventinfo/361213954_philippine_army_kaya/",
     "competition": "General",
-    "date_time": "8:40 (ATP Challenger. Unin. Doubles)",
+    "date_time": "8:00 (Philippines. PFL)",
     "parsed_datetime": "",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Betov / Ostapenkov",
+        "team_name": "Philippine Army",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/29523.gif"
+      },
+      {
+        "team_name": "Kaya",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/14917.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv874.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv874.me/webplayer2.php?t=youtube&c=mil30yAoSDI&lang=en&eid=361213954&lid=2992434&ci=1076&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:34.223858"
+  },
+  {
+    "event_id": "365645777",
+    "matchup": "The Cong –  Hanoi",
+    "event_url": "https://livetv.sx/enx/eventinfo/365645777_the_cong_hanoi/",
+    "competition": "General",
+    "date_time": "8:30 (Vietnam. Premier League)",
+    "parsed_datetime": "",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "The Cong",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/21433.gif"
+      },
+      {
+        "team_name": "Hanoi",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/21438.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv874.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv874.me/webplayer2.php?t=youtube&c=4IltdCQA-_k&lang=en&eid=365645777&lid=2992921&ci=3191&si=5",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:34.322601"
+  },
+  {
+    "event_id": "365590604",
+    "matchup": "Boulais / Wendelken –  Buvaysar / Hussey",
+    "event_url": "https://livetv.sx/enx/eventinfo/365590604_boulais__wendelken_buvaysar__hussey/",
+    "competition": "General",
+    "date_time": "8:30 (ATP Challenger. Unin. Doubles)",
+    "parsed_datetime": "",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Boulais / Wendelken",
         "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/.gif"
       },
       {
-        "team_name": "Uchida / Tajima",
+        "team_name": "Buvaysar / Hussey",
         "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/.gif"
       }
     ],
@@ -351,7 +491,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:46.199988"
+    "last_updated": "2026-04-08T06:49:34.383807"
   },
   {
     "event_id": "361354468",
@@ -377,24 +517,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:46.200004"
+    "last_updated": "2026-04-08T06:49:34.401882"
   },
   {
-    "event_id": "365645777",
-    "matchup": "The Cong –  Hanoi",
-    "event_url": "https://livetv.sx/enx/eventinfo/365645777_the_cong_hanoi/",
+    "event_id": "365590595",
+    "matchup": "Sun Fajing –  Philip Sekulic",
+    "event_url": "https://livetv.sx/enx/eventinfo/365590595_sun_fajing_philip_sekulic/",
     "competition": "General",
-    "date_time": "8:30 (Vietnam. Premier League)",
+    "date_time": "8:40 (ATP Challenger. Unin)",
     "parsed_datetime": "",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "The Cong",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/21433.gif"
+        "team_name": "Sun Fajing",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/0.gif"
       },
       {
-        "team_name": "Hanoi",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/21438.gif"
+        "team_name": "Philip Sekulic",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/19699.gif"
       }
     ],
     "streams": [],
@@ -403,24 +543,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:46.387341"
+    "last_updated": "2026-04-08T06:49:34.429337"
   },
   {
-    "event_id": "361284427",
-    "matchup": "Braga – Real Betis",
-    "event_url": "https://livetv.sx/enx/eventinfo/361284427__/",
-    "competition": "Europa League",
-    "date_time": "8 April at 17:45",
-    "parsed_datetime": "2026-04-08T17:45:00",
+    "event_id": "365590605",
+    "matchup": "Betov / Ostapenkov –  Uchida / Tajima",
+    "event_url": "https://livetv.sx/enx/eventinfo/365590605_betov__ostapenkov_uchida__tajima/",
+    "competition": "General",
+    "date_time": "8:40 (ATP Challenger. Unin. Doubles)",
+    "parsed_datetime": "",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Braga",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/3775.gif"
+        "team_name": "Betov / Ostapenkov",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/.gif"
       },
       {
-        "team_name": "Real Betis",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/42.gif"
+        "team_name": "Uchida / Tajima",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/.gif"
       }
     ],
     "streams": [],
@@ -428,225 +568,8 @@
       "home_team": [],
       "away_team": []
     },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Lyon",
-        "played": "8",
-        "pts": "21"
-      },
-      {
-        "pos": "2",
-        "team": "Aston Villa",
-        "played": "8",
-        "pts": "21"
-      },
-      {
-        "pos": "3",
-        "team": "Midtjylland",
-        "played": "8",
-        "pts": "19"
-      },
-      {
-        "pos": "4",
-        "team": "Real Betis",
-        "played": "8",
-        "pts": "17"
-      },
-      {
-        "pos": "5",
-        "team": "Porto",
-        "played": "8",
-        "pts": "17"
-      },
-      {
-        "pos": "6",
-        "team": "Braga",
-        "played": "8",
-        "pts": "17"
-      },
-      {
-        "pos": "7",
-        "team": "Freiburg",
-        "played": "8",
-        "pts": "17"
-      },
-      {
-        "pos": "8",
-        "team": "Roma",
-        "played": "8",
-        "pts": "16"
-      },
-      {
-        "pos": "9",
-        "team": "Genk",
-        "played": "8",
-        "pts": "16"
-      },
-      {
-        "pos": "10",
-        "team": "Bologna",
-        "played": "8",
-        "pts": "15"
-      },
-      {
-        "pos": "11",
-        "team": "Stuttgart",
-        "played": "8",
-        "pts": "15"
-      },
-      {
-        "pos": "12",
-        "team": "Ferencvaros",
-        "played": "8",
-        "pts": "15"
-      },
-      {
-        "pos": "13",
-        "team": "Nottingham Forest",
-        "played": "8",
-        "pts": "14"
-      },
-      {
-        "pos": "14",
-        "team": "Viktoria Plzen",
-        "played": "8",
-        "pts": "14"
-      },
-      {
-        "pos": "15",
-        "team": "Crvena Zvezda",
-        "played": "8",
-        "pts": "14"
-      },
-      {
-        "pos": "16",
-        "team": "Celta",
-        "played": "8",
-        "pts": "13"
-      },
-      {
-        "pos": "17",
-        "team": "PAOK",
-        "played": "8",
-        "pts": "12"
-      },
-      {
-        "pos": "18",
-        "team": "Lille",
-        "played": "8",
-        "pts": "12"
-      },
-      {
-        "pos": "19",
-        "team": "Fenerbahce",
-        "played": "8",
-        "pts": "12"
-      },
-      {
-        "pos": "20",
-        "team": "Panathinaikos",
-        "played": "8",
-        "pts": "12"
-      },
-      {
-        "pos": "21",
-        "team": "Celtic",
-        "played": "8",
-        "pts": "11"
-      },
-      {
-        "pos": "22",
-        "team": "Ludogorets",
-        "played": "8",
-        "pts": "10"
-      },
-      {
-        "pos": "23",
-        "team": "Dinamo Zagreb",
-        "played": "8",
-        "pts": "10"
-      },
-      {
-        "pos": "24",
-        "team": "Brann",
-        "played": "8",
-        "pts": "9"
-      },
-      {
-        "pos": "25",
-        "team": "Young Boys",
-        "played": "8",
-        "pts": "9"
-      },
-      {
-        "pos": "26",
-        "team": "Sturm",
-        "played": "8",
-        "pts": "7"
-      },
-      {
-        "pos": "27",
-        "team": "FCSB",
-        "played": "8",
-        "pts": "7"
-      },
-      {
-        "pos": "28",
-        "team": "Go Ahead Eagles",
-        "played": "8",
-        "pts": "7"
-      },
-      {
-        "pos": "29",
-        "team": "Feyenoord",
-        "played": "8",
-        "pts": "6"
-      },
-      {
-        "pos": "30",
-        "team": "Basel",
-        "played": "8",
-        "pts": "6"
-      },
-      {
-        "pos": "31",
-        "team": "RB Salzburg",
-        "played": "8",
-        "pts": "6"
-      },
-      {
-        "pos": "32",
-        "team": "Rangers",
-        "played": "8",
-        "pts": "4"
-      },
-      {
-        "pos": "33",
-        "team": "Nice",
-        "played": "8",
-        "pts": "3"
-      },
-      {
-        "pos": "34",
-        "team": "Utrecht",
-        "played": "8",
-        "pts": "1"
-      },
-      {
-        "pos": "35",
-        "team": "Malmoe",
-        "played": "8",
-        "pts": "1"
-      },
-      {
-        "pos": "36",
-        "team": "Maccabi Tel Aviv",
-        "played": "8",
-        "pts": "1"
-      }
-    ],
-    "last_updated": "2026-04-08T05:01:46.499232"
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:34.505908"
   },
   {
     "event_id": "361314908",
@@ -889,24 +812,24 @@
         "pts": "1"
       }
     ],
-    "last_updated": "2026-04-08T05:01:46.499251"
+    "last_updated": "2026-04-08T06:49:34.552046"
   },
   {
-    "event_id": "361213954",
-    "matchup": "Philippine Army –  Kaya",
-    "event_url": "https://livetv.sx/enx/eventinfo/361213954_philippine_army_kaya/",
-    "competition": "General",
-    "date_time": "8:00 (Philippines. PFL)",
-    "parsed_datetime": "",
+    "event_id": "361284427",
+    "matchup": "Braga – Real Betis",
+    "event_url": "https://livetv.sx/enx/eventinfo/361284427__/",
+    "competition": "Europa League",
+    "date_time": "8 April at 17:45",
+    "parsed_datetime": "2026-04-08T17:45:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Philippine Army",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/29523.gif"
+        "team_name": "Braga",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/3775.gif"
       },
       {
-        "team_name": "Kaya",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/14917.gif"
+        "team_name": "Real Betis",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/42.gif"
       }
     ],
     "streams": [],
@@ -914,112 +837,242 @@
       "home_team": [],
       "away_team": []
     },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:46.581610"
-  },
-  {
-    "event_id": "365590595",
-    "matchup": "Sun Fajing –  Philip Sekulic",
-    "event_url": "https://livetv.sx/enx/eventinfo/365590595_sun_fajing_philip_sekulic/",
-    "competition": "General",
-    "date_time": "8:40 (ATP Challenger. Unin)",
-    "parsed_datetime": "",
-    "is_live": false,
-    "team_logos": [
+    "league_table": [
       {
-        "team_name": "Sun Fajing",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/0.gif"
+        "pos": "1",
+        "team": "Lyon",
+        "played": "8",
+        "pts": "21"
       },
       {
-        "team_name": "Philip Sekulic",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/19699.gif"
+        "pos": "2",
+        "team": "Aston Villa",
+        "played": "8",
+        "pts": "21"
+      },
+      {
+        "pos": "3",
+        "team": "Midtjylland",
+        "played": "8",
+        "pts": "19"
+      },
+      {
+        "pos": "4",
+        "team": "Real Betis",
+        "played": "8",
+        "pts": "17"
+      },
+      {
+        "pos": "5",
+        "team": "Porto",
+        "played": "8",
+        "pts": "17"
+      },
+      {
+        "pos": "6",
+        "team": "Braga",
+        "played": "8",
+        "pts": "17"
+      },
+      {
+        "pos": "7",
+        "team": "Freiburg",
+        "played": "8",
+        "pts": "17"
+      },
+      {
+        "pos": "8",
+        "team": "Roma",
+        "played": "8",
+        "pts": "16"
+      },
+      {
+        "pos": "9",
+        "team": "Genk",
+        "played": "8",
+        "pts": "16"
+      },
+      {
+        "pos": "10",
+        "team": "Bologna",
+        "played": "8",
+        "pts": "15"
+      },
+      {
+        "pos": "11",
+        "team": "Stuttgart",
+        "played": "8",
+        "pts": "15"
+      },
+      {
+        "pos": "12",
+        "team": "Ferencvaros",
+        "played": "8",
+        "pts": "15"
+      },
+      {
+        "pos": "13",
+        "team": "Nottingham Forest",
+        "played": "8",
+        "pts": "14"
+      },
+      {
+        "pos": "14",
+        "team": "Viktoria Plzen",
+        "played": "8",
+        "pts": "14"
+      },
+      {
+        "pos": "15",
+        "team": "Crvena Zvezda",
+        "played": "8",
+        "pts": "14"
+      },
+      {
+        "pos": "16",
+        "team": "Celta",
+        "played": "8",
+        "pts": "13"
+      },
+      {
+        "pos": "17",
+        "team": "PAOK",
+        "played": "8",
+        "pts": "12"
+      },
+      {
+        "pos": "18",
+        "team": "Lille",
+        "played": "8",
+        "pts": "12"
+      },
+      {
+        "pos": "19",
+        "team": "Fenerbahce",
+        "played": "8",
+        "pts": "12"
+      },
+      {
+        "pos": "20",
+        "team": "Panathinaikos",
+        "played": "8",
+        "pts": "12"
+      },
+      {
+        "pos": "21",
+        "team": "Celtic",
+        "played": "8",
+        "pts": "11"
+      },
+      {
+        "pos": "22",
+        "team": "Ludogorets",
+        "played": "8",
+        "pts": "10"
+      },
+      {
+        "pos": "23",
+        "team": "Dinamo Zagreb",
+        "played": "8",
+        "pts": "10"
+      },
+      {
+        "pos": "24",
+        "team": "Brann",
+        "played": "8",
+        "pts": "9"
+      },
+      {
+        "pos": "25",
+        "team": "Young Boys",
+        "played": "8",
+        "pts": "9"
+      },
+      {
+        "pos": "26",
+        "team": "Sturm",
+        "played": "8",
+        "pts": "7"
+      },
+      {
+        "pos": "27",
+        "team": "FCSB",
+        "played": "8",
+        "pts": "7"
+      },
+      {
+        "pos": "28",
+        "team": "Go Ahead Eagles",
+        "played": "8",
+        "pts": "7"
+      },
+      {
+        "pos": "29",
+        "team": "Feyenoord",
+        "played": "8",
+        "pts": "6"
+      },
+      {
+        "pos": "30",
+        "team": "Basel",
+        "played": "8",
+        "pts": "6"
+      },
+      {
+        "pos": "31",
+        "team": "RB Salzburg",
+        "played": "8",
+        "pts": "6"
+      },
+      {
+        "pos": "32",
+        "team": "Rangers",
+        "played": "8",
+        "pts": "4"
+      },
+      {
+        "pos": "33",
+        "team": "Nice",
+        "played": "8",
+        "pts": "3"
+      },
+      {
+        "pos": "34",
+        "team": "Utrecht",
+        "played": "8",
+        "pts": "1"
+      },
+      {
+        "pos": "35",
+        "team": "Malmoe",
+        "played": "8",
+        "pts": "1"
+      },
+      {
+        "pos": "36",
+        "team": "Maccabi Tel Aviv",
+        "played": "8",
+        "pts": "1"
       }
     ],
+    "last_updated": "2026-04-08T06:49:34.761620"
+  },
+  {
+    "event_id": "365091099",
+    "matchup": "Chinese Taipei U20 (W) – India U20 (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/365091099_chinese_taipei_u20_w_india_u20_w/",
+    "competition": "Women. Asian Cup U20",
+    "date_time": "8 April at 10:00",
+    "parsed_datetime": "2026-04-08T10:00:00",
+    "is_live": false,
+    "team_logos": [],
     "streams": [],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:46.581627"
-  },
-  {
-    "event_id": "365590604",
-    "matchup": "Boulais / Wendelken –  Buvaysar / Hussey",
-    "event_url": "https://livetv.sx/enx/eventinfo/365590604_boulais__wendelken_buvaysar__hussey/",
-    "competition": "General",
-    "date_time": "8:30 (ATP Challenger. Unin. Doubles)",
-    "parsed_datetime": "",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Boulais / Wendelken",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/.gif"
-      },
-      {
-        "team_name": "Buvaysar / Hussey",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:46.685446"
-  },
-  {
-    "event_id": "361352518",
-    "matchup": "Coquimbo Unido – Nacional M",
-    "event_url": "https://livetv.sx/enx/eventinfo/361352518__/",
-    "competition": "Copa Libertadores",
-    "date_time": "8 April at 23:00",
-    "parsed_datetime": "2026-04-08T23:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Coquimbo Unido",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/7801.gif"
-      },
-      {
-        "team_name": "Nacional M",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/942.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:46.685461"
-  },
-  {
-    "event_id": "361352517",
-    "matchup": "Mirassol – Lanus",
-    "event_url": "https://livetv.sx/enx/eventinfo/361352517__/",
-    "competition": "Copa Libertadores",
-    "date_time": "8 April at 23:00",
-    "parsed_datetime": "2026-04-08T23:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Mirassol",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/30289.gif"
-      },
-      {
-        "team_name": "Lanus",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/34139.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:46.768184"
+    "last_updated": "2026-04-08T06:49:34.761637"
   },
   {
     "event_id": "361314907",
@@ -1262,24 +1315,7 @@
         "pts": "1"
       }
     ],
-    "last_updated": "2026-04-08T05:01:46.780319"
-  },
-  {
-    "event_id": "365091099",
-    "matchup": "Chinese Taipei U20 (W) – India U20 (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/365091099_chinese_taipei_u20_w_india_u20_w/",
-    "competition": "Women. Asian Cup U20",
-    "date_time": "8 April at 10:00",
-    "parsed_datetime": "2026-04-08T10:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:46.832718"
+    "last_updated": "2026-04-08T06:49:34.793131"
   },
   {
     "event_id": "365091100",
@@ -1296,7 +1332,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:46.943931"
+    "last_updated": "2026-04-08T06:49:34.824393"
   },
   {
     "event_id": "365509065",
@@ -1322,85 +1358,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:46.976801"
-  },
-  {
-    "event_id": "365391408",
-    "matchup": "South Melbourne (W) –  Boroondara Eagles (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/365391408__/",
-    "competition": "Australia. Women. NPL Victoria",
-    "date_time": "8 April at 10:30",
-    "parsed_datetime": "2026-04-08T10:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "South Melbourne (W)",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/20944.gif"
-      },
-      {
-        "team_name": "Boroondara Eagles (W)",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/33977.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:46.992256"
-  },
-  {
-    "event_id": "365509066",
-    "matchup": "Oleksandriya 2 – Dinaz",
-    "event_url": "https://livetv.sx/enx/eventinfo/365509066_oleksandriya_2_dinaz/",
-    "competition": "Ukraine. Second League",
-    "date_time": "8 April at 11:00",
-    "parsed_datetime": "2026-04-08T11:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Oleksandriya 2",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/51406.gif"
-      },
-      {
-        "team_name": "Dinaz",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/28412.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:47.044783"
-  },
-  {
-    "event_id": "361254315",
-    "matchup": "Gamba Osaka – Bangkok Utd",
-    "event_url": "https://livetv.sx/enx/eventinfo/361254315__/",
-    "competition": "AFC Champions League 2",
-    "date_time": "8 April at 11:00",
-    "parsed_datetime": "2026-04-08T11:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Gamba Osaka",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/33063.gif"
-      },
-      {
-        "team_name": "Bangkok Utd",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/8195.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:47.094743"
+    "last_updated": "2026-04-08T06:49:34.875175"
   },
   {
     "event_id": "362801259",
@@ -1426,7 +1384,102 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:47.181483"
+    "last_updated": "2026-04-08T06:49:34.963366"
+  },
+  {
+    "event_id": "365391408",
+    "matchup": "South Melbourne (W) –  Boroondara Eagles (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/365391408__/",
+    "competition": "Australia. Women. NPL Victoria",
+    "date_time": "8 April at 10:30",
+    "parsed_datetime": "2026-04-08T10:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "South Melbourne (W)",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/20944.gif"
+      },
+      {
+        "team_name": "Boroondara Eagles (W)",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/33977.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:34.976881"
+  },
+  {
+    "event_id": "365509066",
+    "matchup": "Oleksandriya 2 – Dinaz",
+    "event_url": "https://livetv.sx/enx/eventinfo/365509066_oleksandriya_2_dinaz/",
+    "competition": "Ukraine. Second League",
+    "date_time": "8 April at 11:00",
+    "parsed_datetime": "2026-04-08T11:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Oleksandriya 2",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/51406.gif"
+      },
+      {
+        "team_name": "Dinaz",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/28412.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:35.027641"
+  },
+  {
+    "event_id": "361254315",
+    "matchup": "Gamba Osaka – Bangkok Utd",
+    "event_url": "https://livetv.sx/enx/eventinfo/361254315__/",
+    "competition": "AFC Champions League 2",
+    "date_time": "8 April at 11:00",
+    "parsed_datetime": "2026-04-08T11:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Gamba Osaka",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/33063.gif"
+      },
+      {
+        "team_name": "Bangkok Utd",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/8195.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:35.119760"
+  },
+  {
+    "event_id": "365509067",
+    "matchup": "Fenix Mariupol – Metalurh Zp",
+    "event_url": "https://livetv.sx/enx/eventinfo/365509067_fenix_mariupol_metalurh_zp/",
+    "competition": "Ukraine. First League",
+    "date_time": "8 April at 11:30",
+    "parsed_datetime": "2026-04-08T11:30:00",
+    "is_live": false,
+    "team_logos": [],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:35.127900"
   },
   {
     "event_id": "365509068",
@@ -1452,15 +1505,15 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:47.230965"
+    "last_updated": "2026-04-08T06:49:35.179255"
   },
   {
-    "event_id": "365509067",
-    "matchup": "Fenix Mariupol – Metalurh Zp",
-    "event_url": "https://livetv.sx/enx/eventinfo/365509067_fenix_mariupol_metalurh_zp/",
+    "event_id": "365509069",
+    "matchup": "Vorskla – Probiy",
+    "event_url": "https://livetv.sx/enx/eventinfo/365509069_vorskla_probiy/",
     "competition": "Ukraine. First League",
-    "date_time": "8 April at 11:30",
-    "parsed_datetime": "2026-04-08T11:30:00",
+    "date_time": "8 April at 12:15",
+    "parsed_datetime": "2026-04-08T12:15:00",
     "is_live": false,
     "team_logos": [],
     "streams": [],
@@ -1469,7 +1522,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:47.290960"
+    "last_updated": "2026-04-08T06:49:35.257262"
   },
   {
     "event_id": "365508446",
@@ -1495,7 +1548,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:47.524690"
+    "last_updated": "2026-04-08T06:49:35.283195"
   },
   {
     "event_id": "364531209",
@@ -1521,67 +1574,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:47.642149"
-  },
-  {
-    "event_id": "365508535",
-    "matchup": "Bulgaria U16 – South Africa U16",
-    "event_url": "https://livetv.sx/enx/eventinfo/365508535_bulgaria_u16_south_africa_u16/",
-    "competition": "Friendly Match. National Teams",
-    "date_time": "8 April at 13:00",
-    "parsed_datetime": "2026-04-08T13:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:47.668874"
-  },
-  {
-    "event_id": "365509069",
-    "matchup": "Vorskla – Probiy",
-    "event_url": "https://livetv.sx/enx/eventinfo/365509069_vorskla_probiy/",
-    "competition": "Ukraine. First League",
-    "date_time": "8 April at 12:15",
-    "parsed_datetime": "2026-04-08T12:15:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:47.790079"
-  },
-  {
-    "event_id": "361264973",
-    "matchup": "Bokelj – Petrovac",
-    "event_url": "https://livetv.sx/enx/eventinfo/361264973__/",
-    "competition": "Montenegro. First League",
-    "date_time": "8 April at 13:00",
-    "parsed_datetime": "2026-04-08T13:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Bokelj",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/34756.gif"
-      },
-      {
-        "team_name": "Petrovac",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/760.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:47.874429"
+    "last_updated": "2026-04-08T06:49:35.392155"
   },
   {
     "event_id": "361255480",
@@ -1607,41 +1600,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:47.897620"
-  },
-  {
-    "event_id": "362246371",
-    "matchup": "Shakhtar Donetsk U19 – Karpaty U19",
-    "event_url": "https://livetv.sx/enx/eventinfo/362246371_shakhtar_donetsk_u19_karpaty_u19/",
-    "competition": "Ukraine. U-19 Premier League",
-    "date_time": "8 April at 13:00",
-    "parsed_datetime": "2026-04-08T13:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:47.928974"
-  },
-  {
-    "event_id": "365509070",
-    "matchup": "Rebel – Hirnyk-Sport",
-    "event_url": "https://livetv.sx/enx/eventinfo/365509070_rebel_hirnyk_sport/",
-    "competition": "Ukraine. Second League",
-    "date_time": "8 April at 12:45",
-    "parsed_datetime": "2026-04-08T12:45:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:47.968497"
+    "last_updated": "2026-04-08T06:49:35.446685"
   },
   {
     "event_id": "365509071",
@@ -1667,41 +1626,15 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:47.983808"
+    "last_updated": "2026-04-08T06:49:35.543999"
   },
   {
-    "event_id": "361264970",
-    "matchup": "Mladost DG – Decic",
-    "event_url": "https://livetv.sx/enx/eventinfo/361264970__/",
-    "competition": "Montenegro. First League",
-    "date_time": "8 April at 13:00",
-    "parsed_datetime": "2026-04-08T13:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Mladost DG",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6068.gif"
-      },
-      {
-        "team_name": "Decic",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/34749.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:48.070329"
-  },
-  {
-    "event_id": "365091101",
-    "matchup": "North Korea U20 (W) – South Korea U20 (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/365091101_north_korea_u20_w_south_korea_u20_w/",
-    "competition": "Women. Asian Cup U20",
-    "date_time": "8 April at 14:00",
-    "parsed_datetime": "2026-04-08T14:00:00",
+    "event_id": "365509070",
+    "matchup": "Rebel – Hirnyk-Sport",
+    "event_url": "https://livetv.sx/enx/eventinfo/365509070_rebel_hirnyk_sport/",
+    "competition": "Ukraine. Second League",
+    "date_time": "8 April at 12:45",
+    "parsed_datetime": "2026-04-08T12:45:00",
     "is_live": false,
     "team_logos": [],
     "streams": [],
@@ -1710,24 +1643,58 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:48.096667"
+    "last_updated": "2026-04-08T06:49:35.547274"
   },
   {
-    "event_id": "365509072",
-    "matchup": "Nyva Ternopil 2 – Kulikiv",
-    "event_url": "https://livetv.sx/enx/eventinfo/365509072_nyva_ternopil_2_kulikiv/",
-    "competition": "Ukraine. Second League",
-    "date_time": "8 April at 13:30",
-    "parsed_datetime": "2026-04-08T13:30:00",
+    "event_id": "362246371",
+    "matchup": "Shakhtar Donetsk U19 – Karpaty U19",
+    "event_url": "https://livetv.sx/enx/eventinfo/362246371_shakhtar_donetsk_u19_karpaty_u19/",
+    "competition": "Ukraine. U-19 Premier League",
+    "date_time": "8 April at 13:00",
+    "parsed_datetime": "2026-04-08T13:00:00",
+    "is_live": false,
+    "team_logos": [],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:35.598007"
+  },
+  {
+    "event_id": "365508535",
+    "matchup": "Bulgaria U16 – South Africa U16",
+    "event_url": "https://livetv.sx/enx/eventinfo/365508535_bulgaria_u16_south_africa_u16/",
+    "competition": "Friendly Match. National Teams",
+    "date_time": "8 April at 13:00",
+    "parsed_datetime": "2026-04-08T13:00:00",
+    "is_live": false,
+    "team_logos": [],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:35.650060"
+  },
+  {
+    "event_id": "361264973",
+    "matchup": "Bokelj – Petrovac",
+    "event_url": "https://livetv.sx/enx/eventinfo/361264973__/",
+    "competition": "Montenegro. First League",
+    "date_time": "8 April at 13:00",
+    "parsed_datetime": "2026-04-08T13:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Nyva Ternopil 2",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/51401.gif"
+        "team_name": "Bokelj",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/34756.gif"
       },
       {
-        "team_name": "Kulikiv",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/51403.gif"
+        "team_name": "Petrovac",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/760.gif"
       }
     ],
     "streams": [],
@@ -1736,7 +1703,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:48.167949"
+    "last_updated": "2026-04-08T06:49:35.706715"
   },
   {
     "event_id": "361255572",
@@ -1762,7 +1729,76 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:48.231437"
+    "last_updated": "2026-04-08T06:49:35.757694"
+  },
+  {
+    "event_id": "365509072",
+    "matchup": "Nyva Ternopil 2 – Kulikiv",
+    "event_url": "https://livetv.sx/enx/eventinfo/365509072_nyva_ternopil_2_kulikiv/",
+    "competition": "Ukraine. Second League",
+    "date_time": "8 April at 13:30",
+    "parsed_datetime": "2026-04-08T13:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Nyva Ternopil 2",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/51401.gif"
+      },
+      {
+        "team_name": "Kulikiv",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/51403.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:35.807260"
+  },
+  {
+    "event_id": "361264970",
+    "matchup": "Mladost DG – Decic",
+    "event_url": "https://livetv.sx/enx/eventinfo/361264970__/",
+    "competition": "Montenegro. First League",
+    "date_time": "8 April at 13:00",
+    "parsed_datetime": "2026-04-08T13:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Mladost DG",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6068.gif"
+      },
+      {
+        "team_name": "Decic",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/34749.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:35.865259"
+  },
+  {
+    "event_id": "365091102",
+    "matchup": "Uzbekistan U20 (W) – Jordan U20 (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/365091102_uzbekistan_u20_w_jordan_u20_w/",
+    "competition": "Women. Asian Cup U20",
+    "date_time": "8 April at 14:00",
+    "parsed_datetime": "2026-04-08T14:00:00",
+    "is_live": false,
+    "team_logos": [],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:35.951134"
   },
   {
     "event_id": "356214455",
@@ -1788,12 +1824,12 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:48.290183"
+    "last_updated": "2026-04-08T06:49:35.967633"
   },
   {
-    "event_id": "365091102",
-    "matchup": "Uzbekistan U20 (W) – Jordan U20 (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/365091102_uzbekistan_u20_w_jordan_u20_w/",
+    "event_id": "365091101",
+    "matchup": "North Korea U20 (W) – South Korea U20 (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/365091101_north_korea_u20_w_south_korea_u20_w/",
     "competition": "Women. Asian Cup U20",
     "date_time": "8 April at 14:00",
     "parsed_datetime": "2026-04-08T14:00:00",
@@ -1805,7 +1841,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:48.356661"
+    "last_updated": "2026-04-08T06:49:36.043874"
   },
   {
     "event_id": "360907032",
@@ -1916,50 +1952,7 @@
         "pts": "17"
       }
     ],
-    "last_updated": "2026-04-08T05:01:48.405665"
-  },
-  {
-    "event_id": "361264971",
-    "matchup": "Jedinstvo – Arsenal Tivat",
-    "event_url": "https://livetv.sx/enx/eventinfo/361264971__/",
-    "competition": "Montenegro. First League",
-    "date_time": "8 April at 14:00",
-    "parsed_datetime": "2026-04-08T14:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Jedinstvo",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/4792.gif"
-      },
-      {
-        "team_name": "Arsenal Tivat",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/4798.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:48.530031"
-  },
-  {
-    "event_id": "365508255",
-    "matchup": "Uzbekistan U18 (W) – Morocco U18 (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/365508255_uzbekistan_u18_w_morocco_u18_w/",
-    "competition": "Friendly Tournament. National Teams",
-    "date_time": "8 April at 14:30",
-    "parsed_datetime": "2026-04-08T14:30:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:48.634144"
+    "last_updated": "2026-04-08T06:49:36.111962"
   },
   {
     "event_id": "365090990",
@@ -1976,58 +1969,15 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:48.634158"
+    "last_updated": "2026-04-08T06:49:36.204853"
   },
   {
-    "event_id": "365508353",
-    "matchup": "Malta U15 – Bulgaria U15",
-    "event_url": "https://livetv.sx/enx/eventinfo/365508353_malta_u15_bulgaria_u15/",
-    "competition": "Friendly Match. National Teams",
-    "date_time": "8 April at 15:00",
-    "parsed_datetime": "2026-04-08T15:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:48.691800"
-  },
-  {
-    "event_id": "356169552",
-    "matchup": "Inter U-23 – Trento",
-    "event_url": "https://livetv.sx/enx/eventinfo/356169552__/",
-    "competition": "Italy. Serie C. Group A",
-    "date_time": "8 April at 14:00",
-    "parsed_datetime": "2026-04-08T14:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Inter U-23",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/35036.gif"
-      },
-      {
-        "team_name": "Trento",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/35081.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:48.740325"
-  },
-  {
-    "event_id": "365508256",
-    "matchup": "Costa Rica U18 (W) – Norway U18 (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/365508256_costa_rica_u18_w_norway_u18_w/",
+    "event_id": "365508255",
+    "matchup": "Uzbekistan U18 (W) – Morocco U18 (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/365508255_uzbekistan_u18_w_morocco_u18_w/",
     "competition": "Friendly Tournament. National Teams",
-    "date_time": "8 April at 15:00",
-    "parsed_datetime": "2026-04-08T15:00:00",
+    "date_time": "8 April at 14:30",
+    "parsed_datetime": "2026-04-08T14:30:00",
     "is_live": false,
     "team_logos": [],
     "streams": [],
@@ -2036,59 +1986,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:48.792165"
-  },
-  {
-    "event_id": "365509073",
-    "matchup": "Chornomorets Odesa – Inhulets",
-    "event_url": "https://livetv.sx/enx/eventinfo/365509073_chornomorets_odesa_inhulets/",
-    "competition": "Ukraine. First League",
-    "date_time": "8 April at 15:00",
-    "parsed_datetime": "2026-04-08T15:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Chornomorets Odesa",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/32622.gif"
-      },
-      {
-        "team_name": "Inhulets",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/28086.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:48.902632"
-  },
-  {
-    "event_id": "361255521",
-    "matchup": "Kokand – Nasaf",
-    "event_url": "https://livetv.sx/enx/eventinfo/361255521__/",
-    "competition": "Uzbekistan. Super League",
-    "date_time": "8 April at 14:00",
-    "parsed_datetime": "2026-04-08T14:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Kokand",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/34622.gif"
-      },
-      {
-        "team_name": "Nasaf",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/33443.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:48.904749"
+    "last_updated": "2026-04-08T06:49:36.213360"
   },
   {
     "event_id": "361264972",
@@ -2114,24 +2012,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:49.035615"
+    "last_updated": "2026-04-08T06:49:36.282520"
   },
   {
-    "event_id": "365466179",
-    "matchup": "UD Leiria U-23 –  Portimonense U-23",
-    "event_url": "https://livetv.sx/enx/eventinfo/365466179__/",
-    "competition": "Portugal. League U23",
-    "date_time": "8 April at 15:00",
-    "parsed_datetime": "2026-04-08T15:00:00",
+    "event_id": "356169552",
+    "matchup": "Inter U-23 – Trento",
+    "event_url": "https://livetv.sx/enx/eventinfo/356169552__/",
+    "competition": "Italy. Serie C. Group A",
+    "date_time": "8 April at 14:00",
+    "parsed_datetime": "2026-04-08T14:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "UD Leiria U-23",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/35841.gif"
+        "team_name": "Inter U-23",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/35036.gif"
       },
       {
-        "team_name": "Portimonense U-23",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/9573.gif"
+        "team_name": "Trento",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/35081.gif"
       }
     ],
     "streams": [],
@@ -2140,24 +2038,41 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:49.064112"
+    "last_updated": "2026-04-08T06:49:36.340958"
   },
   {
-    "event_id": "365466180",
-    "matchup": "Rio Ave U-23 –  Maritimo U-23",
-    "event_url": "https://livetv.sx/enx/eventinfo/365466180__/",
-    "competition": "Portugal. League U23",
+    "event_id": "365508353",
+    "matchup": "Malta U15 – Bulgaria U15",
+    "event_url": "https://livetv.sx/enx/eventinfo/365508353_malta_u15_bulgaria_u15/",
+    "competition": "Friendly Match. National Teams",
     "date_time": "8 April at 15:00",
     "parsed_datetime": "2026-04-08T15:00:00",
     "is_live": false,
+    "team_logos": [],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:36.370561"
+  },
+  {
+    "event_id": "361264971",
+    "matchup": "Jedinstvo – Arsenal Tivat",
+    "event_url": "https://livetv.sx/enx/eventinfo/361264971__/",
+    "competition": "Montenegro. First League",
+    "date_time": "8 April at 14:00",
+    "parsed_datetime": "2026-04-08T14:00:00",
+    "is_live": false,
     "team_logos": [
       {
-        "team_name": "Rio Ave U-23",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/11026.gif"
+        "team_name": "Jedinstvo",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/4792.gif"
       },
       {
-        "team_name": "Maritimo U-23",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/26884.gif"
+        "team_name": "Arsenal Tivat",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/4798.gif"
       }
     ],
     "streams": [],
@@ -2166,7 +2081,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:49.187119"
+    "last_updated": "2026-04-08T06:49:36.479824"
+  },
+  {
+    "event_id": "361255521",
+    "matchup": "Kokand – Nasaf",
+    "event_url": "https://livetv.sx/enx/eventinfo/361255521__/",
+    "competition": "Uzbekistan. Super League",
+    "date_time": "8 April at 14:00",
+    "parsed_datetime": "2026-04-08T14:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Kokand",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/34622.gif"
+      },
+      {
+        "team_name": "Nasaf",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/33443.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:36.479835"
   },
   {
     "event_id": "361482026",
@@ -2192,7 +2133,50 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:49.222566"
+    "last_updated": "2026-04-08T06:49:36.549996"
+  },
+  {
+    "event_id": "365466179",
+    "matchup": "UD Leiria U-23 –  Portimonense U-23",
+    "event_url": "https://livetv.sx/enx/eventinfo/365466179__/",
+    "competition": "Portugal. League U23",
+    "date_time": "8 April at 15:00",
+    "parsed_datetime": "2026-04-08T15:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "UD Leiria U-23",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/35841.gif"
+      },
+      {
+        "team_name": "Portimonense U-23",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/9573.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:36.593652"
+  },
+  {
+    "event_id": "365508256",
+    "matchup": "Costa Rica U18 (W) – Norway U18 (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/365508256_costa_rica_u18_w_norway_u18_w/",
+    "competition": "Friendly Tournament. National Teams",
+    "date_time": "8 April at 15:00",
+    "parsed_datetime": "2026-04-08T15:00:00",
+    "is_live": false,
+    "team_logos": [],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:36.637028"
   },
   {
     "event_id": "360907028",
@@ -2303,24 +2287,24 @@
         "pts": "17"
       }
     ],
-    "last_updated": "2026-04-08T05:01:49.234343"
+    "last_updated": "2026-04-08T06:49:36.738829"
   },
   {
-    "event_id": "361259947",
-    "matchup": "Igdir – Keciorengucu",
-    "event_url": "https://livetv.sx/enx/eventinfo/361259947__/",
-    "competition": "Turkey. 1 Lig",
+    "event_id": "365466180",
+    "matchup": "Rio Ave U-23 –  Maritimo U-23",
+    "event_url": "https://livetv.sx/enx/eventinfo/365466180__/",
+    "competition": "Portugal. League U23",
     "date_time": "8 April at 15:00",
     "parsed_datetime": "2026-04-08T15:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Igdir",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/30515.gif"
+        "team_name": "Rio Ave U-23",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/11026.gif"
       },
       {
-        "team_name": "Keciorengucu",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/1223.gif"
+        "team_name": "Maritimo U-23",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/26884.gif"
       }
     ],
     "streams": [],
@@ -2329,24 +2313,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:49.289483"
+    "last_updated": "2026-04-08T06:49:36.781874"
   },
   {
-    "event_id": "363832567",
-    "matchup": "Zakho – Al-Zawraa",
-    "event_url": "https://livetv.sx/enx/eventinfo/363832567__/",
-    "competition": "Iraq. Premier League",
+    "event_id": "365509073",
+    "matchup": "Chornomorets Odesa – Inhulets",
+    "event_url": "https://livetv.sx/enx/eventinfo/365509073_chornomorets_odesa_inhulets/",
+    "competition": "Ukraine. First League",
     "date_time": "8 April at 15:00",
     "parsed_datetime": "2026-04-08T15:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Zakho",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/10927.gif"
+        "team_name": "Chornomorets Odesa",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/32622.gif"
       },
       {
-        "team_name": "Al-Zawraa",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/10928.gif"
+        "team_name": "Inhulets",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/28086.gif"
       }
     ],
     "streams": [],
@@ -2355,7 +2339,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:49.346144"
+    "last_updated": "2026-04-08T06:49:36.851590"
   },
   {
     "event_id": "363832569",
@@ -2381,7 +2365,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:49.398824"
+    "last_updated": "2026-04-08T06:49:36.912369"
+  },
+  {
+    "event_id": "361259947",
+    "matchup": "Igdir – Keciorengucu",
+    "event_url": "https://livetv.sx/enx/eventinfo/361259947__/",
+    "competition": "Turkey. 1 Lig",
+    "date_time": "8 April at 15:00",
+    "parsed_datetime": "2026-04-08T15:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Igdir",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/30515.gif"
+      },
+      {
+        "team_name": "Keciorengucu",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/1223.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:36.980125"
   },
   {
     "event_id": "361259989",
@@ -2407,7 +2417,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:49.453739"
+    "last_updated": "2026-04-08T06:49:37.024722"
+  },
+  {
+    "event_id": "363832567",
+    "matchup": "Zakho – Al-Zawraa",
+    "event_url": "https://livetv.sx/enx/eventinfo/363832567__/",
+    "competition": "Iraq. Premier League",
+    "date_time": "8 April at 15:00",
+    "parsed_datetime": "2026-04-08T15:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Zakho",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/10927.gif"
+      },
+      {
+        "team_name": "Al-Zawraa",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/10928.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:37.074740"
   },
   {
     "event_id": "363832571",
@@ -2433,59 +2469,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:49.514460"
-  },
-  {
-    "event_id": "361264969",
-    "matchup": "Mornar – Sutjeska",
-    "event_url": "https://livetv.sx/enx/eventinfo/361264969__/",
-    "competition": "Montenegro. First League",
-    "date_time": "8 April at 15:30",
-    "parsed_datetime": "2026-04-08T15:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Mornar",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/4796.gif"
-      },
-      {
-        "team_name": "Sutjeska",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/969.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:49.587223"
-  },
-  {
-    "event_id": "361264160",
-    "matchup": "TSC Backa Topola – Novi Beograd",
-    "event_url": "https://livetv.sx/enx/eventinfo/361264160__/",
-    "competition": "Serbia. Superliga",
-    "date_time": "8 April at 16:00",
-    "parsed_datetime": "2026-04-08T16:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "TSC Backa Topola",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/1772.gif"
-      },
-      {
-        "team_name": "Novi Beograd",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/8671.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:49.630643"
+    "last_updated": "2026-04-08T06:49:37.127640"
   },
   {
     "event_id": "361280253",
@@ -2511,59 +2495,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:49.746303"
-  },
-  {
-    "event_id": "361262746",
-    "matchup": "Wadi Degla – Pharco",
-    "event_url": "https://livetv.sx/enx/eventinfo/361262746__/",
-    "competition": "Egypt. Premier League",
-    "date_time": "8 April at 16:00",
-    "parsed_datetime": "2026-04-08T16:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Wadi Degla",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/1546.gif"
-      },
-      {
-        "team_name": "Pharco",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/2012.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:49.774002"
-  },
-  {
-    "event_id": "361263322",
-    "matchup": "Liepaja – Auda",
-    "event_url": "https://livetv.sx/enx/eventinfo/361263322__/",
-    "competition": "Latvia. Virsliga",
-    "date_time": "8 April at 16:00",
-    "parsed_datetime": "2026-04-08T16:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Liepaja",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/1613.gif"
-      },
-      {
-        "team_name": "Auda",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6383.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:49.861433"
+    "last_updated": "2026-04-08T06:49:37.181035"
   },
   {
     "event_id": "361264164",
@@ -2589,7 +2521,59 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:49.885099"
+    "last_updated": "2026-04-08T06:49:37.290134"
+  },
+  {
+    "event_id": "361264969",
+    "matchup": "Mornar – Sutjeska",
+    "event_url": "https://livetv.sx/enx/eventinfo/361264969__/",
+    "competition": "Montenegro. First League",
+    "date_time": "8 April at 15:30",
+    "parsed_datetime": "2026-04-08T15:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Mornar",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/4796.gif"
+      },
+      {
+        "team_name": "Sutjeska",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/969.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:37.290144"
+  },
+  {
+    "event_id": "361262746",
+    "matchup": "Wadi Degla – Pharco",
+    "event_url": "https://livetv.sx/enx/eventinfo/361262746__/",
+    "competition": "Egypt. Premier League",
+    "date_time": "8 April at 16:00",
+    "parsed_datetime": "2026-04-08T16:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Wadi Degla",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/1546.gif"
+      },
+      {
+        "team_name": "Pharco",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/2012.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:37.412095"
   },
   {
     "event_id": "361262276",
@@ -2615,7 +2599,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:49.940406"
+    "last_updated": "2026-04-08T06:49:37.419544"
   },
   {
     "event_id": "361269456",
@@ -2641,24 +2625,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:50.093164"
+    "last_updated": "2026-04-08T06:49:37.504657"
   },
   {
-    "event_id": "361268956",
-    "matchup": "Dynamo M – Krasnodar",
-    "event_url": "https://livetv.sx/enx/eventinfo/361268956__/",
-    "competition": "Russia. Cup",
-    "date_time": "8 April at 16:15",
-    "parsed_datetime": "2026-04-08T16:15:00",
+    "event_id": "361263322",
+    "matchup": "Liepaja – Auda",
+    "event_url": "https://livetv.sx/enx/eventinfo/361263322__/",
+    "competition": "Latvia. Virsliga",
+    "date_time": "8 April at 16:00",
+    "parsed_datetime": "2026-04-08T16:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Dynamo M",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/110.gif"
+        "team_name": "Liepaja",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/1613.gif"
       },
       {
-        "team_name": "Krasnodar",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/660.gif"
+        "team_name": "Auda",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6383.gif"
       }
     ],
     "streams": [],
@@ -2667,33 +2651,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:50.208527"
-  },
-  {
-    "event_id": "361512718",
-    "matchup": "Al-Sailiya – Al-Sadd",
-    "event_url": "https://livetv.sx/enx/eventinfo/361512718__/",
-    "competition": "Qatar. Stars League",
-    "date_time": "8 April at 16:30",
-    "parsed_datetime": "2026-04-08T16:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Al-Sailiya",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/35159.gif"
-      },
-      {
-        "team_name": "Al-Sadd",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/19984.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:50.221695"
+    "last_updated": "2026-04-08T06:49:37.564317"
   },
   {
     "event_id": "361512717",
@@ -2719,24 +2677,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:50.257914"
+    "last_updated": "2026-04-08T06:49:37.665754"
   },
   {
-    "event_id": "361512719",
-    "matchup": "Al-Rayyan – Umm Salal",
-    "event_url": "https://livetv.sx/enx/eventinfo/361512719__/",
-    "competition": "Qatar. Stars League",
-    "date_time": "8 April at 16:30",
-    "parsed_datetime": "2026-04-08T16:30:00",
+    "event_id": "361268956",
+    "matchup": "Dynamo M – Krasnodar",
+    "event_url": "https://livetv.sx/enx/eventinfo/361268956__/",
+    "competition": "Russia. Cup",
+    "date_time": "8 April at 16:15",
+    "parsed_datetime": "2026-04-08T16:15:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Al-Rayyan",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6303.gif"
+        "team_name": "Dynamo M",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/110.gif"
       },
       {
-        "team_name": "Umm Salal",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/32578.gif"
+        "team_name": "Krasnodar",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/660.gif"
       }
     ],
     "streams": [],
@@ -2745,85 +2703,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:50.315304"
-  },
-  {
-    "event_id": "361512720",
-    "matchup": "Al-Arabi Doha – Qatar SC",
-    "event_url": "https://livetv.sx/enx/eventinfo/361512720__/",
-    "competition": "Qatar. Stars League",
-    "date_time": "8 April at 16:30",
-    "parsed_datetime": "2026-04-08T16:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Al-Arabi Doha",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6616.gif"
-      },
-      {
-        "team_name": "Qatar SC",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/35161.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:50.391412"
-  },
-  {
-    "event_id": "360909926",
-    "matchup": "Al-Fayha – Al Ahli Jeddah",
-    "event_url": "https://livetv.sx/enx/eventinfo/360909926__/",
-    "competition": "Saudi Arabia. Pro League",
-    "date_time": "8 April at 16:55",
-    "parsed_datetime": "2026-04-08T16:55:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Al-Fayha",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/30587.gif"
-      },
-      {
-        "team_name": "Al Ahli Jeddah",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/35358.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:50.470455"
-  },
-  {
-    "event_id": "361512721",
-    "matchup": "Al-Ahli Doha – Al-Duhail",
-    "event_url": "https://livetv.sx/enx/eventinfo/361512721__/",
-    "competition": "Qatar. Stars League",
-    "date_time": "8 April at 16:30",
-    "parsed_datetime": "2026-04-08T16:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Al-Ahli Doha",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6655.gif"
-      },
-      {
-        "team_name": "Al-Duhail",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6326.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:50.512332"
+    "last_updated": "2026-04-08T06:49:37.720333"
   },
   {
     "event_id": "361512716",
@@ -2849,7 +2729,189 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:50.595292"
+    "last_updated": "2026-04-08T06:49:37.774799"
+  },
+  {
+    "event_id": "361264160",
+    "matchup": "TSC Backa Topola – Novi Beograd",
+    "event_url": "https://livetv.sx/enx/eventinfo/361264160__/",
+    "competition": "Serbia. Superliga",
+    "date_time": "8 April at 16:00",
+    "parsed_datetime": "2026-04-08T16:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "TSC Backa Topola",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/1772.gif"
+      },
+      {
+        "team_name": "Novi Beograd",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/8671.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:37.860809"
+  },
+  {
+    "event_id": "361512718",
+    "matchup": "Al-Sailiya – Al-Sadd",
+    "event_url": "https://livetv.sx/enx/eventinfo/361512718__/",
+    "competition": "Qatar. Stars League",
+    "date_time": "8 April at 16:30",
+    "parsed_datetime": "2026-04-08T16:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Sailiya",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/35159.gif"
+      },
+      {
+        "team_name": "Al-Sadd",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/19984.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:37.883353"
+  },
+  {
+    "event_id": "361512719",
+    "matchup": "Al-Rayyan – Umm Salal",
+    "event_url": "https://livetv.sx/enx/eventinfo/361512719__/",
+    "competition": "Qatar. Stars League",
+    "date_time": "8 April at 16:30",
+    "parsed_datetime": "2026-04-08T16:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Rayyan",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6303.gif"
+      },
+      {
+        "team_name": "Umm Salal",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/32578.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:37.936703"
+  },
+  {
+    "event_id": "361512721",
+    "matchup": "Al-Ahli Doha – Al-Duhail",
+    "event_url": "https://livetv.sx/enx/eventinfo/361512721__/",
+    "competition": "Qatar. Stars League",
+    "date_time": "8 April at 16:30",
+    "parsed_datetime": "2026-04-08T16:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Ahli Doha",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6655.gif"
+      },
+      {
+        "team_name": "Al-Duhail",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6326.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:38.042398"
+  },
+  {
+    "event_id": "360909926",
+    "matchup": "Al-Fayha – Al Ahli Jeddah",
+    "event_url": "https://livetv.sx/enx/eventinfo/360909926__/",
+    "competition": "Saudi Arabia. Pro League",
+    "date_time": "8 April at 16:55",
+    "parsed_datetime": "2026-04-08T16:55:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Fayha",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/30587.gif"
+      },
+      {
+        "team_name": "Al Ahli Jeddah",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/35358.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:38.044179"
+  },
+  {
+    "event_id": "361512720",
+    "matchup": "Al-Arabi Doha – Qatar SC",
+    "event_url": "https://livetv.sx/enx/eventinfo/361512720__/",
+    "competition": "Qatar. Stars League",
+    "date_time": "8 April at 16:30",
+    "parsed_datetime": "2026-04-08T16:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Arabi Doha",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6616.gif"
+      },
+      {
+        "team_name": "Qatar SC",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/35161.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:38.127963"
+  },
+  {
+    "event_id": "361264159",
+    "matchup": "Vojvodina – Radnicki Nis",
+    "event_url": "https://livetv.sx/enx/eventinfo/361264159__/",
+    "competition": "Serbia. Superliga",
+    "date_time": "8 April at 17:00",
+    "parsed_datetime": "2026-04-08T17:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Vojvodina",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/30145.gif"
+      },
+      {
+        "team_name": "Radnicki Nis",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/1295.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:38.257435"
   },
   {
     "event_id": "360907030",
@@ -2960,241 +3022,7 @@
         "pts": "17"
       }
     ],
-    "last_updated": "2026-04-08T05:01:50.647919"
-  },
-  {
-    "event_id": "361264159",
-    "matchup": "Vojvodina – Radnicki Nis",
-    "event_url": "https://livetv.sx/enx/eventinfo/361264159__/",
-    "competition": "Serbia. Superliga",
-    "date_time": "8 April at 17:00",
-    "parsed_datetime": "2026-04-08T17:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Vojvodina",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/30145.gif"
-      },
-      {
-        "team_name": "Radnicki Nis",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/1295.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:50.692742"
-  },
-  {
-    "event_id": "361280662",
-    "matchup": "Paide – Nomme United",
-    "event_url": "https://livetv.sx/enx/eventinfo/361280662__/",
-    "competition": "Estonia. Meistriliiga",
-    "date_time": "8 April at 17:00",
-    "parsed_datetime": "2026-04-08T17:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Paide",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/4966.gif"
-      },
-      {
-        "team_name": "Nomme United",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/4627.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:50.747378"
-  },
-  {
-    "event_id": "361280661",
-    "matchup": "Harju – Nomme Kalju",
-    "event_url": "https://livetv.sx/enx/eventinfo/361280661__/",
-    "competition": "Estonia. Meistriliiga",
-    "date_time": "8 April at 17:00",
-    "parsed_datetime": "2026-04-08T17:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Harju",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/4825.gif"
-      },
-      {
-        "team_name": "Nomme Kalju",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/29731.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:50.817738"
-  },
-  {
-    "event_id": "361280663",
-    "matchup": "Levadia – Parnu Vaprus",
-    "event_url": "https://livetv.sx/enx/eventinfo/361280663__/",
-    "competition": "Estonia. Meistriliiga",
-    "date_time": "8 April at 17:00",
-    "parsed_datetime": "2026-04-08T17:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Levadia",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/30140.gif"
-      },
-      {
-        "team_name": "Parnu Vaprus",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/4116.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:50.856479"
-  },
-  {
-    "event_id": "361279389",
-    "matchup": "Zawisza – Gornik Zabrze",
-    "event_url": "https://livetv.sx/enx/eventinfo/361279389__/",
-    "competition": "Poland. Cup",
-    "date_time": "8 April at 17:00",
-    "parsed_datetime": "2026-04-08T17:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Zawisza",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/16740.gif"
-      },
-      {
-        "team_name": "Gornik Zabrze",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/409.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:50.968566"
-  },
-  {
-    "event_id": "363832573",
-    "matchup": "Al-Shorta – Amanat Baghdad",
-    "event_url": "https://livetv.sx/enx/eventinfo/363832573__/",
-    "competition": "Iraq. Premier League",
-    "date_time": "8 April at 17:30",
-    "parsed_datetime": "2026-04-08T17:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Al-Shorta",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/8130.gif"
-      },
-      {
-        "team_name": "Amanat Baghdad",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/9993.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:51.027968"
-  },
-  {
-    "event_id": "361280252",
-    "matchup": "Gorica – Dinamo Zagreb",
-    "event_url": "https://livetv.sx/enx/eventinfo/361280252__/",
-    "competition": "Croatia. Cup",
-    "date_time": "8 April at 17:30",
-    "parsed_datetime": "2026-04-08T17:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Gorica",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/1505.gif"
-      },
-      {
-        "team_name": "Dinamo Zagreb",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/28655.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:51.083917"
-  },
-  {
-    "event_id": "361482027",
-    "matchup": "Al-Faisaly Amman – Al-Jazeera Amman",
-    "event_url": "https://livetv.sx/enx/eventinfo/361482027__/",
-    "competition": "Jordan. Premier League",
-    "date_time": "8 April at 17:30",
-    "parsed_datetime": "2026-04-08T17:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Al-Faisaly Amman",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6650.gif"
-      },
-      {
-        "team_name": "Al-Jazeera Amman",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/33521.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:51.228817"
-  },
-  {
-    "event_id": "363832575",
-    "matchup": "Al-Karma – Duhok",
-    "event_url": "https://livetv.sx/enx/eventinfo/363832575__/",
-    "competition": "Iraq. Premier League",
-    "date_time": "8 April at 17:30",
-    "parsed_datetime": "2026-04-08T17:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Al-Karma",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/33994.gif"
-      },
-      {
-        "team_name": "Duhok",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/35659.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:51.230176"
+    "last_updated": "2026-04-08T06:49:38.299337"
   },
   {
     "event_id": "361278776",
@@ -3220,24 +3048,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:51.345068"
+    "last_updated": "2026-04-08T06:49:38.304596"
   },
   {
-    "event_id": "361264163",
-    "matchup": "Mladost Lucani – Napredak",
-    "event_url": "https://livetv.sx/enx/eventinfo/361264163__/",
-    "competition": "Serbia. Superliga",
-    "date_time": "8 April at 18:00",
-    "parsed_datetime": "2026-04-08T18:00:00",
+    "event_id": "361280661",
+    "matchup": "Harju – Nomme Kalju",
+    "event_url": "https://livetv.sx/enx/eventinfo/361280661__/",
+    "competition": "Estonia. Meistriliiga",
+    "date_time": "8 April at 17:00",
+    "parsed_datetime": "2026-04-08T17:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Mladost Lucani",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/1348.gif"
+        "team_name": "Harju",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/4825.gif"
       },
       {
-        "team_name": "Napredak",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/744.gif"
+        "team_name": "Nomme Kalju",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/29731.gif"
       }
     ],
     "streams": [],
@@ -3246,24 +3074,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:51.375274"
+    "last_updated": "2026-04-08T06:49:38.358416"
   },
   {
-    "event_id": "361289537",
-    "matchup": "Saarbruecken – Alemannia",
-    "event_url": "https://livetv.sx/enx/eventinfo/361289537__/",
-    "competition": "Germany. 3 Bundesliga",
-    "date_time": "8 April at 18:00",
-    "parsed_datetime": "2026-04-08T18:00:00",
+    "event_id": "361280662",
+    "matchup": "Paide – Nomme United",
+    "event_url": "https://livetv.sx/enx/eventinfo/361280662__/",
+    "competition": "Estonia. Meistriliiga",
+    "date_time": "8 April at 17:00",
+    "parsed_datetime": "2026-04-08T17:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Saarbruecken",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/3972.gif"
+        "team_name": "Paide",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/4966.gif"
       },
       {
-        "team_name": "Alemannia",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6425.gif"
+        "team_name": "Nomme United",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/4627.gif"
       }
     ],
     "streams": [],
@@ -3272,7 +3100,137 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:51.405113"
+    "last_updated": "2026-04-08T06:49:38.412282"
+  },
+  {
+    "event_id": "361279389",
+    "matchup": "Zawisza – Gornik Zabrze",
+    "event_url": "https://livetv.sx/enx/eventinfo/361279389__/",
+    "competition": "Poland. Cup",
+    "date_time": "8 April at 17:00",
+    "parsed_datetime": "2026-04-08T17:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Zawisza",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/16740.gif"
+      },
+      {
+        "team_name": "Gornik Zabrze",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/409.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:38.478956"
+  },
+  {
+    "event_id": "361280663",
+    "matchup": "Levadia – Parnu Vaprus",
+    "event_url": "https://livetv.sx/enx/eventinfo/361280663__/",
+    "competition": "Estonia. Meistriliiga",
+    "date_time": "8 April at 17:00",
+    "parsed_datetime": "2026-04-08T17:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Levadia",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/30140.gif"
+      },
+      {
+        "team_name": "Parnu Vaprus",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/4116.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:38.515903"
+  },
+  {
+    "event_id": "363832573",
+    "matchup": "Al-Shorta – Amanat Baghdad",
+    "event_url": "https://livetv.sx/enx/eventinfo/363832573__/",
+    "competition": "Iraq. Premier League",
+    "date_time": "8 April at 17:30",
+    "parsed_datetime": "2026-04-08T17:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Shorta",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/8130.gif"
+      },
+      {
+        "team_name": "Amanat Baghdad",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/9993.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:38.609712"
+  },
+  {
+    "event_id": "361280252",
+    "matchup": "Gorica – Dinamo Zagreb",
+    "event_url": "https://livetv.sx/enx/eventinfo/361280252__/",
+    "competition": "Croatia. Cup",
+    "date_time": "8 April at 17:30",
+    "parsed_datetime": "2026-04-08T17:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Gorica",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/1505.gif"
+      },
+      {
+        "team_name": "Dinamo Zagreb",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/28655.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:38.710993"
+  },
+  {
+    "event_id": "361482027",
+    "matchup": "Al-Faisaly Amman – Al-Jazeera Amman",
+    "event_url": "https://livetv.sx/enx/eventinfo/361482027__/",
+    "competition": "Jordan. Premier League",
+    "date_time": "8 April at 17:30",
+    "parsed_datetime": "2026-04-08T17:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Faisaly Amman",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6650.gif"
+      },
+      {
+        "team_name": "Al-Jazeera Amman",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/33521.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:38.716390"
   },
   {
     "event_id": "361289538",
@@ -3298,24 +3256,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:51.459582"
+    "last_updated": "2026-04-08T06:49:38.841754"
   },
   {
-    "event_id": "361289539",
-    "matchup": "Wehen – Havelse",
-    "event_url": "https://livetv.sx/enx/eventinfo/361289539__/",
-    "competition": "Germany. 3 Bundesliga",
+    "event_id": "361264163",
+    "matchup": "Mladost Lucani – Napredak",
+    "event_url": "https://livetv.sx/enx/eventinfo/361264163__/",
+    "competition": "Serbia. Superliga",
     "date_time": "8 April at 18:00",
     "parsed_datetime": "2026-04-08T18:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Wehen",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/3719.gif"
+        "team_name": "Mladost Lucani",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/1348.gif"
       },
       {
-        "team_name": "Havelse",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/7288.gif"
+        "team_name": "Napredak",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/744.gif"
       }
     ],
     "streams": [],
@@ -3324,7 +3282,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:51.533070"
+    "last_updated": "2026-04-08T06:49:38.889833"
+  },
+  {
+    "event_id": "363208390",
+    "matchup": "Simulcast",
+    "event_url": "https://livetv.sx/enx/eventinfo/363208390_simulcast/",
+    "competition": "Germany. 3 Bundesliga",
+    "date_time": "8 April at 18:00",
+    "parsed_datetime": "2026-04-08T18:00:00",
+    "is_live": false,
+    "team_logos": [],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:38.938014"
   },
   {
     "event_id": "361289540",
@@ -3350,7 +3325,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:51.587689"
+    "last_updated": "2026-04-08T06:49:38.995973"
+  },
+  {
+    "event_id": "361289537",
+    "matchup": "Saarbruecken – Alemannia",
+    "event_url": "https://livetv.sx/enx/eventinfo/361289537__/",
+    "competition": "Germany. 3 Bundesliga",
+    "date_time": "8 April at 18:00",
+    "parsed_datetime": "2026-04-08T18:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Saarbruecken",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/3972.gif"
+      },
+      {
+        "team_name": "Alemannia",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6425.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:39.048961"
   },
   {
     "event_id": "361291591",
@@ -3376,41 +3377,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:51.639913"
+    "last_updated": "2026-04-08T06:49:39.101618"
   },
   {
-    "event_id": "363208390",
-    "matchup": "Simulcast",
-    "event_url": "https://livetv.sx/enx/eventinfo/363208390_simulcast/",
+    "event_id": "361289539",
+    "matchup": "Wehen – Havelse",
+    "event_url": "https://livetv.sx/enx/eventinfo/361289539__/",
     "competition": "Germany. 3 Bundesliga",
     "date_time": "8 April at 18:00",
     "parsed_datetime": "2026-04-08T18:00:00",
     "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:51.682049"
-  },
-  {
-    "event_id": "362801023",
-    "matchup": "Goztepe – Galatasaray",
-    "event_url": "https://livetv.sx/enx/eventinfo/362801023__/",
-    "competition": "Turkey. Super League",
-    "date_time": "8 April at 18:00",
-    "parsed_datetime": "2026-04-08T18:00:00",
-    "is_live": false,
     "team_logos": [
       {
-        "team_name": "Goztepe",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/1106.gif"
+        "team_name": "Wehen",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/3719.gif"
       },
       {
-        "team_name": "Galatasaray",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/20957.gif"
+        "team_name": "Havelse",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/7288.gif"
       }
     ],
     "streams": [],
@@ -3419,85 +3403,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:51.735716"
-  },
-  {
-    "event_id": "361295336",
-    "matchup": "Botev Plovdiv – Lokomotiv Plovdiv",
-    "event_url": "https://livetv.sx/enx/eventinfo/361295336__/",
-    "competition": "Bulgaria. First League",
-    "date_time": "8 April at 18:30",
-    "parsed_datetime": "2026-04-08T18:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Botev Plovdiv",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/1167.gif"
-      },
-      {
-        "team_name": "Lokomotiv Plovdiv",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/30207.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:51.790346"
-  },
-  {
-    "event_id": "361297173",
-    "matchup": "Zenit – Spartak M",
-    "event_url": "https://livetv.sx/enx/eventinfo/361297173__/",
-    "competition": "Russia. Cup",
-    "date_time": "8 April at 18:45",
-    "parsed_datetime": "2026-04-08T18:45:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Zenit",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/30245.gif"
-      },
-      {
-        "team_name": "Spartak M",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/30246.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:51.899244"
-  },
-  {
-    "event_id": "360951685",
-    "matchup": "Al-Ittihad Jeddah – Neom",
-    "event_url": "https://livetv.sx/enx/eventinfo/360951685__/",
-    "competition": "Saudi Arabia. Pro League",
-    "date_time": "8 April at 19:00",
-    "parsed_datetime": "2026-04-08T19:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Al-Ittihad Jeddah",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/25435.gif"
-      },
-      {
-        "team_name": "Neom",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/35364.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:51.933054"
+    "last_updated": "2026-04-08T06:49:39.155943"
   },
   {
     "event_id": "361289541",
@@ -3523,24 +3429,137 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:51.987488"
+    "last_updated": "2026-04-08T06:49:39.210186"
   },
   {
-    "event_id": "365222837",
-    "matchup": "Bolivia U17 – Peru U17",
-    "event_url": "https://livetv.sx/enx/eventinfo/365222837_bolivia_u17_peru_u17/",
-    "competition": "South American U-17 Championship",
-    "date_time": "8 April at 21:00",
-    "parsed_datetime": "2026-04-08T21:00:00",
+    "event_id": "363832575",
+    "matchup": "Al-Karma – Duhok",
+    "event_url": "https://livetv.sx/enx/eventinfo/363832575__/",
+    "competition": "Iraq. Premier League",
+    "date_time": "8 April at 17:30",
+    "parsed_datetime": "2026-04-08T17:30:00",
     "is_live": false,
-    "team_logos": [],
+    "team_logos": [
+      {
+        "team_name": "Al-Karma",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/33994.gif"
+      },
+      {
+        "team_name": "Duhok",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/35659.gif"
+      }
+    ],
     "streams": [],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:52.059187"
+    "last_updated": "2026-04-08T06:49:39.261478"
+  },
+  {
+    "event_id": "361297173",
+    "matchup": "Zenit – Spartak M",
+    "event_url": "https://livetv.sx/enx/eventinfo/361297173__/",
+    "competition": "Russia. Cup",
+    "date_time": "8 April at 18:45",
+    "parsed_datetime": "2026-04-08T18:45:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Zenit",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/30245.gif"
+      },
+      {
+        "team_name": "Spartak M",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/30246.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:39.394178"
+  },
+  {
+    "event_id": "361295336",
+    "matchup": "Botev Plovdiv – Lokomotiv Plovdiv",
+    "event_url": "https://livetv.sx/enx/eventinfo/361295336__/",
+    "competition": "Bulgaria. First League",
+    "date_time": "8 April at 18:30",
+    "parsed_datetime": "2026-04-08T18:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Botev Plovdiv",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/1167.gif"
+      },
+      {
+        "team_name": "Lokomotiv Plovdiv",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/30207.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:39.411084"
+  },
+  {
+    "event_id": "362801023",
+    "matchup": "Goztepe – Galatasaray",
+    "event_url": "https://livetv.sx/enx/eventinfo/362801023__/",
+    "competition": "Turkey. Super League",
+    "date_time": "8 April at 18:00",
+    "parsed_datetime": "2026-04-08T18:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Goztepe",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/1106.gif"
+      },
+      {
+        "team_name": "Galatasaray",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/20957.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:39.421823"
+  },
+  {
+    "event_id": "360951685",
+    "matchup": "Al-Ittihad Jeddah – Neom",
+    "event_url": "https://livetv.sx/enx/eventinfo/360951685__/",
+    "competition": "Saudi Arabia. Pro League",
+    "date_time": "8 April at 19:00",
+    "parsed_datetime": "2026-04-08T19:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Al-Ittihad Jeddah",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/25435.gif"
+      },
+      {
+        "team_name": "Neom",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/35364.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:39.518844"
   },
   {
     "event_id": "360951687",
@@ -3566,85 +3585,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:52.127873"
+    "last_updated": "2026-04-08T06:49:39.556563"
   },
   {
-    "event_id": "365466181",
-    "matchup": "Farense U-23 –  Estrela U-23",
-    "event_url": "https://livetv.sx/enx/eventinfo/365466181__/",
-    "competition": "Portugal. League U23",
-    "date_time": "8 April at 20:00",
-    "parsed_datetime": "2026-04-08T20:00:00",
+    "event_id": "365222837",
+    "matchup": "Bolivia U17 – Peru U17",
+    "event_url": "https://livetv.sx/enx/eventinfo/365222837_bolivia_u17_peru_u17/",
+    "competition": "South American U-17 Championship",
+    "date_time": "8 April at 21:00",
+    "parsed_datetime": "2026-04-08T21:00:00",
     "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Farense U-23",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/16780.gif"
-      },
-      {
-        "team_name": "Estrela U-23",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/21726.gif"
-      }
-    ],
+    "team_logos": [],
     "streams": [],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:52.234835"
-  },
-  {
-    "event_id": "361329212",
-    "matchup": "Vinotinto – 9 de Octubre",
-    "event_url": "https://livetv.sx/enx/eventinfo/361329212__/",
-    "competition": "Ecuador. Serie B",
-    "date_time": "8 April at 21:30",
-    "parsed_datetime": "2026-04-08T21:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Vinotinto",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/33220.gif"
-      },
-      {
-        "team_name": "9 de Octubre",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/2512.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:52.335644"
-  },
-  {
-    "event_id": "355481898",
-    "matchup": "Atalanta U-23 – Cavese",
-    "event_url": "https://livetv.sx/enx/eventinfo/355481898__/",
-    "competition": "Italy. Serie C. Group C",
-    "date_time": "8 April at 19:30",
-    "parsed_datetime": "2026-04-08T19:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Atalanta U-23",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/27059.gif"
-      },
-      {
-        "team_name": "Cavese",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/8735.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:52.364385"
+    "last_updated": "2026-04-08T06:49:39.607344"
   },
   {
     "event_id": "361301915",
@@ -3670,7 +3628,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:52.401458"
+    "last_updated": "2026-04-08T06:49:39.752477"
+  },
+  {
+    "event_id": "355481898",
+    "matchup": "Atalanta U-23 – Cavese",
+    "event_url": "https://livetv.sx/enx/eventinfo/355481898__/",
+    "competition": "Italy. Serie C. Group C",
+    "date_time": "8 April at 19:30",
+    "parsed_datetime": "2026-04-08T19:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Atalanta U-23",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/27059.gif"
+      },
+      {
+        "team_name": "Cavese",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/8735.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:39.769450"
   },
   {
     "event_id": "361301914",
@@ -3696,7 +3680,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:52.454282"
+    "last_updated": "2026-04-08T06:49:39.769460"
+  },
+  {
+    "event_id": "365466181",
+    "matchup": "Farense U-23 –  Estrela U-23",
+    "event_url": "https://livetv.sx/enx/eventinfo/365466181__/",
+    "competition": "Portugal. League U23",
+    "date_time": "8 April at 20:00",
+    "parsed_datetime": "2026-04-08T20:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Farense U-23",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/16780.gif"
+      },
+      {
+        "team_name": "Estrela U-23",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/21726.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:39.823970"
   },
   {
     "event_id": "361329216",
@@ -3722,7 +3732,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:52.507780"
+    "last_updated": "2026-04-08T06:49:39.977212"
+  },
+  {
+    "event_id": "361329212",
+    "matchup": "Vinotinto – 9 de Octubre",
+    "event_url": "https://livetv.sx/enx/eventinfo/361329212__/",
+    "competition": "Ecuador. Serie B",
+    "date_time": "8 April at 21:30",
+    "parsed_datetime": "2026-04-08T21:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Vinotinto",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/33220.gif"
+      },
+      {
+        "team_name": "9 de Octubre",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/2512.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:40.028806"
   },
   {
     "event_id": "361329215",
@@ -3748,33 +3784,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:52.667472"
-  },
-  {
-    "event_id": "361329218",
-    "matchup": "Atletico Cali – 22 de Julio",
-    "event_url": "https://livetv.sx/enx/eventinfo/361329218__/",
-    "competition": "Ecuador. Serie B",
-    "date_time": "8 April at 22:30",
-    "parsed_datetime": "2026-04-08T22:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Atletico Cali",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/7987.gif"
-      },
-      {
-        "team_name": "22 de Julio",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/33073.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:52.680241"
+    "last_updated": "2026-04-08T06:49:40.106237"
   },
   {
     "event_id": "361329213",
@@ -3800,7 +3810,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:52.707532"
+    "last_updated": "2026-04-08T06:49:40.139620"
   },
   {
     "event_id": "361339049",
@@ -3826,7 +3836,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:52.754473"
+    "last_updated": "2026-04-08T06:49:40.266210"
+  },
+  {
+    "event_id": "361329218",
+    "matchup": "Atletico Cali – 22 de Julio",
+    "event_url": "https://livetv.sx/enx/eventinfo/361329218__/",
+    "competition": "Ecuador. Serie B",
+    "date_time": "8 April at 22:30",
+    "parsed_datetime": "2026-04-08T22:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Atletico Cali",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/7987.gif"
+      },
+      {
+        "team_name": "22 de Julio",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/33073.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:40.271153"
   },
   {
     "event_id": "361351511",
@@ -3852,111 +3888,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:52.806858"
-  },
-  {
-    "event_id": "361351510",
-    "matchup": "Sousa – Botafogo-PB",
-    "event_url": "https://livetv.sx/enx/eventinfo/361351510__/",
-    "competition": "Brazil. Copa do Nordeste",
-    "date_time": "8 April at 23:00",
-    "parsed_datetime": "2026-04-08T23:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Sousa",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6515.gif"
-      },
-      {
-        "team_name": "Botafogo-PB",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6076.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:52.858993"
-  },
-  {
-    "event_id": "365522022",
-    "matchup": "UNAN Managua – ART Jalapa",
-    "event_url": "https://livetv.sx/enx/eventinfo/365522022__/",
-    "competition": "Nicaragua. Liga Primera",
-    "date_time": "8 April at 23:00",
-    "parsed_datetime": "2026-04-08T23:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "UNAN Managua",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/15892.gif"
-      },
-      {
-        "team_name": "ART Jalapa",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/34863.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:52.959302"
-  },
-  {
-    "event_id": "361354467",
-    "matchup": "Deportivo Riestra – Palestino",
-    "event_url": "https://livetv.sx/enx/eventinfo/361354467__/",
-    "competition": "Copa Sudamericana",
-    "date_time": "8 April at 23:00",
-    "parsed_datetime": "2026-04-08T23:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Deportivo Riestra",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/10224.gif"
-      },
-      {
-        "team_name": "Palestino",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/501.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:53.016957"
-  },
-  {
-    "event_id": "361354469",
-    "matchup": "CD Cuenca – Santos-SP",
-    "event_url": "https://livetv.sx/enx/eventinfo/361354469__/",
-    "competition": "Copa Sudamericana",
-    "date_time": "8 April at 23:00",
-    "parsed_datetime": "2026-04-08T23:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "CD Cuenca",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/259.gif"
-      },
-      {
-        "team_name": "Santos-SP",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/254.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-04-08T05:01:53.077298"
+    "last_updated": "2026-04-08T06:49:40.326519"
   },
   {
     "event_id": "361351519",
@@ -3982,24 +3914,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:53.130402"
+    "last_updated": "2026-04-08T06:49:40.444670"
   },
   {
-    "event_id": "361358084",
-    "matchup": "Imperatriz – Maranhao",
-    "event_url": "https://livetv.sx/enx/eventinfo/361358084__/",
-    "competition": "Brazil. Copa do Nordeste",
-    "date_time": "8 April at 23:30",
-    "parsed_datetime": "2026-04-08T23:30:00",
+    "event_id": "365522022",
+    "matchup": "UNAN Managua – ART Jalapa",
+    "event_url": "https://livetv.sx/enx/eventinfo/365522022__/",
+    "competition": "Nicaragua. Liga Primera",
+    "date_time": "8 April at 23:00",
+    "parsed_datetime": "2026-04-08T23:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Imperatriz",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6264.gif"
+        "team_name": "UNAN Managua",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/15892.gif"
       },
       {
-        "team_name": "Maranhao",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/22557.gif"
+        "team_name": "ART Jalapa",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/34863.gif"
       }
     ],
     "streams": [],
@@ -4008,24 +3940,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:53.290719"
+    "last_updated": "2026-04-08T06:49:40.478962"
   },
   {
-    "event_id": "361358085",
-    "matchup": "Fluminense PI – Piaui",
-    "event_url": "https://livetv.sx/enx/eventinfo/361358085__/",
-    "competition": "Brazil. Copa do Nordeste",
-    "date_time": "8 April at 23:30",
-    "parsed_datetime": "2026-04-08T23:30:00",
+    "event_id": "361354467",
+    "matchup": "Deportivo Riestra – Palestino",
+    "event_url": "https://livetv.sx/enx/eventinfo/361354467__/",
+    "competition": "Copa Sudamericana",
+    "date_time": "8 April at 23:00",
+    "parsed_datetime": "2026-04-08T23:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Fluminense PI",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/13086.gif"
+        "team_name": "Deportivo Riestra",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/10224.gif"
       },
       {
-        "team_name": "Piaui",
-        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/9894.gif"
+        "team_name": "Palestino",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/501.gif"
       }
     ],
     "streams": [],
@@ -4034,7 +3966,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:53.370255"
+    "last_updated": "2026-04-08T06:49:40.478973"
+  },
+  {
+    "event_id": "361351510",
+    "matchup": "Sousa – Botafogo-PB",
+    "event_url": "https://livetv.sx/enx/eventinfo/361351510__/",
+    "competition": "Brazil. Copa do Nordeste",
+    "date_time": "8 April at 23:00",
+    "parsed_datetime": "2026-04-08T23:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Sousa",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6515.gif"
+      },
+      {
+        "team_name": "Botafogo-PB",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6076.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:40.531897"
   },
   {
     "event_id": "361358094",
@@ -4060,6 +4018,84 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-04-08T05:01:53.433189"
+    "last_updated": "2026-04-08T06:49:40.585816"
+  },
+  {
+    "event_id": "361358084",
+    "matchup": "Imperatriz – Maranhao",
+    "event_url": "https://livetv.sx/enx/eventinfo/361358084__/",
+    "competition": "Brazil. Copa do Nordeste",
+    "date_time": "8 April at 23:30",
+    "parsed_datetime": "2026-04-08T23:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Imperatriz",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/6264.gif"
+      },
+      {
+        "team_name": "Maranhao",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/22557.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:40.676465"
+  },
+  {
+    "event_id": "361358085",
+    "matchup": "Fluminense PI – Piaui",
+    "event_url": "https://livetv.sx/enx/eventinfo/361358085__/",
+    "competition": "Brazil. Copa do Nordeste",
+    "date_time": "8 April at 23:30",
+    "parsed_datetime": "2026-04-08T23:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Fluminense PI",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/13086.gif"
+      },
+      {
+        "team_name": "Piaui",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/9894.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:40.727610"
+  },
+  {
+    "event_id": "361354469",
+    "matchup": "CD Cuenca – Santos-SP",
+    "event_url": "https://livetv.sx/enx/eventinfo/361354469__/",
+    "competition": "Copa Sudamericana",
+    "date_time": "8 April at 23:00",
+    "parsed_datetime": "2026-04-08T23:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "CD Cuenca",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/259.gif"
+      },
+      {
+        "team_name": "Santos-SP",
+        "logo_url": "https://cdn.livetv874.me/img/teams/fullsize/ods/254.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-04-08T06:49:40.842652"
   }
 ]
