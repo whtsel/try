@@ -7,48 +7,379 @@
     "date_time": "6 May at 20:00",
     "parsed_datetime": "2026-05-06T20:00:00",
     "is_live": true,
-    "team_logos": [],
-    "streams": [],
+    "team_logos": [
+      {
+        "team_name": "Bayern Munich",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/9.gif"
+      },
+      {
+        "team_name": "PSG",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/34520.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv882.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=259092&lang=en&eid=372651660&lid=3010205&ci=7&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv882.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=259219&lang=en&eid=372651660&lid=3010677&ci=7&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv882.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=259223&lang=en&eid=372651660&lid=3010308&ci=7&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv882.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=259260&lang=en&eid=372651660&lid=3010294&ci=7&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv882.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=259261&lang=en&eid=372651660&lid=3010199&ci=7&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv882.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=259428&lang=en&eid=372651660&lid=3010295&ci=7&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv882.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=259552&lang=en&eid=372651660&lid=3010680&ci=7&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv882.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=227381&lang=en&eid=372651660&lid=3010297&ci=7&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
     "starting_lineups": {
-      "home_team": [],
-      "away_team": []
+      "home_team": [
+        "01.",
+        "Manuel Neuer",
+        "(G)",
+        "06.",
+        "Joshua Kimmich",
+        "04.",
+        "Jonathan Tah",
+        "10.",
+        "Jamal Musiala",
+        "09.",
+        "Harry Kane",
+        "02.",
+        "Dayot Upamecano",
+        "44.",
+        "Josip Stanisic",
+        "27.",
+        "Konrad Laimer",
+        "17.",
+        "Michael Olise",
+        "14.",
+        "Luis Diaz",
+        "45.",
+        "Aleksandar Pavlovic"
+      ],
+      "away_team": [
+        "39.",
+        "Matvey Safonov",
+        "(G)",
+        "51.",
+        "Willian Pacho",
+        "87.",
+        "Joao Neves",
+        "08.",
+        "Fabian Ruiz",
+        "14.",
+        "Desire Doue",
+        "07.",
+        "Khvicha Kvaratskhelia",
+        "33.",
+        "Warren Zaire-Emery",
+        "17.",
+        "Vitinha",
+        "10.",
+        "Ousmane Dembele",
+        "25.",
+        "Nuno Mendes",
+        "05.",
+        "Marquinhos"
+      ]
     },
-    "league_table": [],
-    "last_updated": "2026-05-06T19:41:55.932384"
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Arsenal",
+        "played": "8",
+        "pts": "24"
+      },
+      {
+        "pos": "2",
+        "team": "Bayern Munich",
+        "played": "8",
+        "pts": "21"
+      },
+      {
+        "pos": "3",
+        "team": "Liverpool",
+        "played": "8",
+        "pts": "18"
+      },
+      {
+        "pos": "4",
+        "team": "Tottenham",
+        "played": "8",
+        "pts": "17"
+      },
+      {
+        "pos": "5",
+        "team": "Barcelona",
+        "played": "8",
+        "pts": "16"
+      },
+      {
+        "pos": "6",
+        "team": "Chelsea",
+        "played": "8",
+        "pts": "16"
+      },
+      {
+        "pos": "7",
+        "team": "Sporting",
+        "played": "8",
+        "pts": "16"
+      },
+      {
+        "pos": "8",
+        "team": "Manchester City",
+        "played": "8",
+        "pts": "16"
+      },
+      {
+        "pos": "9",
+        "team": "Real Madrid RM",
+        "played": "8",
+        "pts": "15"
+      },
+      {
+        "pos": "10",
+        "team": "Inter",
+        "played": "8",
+        "pts": "15"
+      },
+      {
+        "pos": "11",
+        "team": "PSG",
+        "played": "8",
+        "pts": "14"
+      },
+      {
+        "pos": "12",
+        "team": "Newcastle United",
+        "played": "8",
+        "pts": "14"
+      },
+      {
+        "pos": "13",
+        "team": "Juventus",
+        "played": "8",
+        "pts": "13"
+      },
+      {
+        "pos": "14",
+        "team": "Atletico Madrid",
+        "played": "8",
+        "pts": "13"
+      },
+      {
+        "pos": "15",
+        "team": "Atalanta",
+        "played": "8",
+        "pts": "13"
+      },
+      {
+        "pos": "16",
+        "team": "Leverkusen",
+        "played": "8",
+        "pts": "12"
+      },
+      {
+        "pos": "17",
+        "team": "Dortmund",
+        "played": "8",
+        "pts": "11"
+      },
+      {
+        "pos": "18",
+        "team": "Olympiacos",
+        "played": "8",
+        "pts": "11"
+      },
+      {
+        "pos": "19",
+        "team": "Brugge",
+        "played": "8",
+        "pts": "10"
+      },
+      {
+        "pos": "20",
+        "team": "Galatasaray",
+        "played": "8",
+        "pts": "10"
+      },
+      {
+        "pos": "21",
+        "team": "AS Monaco",
+        "played": "8",
+        "pts": "10"
+      },
+      {
+        "pos": "22",
+        "team": "Qarabag",
+        "played": "8",
+        "pts": "10"
+      },
+      {
+        "pos": "23",
+        "team": "Bodoe/Glimt",
+        "played": "8",
+        "pts": "9"
+      },
+      {
+        "pos": "24",
+        "team": "Benfica",
+        "played": "8",
+        "pts": "9"
+      },
+      {
+        "pos": "25",
+        "team": "Marseille",
+        "played": "8",
+        "pts": "9"
+      },
+      {
+        "pos": "26",
+        "team": "Pafos",
+        "played": "8",
+        "pts": "9"
+      },
+      {
+        "pos": "27",
+        "team": "Union Saint-Gilloise",
+        "played": "8",
+        "pts": "9"
+      },
+      {
+        "pos": "28",
+        "team": "PSV",
+        "played": "8",
+        "pts": "8"
+      },
+      {
+        "pos": "29",
+        "team": "Athletic Bilbao",
+        "played": "8",
+        "pts": "8"
+      },
+      {
+        "pos": "30",
+        "team": "Napoli",
+        "played": "8",
+        "pts": "8"
+      },
+      {
+        "pos": "31",
+        "team": "Copenhagen",
+        "played": "8",
+        "pts": "8"
+      },
+      {
+        "pos": "32",
+        "team": "Ajax",
+        "played": "8",
+        "pts": "6"
+      },
+      {
+        "pos": "33",
+        "team": "Eintracht",
+        "played": "8",
+        "pts": "4"
+      },
+      {
+        "pos": "34",
+        "team": "Slavia Prague",
+        "played": "8",
+        "pts": "3"
+      },
+      {
+        "pos": "35",
+        "team": "Villarreal",
+        "played": "8",
+        "pts": "1"
+      },
+      {
+        "pos": "36",
+        "team": "Kairat",
+        "played": "8",
+        "pts": "1"
+      }
+    ],
+    "last_updated": "2026-05-06T20:57:08.727969"
   },
   {
-    "event_id": "378129188",
-    "matchup": "Juventus NG U-23 – Pianese",
-    "event_url": "https://livetv.sx/enx/eventinfo/378129188__/",
-    "competition": "Italy. Serie C. Group B",
-    "date_time": "6 May at 19:00",
-    "parsed_datetime": "2026-05-06T19:00:00",
+    "event_id": "378058855",
+    "matchup": "Argentina U17 (W) – Venezuela U17 (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/378058855_argentina_u17_w_venezuela_u17_w/",
+    "competition": "Women. South American Championship U17",
+    "date_time": "6 May at 21:00",
+    "parsed_datetime": "2026-05-06T21:00:00",
     "is_live": true,
     "team_logos": [],
-    "streams": [],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv882.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=youtube&c=6A7T3kMOX-c&lang=en&eid=378058855&lid=3010648&ci=5528&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-05-06T19:41:56.471306"
-  },
-  {
-    "event_id": "372727034",
-    "matchup": "Audax Italiano – Vasco de Gama",
-    "event_url": "https://livetv.sx/enx/eventinfo/372727034__/",
-    "competition": "Copa Sudamericana",
-    "date_time": "6 May at 23:00",
-    "parsed_datetime": "2026-05-06T23:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-05-06T19:41:56.549592"
+    "last_updated": "2026-05-06T20:57:08.974086"
   },
   {
     "event_id": "372723659",
@@ -58,99 +389,23 @@
     "date_time": "6 May at 23:00",
     "parsed_datetime": "2026-05-06T23:00:00",
     "is_live": false,
-    "team_logos": [],
+    "team_logos": [
+      {
+        "team_name": "Cusco",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/2635.gif"
+      },
+      {
+        "team_name": "Estudiantes LP",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/36876.gif"
+      }
+    ],
     "streams": [],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-05-06T19:41:56.560818"
-  },
-  {
-    "event_id": "376660913",
-    "matchup": "Al Ahli Jeddah – Al-Fateh",
-    "event_url": "https://livetv.sx/enx/eventinfo/376660913__/",
-    "competition": "Saudi Arabia. Pro League",
-    "date_time": "6 May at 19:00",
-    "parsed_datetime": "2026-05-06T19:00:00",
-    "is_live": true,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-05-06T19:41:56.611251"
-  },
-  {
-    "event_id": "376270766",
-    "matchup": "Maghreb de Fes – Raja CA",
-    "event_url": "https://livetv.sx/enx/eventinfo/376270766__/",
-    "competition": "Morocco. Botola Pro",
-    "date_time": "6 May at 21:00",
-    "parsed_datetime": "2026-05-06T21:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-05-06T19:41:57.191041"
-  },
-  {
-    "event_id": "378129186",
-    "matchup": "Campobasso – Pineto",
-    "event_url": "https://livetv.sx/enx/eventinfo/378129186__/",
-    "competition": "Italy. Serie C. Group B",
-    "date_time": "6 May at 19:00",
-    "parsed_datetime": "2026-05-06T19:00:00",
-    "is_live": true,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-05-06T19:41:58.611368"
-  },
-  {
-    "event_id": "372727036",
-    "matchup": "MC Torque – Palestino",
-    "event_url": "https://livetv.sx/enx/eventinfo/372727036__/",
-    "competition": "Copa Sudamericana",
-    "date_time": "6 May at 23:00",
-    "parsed_datetime": "2026-05-06T23:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-05-06T19:41:59.563385"
-  },
-  {
-    "event_id": "378402734",
-    "matchup": "FH Hafnarfjordur (W) –  Grindavik (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/378402734__/",
-    "competition": "Iceland. Women. Urvalsdeild",
-    "date_time": "6 May at 20:15",
-    "parsed_datetime": "2026-05-06T20:15:00",
-    "is_live": true,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-05-06T19:42:02.879307"
+    "last_updated": "2026-05-06T20:57:09.209769"
   },
   {
     "event_id": "378408958",
@@ -176,152 +431,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-05-06T19:42:03.828600"
-  },
-  {
-    "event_id": "378058855",
-    "matchup": "Argentina U17 (W) – Venezuela U17 (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/378058855_argentina_u17_w_venezuela_u17_w/",
-    "competition": "Women. South American Championship U17",
-    "date_time": "6 May at 21:00",
-    "parsed_datetime": "2026-05-06T21:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv882.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=259303&lang=en&eid=378058855&lid=3010214&ci=5528&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv882.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=youtube&c=6A7T3kMOX-c&lang=en&eid=378058855&lid=3010648&ci=5528&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-05-06T19:42:04.318835"
-  },
-  {
-    "event_id": "378097328",
-    "matchup": "Brighton & Hove (W) – Arsenal (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/378097328_brighton_and_hove_w_arsenal_w/",
-    "competition": "England. Women. Super League",
-    "date_time": "6 May at 19:45",
-    "parsed_datetime": "2026-05-06T19:45:00",
-    "is_live": true,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-05-06T19:42:11.356835"
-  },
-  {
-    "event_id": "378058856",
-    "matchup": "Brazil U17 (W) – Chile U17 (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/378058856_brazil_u17_w_chile_u17_w/",
-    "competition": "Women. South American Championship U17",
-    "date_time": "6 May at 21:00",
-    "parsed_datetime": "2026-05-06T21:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-05-06T19:42:11.474999"
-  },
-  {
-    "event_id": "378414538",
-    "matchup": "Mixco – Municipal",
-    "event_url": "https://livetv.sx/enx/eventinfo/378414538__/",
-    "competition": "Guatemala. Liga Nacional",
-    "date_time": "6 May at 22:00",
-    "parsed_datetime": "2026-05-06T22:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-05-06T19:42:11.576407"
-  },
-  {
-    "event_id": "378509569",
-    "matchup": "Talleres de Cordoba II – Atletico Tucuman II",
-    "event_url": "https://livetv.sx/enx/eventinfo/378509569__/",
-    "competition": "Argentina. Reserve League",
-    "date_time": "6 May at 23:00",
-    "parsed_datetime": "2026-05-06T23:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-05-06T19:42:11.613744"
-  },
-  {
-    "event_id": "378426944",
-    "matchup": "ABC – Juazeirense",
-    "event_url": "https://livetv.sx/enx/eventinfo/378426944__/",
-    "competition": "Brazil. Copa do Nordeste",
-    "date_time": "6 May at 23:00",
-    "parsed_datetime": "2026-05-06T23:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-05-06T19:42:12.206584"
-  },
-  {
-    "event_id": "378129183",
-    "matchup": "Casertana – Crotone",
-    "event_url": "https://livetv.sx/enx/eventinfo/378129183__/",
-    "competition": "Italy. Serie C. Group B",
-    "date_time": "6 May at 19:00",
-    "parsed_datetime": "2026-05-06T19:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Casertana",
-        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/8734.gif"
-      },
-      {
-        "team_name": "Crotone",
-        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/9111.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-05-06T19:42:12.388002"
+    "last_updated": "2026-05-06T20:57:09.392177"
   },
   {
     "event_id": "372723657",
@@ -347,49 +457,183 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-05-06T19:42:12.875392"
+    "last_updated": "2026-05-06T20:57:09.472189"
   },
   {
-    "event_id": "378129181",
-    "matchup": "Cosenza – Casarano",
-    "event_url": "https://livetv.sx/enx/eventinfo/378129181__/",
-    "competition": "Italy. Serie C. Group B",
-    "date_time": "6 May at 19:00",
-    "parsed_datetime": "2026-05-06T19:00:00",
-    "is_live": true,
-    "team_logos": [],
+    "event_id": "372727036",
+    "matchup": "MC Torque – Palestino",
+    "event_url": "https://livetv.sx/enx/eventinfo/372727036__/",
+    "competition": "Copa Sudamericana",
+    "date_time": "6 May at 23:00",
+    "parsed_datetime": "2026-05-06T23:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "MC Torque",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/1468.gif"
+      },
+      {
+        "team_name": "Palestino",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/501.gif"
+      }
+    ],
     "streams": [],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-05-06T19:42:13.025848"
+    "last_updated": "2026-05-06T20:57:09.582611"
   },
   {
-    "event_id": "376270764",
-    "matchup": "WAC – CODM Meknes",
-    "event_url": "https://livetv.sx/enx/eventinfo/376270764__/",
+    "event_id": "378414538",
+    "matchup": "Mixco – Municipal",
+    "event_url": "https://livetv.sx/enx/eventinfo/378414538__/",
+    "competition": "Guatemala. Liga Nacional",
+    "date_time": "6 May at 22:00",
+    "parsed_datetime": "2026-05-06T22:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Mixco",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/16112.gif"
+      },
+      {
+        "team_name": "Municipal",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/841.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Xelaju MC",
+        "played": "22",
+        "pts": "39"
+      },
+      {
+        "pos": "2",
+        "team": "Municipal",
+        "played": "22",
+        "pts": "38"
+      },
+      {
+        "pos": "3",
+        "team": "Mixco",
+        "played": "22",
+        "pts": "36"
+      },
+      {
+        "pos": "4",
+        "team": "Comunicaciones",
+        "played": "22",
+        "pts": "35"
+      },
+      {
+        "pos": "5",
+        "team": "Antigua GFC",
+        "played": "22",
+        "pts": "34"
+      },
+      {
+        "pos": "6",
+        "team": "Coban Imperial",
+        "played": "22",
+        "pts": "32"
+      },
+      {
+        "pos": "7",
+        "team": "Guastatoya",
+        "played": "22",
+        "pts": "31"
+      },
+      {
+        "pos": "8",
+        "team": "Deportivo Marquense",
+        "played": "22",
+        "pts": "30"
+      },
+      {
+        "pos": "9",
+        "team": "Atletico Mictlan",
+        "played": "22",
+        "pts": "27"
+      },
+      {
+        "pos": "10",
+        "team": "Malacateco",
+        "played": "22",
+        "pts": "22"
+      },
+      {
+        "pos": "11",
+        "team": "Aurora",
+        "played": "22",
+        "pts": "20"
+      },
+      {
+        "pos": "12",
+        "team": "Deportivo Achuapa",
+        "played": "22",
+        "pts": "19"
+      }
+    ],
+    "last_updated": "2026-05-06T20:57:09.684920"
+  },
+  {
+    "event_id": "372727034",
+    "matchup": "Audax Italiano – Vasco de Gama",
+    "event_url": "https://livetv.sx/enx/eventinfo/372727034__/",
+    "competition": "Copa Sudamericana",
+    "date_time": "6 May at 23:00",
+    "parsed_datetime": "2026-05-06T23:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Audax Italiano",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/33218.gif"
+      },
+      {
+        "team_name": "Vasco de Gama",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/436.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-05-06T20:57:09.684939"
+  },
+  {
+    "event_id": "376270766",
+    "matchup": "Maghreb de Fes – Raja CA",
+    "event_url": "https://livetv.sx/enx/eventinfo/376270766__/",
     "competition": "Morocco. Botola Pro",
-    "date_time": "6 May at 19:00",
-    "parsed_datetime": "2026-05-06T19:00:00",
+    "date_time": "6 May at 21:00",
+    "parsed_datetime": "2026-05-06T21:00:00",
     "is_live": true,
     "team_logos": [
       {
-        "team_name": "WAC",
-        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/30581.gif"
+        "team_name": "Maghreb de Fes",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/8427.gif"
       },
       {
-        "team_name": "CODM Meknes",
-        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/29372.gif"
+        "team_name": "Raja CA",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/1012.gif"
       }
     ],
     "streams": [
       {
-        "language": "Arabic",
-        "flag_src": "https://cdn.livetv882.me/img/linkflag/5.png",
+        "language": "",
+        "flag_src": "https://cdn.livetv882.me/img/linkflag/0.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=youtube&c=tLS59vjQ81M&lang=en&eid=376270764&lid=3010642&ci=551&si=1",
+        "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=youtube&c=vXaSUp1Ykto&lang=en&eid=376270766&lid=3010683&ci=551&si=1",
         "stream_title": "",
         "stream_type": ""
       }
@@ -496,23 +740,84 @@
         "pts": "12"
       }
     ],
-    "last_updated": "2026-05-06T19:42:14.224699"
+    "last_updated": "2026-05-06T20:57:09.859236"
   },
   {
-    "event_id": "378129184",
-    "matchup": "Lecco – Giana Erminio",
-    "event_url": "https://livetv.sx/enx/eventinfo/378129184__/",
-    "competition": "Italy. Serie C. Group B",
-    "date_time": "6 May at 19:00",
-    "parsed_datetime": "2026-05-06T19:00:00",
-    "is_live": true,
-    "team_logos": [],
+    "event_id": "378426944",
+    "matchup": "ABC – Juazeirense",
+    "event_url": "https://livetv.sx/enx/eventinfo/378426944__/",
+    "competition": "Brazil. Copa do Nordeste",
+    "date_time": "6 May at 23:00",
+    "parsed_datetime": "2026-05-06T23:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "ABC",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/6267.gif"
+      },
+      {
+        "team_name": "Juazeirense",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/36994.gif"
+      }
+    ],
     "streams": [],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-05-06T19:42:16.066521"
+    "last_updated": "2026-05-06T20:57:09.866793"
+  },
+  {
+    "event_id": "378509569",
+    "matchup": "Talleres de Cordoba II – Atletico Tucuman II",
+    "event_url": "https://livetv.sx/enx/eventinfo/378509569__/",
+    "competition": "Argentina. Reserve League",
+    "date_time": "6 May at 23:00",
+    "parsed_datetime": "2026-05-06T23:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Talleres de Cordoba II",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/34882.gif"
+      },
+      {
+        "team_name": "Atletico Tucuman II",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/19018.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-05-06T20:57:09.912859"
+  },
+  {
+    "event_id": "378402734",
+    "matchup": "FH Hafnarfjordur (W) –  Grindavik (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/378402734__/",
+    "competition": "Iceland. Women. Urvalsdeild",
+    "date_time": "6 May at 20:15",
+    "parsed_datetime": "2026-05-06T20:15:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "FH Hafnarfjordur (W)",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/14318.gif"
+      },
+      {
+        "team_name": "Grindavik (W)",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/14321.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-05-06T20:57:10.556433"
   }
 ]
