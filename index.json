@@ -32,7 +32,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-05-06T22:40:48.817916"
+    "last_updated": "2026-05-06T23:33:54.182283"
   },
   {
     "event_id": "378899519",
@@ -41,24 +41,122 @@
     "competition": "Brazil. Women. Campeonato Paulista",
     "date_time": "6 May at 22:30",
     "parsed_datetime": "2026-05-06T22:30:00",
-    "is_live": true,
+    "is_live": false,
     "team_logos": [],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv882.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=259303&lang=en&eid=378899519&lid=3010214&ci=2745&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
+    "streams": [],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-05-06T22:40:49.207497"
+    "last_updated": "2026-05-06T23:33:54.377125"
+  },
+  {
+    "event_id": "372723657",
+    "matchup": "Deportivo La Guaira – Bolivar",
+    "event_url": "https://livetv.sx/enx/eventinfo/372723657__/",
+    "competition": "Copa Libertadores",
+    "date_time": "6 May at 23:00",
+    "parsed_datetime": "2026-05-06T23:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Deportivo La Guaira",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/1502.gif"
+      },
+      {
+        "team_name": "Bolivar",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/524.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv882.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=3010097&lang=en&eid=372723657&lid=3010097&ci=12&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv882.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=2742794&lang=en&eid=372723657&lid=2742794&ci=12&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv882.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=3010093&lang=en&eid=372723657&lid=3010093&ci=12&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv882.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=2935637&lang=en&eid=372723657&lid=2935637&ci=12&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [
+        "01.",
+        "Cristopher Varela",
+        "(G)",
+        "20.",
+        "Jorge Gutierrez",
+        "24.",
+        "Guillermo Luis Ortiz",
+        "36.",
+        "Flabian Londono",
+        "06.",
+        "Carlos Faya",
+        "27.",
+        "Jose Correa",
+        "13.",
+        "Rommell Ibarra",
+        "05.",
+        "Martin Gianoli",
+        "16.",
+        "Luis Casimiro Pena",
+        "10.",
+        "Juan Castellanos",
+        "07.",
+        "Jose Meza"
+      ],
+      "away_team": [
+        "01.",
+        "Carlos Lampe",
+        "(G)",
+        "27.",
+        "Ignacio Gariglio",
+        "77.",
+        "Dorny Romero",
+        "80.",
+        "Carlos Melgar",
+        "14.",
+        "Robson Matheus",
+        "17.",
+        "Patricio Rodriguez",
+        "08.",
+        "Luis Paz",
+        "23.",
+        "Leonel Justiniano",
+        "04.",
+        "Jose Sagredo",
+        "03.",
+        "Xavier Arreaga",
+        "11.",
+        "Braian Oyola"
+      ]
+    },
+    "league_table": [],
+    "last_updated": "2026-05-06T23:33:54.683687"
   },
   {
     "event_id": "372727034",
@@ -149,7 +247,7 @@
       ]
     },
     "league_table": [],
-    "last_updated": "2026-05-06T22:40:49.562998"
+    "last_updated": "2026-05-06T23:33:54.762807"
   },
   {
     "event_id": "372723659",
@@ -288,150 +386,7 @@
       ]
     },
     "league_table": [],
-    "last_updated": "2026-05-06T22:40:49.633748"
-  },
-  {
-    "event_id": "378509569",
-    "matchup": "Talleres de Cordoba II – Atletico Tucuman II",
-    "event_url": "https://livetv.sx/enx/eventinfo/378509569__/",
-    "competition": "Argentina. Reserve League",
-    "date_time": "6 May at 23:00",
-    "parsed_datetime": "2026-05-06T23:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Talleres de Cordoba II",
-        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/34882.gif"
-      },
-      {
-        "team_name": "Atletico Tucuman II",
-        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/19018.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv882.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=3010754&lang=en&eid=378509569&lid=3010754&ci=1843&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-05-06T22:40:49.950581"
-  },
-  {
-    "event_id": "378414538",
-    "matchup": "Mixco – Municipal",
-    "event_url": "https://livetv.sx/enx/eventinfo/378414538__/",
-    "competition": "Guatemala. Liga Nacional",
-    "date_time": "6 May at 22:00",
-    "parsed_datetime": "2026-05-06T22:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Mixco",
-        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/16112.gif"
-      },
-      {
-        "team_name": "Municipal",
-        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/841.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv882.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=youtube&c=5HwuqTs_kTE&lang=en&eid=378414538&lid=3010755&ci=472&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Xelaju MC",
-        "played": "22",
-        "pts": "39"
-      },
-      {
-        "pos": "2",
-        "team": "Municipal",
-        "played": "22",
-        "pts": "38"
-      },
-      {
-        "pos": "3",
-        "team": "Mixco",
-        "played": "22",
-        "pts": "36"
-      },
-      {
-        "pos": "4",
-        "team": "Comunicaciones",
-        "played": "22",
-        "pts": "35"
-      },
-      {
-        "pos": "5",
-        "team": "Antigua GFC",
-        "played": "22",
-        "pts": "34"
-      },
-      {
-        "pos": "6",
-        "team": "Coban Imperial",
-        "played": "22",
-        "pts": "32"
-      },
-      {
-        "pos": "7",
-        "team": "Guastatoya",
-        "played": "22",
-        "pts": "31"
-      },
-      {
-        "pos": "8",
-        "team": "Deportivo Marquense",
-        "played": "22",
-        "pts": "30"
-      },
-      {
-        "pos": "9",
-        "team": "Atletico Mictlan",
-        "played": "22",
-        "pts": "27"
-      },
-      {
-        "pos": "10",
-        "team": "Malacateco",
-        "played": "22",
-        "pts": "22"
-      },
-      {
-        "pos": "11",
-        "team": "Aurora",
-        "played": "22",
-        "pts": "20"
-      },
-      {
-        "pos": "12",
-        "team": "Deportivo Achuapa",
-        "played": "22",
-        "pts": "19"
-      }
-    ],
-    "last_updated": "2026-05-06T22:40:50.095550"
+    "last_updated": "2026-05-06T23:33:55.032456"
   },
   {
     "event_id": "372727036",
@@ -530,113 +485,41 @@
       ]
     },
     "league_table": [],
-    "last_updated": "2026-05-06T22:40:50.105607"
+    "last_updated": "2026-05-06T23:33:55.146612"
   },
   {
-    "event_id": "372723657",
-    "matchup": "Deportivo La Guaira – Bolivar",
-    "event_url": "https://livetv.sx/enx/eventinfo/372723657__/",
-    "competition": "Copa Libertadores",
+    "event_id": "378509569",
+    "matchup": "Talleres de Cordoba II – Atletico Tucuman II",
+    "event_url": "https://livetv.sx/enx/eventinfo/378509569__/",
+    "competition": "Argentina. Reserve League",
     "date_time": "6 May at 23:00",
     "parsed_datetime": "2026-05-06T23:00:00",
     "is_live": true,
     "team_logos": [
       {
-        "team_name": "Deportivo La Guaira",
-        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/1502.gif"
+        "team_name": "Talleres de Cordoba II",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/34882.gif"
       },
       {
-        "team_name": "Bolivar",
-        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/524.gif"
+        "team_name": "Atletico Tucuman II",
+        "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/19018.gif"
       }
     ],
     "streams": [
       {
-        "language": "English",
-        "flag_src": "https://cdn.livetv882.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=3010097&lang=en&eid=372723657&lid=3010097&ci=12&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
         "language": "Spanish",
         "flag_src": "https://cdn.livetv882.me/img/linkflag/7.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=2742794&lang=en&eid=372723657&lid=2742794&ci=12&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv882.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=3010093&lang=en&eid=372723657&lid=3010093&ci=12&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv882.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=2935637&lang=en&eid=372723657&lid=2935637&ci=12&si=1",
+        "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=3010754&lang=en&eid=378509569&lid=3010754&ci=1843&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       }
     ],
     "starting_lineups": {
-      "home_team": [
-        "01.",
-        "Cristopher Varela",
-        "(G)",
-        "20.",
-        "Jorge Gutierrez",
-        "24.",
-        "Guillermo Luis Ortiz",
-        "36.",
-        "Flabian Londono",
-        "06.",
-        "Carlos Faya",
-        "27.",
-        "Jose Correa",
-        "13.",
-        "Rommell Ibarra",
-        "05.",
-        "Martin Gianoli",
-        "16.",
-        "Luis Casimiro Pena",
-        "10.",
-        "Juan Castellanos",
-        "07.",
-        "Jose Meza"
-      ],
-      "away_team": [
-        "01.",
-        "Carlos Lampe",
-        "(G)",
-        "27.",
-        "Ignacio Gariglio",
-        "77.",
-        "Dorny Romero",
-        "80.",
-        "Carlos Melgar",
-        "14.",
-        "Robson Matheus",
-        "17.",
-        "Patricio Rodriguez",
-        "08.",
-        "Luis Paz",
-        "23.",
-        "Leonel Justiniano",
-        "04.",
-        "Jose Sagredo",
-        "03.",
-        "Xavier Arreaga",
-        "11.",
-        "Braian Oyola"
-      ]
+      "home_team": [],
+      "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-05-06T22:40:50.152147"
+    "last_updated": "2026-05-06T23:33:55.166422"
   }
 ]
