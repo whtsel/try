@@ -6,7 +6,7 @@
     "competition": "Australia. Queensland Premier League",
     "date_time": "16 June at 10:30",
     "parsed_datetime": "2026-06-16T10:30:00",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Redlands United",
@@ -17,13 +17,22 @@
         "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/6357.gif"
       }
     ],
-    "streams": [],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv899.me/img/linkflag/18.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=X_ktUdfXpog&lang=en&eid=382096924&lid=3027617&ci=3354&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-06-16T05:29:11.815654"
+    "last_updated": "2026-06-16T10:24:55.460839"
   },
   {
     "event_id": "386920263",
@@ -34,13 +43,22 @@
     "parsed_datetime": "2026-06-16T12:00:00",
     "is_live": false,
     "team_logos": [],
-    "streams": [],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv899.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=9nrz6F06Szc&lang=en&eid=386920263&lid=3027743&ci=7848&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-06-16T05:29:12.060938"
+    "last_updated": "2026-06-16T10:24:55.530049"
   },
   {
     "event_id": "386920265",
@@ -57,381 +75,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-06-16T05:29:12.093649"
+    "last_updated": "2026-06-16T10:24:55.577946"
   },
   {
-    "event_id": "385638130",
-    "matchup": "Parnu Vaprus – Flora",
-    "event_url": "https://livetv.sx/enx/eventinfo/385638130__/",
-    "competition": "Estonia. Meistriliiga",
-    "date_time": "16 June at 17:00",
-    "parsed_datetime": "2026-06-16T17:00:00",
+    "event_id": "386920264",
+    "matchup": "Irtysh (W) – Astana (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/386920264_irtysh_w_astana_w/",
+    "competition": "Kazakhstan. Women. Championship",
+    "date_time": "16 June at 12:00",
+    "parsed_datetime": "2026-06-16T12:00:00",
     "is_live": false,
-    "team_logos": [
+    "team_logos": [],
+    "streams": [
       {
-        "team_name": "Parnu Vaprus",
-        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/4116.gif"
-      },
-      {
-        "team_name": "Flora",
-        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/30367.gif"
+        "language": "",
+        "flag_src": "https://cdn.livetv899.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=jRFoLqQV17k&lang=en&eid=386920264&lid=3027742&ci=7848&si=1",
+        "stream_title": "",
+        "stream_type": ""
       }
     ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Levadia",
-        "played": "15",
-        "pts": "39"
-      },
-      {
-        "pos": "2",
-        "team": "Nomme Kalju",
-        "played": "15",
-        "pts": "29"
-      },
-      {
-        "pos": "3",
-        "team": "Flora",
-        "played": "14",
-        "pts": "27"
-      },
-      {
-        "pos": "4",
-        "team": "Paide",
-        "played": "15",
-        "pts": "22"
-      },
-      {
-        "pos": "5",
-        "team": "Parnu Vaprus",
-        "played": "15",
-        "pts": "20"
-      },
-      {
-        "pos": "6",
-        "team": "Harju",
-        "played": "15",
-        "pts": "19"
-      },
-      {
-        "pos": "7",
-        "team": "Tammeka",
-        "played": "14",
-        "pts": "17"
-      },
-      {
-        "pos": "8",
-        "team": "Nomme United",
-        "played": "15",
-        "pts": "16"
-      },
-      {
-        "pos": "9",
-        "team": "Kuressaare",
-        "played": "15",
-        "pts": "16"
-      },
-      {
-        "pos": "10",
-        "team": "Narva Trans",
-        "played": "15",
-        "pts": "9"
-      }
-    ],
-    "last_updated": "2026-06-16T05:29:12.447920"
-  },
-  {
-    "event_id": "387748206",
-    "matchup": "Eastern Suburbs (W) –  Olympic Brisbane (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/387748206__/",
-    "competition": "Australia. Women. NPL Queensland",
-    "date_time": "16 June at 10:30",
-    "parsed_datetime": "2026-06-16T10:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Eastern Suburbs (W)",
-        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/14577.gif"
-      },
-      {
-        "team_name": "Olympic Brisbane (W)",
-        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/14576.gif"
-      }
-    ],
-    "streams": [],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-06-16T05:29:12.549803"
-  },
-  {
-    "event_id": "385636564",
-    "matchup": "Dila – Spaeri",
-    "event_url": "https://livetv.sx/enx/eventinfo/385636564__/",
-    "competition": "Georgia. Erovnuli Liga",
-    "date_time": "16 June at 17:00",
-    "parsed_datetime": "2026-06-16T17:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Dila",
-        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/1245.gif"
-      },
-      {
-        "team_name": "Spaeri",
-        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/20984.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Iberia",
-        "played": "17",
-        "pts": "31"
-      },
-      {
-        "pos": "2",
-        "team": "Rustavi",
-        "played": "17",
-        "pts": "29"
-      },
-      {
-        "pos": "3",
-        "team": "Torpedo Kt",
-        "played": "17",
-        "pts": "26"
-      },
-      {
-        "pos": "4",
-        "team": "Dinamo Tbilisi",
-        "played": "17",
-        "pts": "25"
-      },
-      {
-        "pos": "5",
-        "team": "Dinamo Batumi",
-        "played": "17",
-        "pts": "24"
-      },
-      {
-        "pos": "6",
-        "team": "Samgurali",
-        "played": "17",
-        "pts": "24"
-      },
-      {
-        "pos": "7",
-        "team": "Spaeri",
-        "played": "17",
-        "pts": "21"
-      },
-      {
-        "pos": "8",
-        "team": "Dila",
-        "played": "17",
-        "pts": "20"
-      },
-      {
-        "pos": "9",
-        "team": "Gagra",
-        "played": "17",
-        "pts": "20"
-      },
-      {
-        "pos": "10",
-        "team": "Meshakhte",
-        "played": "17",
-        "pts": "10"
-      }
-    ],
-    "last_updated": "2026-06-16T05:29:12.609102"
-  },
-  {
-    "event_id": "385636904",
-    "matchup": "Grobina – Liepaja",
-    "event_url": "https://livetv.sx/enx/eventinfo/385636904__/",
-    "competition": "Latvia. Virsliga",
-    "date_time": "16 June at 17:00",
-    "parsed_datetime": "2026-06-16T17:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Grobina",
-        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/30462.gif"
-      },
-      {
-        "team_name": "Liepaja",
-        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/1613.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "RFS",
-        "played": "17",
-        "pts": "46"
-      },
-      {
-        "pos": "2",
-        "team": "Riga",
-        "played": "17",
-        "pts": "42"
-      },
-      {
-        "pos": "3",
-        "team": "Auda",
-        "played": "17",
-        "pts": "35"
-      },
-      {
-        "pos": "4",
-        "team": "Liepaja",
-        "played": "17",
-        "pts": "25"
-      },
-      {
-        "pos": "5",
-        "team": "Super Nova",
-        "played": "17",
-        "pts": "20"
-      },
-      {
-        "pos": "6",
-        "team": "Daugavpils",
-        "played": "17",
-        "pts": "19"
-      },
-      {
-        "pos": "7",
-        "team": "Jelgava",
-        "played": "17",
-        "pts": "16"
-      },
-      {
-        "pos": "8",
-        "team": "Tukums",
-        "played": "17",
-        "pts": "14"
-      },
-      {
-        "pos": "9",
-        "team": "Grobina",
-        "played": "17",
-        "pts": "13"
-      },
-      {
-        "pos": "10",
-        "team": "Ogre United",
-        "played": "17",
-        "pts": "4"
-      }
-    ],
-    "last_updated": "2026-06-16T05:29:12.702232"
-  },
-  {
-    "event_id": "387205214",
-    "matchup": "Transinvest – Riteriai",
-    "event_url": "https://livetv.sx/enx/eventinfo/387205214__/",
-    "competition": "Lithuania. A Lyga",
-    "date_time": "16 June at 16:00",
-    "parsed_datetime": "2026-06-16T16:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Transinvest",
-        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/21624.gif"
-      },
-      {
-        "team_name": "Riteriai",
-        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/4775.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Dziugas",
-        "played": "17",
-        "pts": "33"
-      },
-      {
-        "pos": "2",
-        "team": "Transinvest",
-        "played": "17",
-        "pts": "31"
-      },
-      {
-        "pos": "3",
-        "team": "Kauno Zalgiris",
-        "played": "17",
-        "pts": "30"
-      },
-      {
-        "pos": "4",
-        "team": "Suduva",
-        "played": "17",
-        "pts": "26"
-      },
-      {
-        "pos": "5",
-        "team": "Zalgiris",
-        "played": "17",
-        "pts": "25"
-      },
-      {
-        "pos": "6",
-        "team": "Banga",
-        "played": "17",
-        "pts": "24"
-      },
-      {
-        "pos": "7",
-        "team": "Panevezys",
-        "played": "17",
-        "pts": "21"
-      },
-      {
-        "pos": "8",
-        "team": "Hegelmann",
-        "played": "17",
-        "pts": "18"
-      },
-      {
-        "pos": "9",
-        "team": "Siauliai",
-        "played": "17",
-        "pts": "17"
-      },
-      {
-        "pos": "10",
-        "team": "Riteriai",
-        "played": "17",
-        "pts": "3"
-      }
-    ],
-    "last_updated": "2026-06-16T05:29:12.716594"
+    "last_updated": "2026-06-16T10:24:55.620088"
   },
   {
     "event_id": "385631454",
@@ -518,24 +188,24 @@
         "pts": "4"
       }
     ],
-    "last_updated": "2026-06-16T05:29:12.862045"
+    "last_updated": "2026-06-16T10:24:55.803798"
   },
   {
-    "event_id": "385772941",
-    "matchup": "Kuressaare – Narva Trans",
-    "event_url": "https://livetv.sx/enx/eventinfo/385772941__/",
+    "event_id": "385638130",
+    "matchup": "Parnu Vaprus – Flora",
+    "event_url": "https://livetv.sx/enx/eventinfo/385638130__/",
     "competition": "Estonia. Meistriliiga",
     "date_time": "16 June at 17:00",
     "parsed_datetime": "2026-06-16T17:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Kuressaare",
-        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/25816.gif"
+        "team_name": "Parnu Vaprus",
+        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/4116.gif"
       },
       {
-        "team_name": "Narva Trans",
-        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/101.gif"
+        "team_name": "Flora",
+        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/30367.gif"
       }
     ],
     "streams": [],
@@ -605,147 +275,7 @@
         "pts": "9"
       }
     ],
-    "last_updated": "2026-06-16T05:29:12.938252"
-  },
-  {
-    "event_id": "386920264",
-    "matchup": "Irtysh (W) – Astana (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/386920264_irtysh_w_astana_w/",
-    "competition": "Kazakhstan. Women. Championship",
-    "date_time": "16 June at 12:00",
-    "parsed_datetime": "2026-06-16T12:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-06-16T05:29:13.018190"
-  },
-  {
-    "event_id": "385643907",
-    "matchup": "Vaernamo – Helsingborg",
-    "event_url": "https://livetv.sx/enx/eventinfo/385643907__/",
-    "competition": "Sweden. Superettan",
-    "date_time": "16 June at 18:00",
-    "parsed_datetime": "2026-06-16T18:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Vaernamo",
-        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/5225.gif"
-      },
-      {
-        "team_name": "Helsingborg",
-        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/3857.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Varberg",
-        "played": "12",
-        "pts": "24"
-      },
-      {
-        "pos": "2",
-        "team": "Norrkoeping",
-        "played": "12",
-        "pts": "23"
-      },
-      {
-        "pos": "3",
-        "team": "Falkenberg",
-        "played": "12",
-        "pts": "22"
-      },
-      {
-        "pos": "4",
-        "team": "United IK",
-        "played": "11",
-        "pts": "20"
-      },
-      {
-        "pos": "5",
-        "team": "Oester",
-        "played": "12",
-        "pts": "20"
-      },
-      {
-        "pos": "6",
-        "team": "Oestersund",
-        "played": "12",
-        "pts": "19"
-      },
-      {
-        "pos": "7",
-        "team": "Oddevold",
-        "played": "12",
-        "pts": "18"
-      },
-      {
-        "pos": "8",
-        "team": "Landskrona",
-        "played": "11",
-        "pts": "16"
-      },
-      {
-        "pos": "9",
-        "team": "Sandviken",
-        "played": "12",
-        "pts": "15"
-      },
-      {
-        "pos": "10",
-        "team": "Helsingborg",
-        "played": "11",
-        "pts": "14"
-      },
-      {
-        "pos": "11",
-        "team": "Brage",
-        "played": "12",
-        "pts": "13"
-      },
-      {
-        "pos": "12",
-        "team": "Oerebro",
-        "played": "12",
-        "pts": "13"
-      },
-      {
-        "pos": "13",
-        "team": "Ljungskile",
-        "played": "12",
-        "pts": "12"
-      },
-      {
-        "pos": "14",
-        "team": "Norrby",
-        "played": "12",
-        "pts": "10"
-      },
-      {
-        "pos": "15",
-        "team": "Vaernamo",
-        "played": "11",
-        "pts": "10"
-      },
-      {
-        "pos": "16",
-        "team": "Sundsvall",
-        "played": "12",
-        "pts": "9"
-      }
-    ],
-    "last_updated": "2026-06-16T05:29:13.018207"
+    "last_updated": "2026-06-16T10:24:55.890115"
   },
   {
     "event_id": "385656013",
@@ -796,7 +326,94 @@
         "pts": "0"
       }
     ],
-    "last_updated": "2026-06-16T05:29:13.024778"
+    "last_updated": "2026-06-16T10:24:55.971611"
+  },
+  {
+    "event_id": "387205214",
+    "matchup": "Transinvest – Riteriai",
+    "event_url": "https://livetv.sx/enx/eventinfo/387205214__/",
+    "competition": "Lithuania. A Lyga",
+    "date_time": "16 June at 16:00",
+    "parsed_datetime": "2026-06-16T16:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Transinvest",
+        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/21624.gif"
+      },
+      {
+        "team_name": "Riteriai",
+        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/4775.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Dziugas",
+        "played": "17",
+        "pts": "33"
+      },
+      {
+        "pos": "2",
+        "team": "Transinvest",
+        "played": "17",
+        "pts": "31"
+      },
+      {
+        "pos": "3",
+        "team": "Kauno Zalgiris",
+        "played": "17",
+        "pts": "30"
+      },
+      {
+        "pos": "4",
+        "team": "Suduva",
+        "played": "17",
+        "pts": "26"
+      },
+      {
+        "pos": "5",
+        "team": "Zalgiris",
+        "played": "17",
+        "pts": "25"
+      },
+      {
+        "pos": "6",
+        "team": "Banga",
+        "played": "17",
+        "pts": "24"
+      },
+      {
+        "pos": "7",
+        "team": "Panevezys",
+        "played": "17",
+        "pts": "21"
+      },
+      {
+        "pos": "8",
+        "team": "Hegelmann",
+        "played": "17",
+        "pts": "18"
+      },
+      {
+        "pos": "9",
+        "team": "Siauliai",
+        "played": "17",
+        "pts": "17"
+      },
+      {
+        "pos": "10",
+        "team": "Riteriai",
+        "played": "17",
+        "pts": "3"
+      }
+    ],
+    "last_updated": "2026-06-16T10:24:56.065026"
   },
   {
     "event_id": "387205216",
@@ -883,7 +500,232 @@
         "pts": "3"
       }
     ],
-    "last_updated": "2026-06-16T05:29:13.065606"
+    "last_updated": "2026-06-16T10:24:56.191927"
+  },
+  {
+    "event_id": "385636904",
+    "matchup": "Grobina – Liepaja",
+    "event_url": "https://livetv.sx/enx/eventinfo/385636904__/",
+    "competition": "Latvia. Virsliga",
+    "date_time": "16 June at 17:00",
+    "parsed_datetime": "2026-06-16T17:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Grobina",
+        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/30462.gif"
+      },
+      {
+        "team_name": "Liepaja",
+        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/1613.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "RFS",
+        "played": "17",
+        "pts": "46"
+      },
+      {
+        "pos": "2",
+        "team": "Riga",
+        "played": "17",
+        "pts": "42"
+      },
+      {
+        "pos": "3",
+        "team": "Auda",
+        "played": "17",
+        "pts": "35"
+      },
+      {
+        "pos": "4",
+        "team": "Liepaja",
+        "played": "17",
+        "pts": "25"
+      },
+      {
+        "pos": "5",
+        "team": "Super Nova",
+        "played": "17",
+        "pts": "20"
+      },
+      {
+        "pos": "6",
+        "team": "Daugavpils",
+        "played": "17",
+        "pts": "19"
+      },
+      {
+        "pos": "7",
+        "team": "Jelgava",
+        "played": "17",
+        "pts": "16"
+      },
+      {
+        "pos": "8",
+        "team": "Tukums",
+        "played": "17",
+        "pts": "14"
+      },
+      {
+        "pos": "9",
+        "team": "Grobina",
+        "played": "17",
+        "pts": "13"
+      },
+      {
+        "pos": "10",
+        "team": "Ogre United",
+        "played": "17",
+        "pts": "4"
+      }
+    ],
+    "last_updated": "2026-06-16T10:24:56.191946"
+  },
+  {
+    "event_id": "385772941",
+    "matchup": "Kuressaare – Narva Trans",
+    "event_url": "https://livetv.sx/enx/eventinfo/385772941__/",
+    "competition": "Estonia. Meistriliiga",
+    "date_time": "16 June at 17:00",
+    "parsed_datetime": "2026-06-16T17:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Kuressaare",
+        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/25816.gif"
+      },
+      {
+        "team_name": "Narva Trans",
+        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/101.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Levadia",
+        "played": "15",
+        "pts": "39"
+      },
+      {
+        "pos": "2",
+        "team": "Nomme Kalju",
+        "played": "15",
+        "pts": "29"
+      },
+      {
+        "pos": "3",
+        "team": "Flora",
+        "played": "14",
+        "pts": "27"
+      },
+      {
+        "pos": "4",
+        "team": "Paide",
+        "played": "15",
+        "pts": "22"
+      },
+      {
+        "pos": "5",
+        "team": "Parnu Vaprus",
+        "played": "15",
+        "pts": "20"
+      },
+      {
+        "pos": "6",
+        "team": "Harju",
+        "played": "15",
+        "pts": "19"
+      },
+      {
+        "pos": "7",
+        "team": "Tammeka",
+        "played": "14",
+        "pts": "17"
+      },
+      {
+        "pos": "8",
+        "team": "Nomme United",
+        "played": "15",
+        "pts": "16"
+      },
+      {
+        "pos": "9",
+        "team": "Kuressaare",
+        "played": "15",
+        "pts": "16"
+      },
+      {
+        "pos": "10",
+        "team": "Narva Trans",
+        "played": "15",
+        "pts": "9"
+      }
+    ],
+    "last_updated": "2026-06-16T10:24:56.244541"
+  },
+  {
+    "event_id": "385674094",
+    "matchup": "Iraq IRQ – Norway NOR",
+    "event_url": "https://livetv.sx/enx/eventinfo/385674094__/",
+    "competition": "World Cup",
+    "date_time": "16 June at 23:00",
+    "parsed_datetime": "2026-06-16T23:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Iraq IRQ",
+        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/flag96.gif"
+      },
+      {
+        "team_name": "Norway NOR",
+        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/flag147.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "France FRA",
+        "played": "0",
+        "pts": "0"
+      },
+      {
+        "pos": "2",
+        "team": "Iraq IRQ",
+        "played": "0",
+        "pts": "0"
+      },
+      {
+        "pos": "3",
+        "team": "Norway NOR",
+        "played": "0",
+        "pts": "0"
+      },
+      {
+        "pos": "4",
+        "team": "Senegal SEN",
+        "played": "0",
+        "pts": "0"
+      }
+    ],
+    "last_updated": "2026-06-16T10:24:56.246606"
   },
   {
     "event_id": "385643909",
@@ -1006,24 +848,50 @@
         "pts": "9"
       }
     ],
-    "last_updated": "2026-06-16T05:29:13.091793"
+    "last_updated": "2026-06-16T10:24:56.303039"
   },
   {
-    "event_id": "385674094",
-    "matchup": "Iraq IRQ – Norway NOR",
-    "event_url": "https://livetv.sx/enx/eventinfo/385674094__/",
-    "competition": "World Cup",
-    "date_time": "16 June at 23:00",
-    "parsed_datetime": "2026-06-16T23:00:00",
+    "event_id": "387748206",
+    "matchup": "Eastern Suburbs (W) –  Olympic Brisbane (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/387748206__/",
+    "competition": "Australia. Women. NPL Queensland",
+    "date_time": "16 June at 10:30",
+    "parsed_datetime": "2026-06-16T10:30:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Eastern Suburbs (W)",
+        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/14577.gif"
+      },
+      {
+        "team_name": "Olympic Brisbane (W)",
+        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/14576.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-06-16T10:24:56.356097"
+  },
+  {
+    "event_id": "385643907",
+    "matchup": "Vaernamo – Helsingborg",
+    "event_url": "https://livetv.sx/enx/eventinfo/385643907__/",
+    "competition": "Sweden. Superettan",
+    "date_time": "16 June at 18:00",
+    "parsed_datetime": "2026-06-16T18:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Iraq IRQ",
-        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/flag96.gif"
+        "team_name": "Vaernamo",
+        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/5225.gif"
       },
       {
-        "team_name": "Norway NOR",
-        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/flag147.gif"
+        "team_name": "Helsingborg",
+        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/3857.gif"
       }
     ],
     "streams": [],
@@ -1034,30 +902,189 @@
     "league_table": [
       {
         "pos": "1",
-        "team": "France FRA",
-        "played": "0",
-        "pts": "0"
+        "team": "Varberg",
+        "played": "12",
+        "pts": "24"
       },
       {
         "pos": "2",
-        "team": "Iraq IRQ",
-        "played": "0",
-        "pts": "0"
+        "team": "Norrkoeping",
+        "played": "12",
+        "pts": "23"
       },
       {
         "pos": "3",
-        "team": "Norway NOR",
-        "played": "0",
-        "pts": "0"
+        "team": "Falkenberg",
+        "played": "12",
+        "pts": "22"
       },
       {
         "pos": "4",
-        "team": "Senegal SEN",
-        "played": "0",
-        "pts": "0"
+        "team": "United IK",
+        "played": "11",
+        "pts": "20"
+      },
+      {
+        "pos": "5",
+        "team": "Oester",
+        "played": "12",
+        "pts": "20"
+      },
+      {
+        "pos": "6",
+        "team": "Oestersund",
+        "played": "12",
+        "pts": "19"
+      },
+      {
+        "pos": "7",
+        "team": "Oddevold",
+        "played": "12",
+        "pts": "18"
+      },
+      {
+        "pos": "8",
+        "team": "Landskrona",
+        "played": "11",
+        "pts": "16"
+      },
+      {
+        "pos": "9",
+        "team": "Sandviken",
+        "played": "12",
+        "pts": "15"
+      },
+      {
+        "pos": "10",
+        "team": "Helsingborg",
+        "played": "11",
+        "pts": "14"
+      },
+      {
+        "pos": "11",
+        "team": "Brage",
+        "played": "12",
+        "pts": "13"
+      },
+      {
+        "pos": "12",
+        "team": "Oerebro",
+        "played": "12",
+        "pts": "13"
+      },
+      {
+        "pos": "13",
+        "team": "Ljungskile",
+        "played": "12",
+        "pts": "12"
+      },
+      {
+        "pos": "14",
+        "team": "Norrby",
+        "played": "12",
+        "pts": "10"
+      },
+      {
+        "pos": "15",
+        "team": "Vaernamo",
+        "played": "11",
+        "pts": "10"
+      },
+      {
+        "pos": "16",
+        "team": "Sundsvall",
+        "played": "12",
+        "pts": "9"
       }
     ],
-    "last_updated": "2026-06-16T05:29:13.120141"
+    "last_updated": "2026-06-16T10:24:56.436402"
+  },
+  {
+    "event_id": "385636564",
+    "matchup": "Dila – Spaeri",
+    "event_url": "https://livetv.sx/enx/eventinfo/385636564__/",
+    "competition": "Georgia. Erovnuli Liga",
+    "date_time": "16 June at 17:00",
+    "parsed_datetime": "2026-06-16T17:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Dila",
+        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/1245.gif"
+      },
+      {
+        "team_name": "Spaeri",
+        "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/20984.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Iberia",
+        "played": "17",
+        "pts": "31"
+      },
+      {
+        "pos": "2",
+        "team": "Rustavi",
+        "played": "17",
+        "pts": "29"
+      },
+      {
+        "pos": "3",
+        "team": "Torpedo Kt",
+        "played": "17",
+        "pts": "26"
+      },
+      {
+        "pos": "4",
+        "team": "Dinamo Tbilisi",
+        "played": "17",
+        "pts": "25"
+      },
+      {
+        "pos": "5",
+        "team": "Dinamo Batumi",
+        "played": "17",
+        "pts": "24"
+      },
+      {
+        "pos": "6",
+        "team": "Samgurali",
+        "played": "17",
+        "pts": "24"
+      },
+      {
+        "pos": "7",
+        "team": "Spaeri",
+        "played": "17",
+        "pts": "21"
+      },
+      {
+        "pos": "8",
+        "team": "Dila",
+        "played": "17",
+        "pts": "20"
+      },
+      {
+        "pos": "9",
+        "team": "Gagra",
+        "played": "17",
+        "pts": "20"
+      },
+      {
+        "pos": "10",
+        "team": "Meshakhte",
+        "played": "17",
+        "pts": "10"
+      }
+    ],
+    "last_updated": "2026-06-16T10:24:56.451227"
   },
   {
     "event_id": "387205218",
@@ -1144,6 +1171,6 @@
         "pts": "3"
       }
     ],
-    "last_updated": "2026-06-16T05:29:13.168368"
+    "last_updated": "2026-06-16T10:24:56.562402"
   }
 ]
