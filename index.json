@@ -1,62 +1,126 @@
 [
   {
-    "event_id": "389094433",
-    "matchup": "Simulcast",
-    "event_url": "https://livetv.sx/enx/eventinfo/389094433_simulcast/",
-    "competition": "World Cup",
-    "date_time": "26 June at 3:00",
-    "parsed_datetime": "2026-06-26T03:00:00",
-    "is_live": true,
-    "team_logos": [],
-    "streams": [
+    "event_id": "387179671",
+    "matchup": "Qingdao Hainiu – Yunnan Yukun",
+    "event_url": "https://livetv.sx/enx/eventinfo/387179671__/",
+    "competition": "China. Super League",
+    "date_time": "26 June at 12:35",
+    "parsed_datetime": "2026-06-26T12:35:00",
+    "is_live": false,
+    "team_logos": [
       {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv901.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261599&lang=en&eid=389094433&lid=3026861&ci=2608&si=1",
-        "stream_title": "",
-        "stream_type": ""
+        "team_name": "Qingdao Hainiu",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/21326.gif"
       },
       {
-        "language": "Albanian",
-        "flag_src": "https://cdn.livetv901.me/img/linkflag/41.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262078&lang=en&eid=389094433&lid=3028574&ci=2608&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "German",
-        "flag_src": "https://cdn.livetv901.me/img/linkflag/13.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3030632&lang=en&eid=389094433&lid=3030632&ci=2608&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
+        "team_name": "Yunnan Yukun",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/34566.gif"
       }
     ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-06-26T03:41:48.844022"
-  },
-  {
-    "event_id": "389094434",
-    "matchup": "Simulcast",
-    "event_url": "https://livetv.sx/enx/eventinfo/389094434_simulcast/",
-    "competition": "World Cup",
-    "date_time": "26 June at 20:00",
-    "parsed_datetime": "2026-06-26T20:00:00",
-    "is_live": false,
-    "team_logos": [],
     "streams": [],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
-    "league_table": [],
-    "last_updated": "2026-06-26T03:41:49.976850"
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Chengdu Rongcheng",
+        "played": "15",
+        "pts": "37"
+      },
+      {
+        "pos": "2",
+        "team": "Chongqing Tonglianglong",
+        "played": "15",
+        "pts": "24"
+      },
+      {
+        "pos": "3",
+        "team": "Dalian Yingbo",
+        "played": "15",
+        "pts": "22"
+      },
+      {
+        "pos": "4",
+        "team": "Yunnan Yukun",
+        "played": "15",
+        "pts": "21"
+      },
+      {
+        "pos": "5",
+        "team": "Shandong Taishan",
+        "played": "15",
+        "pts": "18"
+      },
+      {
+        "pos": "6",
+        "team": "Qingdao West Coast",
+        "played": "15",
+        "pts": "18"
+      },
+      {
+        "pos": "7",
+        "team": "Liaoning Tieren",
+        "played": "15",
+        "pts": "17"
+      },
+      {
+        "pos": "8",
+        "team": "Zhejiang Greentown",
+        "played": "15",
+        "pts": "17"
+      },
+      {
+        "pos": "9",
+        "team": "Shenzhen Peng City",
+        "played": "15",
+        "pts": "17"
+      },
+      {
+        "pos": "10",
+        "team": "Beijing Guoan",
+        "played": "15",
+        "pts": "15"
+      },
+      {
+        "pos": "11",
+        "team": "Henan",
+        "played": "15",
+        "pts": "15"
+      },
+      {
+        "pos": "12",
+        "team": "Shanghai Shenhua",
+        "played": "15",
+        "pts": "13"
+      },
+      {
+        "pos": "13",
+        "team": "Shanghai Port",
+        "played": "15",
+        "pts": "12"
+      },
+      {
+        "pos": "14",
+        "team": "Qingdao Hainiu",
+        "played": "15",
+        "pts": "10"
+      },
+      {
+        "pos": "15",
+        "team": "Wuhan Three Towns",
+        "played": "15",
+        "pts": "8"
+      },
+      {
+        "pos": "16",
+        "team": "Tianjin TEDA",
+        "played": "15",
+        "pts": "5"
+      }
+    ],
+    "last_updated": "2026-06-26T07:36:54.030586"
   },
   {
     "event_id": "389094722",
@@ -73,223 +137,41 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-06-26T03:41:50.030394"
+    "last_updated": "2026-06-26T07:36:54.258231"
   },
   {
-    "event_id": "387175456",
-    "matchup": "St Albans Saints – Melbourne City II",
-    "event_url": "https://livetv.sx/enx/eventinfo/387175456__/",
-    "competition": "Australia. NPL Victoria",
-    "date_time": "26 June at 11:30",
-    "parsed_datetime": "2026-06-26T11:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "St Albans Saints",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1470.gif"
-      },
-      {
-        "team_name": "Melbourne City II",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/26292.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-06-26T03:41:50.316463"
-  },
-  {
-    "event_id": "387154126",
-    "matchup": "Paraguay PRY – Australia AUS",
-    "event_url": "https://livetv.sx/enx/eventinfo/387154126__/",
+    "event_id": "389094434",
+    "matchup": "Simulcast",
+    "event_url": "https://livetv.sx/enx/eventinfo/389094434_simulcast/",
     "competition": "World Cup",
-    "date_time": "26 June at 3:00",
-    "parsed_datetime": "2026-06-26T03:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Paraguay PRY",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag161.gif"
-      },
-      {
-        "team_name": "Australia AUS",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag12.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261716&lang=en&eid=387154126&lid=3028550&ci=2608&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261905&lang=en&eid=387154126&lid=3028888&ci=2608&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262326&lang=en&eid=387154126&lid=3030571&ci=2608&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262327&lang=en&eid=387154126&lid=3030572&ci=2608&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262328&lang=en&eid=387154126&lid=3030573&ci=2608&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=242257&lang=en&eid=387154126&lid=3030402&ci=2608&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=242328&lang=en&eid=387154126&lid=2968715&ci=2608&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=242346&lang=en&eid=387154126&lid=3030404&ci=2608&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [
-        "12.",
-        "Orlando Gill",
-        "(G)",
-        "21.",
-        "Gabriel Avalos",
-        "08.",
-        "Diego Gomez",
-        "14.",
-        "Andres Cubas",
-        "26.",
-        "Alexandro Maidana",
-        "03.",
-        "Omar Alderete",
-        "23.",
-        "Matias Galarza",
-        "19.",
-        "Julio Enciso",
-        "04.",
-        "Juan Caceres",
-        "02.",
-        "Gustavo Velazquez",
-        "15.",
-        "Gustavo Gomez"
-      ],
-      "away_team": [
-        "18.",
-        "Patrick Beach",
-        "(G)",
-        "19.",
-        "Harry Souttar",
-        "20.",
-        "Cristian Volpato",
-        "08.",
-        "Connor Metcalfe",
-        "16.",
-        "Aziz Behich",
-        "03.",
-        "Alessandro Circati",
-        "22.",
-        "Jackson Irvine",
-        "17.",
-        "Nestory Irankunda",
-        "25.",
-        "Lucas Herrington",
-        "05.",
-        "Jordan Bos",
-        "13.",
-        "Aiden O’Neill"
-      ]
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "USA USA",
-        "played": "2",
-        "pts": "6"
-      },
-      {
-        "pos": "2",
-        "team": "Australia AUS",
-        "played": "2",
-        "pts": "3"
-      },
-      {
-        "pos": "3",
-        "team": "Paraguay PRY",
-        "played": "2",
-        "pts": "3"
-      },
-      {
-        "pos": "4",
-        "team": "Turkey TUR",
-        "played": "2",
-        "pts": "0"
-      }
-    ],
-    "last_updated": "2026-06-26T03:41:50.437139"
-  },
-  {
-    "event_id": "389132301",
-    "matchup": "Bentleigh Greens (W) –  Alamein (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/389132301__/",
-    "competition": "Australia. Women. NPL Victoria",
-    "date_time": "26 June at 9:15",
-    "parsed_datetime": "2026-06-26T09:15:00",
+    "date_time": "26 June at 20:00",
+    "parsed_datetime": "2026-06-26T20:00:00",
     "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Bentleigh Greens (W)",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/29204.gif"
-      },
-      {
-        "team_name": "Alamein (W)",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/21178.gif"
-      }
-    ],
+    "team_logos": [],
     "streams": [],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-06-26T03:41:50.652430"
+    "last_updated": "2026-06-26T07:36:54.297085"
+  },
+  {
+    "event_id": "389228417",
+    "matchup": "Borac Banja Luka – IMT Novi Beograd",
+    "event_url": "https://livetv.sx/enx/eventinfo/389228417_borac_banja_luka_imt_novi_beograd/",
+    "competition": "Friendly Match",
+    "date_time": "26 June at 13:00",
+    "parsed_datetime": "2026-06-26T13:00:00",
+    "is_live": false,
+    "team_logos": [],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-06-26T07:36:54.383226"
   },
   {
     "event_id": "389132993",
@@ -315,515 +197,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-06-26T03:41:50.729320"
-  },
-  {
-    "event_id": "387173034",
-    "matchup": "Rochedale Rovers – Gold Coast Knights",
-    "event_url": "https://livetv.sx/enx/eventinfo/387173034__/",
-    "competition": "Australia. NPL Queensland",
-    "date_time": "26 June at 10:30",
-    "parsed_datetime": "2026-06-26T10:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Rochedale Rovers",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6351.gif"
-      },
-      {
-        "team_name": "Gold Coast Knights",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1501.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-06-26T03:41:50.729332"
-  },
-  {
-    "event_id": "387174243",
-    "matchup": "Dandenong City – Avondale",
-    "event_url": "https://livetv.sx/enx/eventinfo/387174243__/",
-    "competition": "Australia. NPL Victoria",
-    "date_time": "26 June at 10:45",
-    "parsed_datetime": "2026-06-26T10:45:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Dandenong City",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1287.gif"
-      },
-      {
-        "team_name": "Avondale",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/2156.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-06-26T03:41:50.790063"
-  },
-  {
-    "event_id": "389132302",
-    "matchup": "Preston Lions (W) –  Spring Hills (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/389132302__/",
-    "competition": "Australia. Women. NPL Victoria",
-    "date_time": "26 June at 11:30",
-    "parsed_datetime": "2026-06-26T11:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Preston Lions (W)",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/25852.gif"
-      },
-      {
-        "team_name": "Spring Hills (W)",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/33692.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-06-26T03:41:50.790074"
-  },
-  {
-    "event_id": "387225452",
-    "matchup": "Norway NOR – France FRA",
-    "event_url": "https://livetv.sx/enx/eventinfo/387225452__/",
-    "competition": "World Cup",
-    "date_time": "26 June at 20:00",
-    "parsed_datetime": "2026-06-26T20:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Norway NOR",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag147.gif"
-      },
-      {
-        "team_name": "France FRA",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag66.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "France FRA",
-        "played": "2",
-        "pts": "6"
-      },
-      {
-        "pos": "2",
-        "team": "Norway NOR",
-        "played": "2",
-        "pts": "6"
-      },
-      {
-        "pos": "3",
-        "team": "Senegal SEN",
-        "played": "2",
-        "pts": "0"
-      },
-      {
-        "pos": "4",
-        "team": "Iraq IRQ",
-        "played": "2",
-        "pts": "0"
-      }
-    ],
-    "last_updated": "2026-06-26T03:41:50.805688"
-  },
-  {
-    "event_id": "387225450",
-    "matchup": "Senegal SEN – Iraq IRQ",
-    "event_url": "https://livetv.sx/enx/eventinfo/387225450__/",
-    "competition": "World Cup",
-    "date_time": "26 June at 20:00",
-    "parsed_datetime": "2026-06-26T20:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Senegal SEN",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag172.gif"
-      },
-      {
-        "team_name": "Iraq IRQ",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag96.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "France FRA",
-        "played": "2",
-        "pts": "6"
-      },
-      {
-        "pos": "2",
-        "team": "Norway NOR",
-        "played": "2",
-        "pts": "6"
-      },
-      {
-        "pos": "3",
-        "team": "Senegal SEN",
-        "played": "2",
-        "pts": "0"
-      },
-      {
-        "pos": "4",
-        "team": "Iraq IRQ",
-        "played": "2",
-        "pts": "0"
-      }
-    ],
-    "last_updated": "2026-06-26T03:41:50.831488"
-  },
-  {
-    "event_id": "387175457",
-    "matchup": "Bentleigh Greens – Altona Magic",
-    "event_url": "https://livetv.sx/enx/eventinfo/387175457__/",
-    "competition": "Australia. NPL Victoria",
-    "date_time": "26 June at 11:30",
-    "parsed_datetime": "2026-06-26T11:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Bentleigh Greens",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/26548.gif"
-      },
-      {
-        "team_name": "Altona Magic",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1445.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-06-26T03:41:50.941525"
-  },
-  {
-    "event_id": "387154127",
-    "matchup": "Turkey TUR – USA USA",
-    "event_url": "https://livetv.sx/enx/eventinfo/387154127__/",
-    "competition": "World Cup",
-    "date_time": "26 June at 3:00",
-    "parsed_datetime": "2026-06-26T03:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Turkey TUR",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag198.gif"
-      },
-      {
-        "team_name": "USA USA",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag205.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261315&lang=en&eid=387154127&lid=3026103&ci=2608&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261736&lang=en&eid=387154127&lid=3030626&ci=2608&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261974&lang=en&eid=387154127&lid=3028290&ci=2608&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261988&lang=en&eid=387154127&lid=3028224&ci=2608&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261994&lang=en&eid=387154127&lid=3028291&ci=2608&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262119&lang=en&eid=387154127&lid=3028910&ci=2608&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262120&lang=en&eid=387154127&lid=3028911&ci=2608&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262122&lang=en&eid=387154127&lid=3028912&ci=2608&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [
-        "23.",
-        "Ugurcan Cakir",
-        "(G)",
-        "13.",
-        "Evren Eren Elmali",
-        "21.",
-        "Baris Alper Yilmaz",
-        "08.",
-        "Arda Guler",
-        "11.",
-        "Kenan Yildiz",
-        "05.",
-        "Salih Ozcan",
-        "15.",
-        "Ozan Kabak",
-        "06.",
-        "Orkun Kokcu",
-        "24.",
-        "Oguz Aydin",
-        "02.",
-        "Mehmet Zeki Celik",
-        "14.",
-        "Abdulkerim Bardakci"
-      ],
-      "away_team": [
-        "01.",
-        "Matt Turner",
-        "(G)",
-        "08.",
-        "Weston McKennie",
-        "07.",
-        "Giovanni Reyna",
-        "11.",
-        "Brenden Aaronson",
-        "06.",
-        "Auston Trusty",
-        "23.",
-        "Joseph Scally",
-        "21.",
-        "Timothy Weah",
-        "14.",
-        "Sebastian Berhalter",
-        "09.",
-        "Ricardo Pepi",
-        "12.",
-        "Miles Robinson",
-        "22.",
-        "Mark McKenzie"
-      ]
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "USA USA",
-        "played": "2",
-        "pts": "6"
-      },
-      {
-        "pos": "2",
-        "team": "Australia AUS",
-        "played": "2",
-        "pts": "3"
-      },
-      {
-        "pos": "3",
-        "team": "Paraguay PRY",
-        "played": "2",
-        "pts": "3"
-      },
-      {
-        "pos": "4",
-        "team": "Turkey TUR",
-        "played": "2",
-        "pts": "0"
-      }
-    ],
-    "last_updated": "2026-06-26T03:41:50.941537"
-  },
-  {
-    "event_id": "387175501",
-    "matchup": "Holland Park Hawks – Redlands United",
-    "event_url": "https://livetv.sx/enx/eventinfo/387175501__/",
-    "competition": "Australia. Queensland Premier League",
-    "date_time": "26 June at 11:30",
-    "parsed_datetime": "2026-06-26T11:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Holland Park Hawks",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6355.gif"
-      },
-      {
-        "team_name": "Redlands United",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6168.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-06-26T03:41:50.970274"
-  },
-  {
-    "event_id": "389097437",
-    "matchup": "Batyr – Astana-2",
-    "event_url": "https://livetv.sx/enx/eventinfo/389097437_batyr_astana_2/",
-    "competition": "Kazakhstan. 1 Division",
-    "date_time": "26 June at 13:00",
-    "parsed_datetime": "2026-06-26T13:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-06-26T03:41:51.223537"
-  },
-  {
-    "event_id": "387175502",
-    "matchup": "Brisbane Strikers – Ipswich",
-    "event_url": "https://livetv.sx/enx/eventinfo/387175502__/",
-    "competition": "Australia. Queensland Premier League",
-    "date_time": "26 June at 11:30",
-    "parsed_datetime": "2026-06-26T11:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Brisbane Strikers",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6165.gif"
-      },
-      {
-        "team_name": "Ipswich",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/30029.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-06-26T03:41:51.287761"
-  },
-  {
-    "event_id": "389228417",
-    "matchup": "Borac Banja Luka – IMT Novi Beograd",
-    "event_url": "https://livetv.sx/enx/eventinfo/389228417_borac_banja_luka_imt_novi_beograd/",
-    "competition": "Friendly Match",
-    "date_time": "26 June at 13:00",
-    "parsed_datetime": "2026-06-26T13:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-06-26T03:41:51.313275"
-  },
-  {
-    "event_id": "389097438",
-    "matchup": "Taraz – Shakhter Karaganda",
-    "event_url": "https://livetv.sx/enx/eventinfo/389097438_taraz_shakhter_karaganda/",
-    "competition": "Kazakhstan. 1 Division",
-    "date_time": "26 June at 14:00",
-    "parsed_datetime": "2026-06-26T14:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Taraz",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/17699.gif"
-      },
-      {
-        "team_name": "Shakhter Karaganda",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/34600.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-06-26T03:41:51.338378"
-  },
-  {
-    "event_id": "387176754",
-    "matchup": "Garuda – Azzurri United",
-    "event_url": "https://livetv.sx/enx/eventinfo/387176754__/",
-    "competition": "Australia. NTPL",
-    "date_time": "26 June at 12:00",
-    "parsed_datetime": "2026-06-26T12:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Garuda",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/29950.gif"
-      },
-      {
-        "team_name": "Azzurri United",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/34861.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-06-26T03:41:51.363658"
+    "last_updated": "2026-06-26T07:36:54.553284"
   },
   {
     "event_id": "387248991",
@@ -970,24 +344,75 @@
         "pts": "6"
       }
     ],
-    "last_updated": "2026-06-26T03:41:51.420432"
+    "last_updated": "2026-06-26T07:36:54.756222"
   },
   {
-    "event_id": "389115088",
-    "matchup": "Suwon (W) –  Gyeongju KHNP (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/389115088__/",
-    "competition": "South Korea. Women. WK-League",
-    "date_time": "26 June at 11:00",
-    "parsed_datetime": "2026-06-26T11:00:00",
+    "event_id": "387225450",
+    "matchup": "Senegal SEN – Iraq IRQ",
+    "event_url": "https://livetv.sx/enx/eventinfo/387225450__/",
+    "competition": "World Cup",
+    "date_time": "26 June at 20:00",
+    "parsed_datetime": "2026-06-26T20:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Suwon (W)",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/33111.gif"
+        "team_name": "Senegal SEN",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag172.gif"
       },
       {
-        "team_name": "Gyeongju KHNP (W)",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/15278.gif"
+        "team_name": "Iraq IRQ",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag96.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "France FRA",
+        "played": "2",
+        "pts": "6"
+      },
+      {
+        "pos": "2",
+        "team": "Norway NOR",
+        "played": "2",
+        "pts": "6"
+      },
+      {
+        "pos": "3",
+        "team": "Senegal SEN",
+        "played": "2",
+        "pts": "0"
+      },
+      {
+        "pos": "4",
+        "team": "Iraq IRQ",
+        "played": "2",
+        "pts": "0"
+      }
+    ],
+    "last_updated": "2026-06-26T07:36:54.879386"
+  },
+  {
+    "event_id": "387249569",
+    "matchup": "HFX Wanderers – Pacific",
+    "event_url": "https://livetv.sx/enx/eventinfo/387249569__/",
+    "competition": "Canada. Premier League",
+    "date_time": "26 June at 22:30",
+    "parsed_datetime": "2026-06-26T22:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "HFX Wanderers",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/2453.gif"
+      },
+      {
+        "team_name": "Pacific",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1439.gif"
       }
     ],
     "streams": [],
@@ -996,7 +421,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-06-26T03:41:51.482919"
+    "last_updated": "2026-06-26T07:36:54.940551"
+  },
+  {
+    "event_id": "387173034",
+    "matchup": "Rochedale Rovers – Gold Coast Knights",
+    "event_url": "https://livetv.sx/enx/eventinfo/387173034__/",
+    "competition": "Australia. NPL Queensland",
+    "date_time": "26 June at 10:30",
+    "parsed_datetime": "2026-06-26T10:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Rochedale Rovers",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6351.gif"
+      },
+      {
+        "team_name": "Gold Coast Knights",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1501.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-06-26T07:36:55.025784"
   },
   {
     "event_id": "387173026",
@@ -1022,24 +473,102 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-06-26T03:41:51.532308"
+    "last_updated": "2026-06-26T07:36:55.121649"
   },
   {
-    "event_id": "387195088",
-    "matchup": "Ogre United – Tukums",
-    "event_url": "https://livetv.sx/enx/eventinfo/387195088__/",
-    "competition": "Latvia. Virsliga",
-    "date_time": "26 June at 16:00",
-    "parsed_datetime": "2026-06-26T16:00:00",
+    "event_id": "387175456",
+    "matchup": "St Albans Saints – Melbourne City II",
+    "event_url": "https://livetv.sx/enx/eventinfo/387175456__/",
+    "competition": "Australia. NPL Victoria",
+    "date_time": "26 June at 11:30",
+    "parsed_datetime": "2026-06-26T11:30:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Ogre United",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/29440.gif"
+        "team_name": "St Albans Saints",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1470.gif"
       },
       {
-        "team_name": "Tukums",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/5075.gif"
+        "team_name": "Melbourne City II",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/26292.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-06-26T07:36:55.214705"
+  },
+  {
+    "event_id": "387174243",
+    "matchup": "Dandenong City – Avondale",
+    "event_url": "https://livetv.sx/enx/eventinfo/387174243__/",
+    "competition": "Australia. NPL Victoria",
+    "date_time": "26 June at 10:45",
+    "parsed_datetime": "2026-06-26T10:45:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Dandenong City",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1287.gif"
+      },
+      {
+        "team_name": "Avondale",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/2156.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-06-26T07:36:55.214721"
+  },
+  {
+    "event_id": "389115088",
+    "matchup": "Suwon (W) –  Gyeongju KHNP (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/389115088__/",
+    "competition": "South Korea. Women. WK-League",
+    "date_time": "26 June at 11:00",
+    "parsed_datetime": "2026-06-26T11:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Suwon (W)",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/33111.gif"
+      },
+      {
+        "team_name": "Gyeongju KHNP (W)",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/15278.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-06-26T07:36:55.241478"
+  },
+  {
+    "event_id": "387225452",
+    "matchup": "Norway NOR – France FRA",
+    "event_url": "https://livetv.sx/enx/eventinfo/387225452__/",
+    "competition": "World Cup",
+    "date_time": "26 June at 20:00",
+    "parsed_datetime": "2026-06-26T20:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Norway NOR",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag147.gif"
+      },
+      {
+        "team_name": "France FRA",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag66.gif"
       }
     ],
     "streams": [],
@@ -1050,83 +579,47 @@
     "league_table": [
       {
         "pos": "1",
-        "team": "Riga",
-        "played": "20",
-        "pts": "49"
+        "team": "France FRA",
+        "played": "2",
+        "pts": "6"
       },
       {
         "pos": "2",
-        "team": "RFS",
-        "played": "19",
-        "pts": "49"
+        "team": "Norway NOR",
+        "played": "2",
+        "pts": "6"
       },
       {
         "pos": "3",
-        "team": "Auda",
-        "played": "20",
-        "pts": "39"
+        "team": "Senegal SEN",
+        "played": "2",
+        "pts": "0"
       },
       {
         "pos": "4",
-        "team": "Liepaja",
-        "played": "19",
-        "pts": "25"
-      },
-      {
-        "pos": "5",
-        "team": "Daugavpils",
-        "played": "20",
-        "pts": "24"
-      },
-      {
-        "pos": "6",
-        "team": "Jelgava",
-        "played": "20",
-        "pts": "22"
-      },
-      {
-        "pos": "7",
-        "team": "Super Nova",
-        "played": "20",
-        "pts": "21"
-      },
-      {
-        "pos": "8",
-        "team": "Tukums",
-        "played": "19",
-        "pts": "17"
-      },
-      {
-        "pos": "9",
-        "team": "Grobina",
-        "played": "20",
-        "pts": "17"
-      },
-      {
-        "pos": "10",
-        "team": "Ogre United",
-        "played": "19",
-        "pts": "7"
+        "team": "Iraq IRQ",
+        "played": "2",
+        "pts": "0"
       }
     ],
-    "last_updated": "2026-06-26T03:41:51.610720"
+    "last_updated": "2026-06-26T07:36:55.241492"
   },
   {
-    "event_id": "387179671",
-    "matchup": "Qingdao Hainiu – Yunnan Yukun",
-    "event_url": "https://livetv.sx/enx/eventinfo/387179671__/",
-    "competition": "China. Super League",
-    "date_time": "26 June at 12:35",
-    "parsed_datetime": "2026-06-26T12:35:00",
+    "event_id": "389132302",
+    "matchup": "Preston Lions (W) –  Spring Hills (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/389132302__/",
+    "competition": "Australia. Women. NPL Victoria",
+    "date_time": "26 June at 11:30",
+    "parsed_datetime": "2026-06-26T11:30:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Qingdao Hainiu",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/21326.gif"
+        "team_name": "Preston Lions (W)",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/25852.gif"
       },
       {
-        "team_name": "Yunnan Yukun",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/34566.gif"
+        "team_name": "Spring Hills (W)",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/33692.gif"
       }
     ],
     "streams": [],
@@ -1134,105 +627,190 @@
       "home_team": [],
       "away_team": []
     },
-    "league_table": [
+    "league_table": [],
+    "last_updated": "2026-06-26T07:36:55.267668"
+  },
+  {
+    "event_id": "389132301",
+    "matchup": "Bentleigh Greens (W) –  Alamein (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/389132301__/",
+    "competition": "Australia. Women. NPL Victoria",
+    "date_time": "26 June at 9:15",
+    "parsed_datetime": "2026-06-26T09:15:00",
+    "is_live": false,
+    "team_logos": [
       {
-        "pos": "1",
-        "team": "Chengdu Rongcheng",
-        "played": "15",
-        "pts": "37"
+        "team_name": "Bentleigh Greens (W)",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/29204.gif"
       },
       {
-        "pos": "2",
-        "team": "Chongqing Tonglianglong",
-        "played": "15",
-        "pts": "24"
-      },
-      {
-        "pos": "3",
-        "team": "Dalian Yingbo",
-        "played": "15",
-        "pts": "22"
-      },
-      {
-        "pos": "4",
-        "team": "Yunnan Yukun",
-        "played": "15",
-        "pts": "21"
-      },
-      {
-        "pos": "5",
-        "team": "Shandong Taishan",
-        "played": "15",
-        "pts": "18"
-      },
-      {
-        "pos": "6",
-        "team": "Qingdao West Coast",
-        "played": "15",
-        "pts": "18"
-      },
-      {
-        "pos": "7",
-        "team": "Liaoning Tieren",
-        "played": "15",
-        "pts": "17"
-      },
-      {
-        "pos": "8",
-        "team": "Zhejiang Greentown",
-        "played": "15",
-        "pts": "17"
-      },
-      {
-        "pos": "9",
-        "team": "Shenzhen Peng City",
-        "played": "15",
-        "pts": "17"
-      },
-      {
-        "pos": "10",
-        "team": "Beijing Guoan",
-        "played": "15",
-        "pts": "15"
-      },
-      {
-        "pos": "11",
-        "team": "Henan",
-        "played": "15",
-        "pts": "15"
-      },
-      {
-        "pos": "12",
-        "team": "Shanghai Shenhua",
-        "played": "15",
-        "pts": "13"
-      },
-      {
-        "pos": "13",
-        "team": "Shanghai Port",
-        "played": "15",
-        "pts": "12"
-      },
-      {
-        "pos": "14",
-        "team": "Qingdao Hainiu",
-        "played": "15",
-        "pts": "10"
-      },
-      {
-        "pos": "15",
-        "team": "Wuhan Three Towns",
-        "played": "15",
-        "pts": "8"
-      },
-      {
-        "pos": "16",
-        "team": "Tianjin TEDA",
-        "played": "15",
-        "pts": "5"
+        "team_name": "Alamein (W)",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/21178.gif"
       }
     ],
-    "last_updated": "2026-06-26T03:41:51.666602"
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv901.me/img/linkflag/18.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=7XCH3UUe_aI&lang=en&eid=389132301&lid=3030984&ci=2705&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-06-26T07:36:55.301326"
+  },
+  {
+    "event_id": "387175501",
+    "matchup": "Holland Park Hawks – Redlands United",
+    "event_url": "https://livetv.sx/enx/eventinfo/387175501__/",
+    "competition": "Australia. Queensland Premier League",
+    "date_time": "26 June at 11:30",
+    "parsed_datetime": "2026-06-26T11:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Holland Park Hawks",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6355.gif"
+      },
+      {
+        "team_name": "Redlands United",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6168.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-06-26T07:36:55.383664"
+  },
+  {
+    "event_id": "387175457",
+    "matchup": "Bentleigh Greens – Altona Magic",
+    "event_url": "https://livetv.sx/enx/eventinfo/387175457__/",
+    "competition": "Australia. NPL Victoria",
+    "date_time": "26 June at 11:30",
+    "parsed_datetime": "2026-06-26T11:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Bentleigh Greens",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/26548.gif"
+      },
+      {
+        "team_name": "Altona Magic",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1445.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-06-26T07:36:55.408560"
+  },
+  {
+    "event_id": "387175502",
+    "matchup": "Brisbane Strikers – Ipswich",
+    "event_url": "https://livetv.sx/enx/eventinfo/387175502__/",
+    "competition": "Australia. Queensland Premier League",
+    "date_time": "26 June at 11:30",
+    "parsed_datetime": "2026-06-26T11:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Brisbane Strikers",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6165.gif"
+      },
+      {
+        "team_name": "Ipswich",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/30029.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-06-26T07:36:55.452364"
+  },
+  {
+    "event_id": "389097438",
+    "matchup": "Taraz – Shakhter Karaganda",
+    "event_url": "https://livetv.sx/enx/eventinfo/389097438_taraz_shakhter_karaganda/",
+    "competition": "Kazakhstan. 1 Division",
+    "date_time": "26 June at 14:00",
+    "parsed_datetime": "2026-06-26T14:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Taraz",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/17699.gif"
+      },
+      {
+        "team_name": "Shakhter Karaganda",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/34600.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-06-26T07:36:55.542355"
+  },
+  {
+    "event_id": "389097437",
+    "matchup": "Batyr – Astana-2",
+    "event_url": "https://livetv.sx/enx/eventinfo/389097437_batyr_astana_2/",
+    "competition": "Kazakhstan. 1 Division",
+    "date_time": "26 June at 13:00",
+    "parsed_datetime": "2026-06-26T13:00:00",
+    "is_live": false,
+    "team_logos": [],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-06-26T07:36:55.551799"
+  },
+  {
+    "event_id": "387176754",
+    "matchup": "Garuda – Azzurri United",
+    "event_url": "https://livetv.sx/enx/eventinfo/387176754__/",
+    "competition": "Australia. NTPL",
+    "date_time": "26 June at 12:00",
+    "parsed_datetime": "2026-06-26T12:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Garuda",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/29950.gif"
+      },
+      {
+        "team_name": "Azzurri United",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/34861.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-06-26T07:36:55.596942"
   },
   {
     "event_id": "387194405",
@@ -1355,24 +933,24 @@
         "pts": "6"
       }
     ],
-    "last_updated": "2026-06-26T03:41:51.767906"
+    "last_updated": "2026-06-26T07:36:55.844330"
   },
   {
-    "event_id": "387209927",
-    "matchup": "Brage – Falkenberg",
-    "event_url": "https://livetv.sx/enx/eventinfo/387209927__/",
-    "competition": "Sweden. Superettan",
-    "date_time": "26 June at 18:00",
-    "parsed_datetime": "2026-06-26T18:00:00",
+    "event_id": "387195088",
+    "matchup": "Ogre United – Tukums",
+    "event_url": "https://livetv.sx/enx/eventinfo/387195088__/",
+    "competition": "Latvia. Virsliga",
+    "date_time": "26 June at 16:00",
+    "parsed_datetime": "2026-06-26T16:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Brage",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4866.gif"
+        "team_name": "Ogre United",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/29440.gif"
       },
       {
-        "team_name": "Falkenberg",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/3858.gif"
+        "team_name": "Tukums",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/5075.gif"
       }
     ],
     "streams": [],
@@ -1383,102 +961,66 @@
     "league_table": [
       {
         "pos": "1",
-        "team": "Norrkoeping",
-        "played": "13",
-        "pts": "26"
+        "team": "Riga",
+        "played": "20",
+        "pts": "49"
       },
       {
         "pos": "2",
-        "team": "Falkenberg",
-        "played": "13",
-        "pts": "25"
+        "team": "RFS",
+        "played": "19",
+        "pts": "49"
       },
       {
         "pos": "3",
-        "team": "Varberg",
-        "played": "13",
-        "pts": "24"
+        "team": "Auda",
+        "played": "20",
+        "pts": "39"
       },
       {
         "pos": "4",
-        "team": "Landskrona",
-        "played": "13",
-        "pts": "22"
+        "team": "Liepaja",
+        "played": "19",
+        "pts": "25"
       },
       {
         "pos": "5",
-        "team": "United IK",
-        "played": "13",
-        "pts": "21"
+        "team": "Daugavpils",
+        "played": "20",
+        "pts": "24"
       },
       {
         "pos": "6",
-        "team": "Helsingborg",
-        "played": "13",
-        "pts": "20"
+        "team": "Jelgava",
+        "played": "20",
+        "pts": "22"
       },
       {
         "pos": "7",
-        "team": "Oester",
-        "played": "13",
-        "pts": "20"
+        "team": "Super Nova",
+        "played": "20",
+        "pts": "21"
       },
       {
         "pos": "8",
-        "team": "Oddevold",
-        "played": "13",
-        "pts": "19"
+        "team": "Tukums",
+        "played": "19",
+        "pts": "17"
       },
       {
         "pos": "9",
-        "team": "Oestersund",
-        "played": "13",
-        "pts": "19"
+        "team": "Grobina",
+        "played": "20",
+        "pts": "17"
       },
       {
         "pos": "10",
-        "team": "Brage",
-        "played": "13",
-        "pts": "16"
-      },
-      {
-        "pos": "11",
-        "team": "Sandviken",
-        "played": "13",
-        "pts": "16"
-      },
-      {
-        "pos": "12",
-        "team": "Oerebro",
-        "played": "13",
-        "pts": "14"
-      },
-      {
-        "pos": "13",
-        "team": "Ljungskile",
-        "played": "13",
-        "pts": "13"
-      },
-      {
-        "pos": "14",
-        "team": "Norrby",
-        "played": "13",
-        "pts": "11"
-      },
-      {
-        "pos": "15",
-        "team": "Vaernamo",
-        "played": "13",
-        "pts": "10"
-      },
-      {
-        "pos": "16",
-        "team": "Sundsvall",
-        "played": "13",
-        "pts": "9"
+        "team": "Ogre United",
+        "played": "19",
+        "pts": "7"
       }
     ],
-    "last_updated": "2026-06-26T03:41:51.847462"
+    "last_updated": "2026-06-26T07:36:55.899334"
   },
   {
     "event_id": "387208158",
@@ -1601,24 +1143,24 @@
         "pts": "6"
       }
     ],
-    "last_updated": "2026-06-26T03:41:51.880626"
+    "last_updated": "2026-06-26T07:36:56.123159"
   },
   {
-    "event_id": "387209959",
-    "matchup": "Parnu Vaprus – Kuressaare",
-    "event_url": "https://livetv.sx/enx/eventinfo/387209959__/",
-    "competition": "Estonia. Meistriliiga",
+    "event_id": "387209927",
+    "matchup": "Brage – Falkenberg",
+    "event_url": "https://livetv.sx/enx/eventinfo/387209927__/",
+    "competition": "Sweden. Superettan",
     "date_time": "26 June at 18:00",
     "parsed_datetime": "2026-06-26T18:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Parnu Vaprus",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4116.gif"
+        "team_name": "Brage",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4866.gif"
       },
       {
-        "team_name": "Kuressaare",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/25816.gif"
+        "team_name": "Falkenberg",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/3858.gif"
       }
     ],
     "streams": [],
@@ -1629,501 +1171,102 @@
     "league_table": [
       {
         "pos": "1",
-        "team": "Levadia",
-        "played": "17",
-        "pts": "43"
+        "team": "Norrkoeping",
+        "played": "13",
+        "pts": "26"
       },
       {
         "pos": "2",
-        "team": "Flora",
-        "played": "16",
-        "pts": "30"
+        "team": "Falkenberg",
+        "played": "13",
+        "pts": "25"
       },
       {
         "pos": "3",
-        "team": "Nomme Kalju",
-        "played": "17",
-        "pts": "30"
+        "team": "Varberg",
+        "played": "13",
+        "pts": "24"
       },
       {
         "pos": "4",
-        "team": "Paide",
-        "played": "17",
-        "pts": "28"
+        "team": "Landskrona",
+        "played": "13",
+        "pts": "22"
       },
       {
         "pos": "5",
-        "team": "Tammeka",
-        "played": "16",
-        "pts": "23"
+        "team": "United IK",
+        "played": "13",
+        "pts": "21"
       },
       {
         "pos": "6",
-        "team": "Parnu Vaprus",
-        "played": "16",
+        "team": "Helsingborg",
+        "played": "13",
         "pts": "20"
       },
       {
         "pos": "7",
-        "team": "Nomme United",
-        "played": "17",
+        "team": "Oester",
+        "played": "13",
+        "pts": "20"
+      },
+      {
+        "pos": "8",
+        "team": "Oddevold",
+        "played": "13",
         "pts": "19"
       },
       {
-        "pos": "8",
-        "team": "Harju",
-        "played": "17",
-        "pts": "19"
-      },
-      {
         "pos": "9",
-        "team": "Kuressaare",
-        "played": "16",
-        "pts": "17"
-      },
-      {
-        "pos": "10",
-        "team": "Narva Trans",
-        "played": "17",
-        "pts": "10"
-      }
-    ],
-    "last_updated": "2026-06-26T03:41:51.970485"
-  },
-  {
-    "event_id": "387201457",
-    "matchup": "Liepaja – RFS",
-    "event_url": "https://livetv.sx/enx/eventinfo/387201457__/",
-    "competition": "Latvia. Virsliga",
-    "date_time": "26 June at 17:00",
-    "parsed_datetime": "2026-06-26T17:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Liepaja",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1613.gif"
-      },
-      {
-        "team_name": "RFS",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/26374.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Riga",
-        "played": "20",
-        "pts": "49"
-      },
-      {
-        "pos": "2",
-        "team": "RFS",
-        "played": "19",
-        "pts": "49"
-      },
-      {
-        "pos": "3",
-        "team": "Auda",
-        "played": "20",
-        "pts": "39"
-      },
-      {
-        "pos": "4",
-        "team": "Liepaja",
-        "played": "19",
-        "pts": "25"
-      },
-      {
-        "pos": "5",
-        "team": "Daugavpils",
-        "played": "20",
-        "pts": "24"
-      },
-      {
-        "pos": "6",
-        "team": "Jelgava",
-        "played": "20",
-        "pts": "22"
-      },
-      {
-        "pos": "7",
-        "team": "Super Nova",
-        "played": "20",
-        "pts": "21"
-      },
-      {
-        "pos": "8",
-        "team": "Tukums",
-        "played": "19",
-        "pts": "17"
-      },
-      {
-        "pos": "9",
-        "team": "Grobina",
-        "played": "20",
-        "pts": "17"
-      },
-      {
-        "pos": "10",
-        "team": "Ogre United",
-        "played": "19",
-        "pts": "7"
-      }
-    ],
-    "last_updated": "2026-06-26T03:41:52.004958"
-  },
-  {
-    "event_id": "387224308",
-    "matchup": "UCD – Cobh Ramblers",
-    "event_url": "https://livetv.sx/enx/eventinfo/387224308__/",
-    "competition": "Ireland. First Division",
-    "date_time": "26 June at 19:45",
-    "parsed_datetime": "2026-06-26T19:45:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "UCD",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6484.gif"
-      },
-      {
-        "team_name": "Cobh Ramblers",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6480.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Cork City",
-        "played": "20",
-        "pts": "48"
-      },
-      {
-        "pos": "2",
-        "team": "UCD",
-        "played": "20",
-        "pts": "33"
-      },
-      {
-        "pos": "3",
-        "team": "Bray Wanderers",
-        "played": "20",
-        "pts": "31"
-      },
-      {
-        "pos": "4",
-        "team": "Cobh Ramblers",
-        "played": "20",
-        "pts": "31"
-      },
-      {
-        "pos": "5",
-        "team": "Wexford",
-        "played": "20",
-        "pts": "26"
-      },
-      {
-        "pos": "6",
-        "team": "Longford Town",
-        "played": "20",
-        "pts": "25"
-      },
-      {
-        "pos": "7",
-        "team": "Athlone Town",
-        "played": "20",
-        "pts": "23"
-      },
-      {
-        "pos": "8",
-        "team": "Kerry",
-        "played": "20",
-        "pts": "22"
-      },
-      {
-        "pos": "9",
-        "team": "Finn Harps",
-        "played": "20",
-        "pts": "18"
-      },
-      {
-        "pos": "10",
-        "team": "Treaty United",
-        "played": "20",
-        "pts": "16"
-      }
-    ],
-    "last_updated": "2026-06-26T03:41:52.149323"
-  },
-  {
-    "event_id": "387224310",
-    "matchup": "Kerry – Longford Town",
-    "event_url": "https://livetv.sx/enx/eventinfo/387224310__/",
-    "competition": "Ireland. First Division",
-    "date_time": "26 June at 19:45",
-    "parsed_datetime": "2026-06-26T19:45:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Kerry",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/25309.gif"
-      },
-      {
-        "team_name": "Longford Town",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6483.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Cork City",
-        "played": "20",
-        "pts": "48"
-      },
-      {
-        "pos": "2",
-        "team": "UCD",
-        "played": "20",
-        "pts": "33"
-      },
-      {
-        "pos": "3",
-        "team": "Bray Wanderers",
-        "played": "20",
-        "pts": "31"
-      },
-      {
-        "pos": "4",
-        "team": "Cobh Ramblers",
-        "played": "20",
-        "pts": "31"
-      },
-      {
-        "pos": "5",
-        "team": "Wexford",
-        "played": "20",
-        "pts": "26"
-      },
-      {
-        "pos": "6",
-        "team": "Longford Town",
-        "played": "20",
-        "pts": "25"
-      },
-      {
-        "pos": "7",
-        "team": "Athlone Town",
-        "played": "20",
-        "pts": "23"
-      },
-      {
-        "pos": "8",
-        "team": "Kerry",
-        "played": "20",
-        "pts": "22"
-      },
-      {
-        "pos": "9",
-        "team": "Finn Harps",
-        "played": "20",
-        "pts": "18"
-      },
-      {
-        "pos": "10",
-        "team": "Treaty United",
-        "played": "20",
-        "pts": "16"
-      }
-    ],
-    "last_updated": "2026-06-26T03:41:52.251682"
-  },
-  {
-    "event_id": "387224306",
-    "matchup": "Wexford – Treaty United",
-    "event_url": "https://livetv.sx/enx/eventinfo/387224306__/",
-    "competition": "Ireland. First Division",
-    "date_time": "26 June at 19:45",
-    "parsed_datetime": "2026-06-26T19:45:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Wexford",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/30062.gif"
-      },
-      {
-        "team_name": "Treaty United",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/13227.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Cork City",
-        "played": "20",
-        "pts": "48"
-      },
-      {
-        "pos": "2",
-        "team": "UCD",
-        "played": "20",
-        "pts": "33"
-      },
-      {
-        "pos": "3",
-        "team": "Bray Wanderers",
-        "played": "20",
-        "pts": "31"
-      },
-      {
-        "pos": "4",
-        "team": "Cobh Ramblers",
-        "played": "20",
-        "pts": "31"
-      },
-      {
-        "pos": "5",
-        "team": "Wexford",
-        "played": "20",
-        "pts": "26"
-      },
-      {
-        "pos": "6",
-        "team": "Longford Town",
-        "played": "20",
-        "pts": "25"
-      },
-      {
-        "pos": "7",
-        "team": "Athlone Town",
-        "played": "20",
-        "pts": "23"
-      },
-      {
-        "pos": "8",
-        "team": "Kerry",
-        "played": "20",
-        "pts": "22"
-      },
-      {
-        "pos": "9",
-        "team": "Finn Harps",
-        "played": "20",
-        "pts": "18"
-      },
-      {
-        "pos": "10",
-        "team": "Treaty United",
-        "played": "20",
-        "pts": "16"
-      }
-    ],
-    "last_updated": "2026-06-26T03:41:52.300161"
-  },
-  {
-    "event_id": "387224344",
-    "matchup": "Derry City – Drogheda United",
-    "event_url": "https://livetv.sx/enx/eventinfo/387224344__/",
-    "competition": "Ireland. Premier Division",
-    "date_time": "26 June at 19:45",
-    "parsed_datetime": "2026-06-26T19:45:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Derry City",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/390.gif"
-      },
-      {
-        "team_name": "Drogheda United",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6482.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Shamrock Rovers",
-        "played": "23",
-        "pts": "44"
-      },
-      {
-        "pos": "2",
-        "team": "St Patrick`s Athletic",
-        "played": "21",
-        "pts": "38"
-      },
-      {
-        "pos": "3",
-        "team": "Bohemian",
-        "played": "23",
-        "pts": "37"
-      },
-      {
-        "pos": "4",
-        "team": "Dundalk",
-        "played": "21",
-        "pts": "35"
-      },
-      {
-        "pos": "5",
-        "team": "Shelbourne",
-        "played": "22",
-        "pts": "30"
-      },
-      {
-        "pos": "6",
-        "team": "Derry City",
-        "played": "23",
-        "pts": "26"
-      },
-      {
-        "pos": "7",
-        "team": "Galway United",
-        "played": "20",
-        "pts": "24"
-      },
-      {
-        "pos": "8",
-        "team": "Drogheda United",
-        "played": "21",
-        "pts": "22"
-      },
-      {
-        "pos": "9",
-        "team": "Sligo Rovers",
-        "played": "21",
+        "team": "Oestersund",
+        "played": "13",
         "pts": "19"
       },
       {
         "pos": "10",
-        "team": "Waterford",
-        "played": "21",
+        "team": "Brage",
+        "played": "13",
+        "pts": "16"
+      },
+      {
+        "pos": "11",
+        "team": "Sandviken",
+        "played": "13",
+        "pts": "16"
+      },
+      {
+        "pos": "12",
+        "team": "Oerebro",
+        "played": "13",
         "pts": "14"
+      },
+      {
+        "pos": "13",
+        "team": "Ljungskile",
+        "played": "13",
+        "pts": "13"
+      },
+      {
+        "pos": "14",
+        "team": "Norrby",
+        "played": "13",
+        "pts": "11"
+      },
+      {
+        "pos": "15",
+        "team": "Vaernamo",
+        "played": "13",
+        "pts": "10"
+      },
+      {
+        "pos": "16",
+        "team": "Sundsvall",
+        "played": "13",
+        "pts": "9"
       }
     ],
-    "last_updated": "2026-06-26T03:41:52.329104"
+    "last_updated": "2026-06-26T07:36:56.232606"
   },
   {
     "event_id": "387224342",
@@ -2210,24 +1353,198 @@
         "pts": "14"
       }
     ],
-    "last_updated": "2026-06-26T03:41:52.437871"
+    "last_updated": "2026-06-26T07:36:56.252215"
   },
   {
-    "event_id": "387224314",
-    "matchup": "Athlone Town – Finn Harps",
-    "event_url": "https://livetv.sx/enx/eventinfo/387224314__/",
+    "event_id": "387209959",
+    "matchup": "Parnu Vaprus – Kuressaare",
+    "event_url": "https://livetv.sx/enx/eventinfo/387209959__/",
+    "competition": "Estonia. Meistriliiga",
+    "date_time": "26 June at 18:00",
+    "parsed_datetime": "2026-06-26T18:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Parnu Vaprus",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4116.gif"
+      },
+      {
+        "team_name": "Kuressaare",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/25816.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Levadia",
+        "played": "17",
+        "pts": "43"
+      },
+      {
+        "pos": "2",
+        "team": "Flora",
+        "played": "16",
+        "pts": "30"
+      },
+      {
+        "pos": "3",
+        "team": "Nomme Kalju",
+        "played": "17",
+        "pts": "30"
+      },
+      {
+        "pos": "4",
+        "team": "Paide",
+        "played": "17",
+        "pts": "28"
+      },
+      {
+        "pos": "5",
+        "team": "Tammeka",
+        "played": "16",
+        "pts": "23"
+      },
+      {
+        "pos": "6",
+        "team": "Parnu Vaprus",
+        "played": "16",
+        "pts": "20"
+      },
+      {
+        "pos": "7",
+        "team": "Nomme United",
+        "played": "17",
+        "pts": "19"
+      },
+      {
+        "pos": "8",
+        "team": "Harju",
+        "played": "17",
+        "pts": "19"
+      },
+      {
+        "pos": "9",
+        "team": "Kuressaare",
+        "played": "16",
+        "pts": "17"
+      },
+      {
+        "pos": "10",
+        "team": "Narva Trans",
+        "played": "17",
+        "pts": "10"
+      }
+    ],
+    "last_updated": "2026-06-26T07:36:56.281394"
+  },
+  {
+    "event_id": "387201457",
+    "matchup": "Liepaja – RFS",
+    "event_url": "https://livetv.sx/enx/eventinfo/387201457__/",
+    "competition": "Latvia. Virsliga",
+    "date_time": "26 June at 17:00",
+    "parsed_datetime": "2026-06-26T17:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Liepaja",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1613.gif"
+      },
+      {
+        "team_name": "RFS",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/26374.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Riga",
+        "played": "20",
+        "pts": "49"
+      },
+      {
+        "pos": "2",
+        "team": "RFS",
+        "played": "19",
+        "pts": "49"
+      },
+      {
+        "pos": "3",
+        "team": "Auda",
+        "played": "20",
+        "pts": "39"
+      },
+      {
+        "pos": "4",
+        "team": "Liepaja",
+        "played": "19",
+        "pts": "25"
+      },
+      {
+        "pos": "5",
+        "team": "Daugavpils",
+        "played": "20",
+        "pts": "24"
+      },
+      {
+        "pos": "6",
+        "team": "Jelgava",
+        "played": "20",
+        "pts": "22"
+      },
+      {
+        "pos": "7",
+        "team": "Super Nova",
+        "played": "20",
+        "pts": "21"
+      },
+      {
+        "pos": "8",
+        "team": "Tukums",
+        "played": "19",
+        "pts": "17"
+      },
+      {
+        "pos": "9",
+        "team": "Grobina",
+        "played": "20",
+        "pts": "17"
+      },
+      {
+        "pos": "10",
+        "team": "Ogre United",
+        "played": "19",
+        "pts": "7"
+      }
+    ],
+    "last_updated": "2026-06-26T07:36:56.392294"
+  },
+  {
+    "event_id": "387224308",
+    "matchup": "UCD – Cobh Ramblers",
+    "event_url": "https://livetv.sx/enx/eventinfo/387224308__/",
     "competition": "Ireland. First Division",
     "date_time": "26 June at 19:45",
     "parsed_datetime": "2026-06-26T19:45:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Athlone Town",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6481.gif"
+        "team_name": "UCD",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6484.gif"
       },
       {
-        "team_name": "Finn Harps",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6477.gif"
+        "team_name": "Cobh Ramblers",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6480.gif"
       }
     ],
     "streams": [],
@@ -2297,7 +1614,268 @@
         "pts": "16"
       }
     ],
-    "last_updated": "2026-06-26T03:41:52.473890"
+    "last_updated": "2026-06-26T07:36:56.442298"
+  },
+  {
+    "event_id": "387224310",
+    "matchup": "Kerry – Longford Town",
+    "event_url": "https://livetv.sx/enx/eventinfo/387224310__/",
+    "competition": "Ireland. First Division",
+    "date_time": "26 June at 19:45",
+    "parsed_datetime": "2026-06-26T19:45:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Kerry",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/25309.gif"
+      },
+      {
+        "team_name": "Longford Town",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6483.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Cork City",
+        "played": "20",
+        "pts": "48"
+      },
+      {
+        "pos": "2",
+        "team": "UCD",
+        "played": "20",
+        "pts": "33"
+      },
+      {
+        "pos": "3",
+        "team": "Bray Wanderers",
+        "played": "20",
+        "pts": "31"
+      },
+      {
+        "pos": "4",
+        "team": "Cobh Ramblers",
+        "played": "20",
+        "pts": "31"
+      },
+      {
+        "pos": "5",
+        "team": "Wexford",
+        "played": "20",
+        "pts": "26"
+      },
+      {
+        "pos": "6",
+        "team": "Longford Town",
+        "played": "20",
+        "pts": "25"
+      },
+      {
+        "pos": "7",
+        "team": "Athlone Town",
+        "played": "20",
+        "pts": "23"
+      },
+      {
+        "pos": "8",
+        "team": "Kerry",
+        "played": "20",
+        "pts": "22"
+      },
+      {
+        "pos": "9",
+        "team": "Finn Harps",
+        "played": "20",
+        "pts": "18"
+      },
+      {
+        "pos": "10",
+        "team": "Treaty United",
+        "played": "20",
+        "pts": "16"
+      }
+    ],
+    "last_updated": "2026-06-26T07:36:56.463075"
+  },
+  {
+    "event_id": "387224306",
+    "matchup": "Wexford – Treaty United",
+    "event_url": "https://livetv.sx/enx/eventinfo/387224306__/",
+    "competition": "Ireland. First Division",
+    "date_time": "26 June at 19:45",
+    "parsed_datetime": "2026-06-26T19:45:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Wexford",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/30062.gif"
+      },
+      {
+        "team_name": "Treaty United",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/13227.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Cork City",
+        "played": "20",
+        "pts": "48"
+      },
+      {
+        "pos": "2",
+        "team": "UCD",
+        "played": "20",
+        "pts": "33"
+      },
+      {
+        "pos": "3",
+        "team": "Bray Wanderers",
+        "played": "20",
+        "pts": "31"
+      },
+      {
+        "pos": "4",
+        "team": "Cobh Ramblers",
+        "played": "20",
+        "pts": "31"
+      },
+      {
+        "pos": "5",
+        "team": "Wexford",
+        "played": "20",
+        "pts": "26"
+      },
+      {
+        "pos": "6",
+        "team": "Longford Town",
+        "played": "20",
+        "pts": "25"
+      },
+      {
+        "pos": "7",
+        "team": "Athlone Town",
+        "played": "20",
+        "pts": "23"
+      },
+      {
+        "pos": "8",
+        "team": "Kerry",
+        "played": "20",
+        "pts": "22"
+      },
+      {
+        "pos": "9",
+        "team": "Finn Harps",
+        "played": "20",
+        "pts": "18"
+      },
+      {
+        "pos": "10",
+        "team": "Treaty United",
+        "played": "20",
+        "pts": "16"
+      }
+    ],
+    "last_updated": "2026-06-26T07:36:56.562982"
+  },
+  {
+    "event_id": "387224344",
+    "matchup": "Derry City – Drogheda United",
+    "event_url": "https://livetv.sx/enx/eventinfo/387224344__/",
+    "competition": "Ireland. Premier Division",
+    "date_time": "26 June at 19:45",
+    "parsed_datetime": "2026-06-26T19:45:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Derry City",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/390.gif"
+      },
+      {
+        "team_name": "Drogheda United",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6482.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Shamrock Rovers",
+        "played": "23",
+        "pts": "44"
+      },
+      {
+        "pos": "2",
+        "team": "St Patrick`s Athletic",
+        "played": "21",
+        "pts": "38"
+      },
+      {
+        "pos": "3",
+        "team": "Bohemian",
+        "played": "23",
+        "pts": "37"
+      },
+      {
+        "pos": "4",
+        "team": "Dundalk",
+        "played": "21",
+        "pts": "35"
+      },
+      {
+        "pos": "5",
+        "team": "Shelbourne",
+        "played": "22",
+        "pts": "30"
+      },
+      {
+        "pos": "6",
+        "team": "Derry City",
+        "played": "23",
+        "pts": "26"
+      },
+      {
+        "pos": "7",
+        "team": "Galway United",
+        "played": "20",
+        "pts": "24"
+      },
+      {
+        "pos": "8",
+        "team": "Drogheda United",
+        "played": "21",
+        "pts": "22"
+      },
+      {
+        "pos": "9",
+        "team": "Sligo Rovers",
+        "played": "21",
+        "pts": "19"
+      },
+      {
+        "pos": "10",
+        "team": "Waterford",
+        "played": "21",
+        "pts": "14"
+      }
+    ],
+    "last_updated": "2026-06-26T07:36:56.562996"
   },
   {
     "event_id": "387224312",
@@ -2384,24 +1962,24 @@
         "pts": "16"
       }
     ],
-    "last_updated": "2026-06-26T03:41:52.529178"
+    "last_updated": "2026-06-26T07:36:56.644451"
   },
   {
-    "event_id": "387224346",
-    "matchup": "Bohemian – St Patrick`s Athletic",
-    "event_url": "https://livetv.sx/enx/eventinfo/387224346__/",
-    "competition": "Ireland. Premier Division",
-    "date_time": "26 June at 20:00",
-    "parsed_datetime": "2026-06-26T20:00:00",
+    "event_id": "387224314",
+    "matchup": "Athlone Town – Finn Harps",
+    "event_url": "https://livetv.sx/enx/eventinfo/387224314__/",
+    "competition": "Ireland. First Division",
+    "date_time": "26 June at 19:45",
+    "parsed_datetime": "2026-06-26T19:45:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Bohemian",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/388.gif"
+        "team_name": "Athlone Town",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6481.gif"
       },
       {
-        "team_name": "St Patrick`s Athletic",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/386.gif"
+        "team_name": "Finn Harps",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6477.gif"
       }
     ],
     "streams": [],
@@ -2412,92 +1990,66 @@
     "league_table": [
       {
         "pos": "1",
-        "team": "Shamrock Rovers",
-        "played": "23",
-        "pts": "44"
+        "team": "Cork City",
+        "played": "20",
+        "pts": "48"
       },
       {
         "pos": "2",
-        "team": "St Patrick`s Athletic",
-        "played": "21",
-        "pts": "38"
+        "team": "UCD",
+        "played": "20",
+        "pts": "33"
       },
       {
         "pos": "3",
-        "team": "Bohemian",
-        "played": "23",
-        "pts": "37"
+        "team": "Bray Wanderers",
+        "played": "20",
+        "pts": "31"
       },
       {
         "pos": "4",
-        "team": "Dundalk",
-        "played": "21",
-        "pts": "35"
+        "team": "Cobh Ramblers",
+        "played": "20",
+        "pts": "31"
       },
       {
         "pos": "5",
-        "team": "Shelbourne",
-        "played": "22",
-        "pts": "30"
-      },
-      {
-        "pos": "6",
-        "team": "Derry City",
-        "played": "23",
+        "team": "Wexford",
+        "played": "20",
         "pts": "26"
       },
       {
-        "pos": "7",
-        "team": "Galway United",
+        "pos": "6",
+        "team": "Longford Town",
         "played": "20",
-        "pts": "24"
+        "pts": "25"
+      },
+      {
+        "pos": "7",
+        "team": "Athlone Town",
+        "played": "20",
+        "pts": "23"
       },
       {
         "pos": "8",
-        "team": "Drogheda United",
-        "played": "21",
+        "team": "Kerry",
+        "played": "20",
         "pts": "22"
       },
       {
         "pos": "9",
-        "team": "Sligo Rovers",
-        "played": "21",
-        "pts": "19"
+        "team": "Finn Harps",
+        "played": "20",
+        "pts": "18"
       },
       {
         "pos": "10",
-        "team": "Waterford",
-        "played": "21",
-        "pts": "14"
+        "team": "Treaty United",
+        "played": "20",
+        "pts": "16"
       }
     ],
-    "last_updated": "2026-06-26T03:41:52.558840"
-  },
-  {
-    "event_id": "387249569",
-    "matchup": "HFX Wanderers – Pacific",
-    "event_url": "https://livetv.sx/enx/eventinfo/387249569__/",
-    "competition": "Canada. Premier League",
-    "date_time": "26 June at 22:30",
-    "parsed_datetime": "2026-06-26T22:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "HFX Wanderers",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/2453.gif"
-      },
-      {
-        "team_name": "Pacific",
-        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1439.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-06-26T03:41:52.597124"
+    "last_updated": "2026-06-26T07:36:56.695976"
   },
   {
     "event_id": "387220249",
@@ -2584,6 +2136,93 @@
         "pts": "14"
       }
     ],
-    "last_updated": "2026-06-26T03:41:52.703218"
+    "last_updated": "2026-06-26T07:36:56.713200"
+  },
+  {
+    "event_id": "387224346",
+    "matchup": "Bohemian – St Patrick`s Athletic",
+    "event_url": "https://livetv.sx/enx/eventinfo/387224346__/",
+    "competition": "Ireland. Premier Division",
+    "date_time": "26 June at 20:00",
+    "parsed_datetime": "2026-06-26T20:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Bohemian",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/388.gif"
+      },
+      {
+        "team_name": "St Patrick`s Athletic",
+        "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/386.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Shamrock Rovers",
+        "played": "23",
+        "pts": "44"
+      },
+      {
+        "pos": "2",
+        "team": "St Patrick`s Athletic",
+        "played": "21",
+        "pts": "38"
+      },
+      {
+        "pos": "3",
+        "team": "Bohemian",
+        "played": "23",
+        "pts": "37"
+      },
+      {
+        "pos": "4",
+        "team": "Dundalk",
+        "played": "21",
+        "pts": "35"
+      },
+      {
+        "pos": "5",
+        "team": "Shelbourne",
+        "played": "22",
+        "pts": "30"
+      },
+      {
+        "pos": "6",
+        "team": "Derry City",
+        "played": "23",
+        "pts": "26"
+      },
+      {
+        "pos": "7",
+        "team": "Galway United",
+        "played": "20",
+        "pts": "24"
+      },
+      {
+        "pos": "8",
+        "team": "Drogheda United",
+        "played": "21",
+        "pts": "22"
+      },
+      {
+        "pos": "9",
+        "team": "Sligo Rovers",
+        "played": "21",
+        "pts": "19"
+      },
+      {
+        "pos": "10",
+        "team": "Waterford",
+        "played": "21",
+        "pts": "14"
+      }
+    ],
+    "last_updated": "2026-06-26T07:36:56.762171"
   }
 ]
