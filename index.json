@@ -6,7 +6,7 @@
     "competition": "Argentina. Cup",
     "date_time": "16 July at 22:45",
     "parsed_datetime": "2026-07-16T22:45:00",
-    "is_live": true,
+    "is_live": false,
     "team_logos": [
       {
         "team_name": "Racing Club",
@@ -56,7 +56,227 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-07-16T22:37:34.569824"
+    "last_updated": "2026-07-16T23:35:48.134429"
+  },
+  {
+    "event_id": "390297286",
+    "matchup": "Vitoria-BA – Vasco de Gama",
+    "event_url": "https://livetv.sx/enx/eventinfo/390297286__/",
+    "competition": "Brazil. Serie A",
+    "date_time": "16 July at 23:30",
+    "parsed_datetime": "2026-07-16T23:30:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Vitoria-BA",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/592.gif"
+      },
+      {
+        "team_name": "Vasco de Gama",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/436.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262974&lang=en&eid=390297286&lid=3036722&ci=93&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262975&lang=en&eid=390297286&lid=3036723&ci=93&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3037130&lang=en&eid=390297286&lid=3037130&ci=93&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [
+        "01.",
+        "Lucas Arcanjo",
+        "(G)",
+        "88.",
+        "Ze Vitor",
+        "25.",
+        "Caca",
+        "36.",
+        "Luan Candido",
+        "83.",
+        "Jamerson",
+        "44.",
+        "Gabriel Baralhas",
+        "33.",
+        "Erick Serafim",
+        "06.",
+        "Emmanuel Martinez",
+        "91.",
+        "Rene",
+        "13.",
+        "Ramon",
+        "12.",
+        "Diego Tarzia"
+      ],
+      "away_team": [
+        "01.",
+        "Leo Jardim",
+        "(G)",
+        "10.",
+        "Johan Rojas",
+        "66.",
+        "Cuiabano",
+        "77.",
+        "Claudio Spinelli",
+        "88.",
+        "Cauan Barros",
+        "46.",
+        "Carlos Cuesta",
+        "02.",
+        "Jose Rodriguez",
+        "23.",
+        "Thiago Mendes",
+        "30.",
+        "Robert Renan",
+        "17.",
+        "Nuno Moreira",
+        "28.",
+        "Adson"
+      ]
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Palmeiras",
+        "played": "18",
+        "pts": "41"
+      },
+      {
+        "pos": "2",
+        "team": "Flamengo-RJ",
+        "played": "17",
+        "pts": "34"
+      },
+      {
+        "pos": "3",
+        "team": "Fluminense",
+        "played": "18",
+        "pts": "31"
+      },
+      {
+        "pos": "4",
+        "team": "Athletico-PR",
+        "played": "18",
+        "pts": "30"
+      },
+      {
+        "pos": "5",
+        "team": "RB Bragantino",
+        "played": "18",
+        "pts": "29"
+      },
+      {
+        "pos": "6",
+        "team": "Bahia",
+        "played": "17",
+        "pts": "26"
+      },
+      {
+        "pos": "7",
+        "team": "Coritiba",
+        "played": "18",
+        "pts": "26"
+      },
+      {
+        "pos": "8",
+        "team": "Sao Paolo",
+        "played": "18",
+        "pts": "25"
+      },
+      {
+        "pos": "9",
+        "team": "Atletico-MG",
+        "played": "18",
+        "pts": "24"
+      },
+      {
+        "pos": "10",
+        "team": "Corinthians",
+        "played": "18",
+        "pts": "24"
+      },
+      {
+        "pos": "11",
+        "team": "Cruzeiro-MG",
+        "played": "18",
+        "pts": "24"
+      },
+      {
+        "pos": "12",
+        "team": "Botafogo-RJ",
+        "played": "17",
+        "pts": "22"
+      },
+      {
+        "pos": "13",
+        "team": "Vitoria-BA",
+        "played": "17",
+        "pts": "22"
+      },
+      {
+        "pos": "14",
+        "team": "Inter-RS",
+        "played": "18",
+        "pts": "21"
+      },
+      {
+        "pos": "15",
+        "team": "Santos-SP",
+        "played": "18",
+        "pts": "21"
+      },
+      {
+        "pos": "16",
+        "team": "Gremio-RS",
+        "played": "18",
+        "pts": "21"
+      },
+      {
+        "pos": "17",
+        "team": "Vasco de Gama",
+        "played": "18",
+        "pts": "20"
+      },
+      {
+        "pos": "18",
+        "team": "Remo",
+        "played": "18",
+        "pts": "18"
+      },
+      {
+        "pos": "19",
+        "team": "Mirassol",
+        "played": "17",
+        "pts": "16"
+      },
+      {
+        "pos": "20",
+        "team": "Chapecoense",
+        "played": "17",
+        "pts": "9"
+      }
+    ],
+    "last_updated": "2026-07-16T23:35:49.271418"
   },
   {
     "event_id": "390297288",
@@ -316,7 +536,7 @@
         "pts": "9"
       }
     ],
-    "last_updated": "2026-07-16T22:37:37.664406"
+    "last_updated": "2026-07-16T23:35:49.373592"
   },
   {
     "event_id": "389743294",
@@ -325,7 +545,7 @@
     "competition": "Ecuador. Serie A",
     "date_time": "16 July at 22:30",
     "parsed_datetime": "2026-07-16T22:30:00",
-    "is_live": true,
+    "is_live": false,
     "team_logos": [
       {
         "team_name": "Aucas",
@@ -439,226 +659,6 @@
         "pts": "13"
       }
     ],
-    "last_updated": "2026-07-16T22:37:37.788961"
-  },
-  {
-    "event_id": "390297286",
-    "matchup": "Vitoria-BA – Vasco de Gama",
-    "event_url": "https://livetv.sx/enx/eventinfo/390297286__/",
-    "competition": "Brazil. Serie A",
-    "date_time": "16 July at 23:30",
-    "parsed_datetime": "2026-07-16T23:30:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Vitoria-BA",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/592.gif"
-      },
-      {
-        "team_name": "Vasco de Gama",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/436.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv902.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262974&lang=en&eid=390297286&lid=3036722&ci=93&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv902.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262975&lang=en&eid=390297286&lid=3036723&ci=93&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv902.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3037130&lang=en&eid=390297286&lid=3037130&ci=93&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [
-        "01.",
-        "Lucas Arcanjo",
-        "(G)",
-        "88.",
-        "Ze Vitor",
-        "25.",
-        "Caca",
-        "36.",
-        "Luan Candido",
-        "83.",
-        "Jamerson",
-        "44.",
-        "Gabriel Baralhas",
-        "33.",
-        "Erick Serafim",
-        "06.",
-        "Emmanuel Martinez",
-        "91.",
-        "Rene",
-        "13.",
-        "Ramon",
-        "12.",
-        "Diego Tarzia"
-      ],
-      "away_team": [
-        "01.",
-        "Leo Jardim",
-        "(G)",
-        "10.",
-        "Johan Rojas",
-        "66.",
-        "Cuiabano",
-        "77.",
-        "Claudio Spinelli",
-        "88.",
-        "Cauan Barros",
-        "46.",
-        "Carlos Cuesta",
-        "02.",
-        "Jose Rodriguez",
-        "23.",
-        "Thiago Mendes",
-        "30.",
-        "Robert Renan",
-        "17.",
-        "Nuno Moreira",
-        "28.",
-        "Adson"
-      ]
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Palmeiras",
-        "played": "18",
-        "pts": "41"
-      },
-      {
-        "pos": "2",
-        "team": "Flamengo-RJ",
-        "played": "17",
-        "pts": "34"
-      },
-      {
-        "pos": "3",
-        "team": "Fluminense",
-        "played": "18",
-        "pts": "31"
-      },
-      {
-        "pos": "4",
-        "team": "Athletico-PR",
-        "played": "18",
-        "pts": "30"
-      },
-      {
-        "pos": "5",
-        "team": "RB Bragantino",
-        "played": "18",
-        "pts": "29"
-      },
-      {
-        "pos": "6",
-        "team": "Bahia",
-        "played": "17",
-        "pts": "26"
-      },
-      {
-        "pos": "7",
-        "team": "Coritiba",
-        "played": "18",
-        "pts": "26"
-      },
-      {
-        "pos": "8",
-        "team": "Sao Paolo",
-        "played": "18",
-        "pts": "25"
-      },
-      {
-        "pos": "9",
-        "team": "Atletico-MG",
-        "played": "18",
-        "pts": "24"
-      },
-      {
-        "pos": "10",
-        "team": "Corinthians",
-        "played": "18",
-        "pts": "24"
-      },
-      {
-        "pos": "11",
-        "team": "Cruzeiro-MG",
-        "played": "18",
-        "pts": "24"
-      },
-      {
-        "pos": "12",
-        "team": "Botafogo-RJ",
-        "played": "17",
-        "pts": "22"
-      },
-      {
-        "pos": "13",
-        "team": "Vitoria-BA",
-        "played": "17",
-        "pts": "22"
-      },
-      {
-        "pos": "14",
-        "team": "Inter-RS",
-        "played": "18",
-        "pts": "21"
-      },
-      {
-        "pos": "15",
-        "team": "Santos-SP",
-        "played": "18",
-        "pts": "21"
-      },
-      {
-        "pos": "16",
-        "team": "Gremio-RS",
-        "played": "18",
-        "pts": "21"
-      },
-      {
-        "pos": "17",
-        "team": "Vasco de Gama",
-        "played": "18",
-        "pts": "20"
-      },
-      {
-        "pos": "18",
-        "team": "Remo",
-        "played": "18",
-        "pts": "18"
-      },
-      {
-        "pos": "19",
-        "team": "Mirassol",
-        "played": "17",
-        "pts": "16"
-      },
-      {
-        "pos": "20",
-        "team": "Chapecoense",
-        "played": "17",
-        "pts": "9"
-      }
-    ],
-    "last_updated": "2026-07-16T22:37:37.799373"
+    "last_updated": "2026-07-16T23:35:49.451967"
   }
 ]
