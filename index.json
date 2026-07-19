@@ -1,38 +1,203 @@
 [
   {
-    "event_id": "392365818",
-    "matchup": "Balingen – Stuttgart",
-    "event_url": "https://livetv.sx/enx/eventinfo/392365818__/",
-    "competition": "Friendly Match",
-    "date_time": "19 July at 13:30",
-    "parsed_datetime": "2026-07-19T13:30:00",
-    "is_live": false,
+    "event_id": "391624983",
+    "matchup": "KamAZ – Nizhnyi Novgorod",
+    "event_url": "https://livetv.sx/enx/eventinfo/391624983__/",
+    "competition": "Russia. First League",
+    "date_time": "19 July at 14:00",
+    "parsed_datetime": "2026-07-19T14:00:00",
+    "is_live": true,
     "team_logos": [
       {
-        "team_name": "Balingen",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4530.gif"
+        "team_name": "KamAZ",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/5868.gif"
       },
       {
-        "team_name": "Stuttgart",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/707.gif"
+        "team_name": "Nizhnyi Novgorod",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/29856.gif"
       }
     ],
     "streams": [
       {
-        "language": "German",
-        "flag_src": "https://cdn.livetv902.me/img/linkflag/13.png",
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/1.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=JWV9QUmHzAw&lang=en&eid=392365818&lid=3038610&ci=5&si=1",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=237992&lang=en&eid=391624983&lid=2984047&ci=65&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=acestream&c=4b7c5f21b435d79c823e47572655a9c157a3ba12&lang=en&eid=391624983&lid=2844043&ci=65&si=1",
         "stream_title": "",
         "stream_type": ""
       }
     ],
     "starting_lineups": {
-      "home_team": [],
-      "away_team": []
+      "home_team": [
+        "31.",
+        "Artur Anisimov",
+        "(G)",
+        "37.",
+        "Yevgeni Voronin",
+        "65.",
+        "Ivan Gulko",
+        "09.",
+        "Ilya Moseychuk",
+        "83.",
+        "Maksim Laykin",
+        "06.",
+        "Timofey Kalistratov",
+        "05.",
+        "Saveliy Ratnikov",
+        "07.",
+        "Ruslan Ayukin",
+        "10.",
+        "Roman Zashchepkin",
+        "27.",
+        "Roman Manuylov",
+        "28.",
+        "Mukhammad Sultonov"
+      ],
+      "away_team": [
+        "30.",
+        "Nikita Medvedev",
+        "(G)",
+        "18.",
+        "Artem Sokolov",
+        "94.",
+        "Artem Timofeev",
+        "11.",
+        "Gleb Popolitov",
+        "17.",
+        "Gleb Shilnikov",
+        "78.",
+        "Nikolay Kalinskiy",
+        "03.",
+        "Yuri Koledin",
+        "27.",
+        "Vyacheslav Grulev",
+        "02.",
+        "Viktor Aleksandrov",
+        "72.",
+        "Timofey Komissarov",
+        "25.",
+        "Sven Karic"
+      ]
     },
-    "league_table": [],
-    "last_updated": "2026-07-19T12:12:24.277363"
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Rodina",
+        "played": "34",
+        "pts": "68"
+      },
+      {
+        "pos": "2",
+        "team": "Fakel",
+        "played": "34",
+        "pts": "68"
+      },
+      {
+        "pos": "3",
+        "team": "Ural",
+        "played": "34",
+        "pts": "61"
+      },
+      {
+        "pos": "4",
+        "team": "Rotor",
+        "played": "34",
+        "pts": "56"
+      },
+      {
+        "pos": "5",
+        "team": "KamAZ",
+        "played": "34",
+        "pts": "49"
+      },
+      {
+        "pos": "6",
+        "team": "Yenisey",
+        "played": "34",
+        "pts": "49"
+      },
+      {
+        "pos": "7",
+        "team": "Spartak Kostroma",
+        "played": "34",
+        "pts": "49"
+      },
+      {
+        "pos": "8",
+        "team": "Shinnik",
+        "played": "34",
+        "pts": "48"
+      },
+      {
+        "pos": "9",
+        "team": "Torpedo M",
+        "played": "34",
+        "pts": "46"
+      },
+      {
+        "pos": "10",
+        "team": "Chelyabinsk",
+        "played": "34",
+        "pts": "44"
+      },
+      {
+        "pos": "11",
+        "team": "Neftekhimik",
+        "played": "34",
+        "pts": "43"
+      },
+      {
+        "pos": "12",
+        "team": "Arsenal Tula",
+        "played": "34",
+        "pts": "39"
+      },
+      {
+        "pos": "13",
+        "team": "SKA-Khabarovsk",
+        "played": "33",
+        "pts": "39"
+      },
+      {
+        "pos": "14",
+        "team": "Volga Ulyanovsk",
+        "played": "34",
+        "pts": "37"
+      },
+      {
+        "pos": "15",
+        "team": "Ufa",
+        "played": "33",
+        "pts": "37"
+      },
+      {
+        "pos": "16",
+        "team": "Chernomorets",
+        "played": "34",
+        "pts": "35"
+      },
+      {
+        "pos": "17",
+        "team": "Sokol",
+        "played": "34",
+        "pts": "26"
+      },
+      {
+        "pos": "18",
+        "team": "Chayka P",
+        "played": "34",
+        "pts": "22"
+      }
+    ],
+    "last_updated": "2026-07-19T13:52:23.824580"
   },
   {
     "event_id": "392354129",
@@ -41,7 +206,7 @@
     "competition": "Women. Friendly Match",
     "date_time": "19 July at 13:00",
     "parsed_datetime": "2026-07-19T13:00:00",
-    "is_live": true,
+    "is_live": false,
     "team_logos": [
       {
         "team_name": "Meppen (W)",
@@ -52,45 +217,187 @@
         "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/33552.gif"
       }
     ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv902.me/img/linkflag/18.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=BfinbxW6MBs&lang=en&eid=392354129&lid=3038565&ci=1565&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
+    "streams": [],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-07-19T12:12:24.514880"
+    "last_updated": "2026-07-19T13:52:23.986580"
   },
   {
-    "event_id": "390754032",
-    "matchup": "Petrolul – Dinamo Bucharest",
-    "event_url": "https://livetv.sx/enx/eventinfo/390754032__/",
-    "competition": "Romania. Liga 1",
-    "date_time": "19 July at 17:30",
-    "parsed_datetime": "2026-07-19T17:30:00",
+    "event_id": "392053326",
+    "matchup": "Rudes – Shakhtar Donetsk",
+    "event_url": "https://livetv.sx/enx/eventinfo/392053326_rudes_shakhtar_donetsk/",
+    "competition": "Friendly Match",
+    "date_time": "19 July at 17:00",
+    "parsed_datetime": "2026-07-19T17:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Petrolul",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/5097.gif"
+        "team_name": "Rudes",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/33064.gif"
       },
       {
-        "team_name": "Dinamo Bucharest",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/415.gif"
+        "team_name": "Shakhtar Donetsk",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/50927.gif"
       }
     ],
     "streams": [],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-07-19T13:52:24.147328"
+  },
+  {
+    "event_id": "392048114",
+    "matchup": "Singapore (W) – Indonesia (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/392048114_singapore_w_indonesia_w/",
+    "competition": "Women. AFF Championship",
+    "date_time": "19 July at 13:45",
+    "parsed_datetime": "2026-07-19T13:45:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Singapore (W)",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/34510.gif"
+      },
+      {
+        "team_name": "Indonesia (W)",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/33946.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-07-19T13:52:24.197591"
+  },
+  {
+    "event_id": "392202746",
+    "matchup": "Shakhtyor Sl – Neman Grodno",
+    "event_url": "https://livetv.sx/enx/eventinfo/392202746_shakhtyor_sl_neman_grodno/",
+    "competition": "Belarus. Cup",
+    "date_time": "19 July at 13:00",
+    "parsed_datetime": "2026-07-19T13:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Shakhtyor Sl",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/32762.gif"
+      },
+      {
+        "team_name": "Neman Grodno",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/49559.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-07-19T13:52:24.243455"
+  },
+  {
+    "event_id": "390742148",
+    "matchup": "U Cluj – Farul",
+    "event_url": "https://livetv.sx/enx/eventinfo/390742148__/",
+    "competition": "Romania. Liga 1",
+    "date_time": "19 July at 15:00",
+    "parsed_datetime": "2026-07-19T15:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "U Cluj",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/5094.gif"
+      },
+      {
+        "team_name": "Farul",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/5364.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Romanian",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/14.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262837&lang=en&eid=390742148&lid=3037111&ci=23&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Romanian",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/14.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3038622&lang=en&eid=390742148&lid=3038622&ci=23&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Romanian",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/14.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3037663&lang=en&eid=390742148&lid=3037663&ci=23&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [
+        "01.",
+        "Stefan Lefter",
+        "(G)",
+        "08.",
+        "Dorin Codrea",
+        "10.",
+        "Dan Nistor",
+        "25.",
+        "Alibek Aliev",
+        "27.",
+        "Alexandru Chipciu",
+        "94.",
+        "Ovidiu Bic",
+        "07.",
+        "Mouhamadou Drammeh",
+        "14.",
+        "Marius Stefanescu",
+        "33.",
+        "Jug Stanojev",
+        "06.",
+        "Iulian Cristea",
+        "19.",
+        "Issouf Macalou"
+      ],
+      "away_team": [
+        "12.",
+        "Rafael Munteanu",
+        "(G)",
+        "06.",
+        "Victor Dican",
+        "17.",
+        "Ionut Larie",
+        "10.",
+        "Eddy Sylvestre",
+        "07.",
+        "Denis Alibec",
+        "22.",
+        "Dan Sirbu",
+        "08.",
+        "Ionut Vina",
+        "19.",
+        "Iustin Doicaru",
+        "03.",
+        "Valentin Ticu",
+        "23.",
+        "Tony Njike",
+        "70.",
+        "Matteo Ahlinvi"
+      ]
     },
     "league_table": [
       {
@@ -190,7 +497,462 @@
         "pts": "0"
       }
     ],
-    "last_updated": "2026-07-19T12:12:24.897257"
+    "last_updated": "2026-07-19T13:52:24.473399"
+  },
+  {
+    "event_id": "391347615",
+    "matchup": "Independente Limeira – Paulinense",
+    "event_url": "https://livetv.sx/enx/eventinfo/391347615_independente_limeira_paulinense/",
+    "competition": "Brazil. Campeonato Paulista B",
+    "date_time": "19 July at 14:00",
+    "parsed_datetime": "2026-07-19T14:00:00",
+    "is_live": true,
+    "team_logos": [],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=JFdhm0iSZj4&lang=en&eid=391347615&lid=3035992&ci=7512&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-07-19T13:52:24.666203"
+  },
+  {
+    "event_id": "390737205",
+    "matchup": "United IK – Oerebro",
+    "event_url": "https://livetv.sx/enx/eventinfo/390737205__/",
+    "competition": "Sweden. Superettan",
+    "date_time": "19 July at 14:00",
+    "parsed_datetime": "2026-07-19T14:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "United IK",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/14742.gif"
+      },
+      {
+        "team_name": "Oerebro",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/377.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [
+        "30.",
+        "William Eskelinen",
+        "(G)",
+        "11.",
+        "Adi Fisic",
+        "20.",
+        "Aziz Harabi",
+        "74.",
+        "Christian Aphrem",
+        "05.",
+        "Elias Andersson",
+        "21.",
+        "Emanuel Swedi",
+        "77.",
+        "Jonathan Guersac",
+        "02.",
+        "Matteus Behnan",
+        "09.",
+        "Shergo Shhab",
+        "08.",
+        "Teo Groenborg",
+        "24.",
+        "Theodor Johansson"
+      ],
+      "away_team": [
+        "75.",
+        "Jakub Ojrzynski",
+        "(G)",
+        "11.",
+        "Christopher",
+        "09.",
+        "Antonio Yakoub",
+        "22.",
+        "Giuseppe Bovalina",
+        "05.",
+        "Jacob Ortmark",
+        "32.",
+        "John Stenberg",
+        "08.",
+        "Manasse Kusu",
+        "10.",
+        "Rasmus",
+        "07.",
+        "Samuel Wikman",
+        "99.",
+        "Ahmed Yasin",
+        "03.",
+        "Victor Sandberg"
+      ]
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Varberg",
+        "played": "15",
+        "pts": "30"
+      },
+      {
+        "pos": "2",
+        "team": "Falkenberg",
+        "played": "14",
+        "pts": "28"
+      },
+      {
+        "pos": "3",
+        "team": "Norrkoeping",
+        "played": "14",
+        "pts": "26"
+      },
+      {
+        "pos": "4",
+        "team": "Landskrona",
+        "played": "15",
+        "pts": "25"
+      },
+      {
+        "pos": "5",
+        "team": "Oestersund",
+        "played": "15",
+        "pts": "25"
+      },
+      {
+        "pos": "6",
+        "team": "Oester",
+        "played": "15",
+        "pts": "23"
+      },
+      {
+        "pos": "7",
+        "team": "United IK",
+        "played": "14",
+        "pts": "22"
+      },
+      {
+        "pos": "8",
+        "team": "Oddevold",
+        "played": "15",
+        "pts": "20"
+      },
+      {
+        "pos": "9",
+        "team": "Helsingborg",
+        "played": "14",
+        "pts": "20"
+      },
+      {
+        "pos": "10",
+        "team": "Sandviken",
+        "played": "14",
+        "pts": "19"
+      },
+      {
+        "pos": "11",
+        "team": "Ljungskile",
+        "played": "14",
+        "pts": "16"
+      },
+      {
+        "pos": "12",
+        "team": "Brage",
+        "played": "15",
+        "pts": "16"
+      },
+      {
+        "pos": "13",
+        "team": "Norrby",
+        "played": "14",
+        "pts": "14"
+      },
+      {
+        "pos": "14",
+        "team": "Oerebro",
+        "played": "14",
+        "pts": "14"
+      },
+      {
+        "pos": "15",
+        "team": "Vaernamo",
+        "played": "14",
+        "pts": "10"
+      },
+      {
+        "pos": "16",
+        "team": "Sundsvall",
+        "played": "14",
+        "pts": "9"
+      }
+    ],
+    "last_updated": "2026-07-19T13:52:24.734240"
+  },
+  {
+    "event_id": "391347616",
+    "matchup": "Zhoze Bonifasiu – America SP",
+    "event_url": "https://livetv.sx/enx/eventinfo/391347616_zhoze_bonifasiu_america_sp/",
+    "competition": "Brazil. Campeonato Paulista B",
+    "date_time": "19 July at 14:00",
+    "parsed_datetime": "2026-07-19T14:00:00",
+    "is_live": true,
+    "team_logos": [],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=lyo7c33okIo&lang=en&eid=391347616&lid=3035993&ci=7512&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-07-19T13:52:24.781039"
+  },
+  {
+    "event_id": "392354727",
+    "matchup": "EC Sao Bernardo – Santo Andre",
+    "event_url": "https://livetv.sx/enx/eventinfo/392354727_ec_sao_bernardo_santo_andre/",
+    "competition": "Brazil. Copa Paulista",
+    "date_time": "19 July at 14:00",
+    "parsed_datetime": "2026-07-19T14:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "EC Sao Bernardo",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/30719.gif"
+      },
+      {
+        "team_name": "Santo Andre",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/5698.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3038612&lang=en&eid=392354727&lid=3038612&ci=2644&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-07-19T13:52:24.995028"
+  },
+  {
+    "event_id": "392365818",
+    "matchup": "Balingen – Stuttgart",
+    "event_url": "https://livetv.sx/enx/eventinfo/392365818__/",
+    "competition": "Friendly Match",
+    "date_time": "19 July at 13:30",
+    "parsed_datetime": "2026-07-19T13:30:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Balingen",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4530.gif"
+      },
+      {
+        "team_name": "Stuttgart",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/707.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=JWV9QUmHzAw&lang=en&eid=392365818&lid=3038610&ci=5&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-07-19T13:52:24.995047"
+  },
+  {
+    "event_id": "391859042",
+    "matchup": "Spain ESP – Argentina ARG",
+    "event_url": "https://livetv.sx/enx/eventinfo/391859042__/",
+    "competition": "World Cup",
+    "date_time": "19 July at 20:00",
+    "parsed_datetime": "2026-07-19T20:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Spain ESP",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/flag60.gif"
+      },
+      {
+        "team_name": "Argentina ARG",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/flag7.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Spain ESP",
+        "played": "3",
+        "pts": "7"
+      },
+      {
+        "pos": "2",
+        "team": "Cape Verde CPV",
+        "played": "3",
+        "pts": "3"
+      },
+      {
+        "pos": "3",
+        "team": "Uruguay URY",
+        "played": "3",
+        "pts": "2"
+      },
+      {
+        "pos": "4",
+        "team": "Saudi Arabia SAU",
+        "played": "3",
+        "pts": "2"
+      }
+    ],
+    "last_updated": "2026-07-19T13:52:25.066245"
+  },
+  {
+    "event_id": "390597269",
+    "matchup": "Radnik – Mladost Lucani",
+    "event_url": "https://livetv.sx/enx/eventinfo/390597269__/",
+    "competition": "Serbia. Superliga",
+    "date_time": "19 July at 18:00",
+    "parsed_datetime": "2026-07-19T18:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Radnik",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1516.gif"
+      },
+      {
+        "team_name": "Mladost Lucani",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1348.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Crvena Zvezda",
+        "played": "1",
+        "pts": "3"
+      },
+      {
+        "pos": "2",
+        "team": "Zeleznicar Pancevo",
+        "played": "1",
+        "pts": "3"
+      },
+      {
+        "pos": "3",
+        "team": "Novi Pazar",
+        "played": "1",
+        "pts": "3"
+      },
+      {
+        "pos": "4",
+        "team": "Zemun",
+        "played": "1",
+        "pts": "1"
+      },
+      {
+        "pos": "5",
+        "team": "Partizan",
+        "played": "1",
+        "pts": "1"
+      },
+      {
+        "pos": "6",
+        "team": "Cukaricki",
+        "played": "0",
+        "pts": "0"
+      },
+      {
+        "pos": "7",
+        "team": "Novi Beograd",
+        "played": "0",
+        "pts": "0"
+      },
+      {
+        "pos": "8",
+        "team": "Radnik",
+        "played": "0",
+        "pts": "0"
+      },
+      {
+        "pos": "9",
+        "team": "Mladost Lucani",
+        "played": "0",
+        "pts": "0"
+      },
+      {
+        "pos": "10",
+        "team": "OFK Belgrade",
+        "played": "0",
+        "pts": "0"
+      },
+      {
+        "pos": "11",
+        "team": "Vojvodina",
+        "played": "0",
+        "pts": "0"
+      },
+      {
+        "pos": "12",
+        "team": "Radnicki Nis",
+        "played": "1",
+        "pts": "0"
+      },
+      {
+        "pos": "13",
+        "team": "Radnicki 1923",
+        "played": "1",
+        "pts": "0"
+      },
+      {
+        "pos": "14",
+        "team": "Macva",
+        "played": "1",
+        "pts": "0"
+      }
+    ],
+    "last_updated": "2026-07-19T13:52:25.173197"
   },
   {
     "event_id": "390731695",
@@ -199,7 +961,7 @@
     "competition": "Kazakhstan. Premier League",
     "date_time": "19 July at 13:00",
     "parsed_datetime": "2026-07-19T13:00:00",
-    "is_live": true,
+    "is_live": false,
     "team_logos": [
       {
         "team_name": "Altay",
@@ -210,24 +972,7 @@
         "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/764.gif"
       }
     ],
-    "streams": [
-      {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv902.me/img/linkflag/1.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=xx2yeeKs414&lang=en&eid=390731695&lid=3038604&ci=287&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Kazakh",
-        "flag_src": "https://cdn.livetv902.me/img/linkflag/37.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3038536&lang=en&eid=390731695&lid=3038536&ci=287&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
+    "streams": [],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
@@ -330,24 +1075,24 @@
         "pts": "11"
       }
     ],
-    "last_updated": "2026-07-19T12:12:24.990293"
+    "last_updated": "2026-07-19T13:52:25.173215"
   },
   {
-    "event_id": "392048114",
-    "matchup": "Singapore (W) – Indonesia (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/392048114_singapore_w_indonesia_w/",
-    "competition": "Women. AFF Championship",
-    "date_time": "19 July at 13:45",
-    "parsed_datetime": "2026-07-19T13:45:00",
+    "event_id": "390597271",
+    "matchup": "Cukaricki – Novi Beograd",
+    "event_url": "https://livetv.sx/enx/eventinfo/390597271__/",
+    "competition": "Serbia. Superliga",
+    "date_time": "19 July at 18:00",
+    "parsed_datetime": "2026-07-19T18:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Singapore (W)",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/34510.gif"
+        "team_name": "Cukaricki",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/980.gif"
       },
       {
-        "team_name": "Indonesia (W)",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/33946.gif"
+        "team_name": "Novi Beograd",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/8671.gif"
       }
     ],
     "streams": [],
@@ -355,8 +1100,93 @@
       "home_team": [],
       "away_team": []
     },
-    "league_table": [],
-    "last_updated": "2026-07-19T12:12:25.158107"
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Crvena Zvezda",
+        "played": "1",
+        "pts": "3"
+      },
+      {
+        "pos": "2",
+        "team": "Zeleznicar Pancevo",
+        "played": "1",
+        "pts": "3"
+      },
+      {
+        "pos": "3",
+        "team": "Novi Pazar",
+        "played": "1",
+        "pts": "3"
+      },
+      {
+        "pos": "4",
+        "team": "Zemun",
+        "played": "1",
+        "pts": "1"
+      },
+      {
+        "pos": "5",
+        "team": "Partizan",
+        "played": "1",
+        "pts": "1"
+      },
+      {
+        "pos": "6",
+        "team": "Cukaricki",
+        "played": "0",
+        "pts": "0"
+      },
+      {
+        "pos": "7",
+        "team": "Novi Beograd",
+        "played": "0",
+        "pts": "0"
+      },
+      {
+        "pos": "8",
+        "team": "Radnik",
+        "played": "0",
+        "pts": "0"
+      },
+      {
+        "pos": "9",
+        "team": "Mladost Lucani",
+        "played": "0",
+        "pts": "0"
+      },
+      {
+        "pos": "10",
+        "team": "OFK Belgrade",
+        "played": "0",
+        "pts": "0"
+      },
+      {
+        "pos": "11",
+        "team": "Vojvodina",
+        "played": "0",
+        "pts": "0"
+      },
+      {
+        "pos": "12",
+        "team": "Radnicki Nis",
+        "played": "1",
+        "pts": "0"
+      },
+      {
+        "pos": "13",
+        "team": "Radnicki 1923",
+        "played": "1",
+        "pts": "0"
+      },
+      {
+        "pos": "14",
+        "team": "Macva",
+        "played": "1",
+        "pts": "0"
+      }
+    ],
+    "last_updated": "2026-07-19T13:52:25.256698"
   },
   {
     "event_id": "392053085",
@@ -376,13 +1206,38 @@
         "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/35.gif"
       }
     ],
-    "streams": [],
+    "streams": [
+      {
+        "language": "Polish",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/8.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=263103&lang=en&eid=392053085&lid=3038097&ci=5&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Polish",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/8.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=M7L8DSw_glc&lang=en&eid=392053085&lid=3038609&ci=5&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Polish",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/8.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3037832&lang=en&eid=392053085&lid=3037832&ci=5&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-07-19T12:12:25.251452"
+    "last_updated": "2026-07-19T13:52:25.338743"
   },
   {
     "event_id": "391624984",
@@ -517,216 +1372,7 @@
         "pts": "22"
       }
     ],
-    "last_updated": "2026-07-19T12:12:25.583655"
-  },
-  {
-    "event_id": "391859042",
-    "matchup": "Spain ESP – Argentina ARG",
-    "event_url": "https://livetv.sx/enx/eventinfo/391859042__/",
-    "competition": "World Cup",
-    "date_time": "19 July at 20:00",
-    "parsed_datetime": "2026-07-19T20:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Spain ESP",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/flag60.gif"
-      },
-      {
-        "team_name": "Argentina ARG",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/flag7.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Spain ESP",
-        "played": "3",
-        "pts": "7"
-      },
-      {
-        "pos": "2",
-        "team": "Cape Verde CPV",
-        "played": "3",
-        "pts": "3"
-      },
-      {
-        "pos": "3",
-        "team": "Uruguay URY",
-        "played": "3",
-        "pts": "2"
-      },
-      {
-        "pos": "4",
-        "team": "Saudi Arabia SAU",
-        "played": "3",
-        "pts": "2"
-      }
-    ],
-    "last_updated": "2026-07-19T12:12:25.599921"
-  },
-  {
-    "event_id": "390742148",
-    "matchup": "U Cluj – Farul",
-    "event_url": "https://livetv.sx/enx/eventinfo/390742148__/",
-    "competition": "Romania. Liga 1",
-    "date_time": "19 July at 15:00",
-    "parsed_datetime": "2026-07-19T15:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "U Cluj",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/5094.gif"
-      },
-      {
-        "team_name": "Farul",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/5364.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "U Craiova",
-        "played": "1",
-        "pts": "3"
-      },
-      {
-        "pos": "2",
-        "team": "FCSB",
-        "played": "1",
-        "pts": "3"
-      },
-      {
-        "pos": "3",
-        "team": "Otelul Galati",
-        "played": "1",
-        "pts": "3"
-      },
-      {
-        "pos": "4",
-        "team": "Botosani",
-        "played": "1",
-        "pts": "1"
-      },
-      {
-        "pos": "5",
-        "team": "Voluntari",
-        "played": "1",
-        "pts": "1"
-      },
-      {
-        "pos": "6",
-        "team": "Corvinul",
-        "played": "0",
-        "pts": "0"
-      },
-      {
-        "pos": "7",
-        "team": "Miercurea Ciuc",
-        "played": "0",
-        "pts": "0"
-      },
-      {
-        "pos": "8",
-        "team": "Dinamo Bucharest",
-        "played": "0",
-        "pts": "0"
-      },
-      {
-        "pos": "9",
-        "team": "Farul",
-        "played": "0",
-        "pts": "0"
-      },
-      {
-        "pos": "10",
-        "team": "Petrolul",
-        "played": "0",
-        "pts": "0"
-      },
-      {
-        "pos": "11",
-        "team": "Rapid Bucuresti",
-        "played": "0",
-        "pts": "0"
-      },
-      {
-        "pos": "12",
-        "team": "Sepsi OSK",
-        "played": "0",
-        "pts": "0"
-      },
-      {
-        "pos": "13",
-        "team": "U Cluj",
-        "played": "0",
-        "pts": "0"
-      },
-      {
-        "pos": "14",
-        "team": "CFR Cluj",
-        "played": "1",
-        "pts": "0"
-      },
-      {
-        "pos": "15",
-        "team": "Arges Pitesti",
-        "played": "1",
-        "pts": "0"
-      },
-      {
-        "pos": "16",
-        "team": "UTA Arad",
-        "played": "1",
-        "pts": "0"
-      }
-    ],
-    "last_updated": "2026-07-19T12:12:25.669838"
-  },
-  {
-    "event_id": "392362008",
-    "matchup": "Smorgon (W) –  Vitebsk (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/392362008__/",
-    "competition": "Belarus. Women. Premier League",
-    "date_time": "19 July at 12:00",
-    "parsed_datetime": "2026-07-19T12:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Smorgon (W)",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/32006.gif"
-      },
-      {
-        "team_name": "Vitebsk (W)",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/14473.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv902.me/img/linkflag/1.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=Y_7cuKdifaw&lang=en&eid=392362008&lid=3038607&ci=3235&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-07-19T12:12:25.706865"
+    "last_updated": "2026-07-19T13:52:25.338764"
   },
   {
     "event_id": "390597268",
@@ -837,211 +1483,24 @@
         "pts": "0"
       }
     ],
-    "last_updated": "2026-07-19T12:12:25.755974"
+    "last_updated": "2026-07-19T13:52:25.369213"
   },
   {
-    "event_id": "391624983",
-    "matchup": "KamAZ – Nizhnyi Novgorod",
-    "event_url": "https://livetv.sx/enx/eventinfo/391624983__/",
-    "competition": "Russia. First League",
-    "date_time": "19 July at 14:00",
-    "parsed_datetime": "2026-07-19T14:00:00",
+    "event_id": "390754032",
+    "matchup": "Petrolul – Dinamo Bucharest",
+    "event_url": "https://livetv.sx/enx/eventinfo/390754032__/",
+    "competition": "Romania. Liga 1",
+    "date_time": "19 July at 17:30",
+    "parsed_datetime": "2026-07-19T17:30:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "KamAZ",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/5868.gif"
+        "team_name": "Petrolul",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/5097.gif"
       },
       {
-        "team_name": "Nizhnyi Novgorod",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/29856.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv902.me/img/linkflag/1.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=237992&lang=en&eid=391624983&lid=2984047&ci=65&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv902.me/img/linkflag/1.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=acestream&c=4b7c5f21b435d79c823e47572655a9c157a3ba12&lang=en&eid=391624983&lid=2844043&ci=65&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Rodina",
-        "played": "34",
-        "pts": "68"
-      },
-      {
-        "pos": "2",
-        "team": "Fakel",
-        "played": "34",
-        "pts": "68"
-      },
-      {
-        "pos": "3",
-        "team": "Ural",
-        "played": "34",
-        "pts": "61"
-      },
-      {
-        "pos": "4",
-        "team": "Rotor",
-        "played": "34",
-        "pts": "56"
-      },
-      {
-        "pos": "5",
-        "team": "KamAZ",
-        "played": "34",
-        "pts": "49"
-      },
-      {
-        "pos": "6",
-        "team": "Yenisey",
-        "played": "34",
-        "pts": "49"
-      },
-      {
-        "pos": "7",
-        "team": "Spartak Kostroma",
-        "played": "34",
-        "pts": "49"
-      },
-      {
-        "pos": "8",
-        "team": "Shinnik",
-        "played": "34",
-        "pts": "48"
-      },
-      {
-        "pos": "9",
-        "team": "Torpedo M",
-        "played": "34",
-        "pts": "46"
-      },
-      {
-        "pos": "10",
-        "team": "Chelyabinsk",
-        "played": "34",
-        "pts": "44"
-      },
-      {
-        "pos": "11",
-        "team": "Neftekhimik",
-        "played": "34",
-        "pts": "43"
-      },
-      {
-        "pos": "12",
-        "team": "Arsenal Tula",
-        "played": "34",
-        "pts": "39"
-      },
-      {
-        "pos": "13",
-        "team": "SKA-Khabarovsk",
-        "played": "33",
-        "pts": "39"
-      },
-      {
-        "pos": "14",
-        "team": "Volga Ulyanovsk",
-        "played": "34",
-        "pts": "37"
-      },
-      {
-        "pos": "15",
-        "team": "Ufa",
-        "played": "33",
-        "pts": "37"
-      },
-      {
-        "pos": "16",
-        "team": "Chernomorets",
-        "played": "34",
-        "pts": "35"
-      },
-      {
-        "pos": "17",
-        "team": "Sokol",
-        "played": "34",
-        "pts": "26"
-      },
-      {
-        "pos": "18",
-        "team": "Chayka P",
-        "played": "34",
-        "pts": "22"
-      }
-    ],
-    "last_updated": "2026-07-19T12:12:25.905442"
-  },
-  {
-    "event_id": "392361905",
-    "matchup": "Napredak – Otrant-Olympic",
-    "event_url": "https://livetv.sx/enx/eventinfo/392361905__/",
-    "competition": "Friendly Match",
-    "date_time": "19 July at 12:00",
-    "parsed_datetime": "2026-07-19T12:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Napredak",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/744.gif"
-      },
-      {
-        "team_name": "Otrant-Olympic",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4800.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv902.me/img/linkflag/18.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=c0KnR7o7o54&lang=en&eid=392361905&lid=3038606&ci=5&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-07-19T12:12:25.909725"
-  },
-  {
-    "event_id": "390597269",
-    "matchup": "Radnik – Mladost Lucani",
-    "event_url": "https://livetv.sx/enx/eventinfo/390597269__/",
-    "competition": "Serbia. Superliga",
-    "date_time": "19 July at 18:00",
-    "parsed_datetime": "2026-07-19T18:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Radnik",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1516.gif"
-      },
-      {
-        "team_name": "Mladost Lucani",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1348.gif"
+        "team_name": "Dinamo Bucharest",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/415.gif"
       }
     ],
     "streams": [],
@@ -1052,186 +1511,172 @@
     "league_table": [
       {
         "pos": "1",
-        "team": "Crvena Zvezda",
+        "team": "U Craiova",
         "played": "1",
         "pts": "3"
       },
       {
         "pos": "2",
-        "team": "Zeleznicar Pancevo",
+        "team": "FCSB",
         "played": "1",
         "pts": "3"
       },
       {
         "pos": "3",
-        "team": "Novi Pazar",
+        "team": "Otelul Galati",
         "played": "1",
         "pts": "3"
       },
       {
         "pos": "4",
-        "team": "Zemun",
+        "team": "Botosani",
         "played": "1",
         "pts": "1"
       },
       {
         "pos": "5",
-        "team": "Partizan",
+        "team": "Voluntari",
         "played": "1",
         "pts": "1"
       },
       {
         "pos": "6",
-        "team": "Cukaricki",
+        "team": "Corvinul",
         "played": "0",
         "pts": "0"
       },
       {
         "pos": "7",
-        "team": "Novi Beograd",
+        "team": "Miercurea Ciuc",
         "played": "0",
         "pts": "0"
       },
       {
         "pos": "8",
-        "team": "Radnik",
+        "team": "Dinamo Bucharest",
         "played": "0",
         "pts": "0"
       },
       {
         "pos": "9",
-        "team": "Mladost Lucani",
+        "team": "Farul",
         "played": "0",
         "pts": "0"
       },
       {
         "pos": "10",
-        "team": "OFK Belgrade",
+        "team": "Petrolul",
         "played": "0",
         "pts": "0"
       },
       {
         "pos": "11",
-        "team": "Vojvodina",
+        "team": "Rapid Bucuresti",
         "played": "0",
         "pts": "0"
       },
       {
         "pos": "12",
-        "team": "Radnicki Nis",
-        "played": "1",
+        "team": "Sepsi OSK",
+        "played": "0",
         "pts": "0"
       },
       {
         "pos": "13",
-        "team": "Radnicki 1923",
-        "played": "1",
+        "team": "U Cluj",
+        "played": "0",
         "pts": "0"
       },
       {
         "pos": "14",
-        "team": "Macva",
+        "team": "CFR Cluj",
+        "played": "1",
+        "pts": "0"
+      },
+      {
+        "pos": "15",
+        "team": "Arges Pitesti",
+        "played": "1",
+        "pts": "0"
+      },
+      {
+        "pos": "16",
+        "team": "UTA Arad",
         "played": "1",
         "pts": "0"
       }
     ],
-    "last_updated": "2026-07-19T12:12:25.931972"
+    "last_updated": "2026-07-19T13:52:25.369227"
   },
   {
-    "event_id": "391347615",
-    "matchup": "Independente Limeira – Paulinense",
-    "event_url": "https://livetv.sx/enx/eventinfo/391347615_independente_limeira_paulinense/",
-    "competition": "Brazil. Campeonato Paulista B",
+    "event_id": "390737206",
+    "matchup": "Vaernamo – Ljungskile",
+    "event_url": "https://livetv.sx/enx/eventinfo/390737206__/",
+    "competition": "Sweden. Superettan",
     "date_time": "19 July at 14:00",
     "parsed_datetime": "2026-07-19T14:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv902.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=JFdhm0iSZj4&lang=en&eid=391347615&lid=3035992&ci=7512&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-07-19T12:12:26.190861"
-  },
-  {
-    "event_id": "390728157",
-    "matchup": "Norrkoeping – Sandviken",
-    "event_url": "https://livetv.sx/enx/eventinfo/390728157__/",
-    "competition": "Sweden. Superettan",
-    "date_time": "19 July at 12:00",
-    "parsed_datetime": "2026-07-19T12:00:00",
     "is_live": true,
     "team_logos": [
       {
-        "team_name": "Norrkoeping",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1052.gif"
+        "team_name": "Vaernamo",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/5225.gif"
       },
       {
-        "team_name": "Sandviken",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/5111.gif"
+        "team_name": "Ljungskile",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4859.gif"
       }
     ],
     "streams": [],
     "starting_lineups": {
       "home_team": [
         "01.",
-        "Theo Krantz",
+        "Hugo Keto",
         "(G)",
-        "06.",
-        "Viktor Christiansson",
-        "07.",
-        "Alexander Fransson",
-        "23.",
-        "Alexander Opsahl",
-        "24.",
-        "Anton Eriksson",
-        "05.",
-        "Christoffer Nyman",
-        "11.",
-        "Elias Jemal",
-        "37.",
-        "Moutaz Neffati",
+        "16.",
+        "Antonio Kujundzic",
+        "10.",
+        "Viktor Claesson",
+        "18.",
+        "Arash",
+        "03.",
+        "Axel Bjoernstroem",
         "34.",
-        "Noel Sernelius",
-        "08.",
-        "Ryan Nelson",
-        "38.",
-        "Ture Sandberg"
+        "Benjamin Zulovic",
+        "07.",
+        "Carl Johansson",
+        "05.",
+        "Doug Bergqvist",
+        "06.",
+        "Hugo Andersson",
+        "09.",
+        "Kai Meriluoto",
+        "14.",
+        "Marcus Antonsson"
       ],
       "away_team": [
-        "30.",
-        "Otto Lindell",
+        "01.",
+        "Lukas Eriksson",
         "(G)",
-        "07.",
-        "Johan Arvidsson",
-        "02.",
-        "Gustav Thoern",
-        "15.",
-        "Fabian Andersson",
-        "22.",
-        "Christian Wagner",
-        "23.",
-        "Kasper Harletun",
-        "26.",
-        "Linus Tagesson",
+        "05.",
+        "Filip Oernblom",
+        "10.",
+        "Filip Ambroz",
         "16.",
-        "Mohammed Sadat",
-        "25.",
-        "Valassina Diomande",
-        "12.",
-        "Alan Carleton",
-        "21.",
-        "Adam Kiani"
+        "Emilio Reljanovic",
+        "71.",
+        "Daniel Ljung",
+        "18.",
+        "Hugo Borstam",
+        "69.",
+        "Ivan Maric",
+        "23.",
+        "Mehmet Uzel",
+        "11.",
+        "Shakur Omar",
+        "09.",
+        "Alex Rasheed",
+        "13.",
+        "William Nilsson"
       ]
     },
     "league_table": [
@@ -1332,460 +1777,7 @@
         "pts": "9"
       }
     ],
-    "last_updated": "2026-07-19T12:12:26.248509"
-  },
-  {
-    "event_id": "392202746",
-    "matchup": "Shakhtyor Sl – Neman Grodno",
-    "event_url": "https://livetv.sx/enx/eventinfo/392202746_shakhtyor_sl_neman_grodno/",
-    "competition": "Belarus. Cup",
-    "date_time": "19 July at 13:00",
-    "parsed_datetime": "2026-07-19T13:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Shakhtyor Sl",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/32762.gif"
-      },
-      {
-        "team_name": "Neman Grodno",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/49559.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv902.me/img/linkflag/1.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=2BoHJAgsHlg&lang=en&eid=392202746&lid=3038570&ci=355&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-07-19T12:12:26.251925"
-  },
-  {
-    "event_id": "391347616",
-    "matchup": "Zhoze Bonifasiu – America SP",
-    "event_url": "https://livetv.sx/enx/eventinfo/391347616_zhoze_bonifasiu_america_sp/",
-    "competition": "Brazil. Campeonato Paulista B",
-    "date_time": "19 July at 14:00",
-    "parsed_datetime": "2026-07-19T14:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv902.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=lyo7c33okIo&lang=en&eid=391347616&lid=3035993&ci=7512&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-07-19T12:12:26.268656"
-  },
-  {
-    "event_id": "390597271",
-    "matchup": "Cukaricki – Novi Beograd",
-    "event_url": "https://livetv.sx/enx/eventinfo/390597271__/",
-    "competition": "Serbia. Superliga",
-    "date_time": "19 July at 18:00",
-    "parsed_datetime": "2026-07-19T18:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Cukaricki",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/980.gif"
-      },
-      {
-        "team_name": "Novi Beograd",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/8671.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Crvena Zvezda",
-        "played": "1",
-        "pts": "3"
-      },
-      {
-        "pos": "2",
-        "team": "Zeleznicar Pancevo",
-        "played": "1",
-        "pts": "3"
-      },
-      {
-        "pos": "3",
-        "team": "Novi Pazar",
-        "played": "1",
-        "pts": "3"
-      },
-      {
-        "pos": "4",
-        "team": "Zemun",
-        "played": "1",
-        "pts": "1"
-      },
-      {
-        "pos": "5",
-        "team": "Partizan",
-        "played": "1",
-        "pts": "1"
-      },
-      {
-        "pos": "6",
-        "team": "Cukaricki",
-        "played": "0",
-        "pts": "0"
-      },
-      {
-        "pos": "7",
-        "team": "Novi Beograd",
-        "played": "0",
-        "pts": "0"
-      },
-      {
-        "pos": "8",
-        "team": "Radnik",
-        "played": "0",
-        "pts": "0"
-      },
-      {
-        "pos": "9",
-        "team": "Mladost Lucani",
-        "played": "0",
-        "pts": "0"
-      },
-      {
-        "pos": "10",
-        "team": "OFK Belgrade",
-        "played": "0",
-        "pts": "0"
-      },
-      {
-        "pos": "11",
-        "team": "Vojvodina",
-        "played": "0",
-        "pts": "0"
-      },
-      {
-        "pos": "12",
-        "team": "Radnicki Nis",
-        "played": "1",
-        "pts": "0"
-      },
-      {
-        "pos": "13",
-        "team": "Radnicki 1923",
-        "played": "1",
-        "pts": "0"
-      },
-      {
-        "pos": "14",
-        "team": "Macva",
-        "played": "1",
-        "pts": "0"
-      }
-    ],
-    "last_updated": "2026-07-19T12:12:26.362772"
-  },
-  {
-    "event_id": "390737205",
-    "matchup": "United IK – Oerebro",
-    "event_url": "https://livetv.sx/enx/eventinfo/390737205__/",
-    "competition": "Sweden. Superettan",
-    "date_time": "19 July at 14:00",
-    "parsed_datetime": "2026-07-19T14:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "United IK",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/14742.gif"
-      },
-      {
-        "team_name": "Oerebro",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/377.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Varberg",
-        "played": "15",
-        "pts": "30"
-      },
-      {
-        "pos": "2",
-        "team": "Falkenberg",
-        "played": "14",
-        "pts": "28"
-      },
-      {
-        "pos": "3",
-        "team": "Norrkoeping",
-        "played": "14",
-        "pts": "26"
-      },
-      {
-        "pos": "4",
-        "team": "Landskrona",
-        "played": "15",
-        "pts": "25"
-      },
-      {
-        "pos": "5",
-        "team": "Oestersund",
-        "played": "15",
-        "pts": "25"
-      },
-      {
-        "pos": "6",
-        "team": "Oester",
-        "played": "15",
-        "pts": "23"
-      },
-      {
-        "pos": "7",
-        "team": "United IK",
-        "played": "14",
-        "pts": "22"
-      },
-      {
-        "pos": "8",
-        "team": "Oddevold",
-        "played": "15",
-        "pts": "20"
-      },
-      {
-        "pos": "9",
-        "team": "Helsingborg",
-        "played": "14",
-        "pts": "20"
-      },
-      {
-        "pos": "10",
-        "team": "Sandviken",
-        "played": "14",
-        "pts": "19"
-      },
-      {
-        "pos": "11",
-        "team": "Ljungskile",
-        "played": "14",
-        "pts": "16"
-      },
-      {
-        "pos": "12",
-        "team": "Brage",
-        "played": "15",
-        "pts": "16"
-      },
-      {
-        "pos": "13",
-        "team": "Norrby",
-        "played": "14",
-        "pts": "14"
-      },
-      {
-        "pos": "14",
-        "team": "Oerebro",
-        "played": "14",
-        "pts": "14"
-      },
-      {
-        "pos": "15",
-        "team": "Vaernamo",
-        "played": "14",
-        "pts": "10"
-      },
-      {
-        "pos": "16",
-        "team": "Sundsvall",
-        "played": "14",
-        "pts": "9"
-      }
-    ],
-    "last_updated": "2026-07-19T12:12:26.476108"
-  },
-  {
-    "event_id": "392354727",
-    "matchup": "EC Sao Bernardo – Santo Andre",
-    "event_url": "https://livetv.sx/enx/eventinfo/392354727_ec_sao_bernardo_santo_andre/",
-    "competition": "Brazil. Copa Paulista",
-    "date_time": "19 July at 14:00",
-    "parsed_datetime": "2026-07-19T14:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "EC Sao Bernardo",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/30719.gif"
-      },
-      {
-        "team_name": "Santo Andre",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/5698.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv902.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3038612&lang=en&eid=392354727&lid=3038612&ci=2644&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-07-19T12:12:26.577917"
-  },
-  {
-    "event_id": "390737206",
-    "matchup": "Vaernamo – Ljungskile",
-    "event_url": "https://livetv.sx/enx/eventinfo/390737206__/",
-    "competition": "Sweden. Superettan",
-    "date_time": "19 July at 14:00",
-    "parsed_datetime": "2026-07-19T14:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Vaernamo",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/5225.gif"
-      },
-      {
-        "team_name": "Ljungskile",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4859.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Varberg",
-        "played": "15",
-        "pts": "30"
-      },
-      {
-        "pos": "2",
-        "team": "Falkenberg",
-        "played": "14",
-        "pts": "28"
-      },
-      {
-        "pos": "3",
-        "team": "Norrkoeping",
-        "played": "14",
-        "pts": "26"
-      },
-      {
-        "pos": "4",
-        "team": "Landskrona",
-        "played": "15",
-        "pts": "25"
-      },
-      {
-        "pos": "5",
-        "team": "Oestersund",
-        "played": "15",
-        "pts": "25"
-      },
-      {
-        "pos": "6",
-        "team": "Oester",
-        "played": "15",
-        "pts": "23"
-      },
-      {
-        "pos": "7",
-        "team": "United IK",
-        "played": "14",
-        "pts": "22"
-      },
-      {
-        "pos": "8",
-        "team": "Oddevold",
-        "played": "15",
-        "pts": "20"
-      },
-      {
-        "pos": "9",
-        "team": "Helsingborg",
-        "played": "14",
-        "pts": "20"
-      },
-      {
-        "pos": "10",
-        "team": "Sandviken",
-        "played": "14",
-        "pts": "19"
-      },
-      {
-        "pos": "11",
-        "team": "Ljungskile",
-        "played": "14",
-        "pts": "16"
-      },
-      {
-        "pos": "12",
-        "team": "Brage",
-        "played": "15",
-        "pts": "16"
-      },
-      {
-        "pos": "13",
-        "team": "Norrby",
-        "played": "14",
-        "pts": "14"
-      },
-      {
-        "pos": "14",
-        "team": "Oerebro",
-        "played": "14",
-        "pts": "14"
-      },
-      {
-        "pos": "15",
-        "team": "Vaernamo",
-        "played": "14",
-        "pts": "10"
-      },
-      {
-        "pos": "16",
-        "team": "Sundsvall",
-        "played": "14",
-        "pts": "9"
-      }
-    ],
-    "last_updated": "2026-07-19T12:12:26.595212"
+    "last_updated": "2026-07-19T13:52:25.431053"
   },
   {
     "event_id": "392202747",
@@ -1794,7 +1786,7 @@
     "competition": "Belarus. Cup",
     "date_time": "19 July at 14:00",
     "parsed_datetime": "2026-07-19T14:00:00",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Volna Pinsk",
@@ -1820,7 +1812,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-07-19T12:12:26.693084"
+    "last_updated": "2026-07-19T13:52:25.486335"
   },
   {
     "event_id": "392354820",
@@ -1840,65 +1832,22 @@
         "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/50927.gif"
       }
     ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-07-19T12:12:26.805859"
-  },
-  {
-    "event_id": "392202748",
-    "matchup": "Orsha – Naftan",
-    "event_url": "https://livetv.sx/enx/eventinfo/392202748_orsha_naftan/",
-    "competition": "Belarus. Cup",
-    "date_time": "19 July at 14:30",
-    "parsed_datetime": "2026-07-19T14:30:00",
-    "is_live": false,
-    "team_logos": [
+    "streams": [
       {
-        "team_name": "Orsha",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/21968.gif"
-      },
-      {
-        "team_name": "Naftan",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/10422.gif"
+        "language": "",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3038597&lang=en&eid=392354820&lid=3038597&ci=5&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
       }
     ],
-    "streams": [],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-07-19T12:12:26.833716"
-  },
-  {
-    "event_id": "392217592",
-    "matchup": "Corinthians U-20 –  Ponte Preta U-20",
-    "event_url": "https://livetv.sx/enx/eventinfo/392217592__/",
-    "competition": "Brazil. Campeonato Paulista U20",
-    "date_time": "19 July at 14:00",
-    "parsed_datetime": "2026-07-19T14:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Corinthians U-20",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/9174.gif"
-      },
-      {
-        "team_name": "Ponte Preta U-20",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/17608.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-07-19T12:12:26.904009"
+    "last_updated": "2026-07-19T13:52:25.570313"
   },
   {
     "event_id": "392099768",
@@ -1907,7 +1856,7 @@
     "competition": "Ireland. Cup",
     "date_time": "19 July at 14:00",
     "parsed_datetime": "2026-07-19T14:00:00",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Ringmahon Rangers",
@@ -1924,7 +1873,42 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-07-19T12:12:26.969869"
+    "last_updated": "2026-07-19T13:52:25.647594"
+  },
+  {
+    "event_id": "392202748",
+    "matchup": "Orsha – Naftan",
+    "event_url": "https://livetv.sx/enx/eventinfo/392202748_orsha_naftan/",
+    "competition": "Belarus. Cup",
+    "date_time": "19 July at 14:30",
+    "parsed_datetime": "2026-07-19T14:30:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Orsha",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/21968.gif"
+      },
+      {
+        "team_name": "Naftan",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/10422.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=muEIhQcjTEY&lang=en&eid=392202748&lid=3038568&ci=355&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-07-19T13:52:25.672994"
   },
   {
     "event_id": "392217591",
@@ -1933,7 +1917,7 @@
     "competition": "Brazil. Campeonato Paulista U20",
     "date_time": "19 July at 14:00",
     "parsed_datetime": "2026-07-19T14:00:00",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Flamengo-SP U-20",
@@ -1959,7 +1943,77 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-07-19T12:12:27.068632"
+    "last_updated": "2026-07-19T13:52:25.733805"
+  },
+  {
+    "event_id": "392217592",
+    "matchup": "Corinthians U-20 –  Ponte Preta U-20",
+    "event_url": "https://livetv.sx/enx/eventinfo/392217592__/",
+    "competition": "Brazil. Campeonato Paulista U20",
+    "date_time": "19 July at 14:00",
+    "parsed_datetime": "2026-07-19T14:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Corinthians U-20",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/9174.gif"
+      },
+      {
+        "team_name": "Ponte Preta U-20",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/17608.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=LKrfnlw4eZ8&lang=en&eid=392217592&lid=3038619&ci=2768&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-07-19T13:52:25.775188"
+  },
+  {
+    "event_id": "392202749",
+    "matchup": "Viktoria Marianske Lazne – Belshina",
+    "event_url": "https://livetv.sx/enx/eventinfo/392202749_viktoria_marianske_lazne_belshina/",
+    "competition": "Belarus. Cup",
+    "date_time": "19 July at 15:00",
+    "parsed_datetime": "2026-07-19T15:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Viktoria Marianske Lazne",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/27047.gif"
+      },
+      {
+        "team_name": "Belshina",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/10417.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=k8bK7MnmqI0&lang=en&eid=392202749&lid=3038567&ci=355&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-07-19T13:52:25.821706"
   },
   {
     "event_id": "390741550",
@@ -2082,33 +2136,42 @@
         "pts": "11"
       }
     ],
-    "last_updated": "2026-07-19T12:12:27.212138"
+    "last_updated": "2026-07-19T13:52:25.950305"
   },
   {
-    "event_id": "392202749",
-    "matchup": "Viktoria Marianske Lazne – Belshina",
-    "event_url": "https://livetv.sx/enx/eventinfo/392202749_viktoria_marianske_lazne_belshina/",
-    "competition": "Belarus. Cup",
-    "date_time": "19 July at 15:00",
-    "parsed_datetime": "2026-07-19T15:00:00",
+    "event_id": "392251456",
+    "matchup": "Krasnodar – Baltika",
+    "event_url": "https://livetv.sx/enx/eventinfo/392251456_krasnodar_baltika/",
+    "competition": "Friendly Match",
+    "date_time": "19 July at 15:50",
+    "parsed_datetime": "2026-07-19T15:50:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Viktoria Marianske Lazne",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/27047.gif"
+        "team_name": "Krasnodar",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/32173.gif"
       },
       {
-        "team_name": "Belshina",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/10417.gif"
+        "team_name": "Baltika",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/7529.gif"
       }
     ],
-    "streams": [],
+    "streams": [
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=242243&lang=en&eid=392251456&lid=2811653&ci=5&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-07-19T12:12:27.219902"
+    "last_updated": "2026-07-19T13:52:26.025561"
   },
   {
     "event_id": "392053083",
@@ -2128,7 +2191,16 @@
         "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/749.gif"
       }
     ],
-    "streams": [],
+    "streams": [
+      {
+        "language": "Norvegian",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/39.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3037212&lang=en&eid=392053083&lid=3037212&ci=117&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
@@ -2207,33 +2279,111 @@
         "pts": "11"
       }
     ],
-    "last_updated": "2026-07-19T12:12:27.375177"
+    "last_updated": "2026-07-19T13:52:26.158875"
   },
   {
-    "event_id": "392251456",
-    "matchup": "Krasnodar – Baltika",
-    "event_url": "https://livetv.sx/enx/eventinfo/392251456_krasnodar_baltika/",
-    "competition": "Friendly Match",
-    "date_time": "19 July at 15:50",
-    "parsed_datetime": "2026-07-19T15:50:00",
+    "event_id": "390741608",
+    "matchup": "Ogre United – Daugavpils",
+    "event_url": "https://livetv.sx/enx/eventinfo/390741608__/",
+    "competition": "Latvia. Virsliga",
+    "date_time": "19 July at 15:00",
+    "parsed_datetime": "2026-07-19T15:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Krasnodar",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/32173.gif"
+        "team_name": "Ogre United",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/29440.gif"
       },
       {
-        "team_name": "Baltika",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/7529.gif"
+        "team_name": "Daugavpils",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/5054.gif"
       }
     ],
-    "streams": [],
+    "streams": [
+      {
+        "language": "Latvian",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/34.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3037670&lang=en&eid=390741608&lid=3037670&ci=107&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Latvian",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/34.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3038592&lang=en&eid=390741608&lid=3038592&ci=107&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
-    "league_table": [],
-    "last_updated": "2026-07-19T12:12:27.474968"
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Riga",
+        "played": "23",
+        "pts": "58"
+      },
+      {
+        "pos": "2",
+        "team": "RFS",
+        "played": "22",
+        "pts": "56"
+      },
+      {
+        "pos": "3",
+        "team": "Auda",
+        "played": "22",
+        "pts": "40"
+      },
+      {
+        "pos": "4",
+        "team": "Liepaja",
+        "played": "22",
+        "pts": "28"
+      },
+      {
+        "pos": "5",
+        "team": "Daugavpils",
+        "played": "22",
+        "pts": "27"
+      },
+      {
+        "pos": "6",
+        "team": "Jelgava",
+        "played": "22",
+        "pts": "25"
+      },
+      {
+        "pos": "7",
+        "team": "Super Nova",
+        "played": "22",
+        "pts": "24"
+      },
+      {
+        "pos": "8",
+        "team": "Grobina",
+        "played": "22",
+        "pts": "20"
+      },
+      {
+        "pos": "9",
+        "team": "Tukums",
+        "played": "23",
+        "pts": "17"
+      },
+      {
+        "pos": "10",
+        "team": "Ogre United",
+        "played": "22",
+        "pts": "13"
+      }
+    ],
+    "last_updated": "2026-07-19T13:52:26.174159"
   },
   {
     "event_id": "390742432",
@@ -2320,453 +2470,7 @@
         "pts": "13"
       }
     ],
-    "last_updated": "2026-07-19T12:12:27.554066"
-  },
-  {
-    "event_id": "390741608",
-    "matchup": "Ogre United – Daugavpils",
-    "event_url": "https://livetv.sx/enx/eventinfo/390741608__/",
-    "competition": "Latvia. Virsliga",
-    "date_time": "19 July at 15:00",
-    "parsed_datetime": "2026-07-19T15:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Ogre United",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/29440.gif"
-      },
-      {
-        "team_name": "Daugavpils",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/5054.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Riga",
-        "played": "23",
-        "pts": "58"
-      },
-      {
-        "pos": "2",
-        "team": "RFS",
-        "played": "22",
-        "pts": "56"
-      },
-      {
-        "pos": "3",
-        "team": "Auda",
-        "played": "22",
-        "pts": "40"
-      },
-      {
-        "pos": "4",
-        "team": "Liepaja",
-        "played": "22",
-        "pts": "28"
-      },
-      {
-        "pos": "5",
-        "team": "Daugavpils",
-        "played": "22",
-        "pts": "27"
-      },
-      {
-        "pos": "6",
-        "team": "Jelgava",
-        "played": "22",
-        "pts": "25"
-      },
-      {
-        "pos": "7",
-        "team": "Super Nova",
-        "played": "22",
-        "pts": "24"
-      },
-      {
-        "pos": "8",
-        "team": "Grobina",
-        "played": "22",
-        "pts": "20"
-      },
-      {
-        "pos": "9",
-        "team": "Tukums",
-        "played": "23",
-        "pts": "17"
-      },
-      {
-        "pos": "10",
-        "team": "Ogre United",
-        "played": "22",
-        "pts": "13"
-      }
-    ],
-    "last_updated": "2026-07-19T12:12:27.643765"
-  },
-  {
-    "event_id": "390742433",
-    "matchup": "Levadia – Tammeka",
-    "event_url": "https://livetv.sx/enx/eventinfo/390742433__/",
-    "competition": "Estonia. Meistriliiga",
-    "date_time": "19 July at 15:00",
-    "parsed_datetime": "2026-07-19T15:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Levadia",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30140.gif"
-      },
-      {
-        "team_name": "Tammeka",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/34558.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Levadia",
-        "played": "19",
-        "pts": "46"
-      },
-      {
-        "pos": "2",
-        "team": "Flora",
-        "played": "19",
-        "pts": "36"
-      },
-      {
-        "pos": "3",
-        "team": "Nomme Kalju",
-        "played": "19",
-        "pts": "34"
-      },
-      {
-        "pos": "4",
-        "team": "Paide",
-        "played": "19",
-        "pts": "32"
-      },
-      {
-        "pos": "5",
-        "team": "Parnu Vaprus",
-        "played": "20",
-        "pts": "26"
-      },
-      {
-        "pos": "6",
-        "team": "Tammeka",
-        "played": "18",
-        "pts": "26"
-      },
-      {
-        "pos": "7",
-        "team": "Nomme United",
-        "played": "20",
-        "pts": "25"
-      },
-      {
-        "pos": "8",
-        "team": "Harju",
-        "played": "19",
-        "pts": "22"
-      },
-      {
-        "pos": "9",
-        "team": "Kuressaare",
-        "played": "19",
-        "pts": "17"
-      },
-      {
-        "pos": "10",
-        "team": "Narva Trans",
-        "played": "20",
-        "pts": "13"
-      }
-    ],
-    "last_updated": "2026-07-19T12:12:27.761687"
-  },
-  {
-    "event_id": "390742333",
-    "matchup": "Hammarby – Degerfors",
-    "event_url": "https://livetv.sx/enx/eventinfo/390742333__/",
-    "competition": "Sweden. Allsvenskan",
-    "date_time": "19 July at 15:30",
-    "parsed_datetime": "2026-07-19T15:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Hammarby",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/372.gif"
-      },
-      {
-        "team_name": "Degerfors",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4865.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Sirius",
-        "played": "12",
-        "pts": "32"
-      },
-      {
-        "pos": "2",
-        "team": "Hammarby",
-        "played": "13",
-        "pts": "23"
-      },
-      {
-        "pos": "3",
-        "team": "AIK",
-        "played": "13",
-        "pts": "21"
-      },
-      {
-        "pos": "4",
-        "team": "Haecken",
-        "played": "12",
-        "pts": "20"
-      },
-      {
-        "pos": "5",
-        "team": "Djurgarden",
-        "played": "11",
-        "pts": "19"
-      },
-      {
-        "pos": "6",
-        "team": "Malmoe",
-        "played": "12",
-        "pts": "19"
-      },
-      {
-        "pos": "7",
-        "team": "GAIS",
-        "played": "14",
-        "pts": "19"
-      },
-      {
-        "pos": "8",
-        "team": "Vasteras",
-        "played": "13",
-        "pts": "19"
-      },
-      {
-        "pos": "9",
-        "team": "Elfsborg",
-        "played": "13",
-        "pts": "18"
-      },
-      {
-        "pos": "10",
-        "team": "Mjaellby",
-        "played": "13",
-        "pts": "17"
-      },
-      {
-        "pos": "11",
-        "team": "Brommapojkarna",
-        "played": "13",
-        "pts": "16"
-      },
-      {
-        "pos": "12",
-        "team": "Kalmar",
-        "played": "12",
-        "pts": "13"
-      },
-      {
-        "pos": "13",
-        "team": "Goeteborg",
-        "played": "13",
-        "pts": "13"
-      },
-      {
-        "pos": "14",
-        "team": "Degerfors",
-        "played": "12",
-        "pts": "10"
-      },
-      {
-        "pos": "15",
-        "team": "Oergryte",
-        "played": "12",
-        "pts": "9"
-      },
-      {
-        "pos": "16",
-        "team": "Halmstad",
-        "played": "12",
-        "pts": "6"
-      }
-    ],
-    "last_updated": "2026-07-19T12:12:27.854686"
-  },
-  {
-    "event_id": "390742334",
-    "matchup": "Halmstad – Haecken",
-    "event_url": "https://livetv.sx/enx/eventinfo/390742334__/",
-    "competition": "Sweden. Allsvenskan",
-    "date_time": "19 July at 15:30",
-    "parsed_datetime": "2026-07-19T15:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Halmstad",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4861.gif"
-      },
-      {
-        "team_name": "Haecken",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1058.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Sirius",
-        "played": "12",
-        "pts": "32"
-      },
-      {
-        "pos": "2",
-        "team": "Hammarby",
-        "played": "13",
-        "pts": "23"
-      },
-      {
-        "pos": "3",
-        "team": "AIK",
-        "played": "13",
-        "pts": "21"
-      },
-      {
-        "pos": "4",
-        "team": "Haecken",
-        "played": "12",
-        "pts": "20"
-      },
-      {
-        "pos": "5",
-        "team": "Djurgarden",
-        "played": "11",
-        "pts": "19"
-      },
-      {
-        "pos": "6",
-        "team": "Malmoe",
-        "played": "12",
-        "pts": "19"
-      },
-      {
-        "pos": "7",
-        "team": "GAIS",
-        "played": "14",
-        "pts": "19"
-      },
-      {
-        "pos": "8",
-        "team": "Vasteras",
-        "played": "13",
-        "pts": "19"
-      },
-      {
-        "pos": "9",
-        "team": "Elfsborg",
-        "played": "13",
-        "pts": "18"
-      },
-      {
-        "pos": "10",
-        "team": "Mjaellby",
-        "played": "13",
-        "pts": "17"
-      },
-      {
-        "pos": "11",
-        "team": "Brommapojkarna",
-        "played": "13",
-        "pts": "16"
-      },
-      {
-        "pos": "12",
-        "team": "Kalmar",
-        "played": "12",
-        "pts": "13"
-      },
-      {
-        "pos": "13",
-        "team": "Goeteborg",
-        "played": "13",
-        "pts": "13"
-      },
-      {
-        "pos": "14",
-        "team": "Degerfors",
-        "played": "12",
-        "pts": "10"
-      },
-      {
-        "pos": "15",
-        "team": "Oergryte",
-        "played": "12",
-        "pts": "9"
-      },
-      {
-        "pos": "16",
-        "team": "Halmstad",
-        "played": "12",
-        "pts": "6"
-      }
-    ],
-    "last_updated": "2026-07-19T12:12:27.937050"
-  },
-  {
-    "event_id": "392202750",
-    "matchup": "Krumkachy – Dinamo Brest",
-    "event_url": "https://livetv.sx/enx/eventinfo/392202750_krumkachy_dinamo_brest/",
-    "competition": "Belarus. Cup",
-    "date_time": "19 July at 16:00",
-    "parsed_datetime": "2026-07-19T16:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Krumkachy",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/39806.gif"
-      },
-      {
-        "team_name": "Dinamo Brest",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/44328.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-07-19T12:12:28.033206"
+    "last_updated": "2026-07-19T13:52:26.277040"
   },
   {
     "event_id": "392267221",
@@ -2786,36 +2490,134 @@
         "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1226.gif"
       }
     ],
-    "streams": [],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3038620&lang=en&eid=392267221&lid=3038620&ci=2644&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-07-19T12:12:28.039867"
+    "last_updated": "2026-07-19T13:52:26.279465"
   },
   {
-    "event_id": "390742335",
-    "matchup": "Elfsborg – Sirius",
-    "event_url": "https://livetv.sx/enx/eventinfo/390742335__/",
+    "event_id": "390742333",
+    "matchup": "Hammarby – Degerfors",
+    "event_url": "https://livetv.sx/enx/eventinfo/390742333__/",
     "competition": "Sweden. Allsvenskan",
     "date_time": "19 July at 15:30",
     "parsed_datetime": "2026-07-19T15:30:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Elfsborg",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/370.gif"
+        "team_name": "Hammarby",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/372.gif"
       },
       {
-        "team_name": "Sirius",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/610.gif"
+        "team_name": "Degerfors",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4865.gif"
       }
     ],
-    "streams": [],
+    "streams": [
+      {
+        "language": "Swedish",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/22.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262780&lang=en&eid=390742333&lid=3035732&ci=63&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Norvegian",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/39.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262783&lang=en&eid=390742333&lid=3034507&ci=63&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Norvegian",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/39.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262787&lang=en&eid=390742333&lid=3034508&ci=63&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Swedish",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/22.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3038595&lang=en&eid=390742333&lid=3038595&ci=63&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Swedish",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/22.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3038156&lang=en&eid=390742333&lid=3038156&ci=63&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
     "starting_lineups": {
-      "home_team": [],
-      "away_team": []
+      "home_team": [
+        "01.",
+        "Warner Hahn",
+        "(G)",
+        "03.",
+        "Frederik Winther",
+        "02.",
+        "Hampus Skoglund",
+        "06.",
+        "Ibrahima Fofana",
+        "08.",
+        "Markus Karlsson",
+        "26.",
+        "Montader Madjed",
+        "20.",
+        "Nahir Besara",
+        "16.",
+        "Noah Persson",
+        "11.",
+        "Oscar Johansson",
+        "07.",
+        "Paulos Abraham",
+        "09.",
+        "Victor Lind"
+      ],
+      "away_team": [
+        "38.",
+        "Matvei Igonen",
+        "(G)",
+        "20.",
+        "Elias Barsoum",
+        "11.",
+        "Dijan Vukojevic",
+        "08.",
+        "Bilal Hussein",
+        "17.",
+        "Armann Taranis",
+        "13.",
+        "Gideon Yiriyon",
+        "04.",
+        "Kazper Karlsson",
+        "03.",
+        "Nikolai Skuseth",
+        "23.",
+        "Robin Dzabic",
+        "18.",
+        "Samba Diatara",
+        "16.",
+        "Sebastian Ohlsson"
+      ]
     },
     "league_table": [
       {
@@ -2915,7 +2717,227 @@
         "pts": "6"
       }
     ],
-    "last_updated": "2026-07-19T12:12:28.258150"
+    "last_updated": "2026-07-19T13:52:26.346447"
+  },
+  {
+    "event_id": "390742335",
+    "matchup": "Elfsborg – Sirius",
+    "event_url": "https://livetv.sx/enx/eventinfo/390742335__/",
+    "competition": "Sweden. Allsvenskan",
+    "date_time": "19 July at 15:30",
+    "parsed_datetime": "2026-07-19T15:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Elfsborg",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/370.gif"
+      },
+      {
+        "team_name": "Sirius",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/610.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Norvegian",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/39.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262783&lang=en&eid=390742335&lid=3034507&ci=63&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Norvegian",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/39.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262787&lang=en&eid=390742335&lid=3034508&ci=63&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Swedish",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/22.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=263185&lang=en&eid=390742335&lid=3038488&ci=63&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Swedish",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/22.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3038628&lang=en&eid=390742335&lid=3038628&ci=63&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Swedish",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/22.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3038537&lang=en&eid=390742335&lid=3038537&ci=63&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Finnish",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/21.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3037649&lang=en&eid=390742335&lid=3037649&ci=63&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [
+        "31.",
+        "Isak Pettersson",
+        "(G)",
+        "25.",
+        "Ari Sigurpalsson",
+        "24.",
+        "Frederik Ihler",
+        "19.",
+        "Julius Beck",
+        "18.",
+        "Julius Magnusson",
+        "29.",
+        "Momoh Kamara",
+        "23.",
+        "Niklas Hult",
+        "06.",
+        "Rasmus Wikstroem",
+        "08.",
+        "Sebastian Holmen",
+        "10.",
+        "Simon Olsson",
+        "04.",
+        "Thomas Isherwood"
+      ],
+      "away_team": [
+        "34.",
+        "David Celic",
+        "(G)",
+        "11.",
+        "Isak Bjerkebo",
+        "05.",
+        "Henrik Castegren",
+        "21.",
+        "Charlie Nilden",
+        "06.",
+        "Marcus Lindberg",
+        "10.",
+        "Melker Heier",
+        "02.",
+        "Mohamed Soumah",
+        "25.",
+        "Odera Adindu",
+        "22.",
+        "Oscar Krusnell",
+        "09.",
+        "Robbie Ure",
+        "04.",
+        "Tobias Anker"
+      ]
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Sirius",
+        "played": "12",
+        "pts": "32"
+      },
+      {
+        "pos": "2",
+        "team": "Hammarby",
+        "played": "13",
+        "pts": "23"
+      },
+      {
+        "pos": "3",
+        "team": "AIK",
+        "played": "13",
+        "pts": "21"
+      },
+      {
+        "pos": "4",
+        "team": "Haecken",
+        "played": "12",
+        "pts": "20"
+      },
+      {
+        "pos": "5",
+        "team": "Djurgarden",
+        "played": "11",
+        "pts": "19"
+      },
+      {
+        "pos": "6",
+        "team": "Malmoe",
+        "played": "12",
+        "pts": "19"
+      },
+      {
+        "pos": "7",
+        "team": "GAIS",
+        "played": "14",
+        "pts": "19"
+      },
+      {
+        "pos": "8",
+        "team": "Vasteras",
+        "played": "13",
+        "pts": "19"
+      },
+      {
+        "pos": "9",
+        "team": "Elfsborg",
+        "played": "13",
+        "pts": "18"
+      },
+      {
+        "pos": "10",
+        "team": "Mjaellby",
+        "played": "13",
+        "pts": "17"
+      },
+      {
+        "pos": "11",
+        "team": "Brommapojkarna",
+        "played": "13",
+        "pts": "16"
+      },
+      {
+        "pos": "12",
+        "team": "Kalmar",
+        "played": "12",
+        "pts": "13"
+      },
+      {
+        "pos": "13",
+        "team": "Goeteborg",
+        "played": "13",
+        "pts": "13"
+      },
+      {
+        "pos": "14",
+        "team": "Degerfors",
+        "played": "12",
+        "pts": "10"
+      },
+      {
+        "pos": "15",
+        "team": "Oergryte",
+        "played": "12",
+        "pts": "9"
+      },
+      {
+        "pos": "16",
+        "team": "Halmstad",
+        "played": "12",
+        "pts": "6"
+      }
+    ],
+    "last_updated": "2026-07-19T13:52:26.456983"
   },
   {
     "event_id": "392099770",
@@ -2941,7 +2963,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-07-19T12:12:28.299646"
+    "last_updated": "2026-07-19T13:52:26.461620"
+  },
+  {
+    "event_id": "392202750",
+    "matchup": "Krumkachy – Dinamo Brest",
+    "event_url": "https://livetv.sx/enx/eventinfo/392202750_krumkachy_dinamo_brest/",
+    "competition": "Belarus. Cup",
+    "date_time": "19 July at 16:00",
+    "parsed_datetime": "2026-07-19T16:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Krumkachy",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/39806.gif"
+      },
+      {
+        "team_name": "Dinamo Brest",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/44328.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-07-19T13:52:26.546617"
   },
   {
     "event_id": "391741353",
@@ -3064,132 +3112,219 @@
         "pts": "6"
       }
     ],
-    "last_updated": "2026-07-19T12:12:28.314476"
+    "last_updated": "2026-07-19T13:52:26.636160"
   },
   {
-    "event_id": "392053326",
-    "matchup": "Rudes – Shakhtar Donetsk",
-    "event_url": "https://livetv.sx/enx/eventinfo/392053326_rudes_shakhtar_donetsk/",
-    "competition": "Friendly Match",
-    "date_time": "19 July at 17:00",
-    "parsed_datetime": "2026-07-19T17:00:00",
+    "event_id": "390742334",
+    "matchup": "Halmstad – Haecken",
+    "event_url": "https://livetv.sx/enx/eventinfo/390742334__/",
+    "competition": "Sweden. Allsvenskan",
+    "date_time": "19 July at 15:30",
+    "parsed_datetime": "2026-07-19T15:30:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Rudes",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/33064.gif"
+        "team_name": "Halmstad",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4861.gif"
       },
       {
-        "team_name": "Shakhtar Donetsk",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/50927.gif"
+        "team_name": "Haecken",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1058.gif"
       }
     ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-07-19T12:12:28.460520"
-  },
-  {
-    "event_id": "390748067",
-    "matchup": "Jaro – Inter Turku",
-    "event_url": "https://livetv.sx/enx/eventinfo/390748067__/",
-    "competition": "Finland. Veikkausliiga",
-    "date_time": "19 July at 16:30",
-    "parsed_datetime": "2026-07-19T16:30:00",
-    "is_live": false,
-    "team_logos": [
+    "streams": [
       {
-        "team_name": "Jaro",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3964.gif"
+        "language": "Norvegian",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/39.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262783&lang=en&eid=390742334&lid=3034507&ci=63&si=1",
+        "stream_title": "",
+        "stream_type": ""
       },
       {
-        "team_name": "Inter Turku",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/358.gif"
+        "language": "Norvegian",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/39.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262787&lang=en&eid=390742334&lid=3034508&ci=63&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Swedish",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/22.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=263186&lang=en&eid=390742334&lid=3038495&ci=63&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Swedish",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/22.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3038594&lang=en&eid=390742334&lid=3038594&ci=63&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Swedish",
+        "flag_src": "https://cdn.livetv902.me/img/linkflag/22.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3038538&lang=en&eid=390742334&lid=3038538&ci=63&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
       }
     ],
-    "streams": [],
     "starting_lineups": {
-      "home_team": [],
-      "away_team": []
+      "home_team": [
+        "01.",
+        "Tim Roenning",
+        "(G)",
+        "17.",
+        "Andre Boman",
+        "16.",
+        "Erko Tougjas",
+        "14.",
+        "Hussein Carneil",
+        "06.",
+        "Joel Allansson",
+        "11.",
+        "Ludvig Arvidsson",
+        "22.",
+        "Oliver Kapsimalis",
+        "09.",
+        "Omar Faraj",
+        "05.",
+        "Pascal Gregor",
+        "24.",
+        "Rami Kaib",
+        "27.",
+        "Rocco Ascone"
+      ],
+      "away_team": [
+        "01.",
+        "Andreas Linde",
+        "(G)",
+        "22.",
+        "Filip Helander",
+        "05.",
+        "Brice Wembangomo",
+        "09.",
+        "Gustav Lindgren",
+        "13.",
+        "Harry Hilvenius",
+        "23.",
+        "Olle Samuelsson",
+        "10.",
+        "Mikkel Rygaard",
+        "11.",
+        "Julius Lindberg",
+        "20.",
+        "Adrian Svanbaeck",
+        "06.",
+        "Abdoulaye Doumbia",
+        "08.",
+        "Simen Hestnes"
+      ]
     },
     "league_table": [
       {
         "pos": "1",
-        "team": "KuPS",
-        "played": "16",
-        "pts": "33"
+        "team": "Sirius",
+        "played": "12",
+        "pts": "32"
       },
       {
         "pos": "2",
-        "team": "Inter Turku",
-        "played": "15",
-        "pts": "30"
+        "team": "Hammarby",
+        "played": "13",
+        "pts": "23"
       },
       {
         "pos": "3",
-        "team": "VPS",
-        "played": "16",
-        "pts": "27"
+        "team": "AIK",
+        "played": "13",
+        "pts": "21"
       },
       {
         "pos": "4",
-        "team": "Oulu",
-        "played": "16",
-        "pts": "26"
+        "team": "Haecken",
+        "played": "12",
+        "pts": "20"
       },
       {
         "pos": "5",
-        "team": "HJK",
-        "played": "16",
-        "pts": "25"
+        "team": "Djurgarden",
+        "played": "11",
+        "pts": "19"
       },
       {
         "pos": "6",
-        "team": "Gnistan",
-        "played": "16",
-        "pts": "25"
+        "team": "Malmoe",
+        "played": "12",
+        "pts": "19"
       },
       {
         "pos": "7",
-        "team": "TPS",
-        "played": "15",
-        "pts": "22"
+        "team": "GAIS",
+        "played": "14",
+        "pts": "19"
       },
       {
         "pos": "8",
-        "team": "Lahti",
-        "played": "15",
+        "team": "Vasteras",
+        "played": "13",
         "pts": "19"
       },
       {
         "pos": "9",
-        "team": "Ilves",
-        "played": "15",
-        "pts": "16"
+        "team": "Elfsborg",
+        "played": "13",
+        "pts": "18"
       },
       {
         "pos": "10",
-        "team": "SJK",
-        "played": "16",
-        "pts": "14"
+        "team": "Mjaellby",
+        "played": "13",
+        "pts": "17"
       },
       {
         "pos": "11",
-        "team": "Jaro",
-        "played": "15",
-        "pts": "11"
+        "team": "Brommapojkarna",
+        "played": "13",
+        "pts": "16"
       },
       {
         "pos": "12",
-        "team": "Mariehamn",
-        "played": "15",
-        "pts": "4"
+        "team": "Kalmar",
+        "played": "12",
+        "pts": "13"
+      },
+      {
+        "pos": "13",
+        "team": "Goeteborg",
+        "played": "13",
+        "pts": "13"
+      },
+      {
+        "pos": "14",
+        "team": "Degerfors",
+        "played": "12",
+        "pts": "10"
+      },
+      {
+        "pos": "15",
+        "team": "Oergryte",
+        "played": "12",
+        "pts": "9"
+      },
+      {
+        "pos": "16",
+        "team": "Halmstad",
+        "played": "12",
+        "pts": "6"
       }
     ],
-    "last_updated": "2026-07-19T12:12:28.460534"
+    "last_updated": "2026-07-19T13:52:26.693587"
   },
   {
     "event_id": "390753766",
@@ -3276,7 +3411,7 @@
         "pts": "3"
       }
     ],
-    "last_updated": "2026-07-19T12:12:28.588017"
+    "last_updated": "2026-07-19T13:52:26.749661"
   },
   {
     "event_id": "390754320",
@@ -3363,94 +3498,7 @@
         "pts": "13"
       }
     ],
-    "last_updated": "2026-07-19T12:12:28.625779"
-  },
-  {
-    "event_id": "390753558",
-    "matchup": "Auda – Liepaja",
-    "event_url": "https://livetv.sx/enx/eventinfo/390753558__/",
-    "competition": "Latvia. Virsliga",
-    "date_time": "19 July at 17:00",
-    "parsed_datetime": "2026-07-19T17:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Auda",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/6383.gif"
-      },
-      {
-        "team_name": "Liepaja",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1613.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Riga",
-        "played": "23",
-        "pts": "58"
-      },
-      {
-        "pos": "2",
-        "team": "RFS",
-        "played": "22",
-        "pts": "56"
-      },
-      {
-        "pos": "3",
-        "team": "Auda",
-        "played": "22",
-        "pts": "40"
-      },
-      {
-        "pos": "4",
-        "team": "Liepaja",
-        "played": "22",
-        "pts": "28"
-      },
-      {
-        "pos": "5",
-        "team": "Daugavpils",
-        "played": "22",
-        "pts": "27"
-      },
-      {
-        "pos": "6",
-        "team": "Jelgava",
-        "played": "22",
-        "pts": "25"
-      },
-      {
-        "pos": "7",
-        "team": "Super Nova",
-        "played": "22",
-        "pts": "24"
-      },
-      {
-        "pos": "8",
-        "team": "Grobina",
-        "played": "22",
-        "pts": "20"
-      },
-      {
-        "pos": "9",
-        "team": "Tukums",
-        "played": "23",
-        "pts": "17"
-      },
-      {
-        "pos": "10",
-        "team": "Ogre United",
-        "played": "22",
-        "pts": "13"
-      }
-    ],
-    "last_updated": "2026-07-19T12:12:28.708658"
+    "last_updated": "2026-07-19T13:52:26.807093"
   },
   {
     "event_id": "392053084",
@@ -3549,24 +3597,24 @@
         "pts": "11"
       }
     ],
-    "last_updated": "2026-07-19T12:12:28.814348"
+    "last_updated": "2026-07-19T13:52:26.865472"
   },
   {
-    "event_id": "390747326",
-    "matchup": "Ordabasy – Elimai",
-    "event_url": "https://livetv.sx/enx/eventinfo/390747326__/",
-    "competition": "Kazakhstan. Premier League",
+    "event_id": "390753558",
+    "matchup": "Auda – Liepaja",
+    "event_url": "https://livetv.sx/enx/eventinfo/390753558__/",
+    "competition": "Latvia. Virsliga",
     "date_time": "19 July at 17:00",
     "parsed_datetime": "2026-07-19T17:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Ordabasy",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/33332.gif"
+        "team_name": "Auda",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/6383.gif"
       },
       {
-        "team_name": "Elimai",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/26416.gif"
+        "team_name": "Liepaja",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1613.gif"
       }
     ],
     "streams": [],
@@ -3577,102 +3625,165 @@
     "league_table": [
       {
         "pos": "1",
-        "team": "Kairat",
-        "played": "19",
-        "pts": "42"
+        "team": "Riga",
+        "played": "23",
+        "pts": "58"
       },
       {
         "pos": "2",
-        "team": "Ordabasy",
-        "played": "17",
-        "pts": "40"
+        "team": "RFS",
+        "played": "22",
+        "pts": "56"
       },
       {
         "pos": "3",
-        "team": "Okzhetpes",
-        "played": "18",
-        "pts": "30"
+        "team": "Auda",
+        "played": "22",
+        "pts": "40"
       },
       {
         "pos": "4",
-        "team": "Astana",
-        "played": "17",
-        "pts": "29"
+        "team": "Liepaja",
+        "played": "22",
+        "pts": "28"
       },
       {
         "pos": "5",
-        "team": "Ulytau",
-        "played": "18",
+        "team": "Daugavpils",
+        "played": "22",
         "pts": "27"
       },
       {
         "pos": "6",
-        "team": "Elimai",
+        "team": "Jelgava",
+        "played": "22",
+        "pts": "25"
+      },
+      {
+        "pos": "7",
+        "team": "Super Nova",
+        "played": "22",
+        "pts": "24"
+      },
+      {
+        "pos": "8",
+        "team": "Grobina",
+        "played": "22",
+        "pts": "20"
+      },
+      {
+        "pos": "9",
+        "team": "Tukums",
+        "played": "23",
+        "pts": "17"
+      },
+      {
+        "pos": "10",
+        "team": "Ogre United",
+        "played": "22",
+        "pts": "13"
+      }
+    ],
+    "last_updated": "2026-07-19T13:52:26.923162"
+  },
+  {
+    "event_id": "390748067",
+    "matchup": "Jaro – Inter Turku",
+    "event_url": "https://livetv.sx/enx/eventinfo/390748067__/",
+    "competition": "Finland. Veikkausliiga",
+    "date_time": "19 July at 16:30",
+    "parsed_datetime": "2026-07-19T16:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Jaro",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3964.gif"
+      },
+      {
+        "team_name": "Inter Turku",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/358.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "KuPS",
+        "played": "16",
+        "pts": "33"
+      },
+      {
+        "pos": "2",
+        "team": "Inter Turku",
+        "played": "15",
+        "pts": "30"
+      },
+      {
+        "pos": "3",
+        "team": "VPS",
+        "played": "16",
+        "pts": "27"
+      },
+      {
+        "pos": "4",
+        "team": "Oulu",
         "played": "16",
         "pts": "26"
       },
       {
-        "pos": "7",
-        "team": "Aktobe",
-        "played": "17",
+        "pos": "5",
+        "team": "HJK",
+        "played": "16",
         "pts": "25"
       },
       {
-        "pos": "8",
-        "team": "Zhenys",
-        "played": "18",
+        "pos": "6",
+        "team": "Gnistan",
+        "played": "16",
+        "pts": "25"
+      },
+      {
+        "pos": "7",
+        "team": "TPS",
+        "played": "15",
         "pts": "22"
       },
       {
-        "pos": "9",
-        "team": "Tobol",
-        "played": "18",
+        "pos": "8",
+        "team": "Lahti",
+        "played": "15",
         "pts": "19"
+      },
+      {
+        "pos": "9",
+        "team": "Ilves",
+        "played": "15",
+        "pts": "16"
       },
       {
         "pos": "10",
-        "team": "Kaisar",
-        "played": "19",
-        "pts": "19"
+        "team": "SJK",
+        "played": "16",
+        "pts": "14"
       },
       {
         "pos": "11",
-        "team": "Atyrau",
-        "played": "17",
-        "pts": "18"
+        "team": "Jaro",
+        "played": "15",
+        "pts": "11"
       },
       {
         "pos": "12",
-        "team": "Zhetysu",
-        "played": "18",
-        "pts": "18"
-      },
-      {
-        "pos": "13",
-        "team": "Caspiy",
-        "played": "18",
-        "pts": "18"
-      },
-      {
-        "pos": "14",
-        "team": "Altay",
-        "played": "17",
-        "pts": "16"
-      },
-      {
-        "pos": "15",
-        "team": "Kyzylzhar",
-        "played": "18",
-        "pts": "16"
-      },
-      {
-        "pos": "16",
-        "team": "Irtysh",
-        "played": "17",
-        "pts": "11"
+        "team": "Mariehamn",
+        "played": "15",
+        "pts": "4"
       }
     ],
-    "last_updated": "2026-07-19T12:12:28.907036"
+    "last_updated": "2026-07-19T13:52:27.022274"
   },
   {
     "event_id": "390753995",
@@ -3807,7 +3918,217 @@
         "pts": "0"
       }
     ],
-    "last_updated": "2026-07-19T12:12:29.108631"
+    "last_updated": "2026-07-19T13:52:27.083977"
+  },
+  {
+    "event_id": "390747326",
+    "matchup": "Ordabasy – Elimai",
+    "event_url": "https://livetv.sx/enx/eventinfo/390747326__/",
+    "competition": "Kazakhstan. Premier League",
+    "date_time": "19 July at 17:00",
+    "parsed_datetime": "2026-07-19T17:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Ordabasy",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/33332.gif"
+      },
+      {
+        "team_name": "Elimai",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/26416.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Kairat",
+        "played": "19",
+        "pts": "42"
+      },
+      {
+        "pos": "2",
+        "team": "Ordabasy",
+        "played": "17",
+        "pts": "40"
+      },
+      {
+        "pos": "3",
+        "team": "Okzhetpes",
+        "played": "18",
+        "pts": "30"
+      },
+      {
+        "pos": "4",
+        "team": "Astana",
+        "played": "17",
+        "pts": "29"
+      },
+      {
+        "pos": "5",
+        "team": "Ulytau",
+        "played": "18",
+        "pts": "27"
+      },
+      {
+        "pos": "6",
+        "team": "Elimai",
+        "played": "16",
+        "pts": "26"
+      },
+      {
+        "pos": "7",
+        "team": "Aktobe",
+        "played": "17",
+        "pts": "25"
+      },
+      {
+        "pos": "8",
+        "team": "Zhenys",
+        "played": "18",
+        "pts": "22"
+      },
+      {
+        "pos": "9",
+        "team": "Tobol",
+        "played": "18",
+        "pts": "19"
+      },
+      {
+        "pos": "10",
+        "team": "Kaisar",
+        "played": "19",
+        "pts": "19"
+      },
+      {
+        "pos": "11",
+        "team": "Atyrau",
+        "played": "17",
+        "pts": "18"
+      },
+      {
+        "pos": "12",
+        "team": "Zhetysu",
+        "played": "18",
+        "pts": "18"
+      },
+      {
+        "pos": "13",
+        "team": "Caspiy",
+        "played": "18",
+        "pts": "18"
+      },
+      {
+        "pos": "14",
+        "team": "Altay",
+        "played": "17",
+        "pts": "16"
+      },
+      {
+        "pos": "15",
+        "team": "Kyzylzhar",
+        "played": "18",
+        "pts": "16"
+      },
+      {
+        "pos": "16",
+        "team": "Irtysh",
+        "played": "17",
+        "pts": "11"
+      }
+    ],
+    "last_updated": "2026-07-19T13:52:27.141376"
+  },
+  {
+    "event_id": "390753767",
+    "matchup": "Zalgiris – Transinvest",
+    "event_url": "https://livetv.sx/enx/eventinfo/390753767__/",
+    "competition": "Lithuania. A Lyga",
+    "date_time": "19 July at 17:00",
+    "parsed_datetime": "2026-07-19T17:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Zalgiris",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/6027.gif"
+      },
+      {
+        "team_name": "Transinvest",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/21624.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Kauno Zalgiris",
+        "played": "20",
+        "pts": "34"
+      },
+      {
+        "pos": "2",
+        "team": "Banga",
+        "played": "19",
+        "pts": "30"
+      },
+      {
+        "pos": "3",
+        "team": "Suduva",
+        "played": "19",
+        "pts": "30"
+      },
+      {
+        "pos": "4",
+        "team": "Dziugas",
+        "played": "19",
+        "pts": "30"
+      },
+      {
+        "pos": "5",
+        "team": "Transinvest",
+        "played": "19",
+        "pts": "29"
+      },
+      {
+        "pos": "6",
+        "team": "Zalgiris",
+        "played": "19",
+        "pts": "28"
+      },
+      {
+        "pos": "7",
+        "team": "Hegelmann",
+        "played": "19",
+        "pts": "19"
+      },
+      {
+        "pos": "8",
+        "team": "Panevezys",
+        "played": "20",
+        "pts": "19"
+      },
+      {
+        "pos": "9",
+        "team": "Siauliai",
+        "played": "20",
+        "pts": "13"
+      },
+      {
+        "pos": "10",
+        "team": "Riteriai",
+        "played": "17",
+        "pts": "3"
+      }
+    ],
+    "last_updated": "2026-07-19T13:52:27.194248"
   },
   {
     "event_id": "390753233",
@@ -3918,181 +4239,7 @@
         "pts": "0"
       }
     ],
-    "last_updated": "2026-07-19T12:12:29.251012"
-  },
-  {
-    "event_id": "390753767",
-    "matchup": "Zalgiris – Transinvest",
-    "event_url": "https://livetv.sx/enx/eventinfo/390753767__/",
-    "competition": "Lithuania. A Lyga",
-    "date_time": "19 July at 17:00",
-    "parsed_datetime": "2026-07-19T17:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Zalgiris",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/6027.gif"
-      },
-      {
-        "team_name": "Transinvest",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/21624.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Kauno Zalgiris",
-        "played": "20",
-        "pts": "34"
-      },
-      {
-        "pos": "2",
-        "team": "Banga",
-        "played": "19",
-        "pts": "30"
-      },
-      {
-        "pos": "3",
-        "team": "Suduva",
-        "played": "19",
-        "pts": "30"
-      },
-      {
-        "pos": "4",
-        "team": "Dziugas",
-        "played": "19",
-        "pts": "30"
-      },
-      {
-        "pos": "5",
-        "team": "Transinvest",
-        "played": "19",
-        "pts": "29"
-      },
-      {
-        "pos": "6",
-        "team": "Zalgiris",
-        "played": "19",
-        "pts": "28"
-      },
-      {
-        "pos": "7",
-        "team": "Hegelmann",
-        "played": "19",
-        "pts": "19"
-      },
-      {
-        "pos": "8",
-        "team": "Panevezys",
-        "played": "20",
-        "pts": "19"
-      },
-      {
-        "pos": "9",
-        "team": "Siauliai",
-        "played": "20",
-        "pts": "13"
-      },
-      {
-        "pos": "10",
-        "team": "Riteriai",
-        "played": "17",
-        "pts": "3"
-      }
-    ],
-    "last_updated": "2026-07-19T12:12:29.266340"
-  },
-  {
-    "event_id": "390754045",
-    "matchup": "Aluminij – Maribor",
-    "event_url": "https://livetv.sx/enx/eventinfo/390754045__/",
-    "competition": "Slovenia. PrvaLiga",
-    "date_time": "19 July at 17:00",
-    "parsed_datetime": "2026-07-19T17:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Aluminij",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/35986.gif"
-      },
-      {
-        "team_name": "Maribor",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4256.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Koper",
-        "played": "1",
-        "pts": "3"
-      },
-      {
-        "pos": "2",
-        "team": "Bravo",
-        "played": "1",
-        "pts": "3"
-      },
-      {
-        "pos": "3",
-        "team": "Brinje Grosuplje",
-        "played": "1",
-        "pts": "3"
-      },
-      {
-        "pos": "4",
-        "team": "Mura",
-        "played": "1",
-        "pts": "1"
-      },
-      {
-        "pos": "5",
-        "team": "Celje",
-        "played": "1",
-        "pts": "1"
-      },
-      {
-        "pos": "6",
-        "team": "Aluminij",
-        "played": "0",
-        "pts": "0"
-      },
-      {
-        "pos": "7",
-        "team": "Maribor",
-        "played": "0",
-        "pts": "0"
-      },
-      {
-        "pos": "8",
-        "team": "Nafta",
-        "played": "1",
-        "pts": "0"
-      },
-      {
-        "pos": "9",
-        "team": "Olimpija Ljubljana",
-        "played": "1",
-        "pts": "0"
-      },
-      {
-        "pos": "10",
-        "team": "Radomlje",
-        "played": "1",
-        "pts": "0"
-      }
-    ],
-    "last_updated": "2026-07-19T12:12:29.394410"
+    "last_updated": "2026-07-19T13:52:27.254762"
   },
   {
     "event_id": "390785806",
@@ -4215,24 +4362,24 @@
         "pts": "13"
       }
     ],
-    "last_updated": "2026-07-19T12:12:29.499286"
+    "last_updated": "2026-07-19T13:52:27.311824"
   },
   {
-    "event_id": "392356983",
-    "matchup": "Vestri – KA Akureyri",
-    "event_url": "https://livetv.sx/enx/eventinfo/392356983__/",
-    "competition": "Iceland. Besta deild",
-    "date_time": "19 July at 18:00",
-    "parsed_datetime": "2026-07-19T18:00:00",
+    "event_id": "392198021",
+    "matchup": "Algeria (W) –  Zambia (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/392198021__/",
+    "competition": "Women. Friendly Match. National Teams",
+    "date_time": "19 July at 19:00",
+    "parsed_datetime": "2026-07-19T19:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Vestri",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/5259.gif"
+        "team_name": "Algeria (W)",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/flag55.gif"
       },
       {
-        "team_name": "KA Akureyri",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/749.gif"
+        "team_name": "Zambia (W)",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/flag217.gif"
       }
     ],
     "streams": [],
@@ -4241,7 +4388,94 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-07-19T12:12:29.502317"
+    "last_updated": "2026-07-19T13:52:27.407049"
+  },
+  {
+    "event_id": "390754045",
+    "matchup": "Aluminij – Maribor",
+    "event_url": "https://livetv.sx/enx/eventinfo/390754045__/",
+    "competition": "Slovenia. PrvaLiga",
+    "date_time": "19 July at 17:00",
+    "parsed_datetime": "2026-07-19T17:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Aluminij",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/35986.gif"
+      },
+      {
+        "team_name": "Maribor",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4256.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Koper",
+        "played": "1",
+        "pts": "3"
+      },
+      {
+        "pos": "2",
+        "team": "Bravo",
+        "played": "1",
+        "pts": "3"
+      },
+      {
+        "pos": "3",
+        "team": "Brinje Grosuplje",
+        "played": "1",
+        "pts": "3"
+      },
+      {
+        "pos": "4",
+        "team": "Mura",
+        "played": "1",
+        "pts": "1"
+      },
+      {
+        "pos": "5",
+        "team": "Celje",
+        "played": "1",
+        "pts": "1"
+      },
+      {
+        "pos": "6",
+        "team": "Aluminij",
+        "played": "0",
+        "pts": "0"
+      },
+      {
+        "pos": "7",
+        "team": "Maribor",
+        "played": "0",
+        "pts": "0"
+      },
+      {
+        "pos": "8",
+        "team": "Nafta",
+        "played": "1",
+        "pts": "0"
+      },
+      {
+        "pos": "9",
+        "team": "Olimpija Ljubljana",
+        "played": "1",
+        "pts": "0"
+      },
+      {
+        "pos": "10",
+        "team": "Radomlje",
+        "played": "1",
+        "pts": "0"
+      }
+    ],
+    "last_updated": "2026-07-19T13:52:27.507662"
   },
   {
     "event_id": "392198838",
@@ -4267,7 +4501,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-07-19T12:12:29.652087"
+    "last_updated": "2026-07-19T13:52:27.554459"
+  },
+  {
+    "event_id": "392356983",
+    "matchup": "Vestri – KA Akureyri",
+    "event_url": "https://livetv.sx/enx/eventinfo/392356983__/",
+    "competition": "Iceland. Besta deild",
+    "date_time": "19 July at 18:00",
+    "parsed_datetime": "2026-07-19T18:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Vestri",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/5259.gif"
+      },
+      {
+        "team_name": "KA Akureyri",
+        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/749.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-07-19T13:52:27.632597"
   },
   {
     "event_id": "390785798",
@@ -4390,32 +4650,6 @@
         "pts": "13"
       }
     ],
-    "last_updated": "2026-07-19T12:12:29.682598"
-  },
-  {
-    "event_id": "392198021",
-    "matchup": "Algeria (W) –  Zambia (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/392198021__/",
-    "competition": "Women. Friendly Match. National Teams",
-    "date_time": "19 July at 19:00",
-    "parsed_datetime": "2026-07-19T19:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Algeria (W)",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/flag55.gif"
-      },
-      {
-        "team_name": "Zambia (W)",
-        "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/flag217.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-07-19T12:12:29.738992"
+    "last_updated": "2026-07-19T13:52:27.659125"
   }
 ]
