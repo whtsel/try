@@ -6,7 +6,7 @@
     "competition": "Champions League Qualifying",
     "date_time": "25 August at 20:00",
     "parsed_datetime": "2026-08-25T20:00:00",
-    "is_live": true,
+    "is_live": false,
     "team_logos": [
       {
         "team_name": "LASK",
@@ -17,126 +17,96 @@
         "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/37652.gif"
       }
     ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv903.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=263989&lang=en&eid=395846187&lid=3047013&ci=901&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv903.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3056345&lang=en&eid=395846187&lid=3056345&ci=901&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv903.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059426&lang=en&eid=395846187&lid=3059426&ci=901&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv903.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3037525&lang=en&eid=395846187&lid=3037525&ci=901&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv903.me/img/linkflag/1.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=237460&lang=en&eid=395846187&lid=2842250&ci=901&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Russian",
-        "flag_src": "https://cdn.livetv903.me/img/linkflag/1.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=242757&lang=en&eid=395846187&lid=2956100&ci=901&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Ukrainian",
-        "flag_src": "https://cdn.livetv903.me/img/linkflag/3.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=243128&lang=en&eid=395846187&lid=2840818&ci=901&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv903.me/img/linkflag/9.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262383&lang=en&eid=395846187&lid=3031058&ci=901&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
+    "streams": [],
     "starting_lineups": {
       "home_team": [
         "01.",
         "Lukas Jungwirth",
         "(G)",
-        "20.",
-        "Kasper Joergensen",
-        "43.",
-        "Joao Tornich",
         "02.",
         "George Bello",
         "06.",
         "Melayro Bogarde",
+        "10.",
+        "Robert Ljubicic",
+        "20.",
+        "Kasper Joergensen",
         "04.",
         "Xavier Mbuyamba",
+        "16.",
+        "Andres Andrade",
         "30.",
         "Sascha Horvath",
         "07.",
         "Samuel Adeniran",
-        "10.",
-        "Robert Ljubicic",
         "08.",
         "Moses Usor",
-        "16.",
-        "Andres Andrade"
+        "43.",
+        "Joao Tornich"
       ],
       "away_team": [
         "01.",
         "Viljami Sinisalo",
         "(G)",
-        "13.",
-        "Hyun-Jun Yang",
         "51.",
         "Colby Donovan",
-        "11.",
-        "Camilo Duran",
         "20.",
         "Cameron",
-        "42.",
-        "Callum McGregor",
-        "22.",
-        "Mika Baur",
+        "06.",
+        "Auston Trusty",
         "63.",
         "Kieran Tierney",
         "09.",
         "Kasper Waarts Hoegh",
         "08.",
         "Benjamin Nygren",
-        "06.",
-        "Auston Trusty"
+        "11.",
+        "Camilo Duran",
+        "13.",
+        "Hyun-Jun Yang",
+        "22.",
+        "Mika Baur",
+        "42.",
+        "Callum McGregor"
       ]
     },
     "league_table": [],
-    "last_updated": "2026-08-25T21:18:37.272766"
+    "last_updated": "2026-08-25T21:50:20.456054"
+  },
+  {
+    "event_id": "395845941",
+    "matchup": "Boca Juniors de Cali – Bogota",
+    "event_url": "https://livetv.sx/enx/eventinfo/395845941__/",
+    "competition": "Colombia. Primera B",
+    "date_time": "25 August at 21:30",
+    "parsed_datetime": "2026-08-25T21:30:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Boca Juniors de Cali",
+        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/2468.gif"
+      },
+      {
+        "team_name": "Bogota",
+        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/1257.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059437&lang=en&eid=395845941&lid=3059437&ci=896&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-08-25T21:50:21.152045"
   },
   {
     "event_id": "397469858",
@@ -156,12 +126,38 @@
         "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/6885.gif"
       }
     ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-08-25T21:50:21.281228"
+  },
+  {
+    "event_id": "398610632",
+    "matchup": "River Plate II – Union de Santa Fe II",
+    "event_url": "https://livetv.sx/enx/eventinfo/398610632__/",
+    "competition": "Argentina. Reserve League",
+    "date_time": "25 August at 23:00",
+    "parsed_datetime": "2026-08-25T23:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "River Plate II",
+        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/19477.gif"
+      },
+      {
+        "team_name": "Union de Santa Fe II",
+        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/18227.gif"
+      }
+    ],
     "streams": [
       {
         "language": "Spanish",
         "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059520&lang=en&eid=397469858&lid=3059520&ci=6196&si=1",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059480&lang=en&eid=398610632&lid=3059480&ci=1843&si=1",
         "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
         "stream_type": "Web"
       }
@@ -171,7 +167,186 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-08-25T21:18:37.966440"
+    "last_updated": "2026-08-25T21:50:21.517465"
+  },
+  {
+    "event_id": "398610633",
+    "matchup": "Alianza Atletico – Cajamarca",
+    "event_url": "https://livetv.sx/enx/eventinfo/398610633__/",
+    "competition": "Peru. Copa Bicentenario",
+    "date_time": "25 August at 21:00",
+    "parsed_datetime": "2026-08-25T21:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Alianza Atletico",
+        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/6571.gif"
+      },
+      {
+        "team_name": "Cajamarca",
+        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/1444.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-08-25T21:50:21.678658"
+  },
+  {
+    "event_id": "397248723",
+    "matchup": "Deportivo Madryn – Godoy Cruz",
+    "event_url": "https://livetv.sx/enx/eventinfo/397248723__/",
+    "competition": "Argentina. Primera Nacional",
+    "date_time": "25 August at 23:00",
+    "parsed_datetime": "2026-08-25T23:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Deportivo Madryn",
+        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/10905.gif"
+      },
+      {
+        "team_name": "Godoy Cruz",
+        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/424.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059562&lang=en&eid=397248723&lid=3059562&ci=532&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [
+        "01.",
+        "Yair Ivan Bonnin",
+        "(G)",
+        "20.",
+        "Nicolas Servetto",
+        "06.",
+        "Claudio Corvalan",
+        "02.",
+        "Facundo Giacopuzzi",
+        "05.",
+        "Federico Recalde",
+        "19.",
+        "Julian Cosi",
+        "07.",
+        "Leonardo Marinucci",
+        "18.",
+        "Lucas Diarte",
+        "09.",
+        "Luis Silba",
+        "08.",
+        "Marcelo Meli",
+        "10.",
+        "Nazareno Solis"
+      ],
+      "away_team": [
+        "01.",
+        "Juan Strumia",
+        "(G)",
+        "11.",
+        "Rodrigo Fernandez",
+        "07.",
+        "Axel Rodriguez",
+        "08.",
+        "Benjamin Schamine",
+        "03.",
+        "Diego Viera",
+        "06.",
+        "Esteban Burgos",
+        "16.",
+        "Felipe Cairus",
+        "04.",
+        "Francisco Gerometta",
+        "17.",
+        "Santiago Martinez",
+        "09.",
+        "Misael Sosa",
+        "02.",
+        "Nahuel Brunet"
+      ]
+    },
+    "league_table": [],
+    "last_updated": "2026-08-25T21:50:21.767775"
+  },
+  {
+    "event_id": "398426562",
+    "matchup": "Jarabacoa – Atlantico",
+    "event_url": "https://livetv.sx/enx/eventinfo/398426562__/",
+    "competition": "Dominican Republic. LDF",
+    "date_time": "25 August at 22:00",
+    "parsed_datetime": "2026-08-25T22:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Jarabacoa",
+        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/35184.gif"
+      },
+      {
+        "team_name": "Atlantico",
+        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/26531.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=AydO6v3v3CM&lang=en&eid=398426562&lid=3059581&ci=6860&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-08-25T21:50:21.767789"
+  },
+  {
+    "event_id": "398427931",
+    "matchup": "Sol de America – Sportivo Trinidense",
+    "event_url": "https://livetv.sx/enx/eventinfo/398427931__/",
+    "competition": "Paraguay. Cup",
+    "date_time": "25 August at 22:30",
+    "parsed_datetime": "2026-08-25T22:30:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Sol de America",
+        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/932.gif"
+      },
+      {
+        "team_name": "Sportivo Trinidense",
+        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/34738.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv903.me/img/linkflag/18.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059438&lang=en&eid=398427931&lid=3059438&ci=2298&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-08-25T21:50:21.915626"
   },
   {
     "event_id": "396919501",
@@ -180,7 +355,7 @@
     "competition": "Paraguay. Primera Division",
     "date_time": "25 August at 22:30",
     "parsed_datetime": "2026-08-25T22:30:00",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "2 de Mayo",
@@ -191,7 +366,16 @@
         "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/25771.gif"
       }
     ],
-    "streams": [],
+    "streams": [
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059583&lang=en&eid=396919501&lid=3059583&ci=442&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
@@ -270,463 +454,7 @@
         "pts": "1"
       }
     ],
-    "last_updated": "2026-08-25T21:18:38.174984"
-  },
-  {
-    "event_id": "398356027",
-    "matchup": "Sporting U-23 –  Benfica U-23",
-    "event_url": "https://livetv.sx/enx/eventinfo/398356027__/",
-    "competition": "Portugal. League U23",
-    "date_time": "25 August at 20:00",
-    "parsed_datetime": "2026-08-25T20:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Sporting U-23",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/38187.gif"
-      },
-      {
-        "team_name": "Benfica U-23",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/10255.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-08-25T21:18:38.270981"
-  },
-  {
-    "event_id": "395845491",
-    "matchup": "Valencia – Real Betis",
-    "event_url": "https://livetv.sx/enx/eventinfo/395845491__/",
-    "competition": "Spain. Primera Division",
-    "date_time": "25 August at 20:00",
-    "parsed_datetime": "2026-08-25T20:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Valencia",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/3.gif"
-      },
-      {
-        "team_name": "Real Betis",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/42.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [
-        "01.",
-        "Stole Dimitrievski",
-        "(G)",
-        "09.",
-        "Hugo Duro",
-        "02.",
-        "Guido Rodriguez",
-        "05.",
-        "Cesar Tarrega",
-        "07.",
-        "Arnaut Danjuma",
-        "39.",
-        "Ryunosuke Sato",
-        "18.",
-        "Pepelu",
-        "24.",
-        "Pablo Maffeo",
-        "04.",
-        "Mouctar Diakhaby",
-        "21.",
-        "Jesus Vazquez",
-        "08.",
-        "Javier Guerra"
-      ],
-      "away_team": [
-        "01.",
-        "Alvaro Valles",
-        "(G)",
-        "16.",
-        "Valentin Gomez",
-        "06.",
-        "Facundo Bernal",
-        "03.",
-        "Diego Llorente",
-        "07.",
-        "Antony",
-        "12.",
-        "Angel Ortiz",
-        "09.",
-        "Juan Hernandez",
-        "23.",
-        "Junior Firpo",
-        "17.",
-        "Rodrigo Riquelme",
-        "08.",
-        "Pablo Fornals",
-        "18.",
-        "Nelson Deossa"
-      ]
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Sevilla",
-        "played": "2",
-        "pts": "6"
-      },
-      {
-        "pos": "2",
-        "team": "Alaves",
-        "played": "2",
-        "pts": "4"
-      },
-      {
-        "pos": "3",
-        "team": "Atletico Madrid",
-        "played": "2",
-        "pts": "4"
-      },
-      {
-        "pos": "4",
-        "team": "Barcelona",
-        "played": "1",
-        "pts": "3"
-      },
-      {
-        "pos": "5",
-        "team": "Espanyol",
-        "played": "2",
-        "pts": "3"
-      },
-      {
-        "pos": "6",
-        "team": "Real Madrid RM",
-        "played": "1",
-        "pts": "3"
-      },
-      {
-        "pos": "7",
-        "team": "Real Betis",
-        "played": "1",
-        "pts": "3"
-      },
-      {
-        "pos": "8",
-        "team": "Getafe",
-        "played": "2",
-        "pts": "3"
-      },
-      {
-        "pos": "9",
-        "team": "Villarreal",
-        "played": "2",
-        "pts": "2"
-      },
-      {
-        "pos": "10",
-        "team": "Deportivo",
-        "played": "2",
-        "pts": "2"
-      },
-      {
-        "pos": "11",
-        "team": "Celta",
-        "played": "1",
-        "pts": "1"
-      },
-      {
-        "pos": "12",
-        "team": "Osasuna",
-        "played": "1",
-        "pts": "1"
-      },
-      {
-        "pos": "13",
-        "team": "Valencia",
-        "played": "1",
-        "pts": "1"
-      },
-      {
-        "pos": "14",
-        "team": "Racing",
-        "played": "2",
-        "pts": "1"
-      },
-      {
-        "pos": "15",
-        "team": "Rayo Vallecano",
-        "played": "2",
-        "pts": "1"
-      },
-      {
-        "pos": "16",
-        "team": "Malaga",
-        "played": "2",
-        "pts": "1"
-      },
-      {
-        "pos": "17",
-        "team": "Levante",
-        "played": "2",
-        "pts": "1"
-      },
-      {
-        "pos": "18",
-        "team": "Elche",
-        "played": "2",
-        "pts": "1"
-      },
-      {
-        "pos": "19",
-        "team": "Real Sociedad",
-        "played": "1",
-        "pts": "0"
-      },
-      {
-        "pos": "20",
-        "team": "Athletic Bilbao",
-        "played": "1",
-        "pts": "0"
-      }
-    ],
-    "last_updated": "2026-08-25T21:18:38.270997"
-  },
-  {
-    "event_id": "398427102",
-    "matchup": "Santa Fe (W) –  Orsomarso (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/398427102__/",
-    "competition": "Colombia. Women. League Aguila",
-    "date_time": "25 August at 22:30",
-    "parsed_datetime": "2026-08-25T22:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Santa Fe (W)",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/16380.gif"
-      },
-      {
-        "team_name": "Orsomarso (W)",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/20502.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=Ah7meaoSJUI&lang=en&eid=398427102&lid=3059178&ci=4168&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv903.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "http://tinyurl.com/yfk9n9nm",
-        "stream_title": "",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-08-25T21:18:38.271003"
-  },
-  {
-    "event_id": "397248723",
-    "matchup": "Deportivo Madryn – Godoy Cruz",
-    "event_url": "https://livetv.sx/enx/eventinfo/397248723__/",
-    "competition": "Argentina. Primera Nacional",
-    "date_time": "25 August at 23:00",
-    "parsed_datetime": "2026-08-25T23:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Deportivo Madryn",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/10905.gif"
-      },
-      {
-        "team_name": "Godoy Cruz",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/424.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059562&lang=en&eid=397248723&lid=3059562&ci=532&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-08-25T21:18:38.517875"
-  },
-  {
-    "event_id": "398427931",
-    "matchup": "Sol de America – Sportivo Trinidense",
-    "event_url": "https://livetv.sx/enx/eventinfo/398427931__/",
-    "competition": "Paraguay. Cup",
-    "date_time": "25 August at 22:30",
-    "parsed_datetime": "2026-08-25T22:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Sol de America",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/932.gif"
-      },
-      {
-        "team_name": "Sportivo Trinidense",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/34738.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv903.me/img/linkflag/18.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059438&lang=en&eid=398427931&lid=3059438&ci=2298&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-08-25T21:18:38.517896"
-  },
-  {
-    "event_id": "398610633",
-    "matchup": "Alianza Atletico – Cajamarca",
-    "event_url": "https://livetv.sx/enx/eventinfo/398610633__/",
-    "competition": "Peru. Copa Bicentenario",
-    "date_time": "25 August at 21:00",
-    "parsed_datetime": "2026-08-25T21:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Alianza Atletico",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/6571.gif"
-      },
-      {
-        "team_name": "Cajamarca",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/1444.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-08-25T21:18:38.564171"
-  },
-  {
-    "event_id": "398426562",
-    "matchup": "Jarabacoa – Atlantico",
-    "event_url": "https://livetv.sx/enx/eventinfo/398426562__/",
-    "competition": "Dominican Republic. LDF",
-    "date_time": "25 August at 22:00",
-    "parsed_datetime": "2026-08-25T22:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Jarabacoa",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/35184.gif"
-      },
-      {
-        "team_name": "Atlantico",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/26531.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv903.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=AydO6v3v3CM&lang=en&eid=398426562&lid=3059581&ci=6860&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-08-25T21:18:38.564186"
-  },
-  {
-    "event_id": "398610632",
-    "matchup": "River Plate II – Union de Santa Fe II",
-    "event_url": "https://livetv.sx/enx/eventinfo/398610632__/",
-    "competition": "Argentina. Reserve League",
-    "date_time": "25 August at 23:00",
-    "parsed_datetime": "2026-08-25T23:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "River Plate II",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/19477.gif"
-      },
-      {
-        "team_name": "Union de Santa Fe II",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/18227.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059480&lang=en&eid=398610632&lid=3059480&ci=1843&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-08-25T21:18:38.594448"
-  },
-  {
-    "event_id": "398427930",
-    "matchup": "General Caballero – Rubio Nu",
-    "event_url": "https://livetv.sx/enx/eventinfo/398427930__/",
-    "competition": "Paraguay. Cup",
-    "date_time": "25 August at 20:00",
-    "parsed_datetime": "2026-08-25T20:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "General Caballero",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/34735.gif"
-      },
-      {
-        "team_name": "Rubio Nu",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/37111.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-08-25T21:18:38.831969"
+    "last_updated": "2026-08-25T21:50:21.915643"
   },
   {
     "event_id": "395873889",
@@ -746,7 +474,32 @@
         "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/1047.gif"
       }
     ],
-    "streams": [],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv903.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=DNgCjrgDHw4&lang=en&eid=395873889&lid=3059368&ci=260&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv903.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059564&lang=en&eid=395873889&lid=3059564&ci=260&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv903.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059369&lang=en&eid=395873889&lid=3059369&ci=260&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
@@ -873,7 +626,7 @@
         "pts": "10"
       }
     ],
-    "last_updated": "2026-08-25T21:18:38.831987"
+    "last_updated": "2026-08-25T21:50:21.919644"
   },
   {
     "event_id": "395873891",
@@ -893,7 +646,16 @@
         "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/26546.gif"
       }
     ],
-    "streams": [],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv903.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059563&lang=en&eid=395873891&lid=3059563&ci=260&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
@@ -1020,41 +782,6 @@
         "pts": "10"
       }
     ],
-    "last_updated": "2026-08-25T21:18:38.847121"
-  },
-  {
-    "event_id": "395845941",
-    "matchup": "Boca Juniors de Cali – Bogota",
-    "event_url": "https://livetv.sx/enx/eventinfo/395845941__/",
-    "competition": "Colombia. Primera B",
-    "date_time": "25 August at 21:30",
-    "parsed_datetime": "2026-08-25T21:30:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Boca Juniors de Cali",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/2468.gif"
-      },
-      {
-        "team_name": "Bogota",
-        "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/1257.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059437&lang=en&eid=395845941&lid=3059437&ci=896&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-08-25T21:18:38.863248"
+    "last_updated": "2026-08-25T21:50:21.923999"
   }
 ]
