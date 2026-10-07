@@ -1,30 +1,38 @@
 [
   {
-    "event_id": "502689021",
-    "matchup": "Chicago – Vancouver",
-    "event_url": "https://livetv.sx/enx/eventinfo/502689021_chicago_vancouver/",
-    "competition": "USA. MLS",
-    "date_time": "7 October at 1:30",
-    "parsed_datetime": "2026-10-07T01:30:00",
+    "event_id": "500932710",
+    "matchup": "Alex Molcan –  Federico Cina",
+    "event_url": "https://livetv.sx/enx/eventinfo/500932710_alex_molcan_federico_cina/",
+    "competition": "General",
+    "date_time": "7:10 (ATP. Shanghai)",
+    "parsed_datetime": "",
     "is_live": true,
     "team_logos": [
       {
-        "team_name": "Chicago",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/49482.gif"
+        "team_name": "Alex Molcan",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/14692.gif"
       },
       {
-        "team_name": "Vancouver",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/32869.gif"
+        "team_name": "Federico Cina",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/0.gif"
       }
     ],
     "streams": [
       {
-        "language": "",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/0.png",
+        "language": "Italian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/12.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3083559&lang=en&eid=502689021&lid=3083559&ci=64&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268774&lang=en&eid=500932710&lid=3082153&ci=7118&si=4",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Serbian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/17.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=269149&lang=en&eid=500932710&lid=3080700&ci=7118&si=4",
+        "stream_title": "",
+        "stream_type": ""
       }
     ],
     "starting_lineups": {
@@ -32,24 +40,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:46.016459"
-  },
-  {
-    "event_id": "478623452",
-    "matchup": "Kharkiv U19 – Lviv U19",
-    "event_url": "https://livetv.sx/enx/eventinfo/478623452_kharkiv_u19_lviv_u19/",
-    "competition": "Ukraine. U-19 Premier League",
-    "date_time": "7 October at 9:00",
-    "parsed_datetime": "2026-10-07T09:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-10-07T01:54:46.503775"
+    "last_updated": "2026-10-07T07:57:12.954284"
   },
   {
     "event_id": "478623453",
@@ -66,7 +57,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:46.591363"
+    "last_updated": "2026-10-07T07:57:13.354352"
   },
   {
     "event_id": "500598357",
@@ -77,30 +68,175 @@
     "parsed_datetime": "2026-10-07T09:00:00",
     "is_live": false,
     "team_logos": [],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/18.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=G1ZRMsGO09Y&lang=en&eid=500598357&lid=3083290&ci=3361&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-10-07T07:57:13.552002"
+  },
+  {
+    "event_id": "478623452",
+    "matchup": "Kharkiv U19 – Lviv U19",
+    "event_url": "https://livetv.sx/enx/eventinfo/478623452_kharkiv_u19_lviv_u19/",
+    "competition": "Ukraine. U-19 Premier League",
+    "date_time": "7 October at 9:00",
+    "parsed_datetime": "2026-10-07T09:00:00",
+    "is_live": false,
+    "team_logos": [],
+    "streams": [
+      {
+        "language": "Ukrainian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/3.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=1pPR0ADG6ts&lang=en&eid=478623452&lid=3082853&ci=1450&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-10-07T07:57:13.698094"
+  },
+  {
+    "event_id": "504732699",
+    "matchup": "Gangjin Swans (W) – Suwon (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/504732699_gangjin_swans_w_suwon_w/",
+    "competition": "South Korea. Women. WK-League",
+    "date_time": "7 October at 11:00",
+    "parsed_datetime": "2026-10-07T11:00:00",
+    "is_live": false,
+    "team_logos": [],
     "streams": [],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:46.659372"
+    "last_updated": "2026-10-07T07:57:13.747378"
   },
   {
-    "event_id": "454161881",
-    "matchup": "USA USA – Canada CAN",
-    "event_url": "https://livetv.sx/enx/eventinfo/454161881__/",
-    "competition": "Friendly Match. National Teams",
-    "date_time": "7 October at 1:00",
-    "parsed_datetime": "2026-10-07T01:00:00",
+    "event_id": "495244805",
+    "matchup": "World Championships",
+    "event_url": "https://livetv.sx/enx/eventinfo/495244805_world_championships/",
+    "competition": "General",
+    "date_time": "7:30 (Judo)",
+    "parsed_datetime": "",
+    "is_live": true,
+    "team_logos": [],
+    "streams": [
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=243125&lang=en&eid=495244805&lid=2839340&ci=598&si=75",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=266570&lang=en&eid=495244805&lid=3066165&ci=598&si=75",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=267727&lang=en&eid=495244805&lid=3073033&ci=598&si=75",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=acestream&c=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2&lang=en&eid=495244805&lid=2777845&ci=598&si=75",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=acestream&c=822654b2c0db24d1de149cb21fdd44a3b968fbfa&lang=en&eid=495244805&lid=2942051&ci=598&si=75",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-10-07T07:57:13.787434"
+  },
+  {
+    "event_id": "500005091",
+    "matchup": "Shuvey (W) /  Ostapenko (W) –   Samsonova (W) /  Khromacheva (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/500005091__shuvey_w___ostapenko_w__samsonova_w___khromacheva_w/",
+    "competition": "General",
+    "date_time": "7:45 (WTA. Beijing. Doubles)",
+    "parsed_datetime": "",
     "is_live": true,
     "team_logos": [
       {
-        "team_name": "USA USA",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag205.gif"
+        "team_name": "Shuvey (W) /  Ostapenko (W)",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/.gif"
       },
       {
-        "team_name": "Canada CAN",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag34.gif"
+        "team_name": "Samsonova (W) /  Khromacheva (W)",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Croatian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/29.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268676&lang=en&eid=500005091&lid=3080692&ci=7113&si=4",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-10-07T07:57:13.820325"
+  },
+  {
+    "event_id": "496891930",
+    "matchup": "Cori Gauff (W) –   Elise Mertens (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/496891930__cori_gauff_w__elise_mertens_w/",
+    "competition": "General",
+    "date_time": "7:45 (WTA. Beijing)",
+    "parsed_datetime": "",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Cori Gauff (W)",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/8344.gif"
+      },
+      {
+        "team_name": "Elise Mertens (W)",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/7514.gif"
       }
     ],
     "streams": [
@@ -108,146 +244,63 @@
         "language": "English",
         "flag_src": "https://cdn.livetv904.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268960&lang=en&eid=454161881&lid=3081252&ci=5679&si=1",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=267748&lang=en&eid=496891930&lid=3077516&ci=7111&si=4",
         "stream_title": "",
         "stream_type": ""
       },
       {
-        "language": "Portuguese",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/9.png",
+        "language": "English",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268872&lang=en&eid=454161881&lid=3081194&ci=5679&si=1",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268807&lang=en&eid=496891930&lid=3083023&ci=7111&si=4",
         "stream_title": "",
         "stream_type": ""
       },
       {
-        "language": "Arabic",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/5.png",
+        "language": "English",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268700&lang=en&eid=454161881&lid=3083519&ci=5679&si=1",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268809&lang=en&eid=496891930&lid=3080270&ci=7111&si=4",
         "stream_title": "",
         "stream_type": ""
       },
       {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/7.png",
+        "language": "English",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268940&lang=en&eid=454161881&lid=3080640&ci=5679&si=1",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=269469&lang=en&eid=496891930&lid=3082660&ci=7111&si=4",
         "stream_title": "",
         "stream_type": ""
       },
       {
-        "language": "",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/0.png",
+        "language": "English",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=269386&lang=en&eid=454161881&lid=3083624&ci=5679&si=1",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=269510&lang=en&eid=496891930&lid=3082705&ci=7111&si=4",
         "stream_title": "",
         "stream_type": ""
       },
       {
-        "language": "",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/0.png",
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/1.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=269390&lang=en&eid=454161881&lid=3083627&ci=5679&si=1",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=266037&lang=en&eid=496891930&lid=3070315&ci=7111&si=4",
         "stream_title": "",
         "stream_type": ""
       },
       {
-        "language": "",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/0.png",
+        "language": "Serbian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/17.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3083508&lang=en&eid=454161881&lid=3083508&ci=5679&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268615&lang=en&eid=496891930&lid=3082397&ci=7111&si=4",
+        "stream_title": "",
+        "stream_type": ""
       },
       {
-        "language": "",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/0.png",
+        "language": "Croatian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/29.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3083618&lang=en&eid=454161881&lid=3083618&ci=5679&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [
-        "28.",
-        "Brian Schwake",
-        "(G)",
-        "15.",
-        "Brooklyn Raines",
-        "10.",
-        "Yunus Musah",
-        "18.",
-        "George Campbell",
-        "03.",
-        "Chris Richards",
-        "16.",
-        "Alex Freeman",
-        "27.",
-        "Mathis Albert",
-        "22.",
-        "Justin Ellis",
-        "17.",
-        "Malik Tillman",
-        "07.",
-        "Giovanni Reyna",
-        "06.",
-        "Auston Trusty"
-      ],
-      "away_team": [
-        "01.",
-        "Dayne St. Clair",
-        "(G)",
-        "14.",
-        "Jacob Shaffelburg",
-        "10.",
-        "Jonathan David",
-        "25.",
-        "Nathan Saliba",
-        "03.",
-        "Ralph Priso-Mbongue",
-        "22.",
-        "Richie Laryea",
-        "12.",
-        "Tani Oluwaseyi",
-        "11.",
-        "Liam Millar",
-        "07.",
-        "Stephen Eustaquio",
-        "23.",
-        "Niko Sigur",
-        "04.",
-        "Luc De Fougerolles"
-      ]
-    },
-    "league_table": [],
-    "last_updated": "2026-10-07T01:54:46.830152"
-  },
-  {
-    "event_id": "496627325",
-    "matchup": "San Marcos – Diriangen",
-    "event_url": "https://livetv.sx/enx/eventinfo/496627325__/",
-    "competition": "Nicaragua. Liga Primera",
-    "date_time": "7 October at 1:00",
-    "parsed_datetime": "2026-10-07T01:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "San Marcos",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/38065.gif"
-      },
-      {
-        "team_name": "Diriangen",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/32508.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=bvlQjUmpDg4&lang=en&eid=496627325&lid=3083563&ci=2377&si=1",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268674&lang=en&eid=496891930&lid=3082394&ci=7111&si=4",
         "stream_title": "",
         "stream_type": ""
       }
@@ -257,474 +310,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:47.168306"
-  },
-  {
-    "event_id": "457941047",
-    "matchup": "Avai – Londrina",
-    "event_url": "https://livetv.sx/enx/eventinfo/457941047__/",
-    "competition": "Brazil. Serie B",
-    "date_time": "7 October at 23:30",
-    "parsed_datetime": "2026-10-07T23:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Avai",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/3871.gif"
-      },
-      {
-        "team_name": "Londrina",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/1103.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Vila Nova",
-        "played": "31",
-        "pts": "57"
-      },
-      {
-        "pos": "2",
-        "team": "Juventude",
-        "played": "31",
-        "pts": "56"
-      },
-      {
-        "pos": "3",
-        "team": "Novorizontino",
-        "played": "31",
-        "pts": "54"
-      },
-      {
-        "pos": "4",
-        "team": "Criciuma",
-        "played": "31",
-        "pts": "53"
-      },
-      {
-        "pos": "5",
-        "team": "Fortaleza",
-        "played": "31",
-        "pts": "53"
-      },
-      {
-        "pos": "6",
-        "team": "Atletico-GO",
-        "played": "31",
-        "pts": "52"
-      },
-      {
-        "pos": "7",
-        "team": "CRB",
-        "played": "31",
-        "pts": "48"
-      },
-      {
-        "pos": "8",
-        "team": "Operario FEC",
-        "played": "31",
-        "pts": "48"
-      },
-      {
-        "pos": "9",
-        "team": "Sport Recife",
-        "played": "31",
-        "pts": "47"
-      },
-      {
-        "pos": "10",
-        "team": "Cuiaba",
-        "played": "31",
-        "pts": "46"
-      },
-      {
-        "pos": "11",
-        "team": "Sao Bernardo",
-        "played": "31",
-        "pts": "45"
-      },
-      {
-        "pos": "12",
-        "team": "Goias",
-        "played": "31",
-        "pts": "42"
-      },
-      {
-        "pos": "13",
-        "team": "Nautico",
-        "played": "31",
-        "pts": "42"
-      },
-      {
-        "pos": "14",
-        "team": "Athletic MG",
-        "played": "31",
-        "pts": "42"
-      },
-      {
-        "pos": "15",
-        "team": "Ceara",
-        "played": "31",
-        "pts": "39"
-      },
-      {
-        "pos": "16",
-        "team": "Botafogo-SP",
-        "played": "31",
-        "pts": "35"
-      },
-      {
-        "pos": "17",
-        "team": "Avai",
-        "played": "31",
-        "pts": "30"
-      },
-      {
-        "pos": "18",
-        "team": "Londrina",
-        "played": "31",
-        "pts": "28"
-      },
-      {
-        "pos": "19",
-        "team": "America Mineiro",
-        "played": "31",
-        "pts": "17"
-      },
-      {
-        "pos": "20",
-        "team": "Ponte Preta",
-        "played": "31",
-        "pts": "13"
-      }
-    ],
-    "last_updated": "2026-10-07T01:54:47.182913"
-  },
-  {
-    "event_id": "457941048",
-    "matchup": "Operario FEC – Botafogo-SP",
-    "event_url": "https://livetv.sx/enx/eventinfo/457941048__/",
-    "competition": "Brazil. Serie B",
-    "date_time": "7 October at 23:30",
-    "parsed_datetime": "2026-10-07T23:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Operario FEC",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/6281.gif"
-      },
-      {
-        "team_name": "Botafogo-SP",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/26546.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Vila Nova",
-        "played": "31",
-        "pts": "57"
-      },
-      {
-        "pos": "2",
-        "team": "Juventude",
-        "played": "31",
-        "pts": "56"
-      },
-      {
-        "pos": "3",
-        "team": "Novorizontino",
-        "played": "31",
-        "pts": "54"
-      },
-      {
-        "pos": "4",
-        "team": "Criciuma",
-        "played": "31",
-        "pts": "53"
-      },
-      {
-        "pos": "5",
-        "team": "Fortaleza",
-        "played": "31",
-        "pts": "53"
-      },
-      {
-        "pos": "6",
-        "team": "Atletico-GO",
-        "played": "31",
-        "pts": "52"
-      },
-      {
-        "pos": "7",
-        "team": "CRB",
-        "played": "31",
-        "pts": "48"
-      },
-      {
-        "pos": "8",
-        "team": "Operario FEC",
-        "played": "31",
-        "pts": "48"
-      },
-      {
-        "pos": "9",
-        "team": "Sport Recife",
-        "played": "31",
-        "pts": "47"
-      },
-      {
-        "pos": "10",
-        "team": "Cuiaba",
-        "played": "31",
-        "pts": "46"
-      },
-      {
-        "pos": "11",
-        "team": "Sao Bernardo",
-        "played": "31",
-        "pts": "45"
-      },
-      {
-        "pos": "12",
-        "team": "Goias",
-        "played": "31",
-        "pts": "42"
-      },
-      {
-        "pos": "13",
-        "team": "Nautico",
-        "played": "31",
-        "pts": "42"
-      },
-      {
-        "pos": "14",
-        "team": "Athletic MG",
-        "played": "31",
-        "pts": "42"
-      },
-      {
-        "pos": "15",
-        "team": "Ceara",
-        "played": "31",
-        "pts": "39"
-      },
-      {
-        "pos": "16",
-        "team": "Botafogo-SP",
-        "played": "31",
-        "pts": "35"
-      },
-      {
-        "pos": "17",
-        "team": "Avai",
-        "played": "31",
-        "pts": "30"
-      },
-      {
-        "pos": "18",
-        "team": "Londrina",
-        "played": "31",
-        "pts": "28"
-      },
-      {
-        "pos": "19",
-        "team": "America Mineiro",
-        "played": "31",
-        "pts": "17"
-      },
-      {
-        "pos": "20",
-        "team": "Ponte Preta",
-        "played": "31",
-        "pts": "13"
-      }
-    ],
-    "last_updated": "2026-10-07T01:54:47.204999"
-  },
-  {
-    "event_id": "454121015",
-    "matchup": "Colombia COL – Peru PER",
-    "event_url": "https://livetv.sx/enx/eventinfo/454121015__/",
-    "competition": "Friendly Match. National Teams",
-    "date_time": "7 October at 0:45",
-    "parsed_datetime": "2026-10-07T00:45:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Colombia COL",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag42.gif"
-      },
-      {
-        "team_name": "Peru PER",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag154.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-10-07T01:54:47.229021"
-  },
-  {
-    "event_id": "457941023",
-    "matchup": "RB Bragantino – Mirassol",
-    "event_url": "https://livetv.sx/enx/eventinfo/457941023__/",
-    "competition": "Brazil. Serie A",
-    "date_time": "7 October at 23:30",
-    "parsed_datetime": "2026-10-07T23:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "RB Bragantino",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/518.gif"
-      },
-      {
-        "team_name": "Mirassol",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/30289.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Flamengo-RJ",
-        "played": "28",
-        "pts": "60"
-      },
-      {
-        "pos": "2",
-        "team": "Palmeiras",
-        "played": "28",
-        "pts": "57"
-      },
-      {
-        "pos": "3",
-        "team": "Athletico-PR",
-        "played": "28",
-        "pts": "49"
-      },
-      {
-        "pos": "4",
-        "team": "Fluminense",
-        "played": "28",
-        "pts": "48"
-      },
-      {
-        "pos": "5",
-        "team": "Bahia",
-        "played": "28",
-        "pts": "46"
-      },
-      {
-        "pos": "6",
-        "team": "Cruzeiro-MG",
-        "played": "28",
-        "pts": "45"
-      },
-      {
-        "pos": "7",
-        "team": "Atletico-MG",
-        "played": "28",
-        "pts": "43"
-      },
-      {
-        "pos": "8",
-        "team": "Santos-SP",
-        "played": "28",
-        "pts": "41"
-      },
-      {
-        "pos": "9",
-        "team": "Coritiba",
-        "played": "28",
-        "pts": "38"
-      },
-      {
-        "pos": "10",
-        "team": "Sao Paolo",
-        "played": "28",
-        "pts": "36"
-      },
-      {
-        "pos": "11",
-        "team": "RB Bragantino",
-        "played": "28",
-        "pts": "36"
-      },
-      {
-        "pos": "12",
-        "team": "Botafogo-RJ",
-        "played": "28",
-        "pts": "35"
-      },
-      {
-        "pos": "13",
-        "team": "Vitoria-BA",
-        "played": "28",
-        "pts": "33"
-      },
-      {
-        "pos": "14",
-        "team": "Corinthians",
-        "played": "28",
-        "pts": "32"
-      },
-      {
-        "pos": "15",
-        "team": "Mirassol",
-        "played": "28",
-        "pts": "32"
-      },
-      {
-        "pos": "16",
-        "team": "Vasco de Gama",
-        "played": "27",
-        "pts": "31"
-      },
-      {
-        "pos": "17",
-        "team": "Gremio-RS",
-        "played": "28",
-        "pts": "29"
-      },
-      {
-        "pos": "18",
-        "team": "Inter-RS",
-        "played": "28",
-        "pts": "28"
-      },
-      {
-        "pos": "19",
-        "team": "Remo",
-        "played": "28",
-        "pts": "23"
-      },
-      {
-        "pos": "20",
-        "team": "Chapecoense",
-        "played": "27",
-        "pts": "18"
-      }
-    ],
-    "last_updated": "2026-10-07T01:54:47.404166"
+    "last_updated": "2026-10-07T07:57:13.876463"
   },
   {
     "event_id": "499402073",
@@ -750,377 +336,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:47.452810"
-  },
-  {
-    "event_id": "454488835",
-    "matchup": "French Guiana GUF – Belize BLZ",
-    "event_url": "https://livetv.sx/enx/eventinfo/454488835__/",
-    "competition": "CONCACAF Nations League",
-    "date_time": "7 October at 3:00",
-    "parsed_datetime": "2026-10-07T03:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "French Guiana GUF",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag83.gif"
-      },
-      {
-        "team_name": "Belize BLZ",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag25.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268913&lang=en&eid=454488835&lid=3080729&ci=2311&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=269565&lang=en&eid=454488835&lid=3083037&ci=2311&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3079021&lang=en&eid=454488835&lid=3079021&ci=2311&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      },
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=ZSLo_GybpUE&lang=en&eid=454488835&lid=3082888&ci=2311&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      },
-      {
-        "language": "English",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/2.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=acestream&c=cba8d369eac629b577750edb90370cd1c5fb03b7&lang=en&eid=454488835&lid=2846535&ci=2311&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-10-07T01:54:47.531623"
-  },
-  {
-    "event_id": "454261301",
-    "matchup": "Ponte Preta – Juventude",
-    "event_url": "https://livetv.sx/enx/eventinfo/454261301__/",
-    "competition": "Brazil. Serie B",
-    "date_time": "7 October at 1:35",
-    "parsed_datetime": "2026-10-07T01:35:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Ponte Preta",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/6256.gif"
-      },
-      {
-        "team_name": "Juventude",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/6336.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3083629&lang=en&eid=454261301&lid=3083629&ci=260&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Vila Nova",
-        "played": "31",
-        "pts": "57"
-      },
-      {
-        "pos": "2",
-        "team": "Juventude",
-        "played": "31",
-        "pts": "56"
-      },
-      {
-        "pos": "3",
-        "team": "Novorizontino",
-        "played": "31",
-        "pts": "54"
-      },
-      {
-        "pos": "4",
-        "team": "Criciuma",
-        "played": "31",
-        "pts": "53"
-      },
-      {
-        "pos": "5",
-        "team": "Fortaleza",
-        "played": "31",
-        "pts": "53"
-      },
-      {
-        "pos": "6",
-        "team": "Atletico-GO",
-        "played": "31",
-        "pts": "52"
-      },
-      {
-        "pos": "7",
-        "team": "CRB",
-        "played": "31",
-        "pts": "48"
-      },
-      {
-        "pos": "8",
-        "team": "Operario FEC",
-        "played": "31",
-        "pts": "48"
-      },
-      {
-        "pos": "9",
-        "team": "Sport Recife",
-        "played": "31",
-        "pts": "47"
-      },
-      {
-        "pos": "10",
-        "team": "Cuiaba",
-        "played": "31",
-        "pts": "46"
-      },
-      {
-        "pos": "11",
-        "team": "Sao Bernardo",
-        "played": "31",
-        "pts": "45"
-      },
-      {
-        "pos": "12",
-        "team": "Goias",
-        "played": "31",
-        "pts": "42"
-      },
-      {
-        "pos": "13",
-        "team": "Nautico",
-        "played": "31",
-        "pts": "42"
-      },
-      {
-        "pos": "14",
-        "team": "Athletic MG",
-        "played": "31",
-        "pts": "42"
-      },
-      {
-        "pos": "15",
-        "team": "Ceara",
-        "played": "31",
-        "pts": "39"
-      },
-      {
-        "pos": "16",
-        "team": "Botafogo-SP",
-        "played": "31",
-        "pts": "35"
-      },
-      {
-        "pos": "17",
-        "team": "Avai",
-        "played": "31",
-        "pts": "30"
-      },
-      {
-        "pos": "18",
-        "team": "Londrina",
-        "played": "31",
-        "pts": "28"
-      },
-      {
-        "pos": "19",
-        "team": "America Mineiro",
-        "played": "31",
-        "pts": "17"
-      },
-      {
-        "pos": "20",
-        "team": "Ponte Preta",
-        "played": "31",
-        "pts": "13"
-      }
-    ],
-    "last_updated": "2026-10-07T01:54:47.656866"
-  },
-  {
-    "event_id": "457941021",
-    "matchup": "Remo – Gremio-RS",
-    "event_url": "https://livetv.sx/enx/eventinfo/457941021__/",
-    "competition": "Brazil. Serie A",
-    "date_time": "7 October at 23:30",
-    "parsed_datetime": "2026-10-07T23:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Remo",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/6712.gif"
-      },
-      {
-        "team_name": "Gremio-RS",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/250.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Flamengo-RJ",
-        "played": "28",
-        "pts": "60"
-      },
-      {
-        "pos": "2",
-        "team": "Palmeiras",
-        "played": "28",
-        "pts": "57"
-      },
-      {
-        "pos": "3",
-        "team": "Athletico-PR",
-        "played": "28",
-        "pts": "49"
-      },
-      {
-        "pos": "4",
-        "team": "Fluminense",
-        "played": "28",
-        "pts": "48"
-      },
-      {
-        "pos": "5",
-        "team": "Bahia",
-        "played": "28",
-        "pts": "46"
-      },
-      {
-        "pos": "6",
-        "team": "Cruzeiro-MG",
-        "played": "28",
-        "pts": "45"
-      },
-      {
-        "pos": "7",
-        "team": "Atletico-MG",
-        "played": "28",
-        "pts": "43"
-      },
-      {
-        "pos": "8",
-        "team": "Santos-SP",
-        "played": "28",
-        "pts": "41"
-      },
-      {
-        "pos": "9",
-        "team": "Coritiba",
-        "played": "28",
-        "pts": "38"
-      },
-      {
-        "pos": "10",
-        "team": "Sao Paolo",
-        "played": "28",
-        "pts": "36"
-      },
-      {
-        "pos": "11",
-        "team": "RB Bragantino",
-        "played": "28",
-        "pts": "36"
-      },
-      {
-        "pos": "12",
-        "team": "Botafogo-RJ",
-        "played": "28",
-        "pts": "35"
-      },
-      {
-        "pos": "13",
-        "team": "Vitoria-BA",
-        "played": "28",
-        "pts": "33"
-      },
-      {
-        "pos": "14",
-        "team": "Corinthians",
-        "played": "28",
-        "pts": "32"
-      },
-      {
-        "pos": "15",
-        "team": "Mirassol",
-        "played": "28",
-        "pts": "32"
-      },
-      {
-        "pos": "16",
-        "team": "Vasco de Gama",
-        "played": "27",
-        "pts": "31"
-      },
-      {
-        "pos": "17",
-        "team": "Gremio-RS",
-        "played": "28",
-        "pts": "29"
-      },
-      {
-        "pos": "18",
-        "team": "Inter-RS",
-        "played": "28",
-        "pts": "28"
-      },
-      {
-        "pos": "19",
-        "team": "Remo",
-        "played": "28",
-        "pts": "23"
-      },
-      {
-        "pos": "20",
-        "team": "Chapecoense",
-        "played": "27",
-        "pts": "18"
-      }
-    ],
-    "last_updated": "2026-10-07T01:54:47.707439"
+    "last_updated": "2026-10-07T07:57:13.928190"
   },
   {
     "event_id": "457941022",
@@ -1267,98 +483,830 @@
         "pts": "18"
       }
     ],
-    "last_updated": "2026-10-07T01:54:47.707456"
+    "last_updated": "2026-10-07T07:57:13.989328"
   },
   {
-    "event_id": "478510260",
-    "matchup": "Mexico MEX – Chile CHL",
-    "event_url": "https://livetv.sx/enx/eventinfo/478510260__/",
-    "competition": "Friendly Match. National Teams",
-    "date_time": "7 October at 3:30",
-    "parsed_datetime": "2026-10-07T03:30:00",
+    "event_id": "457941021",
+    "matchup": "Remo – Gremio-RS",
+    "event_url": "https://livetv.sx/enx/eventinfo/457941021__/",
+    "competition": "Brazil. Serie A",
+    "date_time": "7 October at 23:30",
+    "parsed_datetime": "2026-10-07T23:30:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Mexico MEX",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag127.gif"
+        "team_name": "Remo",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/6712.gif"
       },
       {
-        "team_name": "Chile CHL",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag36.gif"
+        "team_name": "Gremio-RS",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/250.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Flamengo-RJ",
+        "played": "28",
+        "pts": "60"
+      },
+      {
+        "pos": "2",
+        "team": "Palmeiras",
+        "played": "28",
+        "pts": "57"
+      },
+      {
+        "pos": "3",
+        "team": "Athletico-PR",
+        "played": "28",
+        "pts": "49"
+      },
+      {
+        "pos": "4",
+        "team": "Fluminense",
+        "played": "28",
+        "pts": "48"
+      },
+      {
+        "pos": "5",
+        "team": "Bahia",
+        "played": "28",
+        "pts": "46"
+      },
+      {
+        "pos": "6",
+        "team": "Cruzeiro-MG",
+        "played": "28",
+        "pts": "45"
+      },
+      {
+        "pos": "7",
+        "team": "Atletico-MG",
+        "played": "28",
+        "pts": "43"
+      },
+      {
+        "pos": "8",
+        "team": "Santos-SP",
+        "played": "28",
+        "pts": "41"
+      },
+      {
+        "pos": "9",
+        "team": "Coritiba",
+        "played": "28",
+        "pts": "38"
+      },
+      {
+        "pos": "10",
+        "team": "Sao Paolo",
+        "played": "28",
+        "pts": "36"
+      },
+      {
+        "pos": "11",
+        "team": "RB Bragantino",
+        "played": "28",
+        "pts": "36"
+      },
+      {
+        "pos": "12",
+        "team": "Botafogo-RJ",
+        "played": "28",
+        "pts": "35"
+      },
+      {
+        "pos": "13",
+        "team": "Vitoria-BA",
+        "played": "28",
+        "pts": "33"
+      },
+      {
+        "pos": "14",
+        "team": "Corinthians",
+        "played": "28",
+        "pts": "32"
+      },
+      {
+        "pos": "15",
+        "team": "Mirassol",
+        "played": "28",
+        "pts": "32"
+      },
+      {
+        "pos": "16",
+        "team": "Vasco de Gama",
+        "played": "27",
+        "pts": "31"
+      },
+      {
+        "pos": "17",
+        "team": "Gremio-RS",
+        "played": "28",
+        "pts": "29"
+      },
+      {
+        "pos": "18",
+        "team": "Inter-RS",
+        "played": "28",
+        "pts": "28"
+      },
+      {
+        "pos": "19",
+        "team": "Remo",
+        "played": "28",
+        "pts": "23"
+      },
+      {
+        "pos": "20",
+        "team": "Chapecoense",
+        "played": "27",
+        "pts": "18"
+      }
+    ],
+    "last_updated": "2026-10-07T07:57:13.998167"
+  },
+  {
+    "event_id": "457941047",
+    "matchup": "Avai – Londrina",
+    "event_url": "https://livetv.sx/enx/eventinfo/457941047__/",
+    "competition": "Brazil. Serie B",
+    "date_time": "7 October at 23:30",
+    "parsed_datetime": "2026-10-07T23:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Avai",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/3871.gif"
+      },
+      {
+        "team_name": "Londrina",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/1103.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Juventude",
+        "played": "32",
+        "pts": "59"
+      },
+      {
+        "pos": "2",
+        "team": "Vila Nova",
+        "played": "31",
+        "pts": "57"
+      },
+      {
+        "pos": "3",
+        "team": "Novorizontino",
+        "played": "31",
+        "pts": "54"
+      },
+      {
+        "pos": "4",
+        "team": "Criciuma",
+        "played": "31",
+        "pts": "53"
+      },
+      {
+        "pos": "5",
+        "team": "Fortaleza",
+        "played": "31",
+        "pts": "53"
+      },
+      {
+        "pos": "6",
+        "team": "Atletico-GO",
+        "played": "31",
+        "pts": "52"
+      },
+      {
+        "pos": "7",
+        "team": "Sport Recife",
+        "played": "32",
+        "pts": "50"
+      },
+      {
+        "pos": "8",
+        "team": "CRB",
+        "played": "31",
+        "pts": "48"
+      },
+      {
+        "pos": "9",
+        "team": "Operario FEC",
+        "played": "31",
+        "pts": "48"
+      },
+      {
+        "pos": "10",
+        "team": "Cuiaba",
+        "played": "31",
+        "pts": "46"
+      },
+      {
+        "pos": "11",
+        "team": "Goias",
+        "played": "32",
+        "pts": "45"
+      },
+      {
+        "pos": "12",
+        "team": "Sao Bernardo",
+        "played": "32",
+        "pts": "45"
+      },
+      {
+        "pos": "13",
+        "team": "Nautico",
+        "played": "31",
+        "pts": "42"
+      },
+      {
+        "pos": "14",
+        "team": "Athletic MG",
+        "played": "32",
+        "pts": "42"
+      },
+      {
+        "pos": "15",
+        "team": "Ceara",
+        "played": "31",
+        "pts": "39"
+      },
+      {
+        "pos": "16",
+        "team": "Botafogo-SP",
+        "played": "31",
+        "pts": "35"
+      },
+      {
+        "pos": "17",
+        "team": "Avai",
+        "played": "31",
+        "pts": "30"
+      },
+      {
+        "pos": "18",
+        "team": "Londrina",
+        "played": "31",
+        "pts": "28"
+      },
+      {
+        "pos": "19",
+        "team": "America Mineiro",
+        "played": "31",
+        "pts": "17"
+      },
+      {
+        "pos": "20",
+        "team": "Ponte Preta",
+        "played": "32",
+        "pts": "13"
+      }
+    ],
+    "last_updated": "2026-10-07T07:57:14.007209"
+  },
+  {
+    "event_id": "495397662",
+    "matchup": "Zhizhen Zhang –  Tomas Machac",
+    "event_url": "https://livetv.sx/enx/eventinfo/495397662_zhizhen_zhang_tomas_machac/",
+    "competition": "General",
+    "date_time": "7:45 (ATP. Shanghai)",
+    "parsed_datetime": "",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Zhizhen Zhang",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/14752.gif"
+      },
+      {
+        "team_name": "Tomas Machac",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/9125.gif"
       }
     ],
     "streams": [
       {
-        "language": "Arabic",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/5.png",
+        "language": "English",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268700&lang=en&eid=478510260&lid=3083519&ci=5679&si=1",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=265029&lang=en&eid=495397662&lid=3060270&ci=7118&si=4",
         "stream_title": "",
         "stream_type": ""
       },
       {
-        "language": "",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/0.png",
+        "language": "English",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268971&lang=en&eid=478510260&lid=3083623&ci=5679&si=1",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268806&lang=en&eid=495397662&lid=3080269&ci=7118&si=4",
         "stream_title": "",
         "stream_type": ""
       },
       {
-        "language": "",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/0.png",
+        "language": "English",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/2.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268973&lang=en&eid=478510260&lid=3083622&ci=5679&si=1",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=267933&lang=en&eid=495397662&lid=3083650&ci=7118&si=4",
         "stream_title": "",
         "stream_type": ""
       },
       {
-        "language": "Spanish",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/7.png",
+        "language": "Dutch",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/4.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3083488&lang=en&eid=478510260&lid=3083488&ci=5679&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=267733&lang=en&eid=495397662&lid=3073175&ci=7118&si=4",
+        "stream_title": "",
+        "stream_type": ""
       },
       {
-        "language": "",
-        "flag_src": "https://cdn.livetv904.me/img/linkflag/0.png",
+        "language": "Serbian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/17.png",
         "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3083195&lang=en&eid=478510260&lid=3083195&ci=5679&si=1",
-        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-        "stream_type": "Web"
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268611&lang=en&eid=495397662&lid=3081997&ci=7118&si=4",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Croatian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/29.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268672&lang=en&eid=495397662&lid=3080175&ci=7118&si=4",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Bulgarian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/16.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268925&lang=en&eid=495397662&lid=3081265&ci=7118&si=4",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Romanian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/14.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=269235&lang=en&eid=495397662&lid=3081448&ci=7118&si=4",
+        "stream_title": "",
+        "stream_type": ""
       }
     ],
     "starting_lineups": {
       "home_team": [],
-      "away_team": [
-        "12.",
-        "Lawrence Vigouroux",
-        "(G)",
-        "27.",
-        "Jonathan Villagra",
-        "09.",
-        "Maximiliano Gutierrez",
-        "05.",
-        "Paulo Diaz",
-        "18.",
-        "Rodrigo Echeverria",
-        "06.",
-        "Vicente Pizarro",
-        "11.",
-        "Dario Osorio",
-        "26.",
-        "Diego Ulloa",
-        "08.",
-        "Felipe Loyola",
-        "17.",
-        "Gabriel Suazo",
-        "16.",
-        "Gonzalo Tapia"
-      ]
+      "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:47.808668"
+    "last_updated": "2026-10-07T07:57:14.039436"
+  },
+  {
+    "event_id": "495397654",
+    "matchup": "Yannick Hanfmann –  Kamil Majchrzak",
+    "event_url": "https://livetv.sx/enx/eventinfo/495397654_yannick_hanfmann_kamil_majchrzak/",
+    "competition": "General",
+    "date_time": "7:30 (ATP. Shanghai)",
+    "parsed_datetime": "",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Yannick Hanfmann",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/13241.gif"
+      },
+      {
+        "team_name": "Kamil Majchrzak",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/14645.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268860&lang=en&eid=495397654&lid=3083648&ci=7118&si=4",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Croatian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/29.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268671&lang=en&eid=495397654&lid=3080218&ci=7118&si=4",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Bulgarian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/16.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268926&lang=en&eid=495397654&lid=3083475&ci=7118&si=4",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=269094&lang=en&eid=495397654&lid=3081683&ci=7118&si=4",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Polish",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/8.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=269129&lang=en&eid=495397654&lid=3082896&ci=7118&si=4",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Polish",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/8.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=269127&lang=en&eid=495397654&lid=3080698&ci=7118&si=4",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Polish",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/8.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=269410&lang=en&eid=495397654&lid=3082526&ci=7118&si=4",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-10-07T07:57:14.068681"
+  },
+  {
+    "event_id": "499424506",
+    "matchup": "Zhang (W) /  Siniakova (W) –   Chwalinska (W) /  Bartunkova (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/499424506__zhang_w___siniakova_w__chwalinska_w___bartunkova_w/",
+    "competition": "General",
+    "date_time": "7:45 (WTA. Beijing. Doubles)",
+    "parsed_datetime": "",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Zhang (W) /  Siniakova (W)",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/.gif"
+      },
+      {
+        "team_name": "Chwalinska (W) /  Bartunkova (W)",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Croatian",
+        "flag_src": "https://cdn.livetv904.me/img/linkflag/29.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=268675&lang=en&eid=499424506&lid=3080662&ci=7113&si=4",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-10-07T07:57:14.125006"
+  },
+  {
+    "event_id": "457941023",
+    "matchup": "RB Bragantino – Mirassol",
+    "event_url": "https://livetv.sx/enx/eventinfo/457941023__/",
+    "competition": "Brazil. Serie A",
+    "date_time": "7 October at 23:30",
+    "parsed_datetime": "2026-10-07T23:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "RB Bragantino",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/518.gif"
+      },
+      {
+        "team_name": "Mirassol",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/30289.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Flamengo-RJ",
+        "played": "28",
+        "pts": "60"
+      },
+      {
+        "pos": "2",
+        "team": "Palmeiras",
+        "played": "28",
+        "pts": "57"
+      },
+      {
+        "pos": "3",
+        "team": "Athletico-PR",
+        "played": "28",
+        "pts": "49"
+      },
+      {
+        "pos": "4",
+        "team": "Fluminense",
+        "played": "28",
+        "pts": "48"
+      },
+      {
+        "pos": "5",
+        "team": "Bahia",
+        "played": "28",
+        "pts": "46"
+      },
+      {
+        "pos": "6",
+        "team": "Cruzeiro-MG",
+        "played": "28",
+        "pts": "45"
+      },
+      {
+        "pos": "7",
+        "team": "Atletico-MG",
+        "played": "28",
+        "pts": "43"
+      },
+      {
+        "pos": "8",
+        "team": "Santos-SP",
+        "played": "28",
+        "pts": "41"
+      },
+      {
+        "pos": "9",
+        "team": "Coritiba",
+        "played": "28",
+        "pts": "38"
+      },
+      {
+        "pos": "10",
+        "team": "Sao Paolo",
+        "played": "28",
+        "pts": "36"
+      },
+      {
+        "pos": "11",
+        "team": "RB Bragantino",
+        "played": "28",
+        "pts": "36"
+      },
+      {
+        "pos": "12",
+        "team": "Botafogo-RJ",
+        "played": "28",
+        "pts": "35"
+      },
+      {
+        "pos": "13",
+        "team": "Vitoria-BA",
+        "played": "28",
+        "pts": "33"
+      },
+      {
+        "pos": "14",
+        "team": "Corinthians",
+        "played": "28",
+        "pts": "32"
+      },
+      {
+        "pos": "15",
+        "team": "Mirassol",
+        "played": "28",
+        "pts": "32"
+      },
+      {
+        "pos": "16",
+        "team": "Vasco de Gama",
+        "played": "27",
+        "pts": "31"
+      },
+      {
+        "pos": "17",
+        "team": "Gremio-RS",
+        "played": "28",
+        "pts": "29"
+      },
+      {
+        "pos": "18",
+        "team": "Inter-RS",
+        "played": "28",
+        "pts": "28"
+      },
+      {
+        "pos": "19",
+        "team": "Remo",
+        "played": "28",
+        "pts": "23"
+      },
+      {
+        "pos": "20",
+        "team": "Chapecoense",
+        "played": "27",
+        "pts": "18"
+      }
+    ],
+    "last_updated": "2026-10-07T07:57:14.128892"
+  },
+  {
+    "event_id": "504732700",
+    "matchup": "Gyeongju (W) – Hwacheon (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/504732700_gyeongju_w_hwacheon_w/",
+    "competition": "South Korea. Women. WK-League",
+    "date_time": "7 October at 11:00",
+    "parsed_datetime": "2026-10-07T11:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Gyeongju (W)",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/35102.gif"
+      },
+      {
+        "team_name": "Hwacheon (W)",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/33156.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-10-07T07:57:14.187011"
+  },
+  {
+    "event_id": "457941048",
+    "matchup": "Operario FEC – Botafogo-SP",
+    "event_url": "https://livetv.sx/enx/eventinfo/457941048__/",
+    "competition": "Brazil. Serie B",
+    "date_time": "7 October at 23:30",
+    "parsed_datetime": "2026-10-07T23:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Operario FEC",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/6281.gif"
+      },
+      {
+        "team_name": "Botafogo-SP",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/26546.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Juventude",
+        "played": "32",
+        "pts": "59"
+      },
+      {
+        "pos": "2",
+        "team": "Vila Nova",
+        "played": "31",
+        "pts": "57"
+      },
+      {
+        "pos": "3",
+        "team": "Novorizontino",
+        "played": "31",
+        "pts": "54"
+      },
+      {
+        "pos": "4",
+        "team": "Criciuma",
+        "played": "31",
+        "pts": "53"
+      },
+      {
+        "pos": "5",
+        "team": "Fortaleza",
+        "played": "31",
+        "pts": "53"
+      },
+      {
+        "pos": "6",
+        "team": "Atletico-GO",
+        "played": "31",
+        "pts": "52"
+      },
+      {
+        "pos": "7",
+        "team": "Sport Recife",
+        "played": "32",
+        "pts": "50"
+      },
+      {
+        "pos": "8",
+        "team": "CRB",
+        "played": "31",
+        "pts": "48"
+      },
+      {
+        "pos": "9",
+        "team": "Operario FEC",
+        "played": "31",
+        "pts": "48"
+      },
+      {
+        "pos": "10",
+        "team": "Cuiaba",
+        "played": "31",
+        "pts": "46"
+      },
+      {
+        "pos": "11",
+        "team": "Goias",
+        "played": "32",
+        "pts": "45"
+      },
+      {
+        "pos": "12",
+        "team": "Sao Bernardo",
+        "played": "32",
+        "pts": "45"
+      },
+      {
+        "pos": "13",
+        "team": "Nautico",
+        "played": "31",
+        "pts": "42"
+      },
+      {
+        "pos": "14",
+        "team": "Athletic MG",
+        "played": "32",
+        "pts": "42"
+      },
+      {
+        "pos": "15",
+        "team": "Ceara",
+        "played": "31",
+        "pts": "39"
+      },
+      {
+        "pos": "16",
+        "team": "Botafogo-SP",
+        "played": "31",
+        "pts": "35"
+      },
+      {
+        "pos": "17",
+        "team": "Avai",
+        "played": "31",
+        "pts": "30"
+      },
+      {
+        "pos": "18",
+        "team": "Londrina",
+        "played": "31",
+        "pts": "28"
+      },
+      {
+        "pos": "19",
+        "team": "America Mineiro",
+        "played": "31",
+        "pts": "17"
+      },
+      {
+        "pos": "20",
+        "team": "Ponte Preta",
+        "played": "32",
+        "pts": "13"
+      }
+    ],
+    "last_updated": "2026-10-07T07:57:14.203827"
   },
   {
     "event_id": "478623454",
@@ -1375,7 +1323,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:47.883675"
+    "last_updated": "2026-10-07T07:57:14.389823"
   },
   {
     "event_id": "500293255",
@@ -1401,33 +1349,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:47.972555"
+    "last_updated": "2026-10-07T07:57:14.413409"
   },
   {
-    "event_id": "471780466",
-    "matchup": "Finland (W) U-17 –   Ukraine (W) U-17",
-    "event_url": "https://livetv.sx/enx/eventinfo/471780466__/",
-    "competition": "Women. European U-17 Championship qualification",
+    "event_id": "478623456",
+    "matchup": "Oleksandria U19 – Livyi Bereg U19",
+    "event_url": "https://livetv.sx/enx/eventinfo/478623456_oleksandria_u19_livyi_bereg_u19/",
+    "competition": "Ukraine. U-19 Premier League",
     "date_time": "7 October at 11:00",
     "parsed_datetime": "2026-10-07T11:00:00",
     "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Finland (W) U-17",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag63.gif"
-      },
-      {
-        "team_name": "Ukraine (W) U-17",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag203.gif"
-      }
-    ],
+    "team_logos": [],
     "streams": [],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:47.972571"
+    "last_updated": "2026-10-07T07:57:14.454706"
   },
   {
     "event_id": "500296917",
@@ -1453,15 +1392,15 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:48.025087"
+    "last_updated": "2026-10-07T07:57:14.477207"
   },
   {
-    "event_id": "478623456",
-    "matchup": "Oleksandria U19 – Livyi Bereg U19",
-    "event_url": "https://livetv.sx/enx/eventinfo/478623456_oleksandria_u19_livyi_bereg_u19/",
-    "competition": "Ukraine. U-19 Premier League",
-    "date_time": "7 October at 11:00",
-    "parsed_datetime": "2026-10-07T11:00:00",
+    "event_id": "478628223",
+    "matchup": "BuxDu – Lochin",
+    "event_url": "https://livetv.sx/enx/eventinfo/478628223_buxdu_lochin/",
+    "competition": "Uzbekistan. Pro League",
+    "date_time": "7 October at 12:00",
+    "parsed_datetime": "2026-10-07T12:00:00",
     "is_live": false,
     "team_logos": [],
     "streams": [],
@@ -1470,24 +1409,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:48.025099"
+    "last_updated": "2026-10-07T07:57:14.572477"
   },
   {
-    "event_id": "471780475",
-    "matchup": "Switzerland (W) U-19 –   Bosnia and Herzegovina (W) U-19",
-    "event_url": "https://livetv.sx/enx/eventinfo/471780475__/",
-    "competition": "Women. European Championship U19. Qualification",
-    "date_time": "7 October at 12:00",
-    "parsed_datetime": "2026-10-07T12:00:00",
+    "event_id": "471780466",
+    "matchup": "Finland (W) U-17 –   Ukraine (W) U-17",
+    "event_url": "https://livetv.sx/enx/eventinfo/471780466__/",
+    "competition": "Women. European U-17 Championship qualification",
+    "date_time": "7 October at 11:00",
+    "parsed_datetime": "2026-10-07T11:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Switzerland (W) U-19",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag35.gif"
+        "team_name": "Finland (W) U-17",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag63.gif"
       },
       {
-        "team_name": "Bosnia and Herzegovina (W) U-19",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag23.gif"
+        "team_name": "Ukraine (W) U-17",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag203.gif"
       }
     ],
     "streams": [],
@@ -1496,7 +1435,41 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:48.204569"
+    "last_updated": "2026-10-07T07:57:14.595994"
+  },
+  {
+    "event_id": "478628224",
+    "matchup": "Olimpik-Mobiuz – FarDU",
+    "event_url": "https://livetv.sx/enx/eventinfo/478628224_olimpik_mobiuz_fardu/",
+    "competition": "Uzbekistan. Pro League",
+    "date_time": "7 October at 12:00",
+    "parsed_datetime": "2026-10-07T12:00:00",
+    "is_live": false,
+    "team_logos": [],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-10-07T07:57:14.674183"
+  },
+  {
+    "event_id": "478628226",
+    "matchup": "Shortan – Jayxun",
+    "event_url": "https://livetv.sx/enx/eventinfo/478628226_shortan_jayxun/",
+    "competition": "Uzbekistan. Pro League",
+    "date_time": "7 October at 13:00",
+    "parsed_datetime": "2026-10-07T13:00:00",
+    "is_live": false,
+    "team_logos": [],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-10-07T07:57:14.765324"
   },
   {
     "event_id": "471780474",
@@ -1522,15 +1495,15 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:48.222016"
+    "last_updated": "2026-10-07T07:57:14.799321"
   },
   {
-    "event_id": "478628223",
-    "matchup": "BuxDu – Lochin",
-    "event_url": "https://livetv.sx/enx/eventinfo/478628223_buxdu_lochin/",
-    "competition": "Uzbekistan. Pro League",
-    "date_time": "7 October at 12:00",
-    "parsed_datetime": "2026-10-07T12:00:00",
+    "event_id": "478623455",
+    "matchup": "Obolon U19 – Shakhtar Donetsk U19",
+    "event_url": "https://livetv.sx/enx/eventinfo/478623455_obolon_u19_shakhtar_donetsk_u19/",
+    "competition": "Ukraine. U-19 Premier League",
+    "date_time": "7 October at 12:30",
+    "parsed_datetime": "2026-10-07T12:30:00",
     "is_live": false,
     "team_logos": [],
     "streams": [],
@@ -1539,7 +1512,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:48.361707"
+    "last_updated": "2026-10-07T07:57:14.850885"
   },
   {
     "event_id": "463706210",
@@ -1565,24 +1538,59 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:48.378890"
+    "last_updated": "2026-10-07T07:57:14.861108"
   },
   {
-    "event_id": "478628224",
-    "matchup": "Olimpik-Mobiuz – FarDU",
-    "event_url": "https://livetv.sx/enx/eventinfo/478628224_olimpik_mobiuz_fardu/",
-    "competition": "Uzbekistan. Pro League",
+    "event_id": "471780475",
+    "matchup": "Switzerland (W) U-19 –   Bosnia and Herzegovina (W) U-19",
+    "event_url": "https://livetv.sx/enx/eventinfo/471780475__/",
+    "competition": "Women. European Championship U19. Qualification",
     "date_time": "7 October at 12:00",
     "parsed_datetime": "2026-10-07T12:00:00",
     "is_live": false,
-    "team_logos": [],
+    "team_logos": [
+      {
+        "team_name": "Switzerland (W) U-19",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag35.gif"
+      },
+      {
+        "team_name": "Bosnia and Herzegovina (W) U-19",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag23.gif"
+      }
+    ],
     "streams": [],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:48.378907"
+    "last_updated": "2026-10-07T07:57:14.879419"
+  },
+  {
+    "event_id": "503889938",
+    "matchup": "Sahdag – Zaqatala",
+    "event_url": "https://livetv.sx/enx/eventinfo/503889938__/",
+    "competition": "Azerbaijan. 1 League",
+    "date_time": "7 October at 12:30",
+    "parsed_datetime": "2026-10-07T12:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Sahdag",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/35862.gif"
+      },
+      {
+        "team_name": "Zaqatala",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/27713.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-10-07T07:57:14.926842"
   },
   {
     "event_id": "500598358",
@@ -1599,67 +1607,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:48.498597"
-  },
-  {
-    "event_id": "478628226",
-    "matchup": "Shortan – Jayxun",
-    "event_url": "https://livetv.sx/enx/eventinfo/478628226_shortan_jayxun/",
-    "competition": "Uzbekistan. Pro League",
-    "date_time": "7 October at 13:00",
-    "parsed_datetime": "2026-10-07T13:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-10-07T01:54:48.519169"
-  },
-  {
-    "event_id": "478623455",
-    "matchup": "Obolon U19 – Shakhtar Donetsk U19",
-    "event_url": "https://livetv.sx/enx/eventinfo/478623455_obolon_u19_shakhtar_donetsk_u19/",
-    "competition": "Ukraine. U-19 Premier League",
-    "date_time": "7 October at 12:30",
-    "parsed_datetime": "2026-10-07T12:30:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-10-07T01:54:48.558932"
-  },
-  {
-    "event_id": "463706211",
-    "matchup": "Nanjing City – Shaanxi Union",
-    "event_url": "https://livetv.sx/enx/eventinfo/463706211__/",
-    "competition": "China. League One",
-    "date_time": "7 October at 12:30",
-    "parsed_datetime": "2026-10-07T12:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Nanjing City",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/14150.gif"
-      },
-      {
-        "team_name": "Shaanxi Union",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/33390.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-10-07T01:54:48.621201"
+    "last_updated": "2026-10-07T07:57:14.967294"
   },
   {
     "event_id": "463706212",
@@ -1685,7 +1633,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:48.676837"
+    "last_updated": "2026-10-07T07:57:15.002980"
+  },
+  {
+    "event_id": "463706211",
+    "matchup": "Nanjing City – Shaanxi Union",
+    "event_url": "https://livetv.sx/enx/eventinfo/463706211__/",
+    "competition": "China. League One",
+    "date_time": "7 October at 12:30",
+    "parsed_datetime": "2026-10-07T12:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Nanjing City",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/14150.gif"
+      },
+      {
+        "team_name": "Shaanxi Union",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/33390.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-10-07T07:57:15.017724"
   },
   {
     "event_id": "471780467",
@@ -1711,33 +1685,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:48.736195"
-  },
-  {
-    "event_id": "464275522",
-    "matchup": "Neftchi – Khorezm Urganch",
-    "event_url": "https://livetv.sx/enx/eventinfo/464275522__/",
-    "competition": "Uzbekistan. Super League",
-    "date_time": "7 October at 15:00",
-    "parsed_datetime": "2026-10-07T15:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Neftchi",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/33597.gif"
-      },
-      {
-        "team_name": "Khorezm Urganch",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/22474.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-10-07T01:54:48.798402"
+    "last_updated": "2026-10-07T07:57:15.041711"
   },
   {
     "event_id": "499425375",
@@ -1763,7 +1711,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:48.964666"
+    "last_updated": "2026-10-07T07:57:15.160789"
+  },
+  {
+    "event_id": "464275522",
+    "matchup": "Neftchi – Khorezm Urganch",
+    "event_url": "https://livetv.sx/enx/eventinfo/464275522__/",
+    "competition": "Uzbekistan. Super League",
+    "date_time": "7 October at 15:00",
+    "parsed_datetime": "2026-10-07T15:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Neftchi",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/33597.gif"
+      },
+      {
+        "team_name": "Khorezm Urganch",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/22474.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-10-07T07:57:15.273605"
   },
   {
     "event_id": "499554040",
@@ -1789,7 +1763,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:48.976416"
+    "last_updated": "2026-10-07T07:57:15.383646"
   },
   {
     "event_id": "471780469",
@@ -1815,7 +1789,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:49.006238"
+    "last_updated": "2026-10-07T07:57:15.467337"
   },
   {
     "event_id": "456706122",
@@ -1841,7 +1815,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:49.113309"
+    "last_updated": "2026-10-07T07:57:15.526678"
   },
   {
     "event_id": "456705788",
@@ -1867,7 +1841,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:49.117719"
+    "last_updated": "2026-10-07T07:57:15.596480"
   },
   {
     "event_id": "499395974",
@@ -1893,59 +1867,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:49.226693"
-  },
-  {
-    "event_id": "499862209",
-    "matchup": "Busaiteen – Qalali",
-    "event_url": "https://livetv.sx/enx/eventinfo/499862209__/",
-    "competition": "Bahrain. Cup",
-    "date_time": "7 October at 17:00",
-    "parsed_datetime": "2026-10-07T17:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Busaiteen",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/6742.gif"
-      },
-      {
-        "team_name": "Qalali",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/6899.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-10-07T01:54:49.241528"
-  },
-  {
-    "event_id": "499318162",
-    "matchup": "Zamalek – ZED",
-    "event_url": "https://livetv.sx/enx/eventinfo/499318162__/",
-    "competition": "Egypt. League Cup",
-    "date_time": "7 October at 18:00",
-    "parsed_datetime": "2026-10-07T18:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Zamalek",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/1548.gif"
-      },
-      {
-        "team_name": "ZED",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/29908.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-10-07T01:54:49.365798"
+    "last_updated": "2026-10-07T07:57:15.634282"
   },
   {
     "event_id": "456874331",
@@ -2044,24 +1966,24 @@
         "pts": "14"
       }
     ],
-    "last_updated": "2026-10-07T01:54:49.368749"
+    "last_updated": "2026-10-07T07:57:15.663538"
   },
   {
-    "event_id": "471780468",
-    "matchup": "Italy (W) U-17 –   Austria (W) U-17",
-    "event_url": "https://livetv.sx/enx/eventinfo/471780468__/",
-    "competition": "Women. European U-17 Championship qualification",
-    "date_time": "7 October at 18:30",
-    "parsed_datetime": "2026-10-07T18:30:00",
+    "event_id": "499318162",
+    "matchup": "Zamalek – ZED",
+    "event_url": "https://livetv.sx/enx/eventinfo/499318162__/",
+    "competition": "Egypt. League Cup",
+    "date_time": "7 October at 18:00",
+    "parsed_datetime": "2026-10-07T18:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Italy (W) U-17",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag99.gif"
+        "team_name": "Zamalek",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/1548.gif"
       },
       {
-        "team_name": "Austria (W) U-17",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag13.gif"
+        "team_name": "ZED",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/29908.gif"
       }
     ],
     "streams": [],
@@ -2070,24 +1992,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:49.484494"
+    "last_updated": "2026-10-07T07:57:15.704684"
   },
   {
-    "event_id": "457533085",
-    "matchup": "22 de Julio – El Nacional",
-    "event_url": "https://livetv.sx/enx/eventinfo/457533085__/",
-    "competition": "Ecuador. Serie B",
-    "date_time": "7 October at 21:00",
-    "parsed_datetime": "2026-10-07T21:00:00",
+    "event_id": "499862209",
+    "matchup": "Busaiteen – Qalali",
+    "event_url": "https://livetv.sx/enx/eventinfo/499862209__/",
+    "competition": "Bahrain. Cup",
+    "date_time": "7 October at 17:00",
+    "parsed_datetime": "2026-10-07T17:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "22 de Julio",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/33073.gif"
+        "team_name": "Busaiteen",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/6742.gif"
       },
       {
-        "team_name": "El Nacional",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/926.gif"
+        "team_name": "Qalali",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/6899.gif"
       }
     ],
     "streams": [],
@@ -2096,33 +2018,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:49.488164"
-  },
-  {
-    "event_id": "457533086",
-    "matchup": "Vinotinto – Cuenca Juniors",
-    "event_url": "https://livetv.sx/enx/eventinfo/457533086__/",
-    "competition": "Ecuador. Serie B",
-    "date_time": "7 October at 21:30",
-    "parsed_datetime": "2026-10-07T21:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Vinotinto",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/33220.gif"
-      },
-      {
-        "team_name": "Cuenca Juniors",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/35348.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-10-07T01:54:49.546078"
+    "last_updated": "2026-10-07T07:57:15.712714"
   },
   {
     "event_id": "457690587",
@@ -2148,7 +2044,111 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:49.637776"
+    "last_updated": "2026-10-07T07:57:15.736769"
+  },
+  {
+    "event_id": "457533085",
+    "matchup": "22 de Julio – El Nacional",
+    "event_url": "https://livetv.sx/enx/eventinfo/457533085__/",
+    "competition": "Ecuador. Serie B",
+    "date_time": "7 October at 21:00",
+    "parsed_datetime": "2026-10-07T21:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "22 de Julio",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/33073.gif"
+      },
+      {
+        "team_name": "El Nacional",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/926.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-10-07T07:57:15.760848"
+  },
+  {
+    "event_id": "471780468",
+    "matchup": "Italy (W) U-17 –   Austria (W) U-17",
+    "event_url": "https://livetv.sx/enx/eventinfo/471780468__/",
+    "competition": "Women. European U-17 Championship qualification",
+    "date_time": "7 October at 18:30",
+    "parsed_datetime": "2026-10-07T18:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Italy (W) U-17",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag99.gif"
+      },
+      {
+        "team_name": "Austria (W) U-17",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/flag13.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-10-07T07:57:15.791334"
+  },
+  {
+    "event_id": "478533965",
+    "matchup": "Coquimbo Unido – Cobreloa",
+    "event_url": "https://livetv.sx/enx/eventinfo/478533965__/",
+    "competition": "Chile. Cup",
+    "date_time": "7 October at 23:00",
+    "parsed_datetime": "2026-10-07T23:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Coquimbo Unido",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/7801.gif"
+      },
+      {
+        "team_name": "Cobreloa",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/8023.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-10-07T07:57:15.829048"
+  },
+  {
+    "event_id": "457533086",
+    "matchup": "Vinotinto – Cuenca Juniors",
+    "event_url": "https://livetv.sx/enx/eventinfo/457533086__/",
+    "competition": "Ecuador. Serie B",
+    "date_time": "7 October at 21:30",
+    "parsed_datetime": "2026-10-07T21:30:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Vinotinto",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/33220.gif"
+      },
+      {
+        "team_name": "Cuenca Juniors",
+        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/35348.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-10-07T07:57:15.881159"
   },
   {
     "event_id": "457530559",
@@ -2253,33 +2253,7 @@
         "pts": "6"
       }
     ],
-    "last_updated": "2026-10-07T01:54:49.766414"
-  },
-  {
-    "event_id": "478533965",
-    "matchup": "Coquimbo Unido – Cobreloa",
-    "event_url": "https://livetv.sx/enx/eventinfo/478533965__/",
-    "competition": "Chile. Cup",
-    "date_time": "7 October at 23:00",
-    "parsed_datetime": "2026-10-07T23:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Coquimbo Unido",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/7801.gif"
-      },
-      {
-        "team_name": "Cobreloa",
-        "logo_url": "https://cdn.livetv904.me/img/teams/fullsize/ods/8023.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-10-07T01:54:49.769178"
+    "last_updated": "2026-10-07T07:57:15.911818"
   },
   {
     "event_id": "478533966",
@@ -2305,7 +2279,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:49.887236"
+    "last_updated": "2026-10-07T07:57:16.062597"
   },
   {
     "event_id": "482687202",
@@ -2331,6 +2305,6 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-10-07T01:54:49.891270"
+    "last_updated": "2026-10-07T07:57:16.154723"
   }
 ]
