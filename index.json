@@ -1,54 +1,136 @@
 [
   {
-    "event_id": "612239002",
-    "matchup": "Armenia ARM – Cyprus CYP",
-    "event_url": "https://livetv.sx/enx/eventinfo/612239002__/",
+    "event_id": "664778356",
+    "matchup": "Simulcast",
+    "event_url": "https://livetv.sx/enx/eventinfo/664778356_simulcast/",
     "competition": "UEFA Nations League",
     "date_time": "12 November at 18:00",
     "parsed_datetime": "2026-11-12T18:00:00",
-    "is_live": false,
-    "team_logos": [
+    "is_live": true,
+    "team_logos": [],
+    "streams": [
       {
-        "team_name": "Armenia ARM",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag8.gif"
-      },
-      {
-        "team_name": "Cyprus CYP",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag48.gif"
+        "language": "Greek",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/28.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=271307&lang=en&eid=664778356&lid=3099416&ci=2088&si=1",
+        "stream_title": "",
+        "stream_type": ""
       }
     ],
-    "streams": [],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
-    "league_table": [
+    "league_table": [],
+    "last_updated": "2026-11-12T17:15:01.071381"
+  },
+  {
+    "event_id": "612050466",
+    "matchup": "Madagascar MDG – Guinea-Bissau GNB",
+    "event_url": "https://livetv.sx/enx/eventinfo/612050466__/",
+    "competition": "Africa Cup of Nations. Qualification",
+    "date_time": "12 November at 17:00",
+    "parsed_datetime": "2026-11-12T17:00:00",
+    "is_live": true,
+    "team_logos": [
       {
-        "pos": "1",
-        "team": "Montenegro MNE",
-        "played": "4",
-        "pts": "10"
+        "team_name": "Madagascar MDG",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag125.gif"
       },
       {
-        "pos": "2",
-        "team": "Cyprus CYP",
-        "played": "4",
-        "pts": "7"
-      },
-      {
-        "pos": "3",
-        "team": "Armenia ARM",
-        "played": "4",
-        "pts": "4"
-      },
-      {
-        "pos": "4",
-        "team": "Latvia LVA",
-        "played": "4",
-        "pts": "1"
+        "team_name": "Guinea-Bissau GNB",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag77.gif"
       }
     ],
-    "last_updated": "2026-11-12T08:51:30.801099"
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=268996&lang=en&eid=612050466&lid=3097105&ci=3427&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3099518&lang=en&eid=612050466&lid=3099518&ci=3427&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3098966&lang=en&eid=612050466&lid=3098966&ci=3427&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3094507&lang=en&eid=612050466&lid=3094507&ci=3427&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [
+        "01.",
+        "Geordan Dupire",
+        "(G)",
+        "09.",
+        "Warren Caddy",
+        "06.",
+        "Marco Ilaimaharitra",
+        "11.",
+        "El Hadary",
+        "15.",
+        "Ehsan Kari",
+        "14.",
+        "Clement Couturier",
+        "13.",
+        "Nicolas Fontaine",
+        "04.",
+        "Nicolas",
+        "05.",
+        "Sandro Tremoulet",
+        "07.",
+        "Rayan Raveloson",
+        "02.",
+        "Radoniaina"
+      ],
+      "away_team": [
+        "23.",
+        "Fernando Embadja",
+        "(G)",
+        "15.",
+        "Jefferson Encada",
+        "05.",
+        "Iano Imbeni",
+        "13.",
+        "Gilberto Batista",
+        "07.",
+        "Dalcio Gomes",
+        "09.",
+        "Beto",
+        "20.",
+        "Alvaro Djalo",
+        "17.",
+        "Mama Balde",
+        "16.",
+        "Mamadi Camara",
+        "11.",
+        "Ronaldo Vieira",
+        "22.",
+        "Opa Sangante"
+      ]
+    },
+    "league_table": [],
+    "last_updated": "2026-11-12T17:15:01.821392"
   },
   {
     "event_id": "653252226",
@@ -65,307 +147,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:30.916343"
-  },
-  {
-    "event_id": "631522377",
-    "matchup": "Lithuania (W) –  Suriname (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/631522377__/",
-    "competition": "Women. Friendly Match. National Teams",
-    "date_time": "12 November at 12:00",
-    "parsed_datetime": "2026-11-12T12:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Lithuania (W)",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag118.gif"
-      },
-      {
-        "team_name": "Suriname (W)",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag180.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:31.034046"
-  },
-  {
-    "event_id": "612690643",
-    "matchup": "Montenegro MNE – Latvia LVA",
-    "event_url": "https://livetv.sx/enx/eventinfo/612690643__/",
-    "competition": "UEFA Nations League",
-    "date_time": "12 November at 20:45",
-    "parsed_datetime": "2026-11-12T20:45:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Montenegro MNE",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag223.gif"
-      },
-      {
-        "team_name": "Latvia LVA",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag120.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Montenegro MNE",
-        "played": "4",
-        "pts": "10"
-      },
-      {
-        "pos": "2",
-        "team": "Cyprus CYP",
-        "played": "4",
-        "pts": "7"
-      },
-      {
-        "pos": "3",
-        "team": "Armenia ARM",
-        "played": "4",
-        "pts": "4"
-      },
-      {
-        "pos": "4",
-        "team": "Latvia LVA",
-        "played": "4",
-        "pts": "1"
-      }
-    ],
-    "last_updated": "2026-11-12T08:51:31.094029"
-  },
-  {
-    "event_id": "612690645",
-    "matchup": "Czech Republic CZE – Spain ESP",
-    "event_url": "https://livetv.sx/enx/eventinfo/612690645__/",
-    "competition": "UEFA Nations League",
-    "date_time": "12 November at 20:45",
-    "parsed_datetime": "2026-11-12T20:45:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Czech Republic CZE",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag49.gif"
-      },
-      {
-        "team_name": "Spain ESP",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag60.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Spain ESP",
-        "played": "4",
-        "pts": "12"
-      },
-      {
-        "pos": "2",
-        "team": "England ENG",
-        "played": "4",
-        "pts": "9"
-      },
-      {
-        "pos": "3",
-        "team": "Croatia CRO",
-        "played": "4",
-        "pts": "3"
-      },
-      {
-        "pos": "4",
-        "team": "Czech Republic CZE",
-        "played": "4",
-        "pts": "0"
-      }
-    ],
-    "last_updated": "2026-11-12T08:51:31.135195"
-  },
-  {
-    "event_id": "612690646",
-    "matchup": "Italy ITA – France FRA",
-    "event_url": "https://livetv.sx/enx/eventinfo/612690646__/",
-    "competition": "UEFA Nations League",
-    "date_time": "12 November at 20:45",
-    "parsed_datetime": "2026-11-12T20:45:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Italy ITA",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag99.gif"
-      },
-      {
-        "team_name": "France FRA",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag66.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "France FRA",
-        "played": "4",
-        "pts": "10"
-      },
-      {
-        "pos": "2",
-        "team": "Italy ITA",
-        "played": "4",
-        "pts": "7"
-      },
-      {
-        "pos": "3",
-        "team": "Belgium BEL",
-        "played": "4",
-        "pts": "6"
-      },
-      {
-        "pos": "4",
-        "team": "Turkey TUR",
-        "played": "4",
-        "pts": "0"
-      }
-    ],
-    "last_updated": "2026-11-12T08:51:31.154444"
-  },
-  {
-    "event_id": "661472195",
-    "matchup": "Kazakhstan U-21 –  Belarus U-21",
-    "event_url": "https://livetv.sx/enx/eventinfo/661472195__/",
-    "competition": "Friendly Match U-21. National Teams",
-    "date_time": "12 November at 10:00",
-    "parsed_datetime": "2026-11-12T10:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Kazakhstan U-21",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag103.gif"
-      },
-      {
-        "team_name": "Belarus U-21",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag24.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv916.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=KBOJSLZEq4I&lang=en&eid=661472195&lid=3099420&ci=5677&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:31.306683"
-  },
-  {
-    "event_id": "610779365",
-    "matchup": "APIA Leichhardt – Adelaide City",
-    "event_url": "https://livetv.sx/enx/eventinfo/610779365__/",
-    "competition": "Australia. Championship",
-    "date_time": "12 November at 9:30",
-    "parsed_datetime": "2026-11-12T09:30:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "APIA Leichhardt",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/2800.gif"
-      },
-      {
-        "team_name": "Adelaide City",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/34653.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv916.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=OYM-wNDQ2ZA&lang=en&eid=610779365&lid=3098566&ci=8547&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:31.306702"
-  },
-  {
-    "event_id": "612690647",
-    "matchup": "San Marino SMR – Belarus BLR",
-    "event_url": "https://livetv.sx/enx/eventinfo/612690647__/",
-    "competition": "UEFA Nations League",
-    "date_time": "12 November at 20:45",
-    "parsed_datetime": "2026-11-12T20:45:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "San Marino SMR",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag177.gif"
-      },
-      {
-        "team_name": "Belarus BLR",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag24.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [
-      {
-        "pos": "1",
-        "team": "Albania ALB",
-        "played": "4",
-        "pts": "9"
-      },
-      {
-        "pos": "2",
-        "team": "Belarus BLR",
-        "played": "4",
-        "pts": "7"
-      },
-      {
-        "pos": "3",
-        "team": "Finland FIN",
-        "played": "4",
-        "pts": "7"
-      },
-      {
-        "pos": "4",
-        "team": "San Marino SMR",
-        "played": "4",
-        "pts": "0"
-      }
-    ],
-    "last_updated": "2026-11-12T08:51:31.306707"
+    "last_updated": "2026-11-12T17:15:01.896546"
   },
   {
     "event_id": "612690648",
@@ -416,59 +198,24 @@
         "pts": "0"
       }
     ],
-    "last_updated": "2026-11-12T08:51:31.337668"
+    "last_updated": "2026-11-12T17:15:02.176360"
   },
   {
-    "event_id": "656288003",
-    "matchup": "Wests APiA – Adelaide City",
-    "event_url": "https://livetv.sx/enx/eventinfo/656288003__/",
-    "competition": "Australia. Championship",
-    "date_time": "12 November at 9:30",
-    "parsed_datetime": "2026-11-12T09:30:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Wests APiA",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/35924.gif"
-      },
-      {
-        "team_name": "Adelaide City",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/34653.gif"
-      }
-    ],
-    "streams": [
-      {
-        "language": "",
-        "flag_src": "https://cdn.livetv916.me/img/linkflag/0.png",
-        "bitrate": "Bit Rate (Kbps)",
-        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=OYM-wNDQ2ZA&lang=en&eid=656288003&lid=3098566&ci=8547&si=1",
-        "stream_title": "",
-        "stream_type": ""
-      }
-    ],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:31.337685"
-  },
-  {
-    "event_id": "612239003",
-    "matchup": "Turkey TUR – Belgium BEL",
-    "event_url": "https://livetv.sx/enx/eventinfo/612239003__/",
+    "event_id": "612690645",
+    "matchup": "Czech Republic CZE – Spain ESP",
+    "event_url": "https://livetv.sx/enx/eventinfo/612690645__/",
     "competition": "UEFA Nations League",
-    "date_time": "12 November at 18:00",
-    "parsed_datetime": "2026-11-12T18:00:00",
+    "date_time": "12 November at 20:45",
+    "parsed_datetime": "2026-11-12T20:45:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Turkey TUR",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag198.gif"
+        "team_name": "Czech Republic CZE",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag49.gif"
       },
       {
-        "team_name": "Belgium BEL",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag16.gif"
+        "team_name": "Spain ESP",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag60.gif"
       }
     ],
     "streams": [],
@@ -479,56 +226,30 @@
     "league_table": [
       {
         "pos": "1",
-        "team": "France FRA",
+        "team": "Spain ESP",
         "played": "4",
-        "pts": "10"
+        "pts": "12"
       },
       {
         "pos": "2",
-        "team": "Italy ITA",
+        "team": "England ENG",
         "played": "4",
-        "pts": "7"
+        "pts": "9"
       },
       {
         "pos": "3",
-        "team": "Belgium BEL",
+        "team": "Croatia CRO",
         "played": "4",
-        "pts": "6"
+        "pts": "3"
       },
       {
         "pos": "4",
-        "team": "Turkey TUR",
+        "team": "Czech Republic CZE",
         "played": "4",
         "pts": "0"
       }
     ],
-    "last_updated": "2026-11-12T08:51:31.398337"
-  },
-  {
-    "event_id": "661227426",
-    "matchup": "Hwacheon KSPO (W) –  Gyeongju KHNP (W)",
-    "event_url": "https://livetv.sx/enx/eventinfo/661227426__/",
-    "competition": "South Korea. Women. WK-League",
-    "date_time": "12 November at 11:00",
-    "parsed_datetime": "2026-11-12T11:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Hwacheon KSPO (W)",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/15279.gif"
-      },
-      {
-        "team_name": "Gyeongju KHNP (W)",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/15278.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:31.407044"
+    "last_updated": "2026-11-12T17:15:02.207750"
   },
   {
     "event_id": "612690642",
@@ -579,248 +300,7 @@
         "pts": "0"
       }
     ],
-    "last_updated": "2026-11-12T08:51:31.422283"
-  },
-  {
-    "event_id": "654103479",
-    "matchup": "Thailand U-23 –  Qatar U-23",
-    "event_url": "https://livetv.sx/enx/eventinfo/654103479__/",
-    "competition": "Friendly Match U-23. National Teams",
-    "date_time": "12 November at 9:00",
-    "parsed_datetime": "2026-11-12T09:00:00",
-    "is_live": true,
-    "team_logos": [
-      {
-        "team_name": "Thailand U-23",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag190.gif"
-      },
-      {
-        "team_name": "Qatar U-23",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag164.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:31.445404"
-  },
-  {
-    "event_id": "653370019",
-    "matchup": "Singapore U23 – Vietnam U23",
-    "event_url": "https://livetv.sx/enx/eventinfo/653370019_singapore_u23_vietnam_u23/",
-    "competition": "Friendly Match. National Teams",
-    "date_time": "12 November at 13:00",
-    "parsed_datetime": "2026-11-12T13:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:31.469189"
-  },
-  {
-    "event_id": "661202953",
-    "matchup": "Jordan U20 – Indonesia U20",
-    "event_url": "https://livetv.sx/enx/eventinfo/661202953_jordan_u20_indonesia_u20/",
-    "competition": "Friendly Match. National Teams",
-    "date_time": "12 November at 14:00",
-    "parsed_datetime": "2026-11-12T14:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:31.637026"
-  },
-  {
-    "event_id": "661202954",
-    "matchup": "Serbia U21 – North Macedonia U-21",
-    "event_url": "https://livetv.sx/enx/eventinfo/661202954_serbia_u21_north_macedonia_u_21/",
-    "competition": "Friendly Match. National Teams",
-    "date_time": "12 November at 14:00",
-    "parsed_datetime": "2026-11-12T14:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:31.693568"
-  },
-  {
-    "event_id": "656986852",
-    "matchup": "Singapore U-23 –  Vietnam U-23",
-    "event_url": "https://livetv.sx/enx/eventinfo/656986852__/",
-    "competition": "Friendly Match U-23. National Teams",
-    "date_time": "12 November at 13:00",
-    "parsed_datetime": "2026-11-12T13:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Singapore U-23",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag173.gif"
-      },
-      {
-        "team_name": "Vietnam U-23",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag212.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:31.782187"
-  },
-  {
-    "event_id": "653370020",
-    "matchup": "Scotland U21 – Ukraine U21",
-    "event_url": "https://livetv.sx/enx/eventinfo/653370020_scotland_u21_ukraine_u21/",
-    "competition": "Friendly Match. National Teams",
-    "date_time": "12 November at 14:00",
-    "parsed_datetime": "2026-11-12T14:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:31.829531"
-  },
-  {
-    "event_id": "635739539",
-    "matchup": "Scotland U-21 –  Ukraine U-21",
-    "event_url": "https://livetv.sx/enx/eventinfo/635739539__/",
-    "competition": "Friendly Match U-21. National Teams",
-    "date_time": "12 November at 14:00",
-    "parsed_datetime": "2026-11-12T14:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Scotland U-21",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag1003.gif"
-      },
-      {
-        "team_name": "Ukraine U-21",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag203.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:31.854165"
-  },
-  {
-    "event_id": "661202955",
-    "matchup": "Portugal U18 – Norway U18",
-    "event_url": "https://livetv.sx/enx/eventinfo/661202955_portugal_u18_norway_u18/",
-    "competition": "Friendly Match. National Teams",
-    "date_time": "12 November at 16:00",
-    "parsed_datetime": "2026-11-12T16:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:31.944526"
-  },
-  {
-    "event_id": "608017535",
-    "matchup": "Iceland U-21 –  Greece U-21",
-    "event_url": "https://livetv.sx/enx/eventinfo/608017535__/",
-    "competition": "European U-21 Championship qualification",
-    "date_time": "12 November at 14:00",
-    "parsed_datetime": "2026-11-12T14:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Iceland U-21",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag97.gif"
-      },
-      {
-        "team_name": "Greece U-21",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag79.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:31.972150"
-  },
-  {
-    "event_id": "625602950",
-    "matchup": "Germany U-19 –  Sweden U-19",
-    "event_url": "https://livetv.sx/enx/eventinfo/625602950__/",
-    "competition": "European U-19 Championship qualification",
-    "date_time": "12 November at 14:00",
-    "parsed_datetime": "2026-11-12T14:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Germany U-19",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag50.gif"
-      },
-      {
-        "team_name": "Sweden U-19",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag183.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:31.999475"
-  },
-  {
-    "event_id": "661472197",
-    "matchup": "Serbia U-21 –  North Macedonia U-21",
-    "event_url": "https://livetv.sx/enx/eventinfo/661472197__/",
-    "competition": "Friendly Match U-21. National Teams",
-    "date_time": "12 November at 14:00",
-    "parsed_datetime": "2026-11-12T14:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Serbia U-21",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag170.gif"
-      },
-      {
-        "team_name": "North Macedonia U-21",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag129.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:32.069161"
+    "last_updated": "2026-11-12T17:15:02.462425"
   },
   {
     "event_id": "661241966",
@@ -846,24 +326,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:32.188768"
+    "last_updated": "2026-11-12T17:15:02.899948"
   },
   {
-    "event_id": "625602948",
-    "matchup": "Lithuania U-19 –  Portugal U-19",
-    "event_url": "https://livetv.sx/enx/eventinfo/625602948__/",
-    "competition": "European U-19 Championship qualification",
-    "date_time": "12 November at 16:00",
-    "parsed_datetime": "2026-11-12T16:00:00",
+    "event_id": "612690647",
+    "matchup": "San Marino SMR – Belarus BLR",
+    "event_url": "https://livetv.sx/enx/eventinfo/612690647__/",
+    "competition": "UEFA Nations League",
+    "date_time": "12 November at 20:45",
+    "parsed_datetime": "2026-11-12T20:45:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Lithuania U-19",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag118.gif"
+        "team_name": "San Marino SMR",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag177.gif"
       },
       {
-        "team_name": "Portugal U-19",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag160.gif"
+        "team_name": "Belarus BLR",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag24.gif"
       }
     ],
     "streams": [],
@@ -871,8 +351,84 @@
       "home_team": [],
       "away_team": []
     },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:32.227293"
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Albania ALB",
+        "played": "4",
+        "pts": "9"
+      },
+      {
+        "pos": "2",
+        "team": "Belarus BLR",
+        "played": "4",
+        "pts": "7"
+      },
+      {
+        "pos": "3",
+        "team": "Finland FIN",
+        "played": "4",
+        "pts": "7"
+      },
+      {
+        "pos": "4",
+        "team": "San Marino SMR",
+        "played": "4",
+        "pts": "0"
+      }
+    ],
+    "last_updated": "2026-11-12T17:15:02.899963"
+  },
+  {
+    "event_id": "612690646",
+    "matchup": "Italy ITA – France FRA",
+    "event_url": "https://livetv.sx/enx/eventinfo/612690646__/",
+    "competition": "UEFA Nations League",
+    "date_time": "12 November at 20:45",
+    "parsed_datetime": "2026-11-12T20:45:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Italy ITA",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag99.gif"
+      },
+      {
+        "team_name": "France FRA",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag66.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "France FRA",
+        "played": "4",
+        "pts": "10"
+      },
+      {
+        "pos": "2",
+        "team": "Italy ITA",
+        "played": "4",
+        "pts": "7"
+      },
+      {
+        "pos": "3",
+        "team": "Belgium BEL",
+        "played": "4",
+        "pts": "6"
+      },
+      {
+        "pos": "4",
+        "team": "Turkey TUR",
+        "played": "4",
+        "pts": "0"
+      }
+    ],
+    "last_updated": "2026-11-12T17:15:02.899969"
   },
   {
     "event_id": "619970221",
@@ -894,141 +450,59 @@
     ],
     "streams": [],
     "starting_lineups": {
-      "home_team": [],
-      "away_team": []
+      "home_team": [
+        "01.",
+        "Vladimir Nazarov",
+        "(G)",
+        "04.",
+        "Behruzjon Karimov",
+        "25.",
+        "Makhmud",
+        "26.",
+        "Jakhongir Urozov",
+        "27.",
+        "Mukhammadrasul",
+        "06.",
+        "Akmal Mozgovoy",
+        "10.",
+        "Azizjon Ganiev",
+        "17.",
+        "Dostonbek Khamdamov",
+        "22.",
+        "Abbosbek Fayzullayev",
+        "23.",
+        "Sherzod Esanov",
+        "14.",
+        "Eldor Shomurodov"
+      ],
+      "away_team": [
+        "39.",
+        "Matvey Safonov",
+        "(G)",
+        "04.",
+        "Danil Krugovoy",
+        "14.",
+        "Viktor Melekhin",
+        "24.",
+        "Alexander Silyanov",
+        "30.",
+        "Ilya Vakhania",
+        "27.",
+        "Ivan Oblyakov",
+        "31.",
+        "Matvey Kislyak",
+        "83.",
+        "Aleksey Batrakov",
+        "08.",
+        "Lechii Sadulaev",
+        "10.",
+        "Konstantin Tyukavin",
+        "21.",
+        "Yaroslav Gladyshev"
+      ]
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:32.254247"
-  },
-  {
-    "event_id": "607307709",
-    "matchup": "Portugal U-17 –  Andorra U-17",
-    "event_url": "https://livetv.sx/enx/eventinfo/607307709__/",
-    "competition": "European U-17 Championship qualification",
-    "date_time": "12 November at 16:00",
-    "parsed_datetime": "2026-11-12T16:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Portugal U-17",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag160.gif"
-      },
-      {
-        "team_name": "Andorra U-17",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag4.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:32.307930"
-  },
-  {
-    "event_id": "660540115",
-    "matchup": "Portugal U-19 –  Lithuania U-19",
-    "event_url": "https://livetv.sx/enx/eventinfo/660540115__/",
-    "competition": "European U-19 Championship qualification",
-    "date_time": "12 November at 16:00",
-    "parsed_datetime": "2026-11-12T16:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Portugal U-19",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag160.gif"
-      },
-      {
-        "team_name": "Lithuania U-19",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag118.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:32.307945"
-  },
-  {
-    "event_id": "607307707",
-    "matchup": "Bulgaria U-17 –  Serbia U-17",
-    "event_url": "https://livetv.sx/enx/eventinfo/607307707__/",
-    "competition": "European U-17 Championship qualification",
-    "date_time": "12 November at 16:00",
-    "parsed_datetime": "2026-11-12T16:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Bulgaria U-17",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag20.gif"
-      },
-      {
-        "team_name": "Serbia U-17",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag170.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:32.381308"
-  },
-  {
-    "event_id": "611872477",
-    "matchup": "Ghana GHA – Somalia SOM",
-    "event_url": "https://livetv.sx/enx/eventinfo/611872477__/",
-    "competition": "Africa Cup of Nations. Qualification",
-    "date_time": "12 November at 16:00",
-    "parsed_datetime": "2026-11-12T16:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Ghana GHA",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag72.gif"
-      },
-      {
-        "team_name": "Somalia SOM",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag178.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:32.482887"
-  },
-  {
-    "event_id": "612050468",
-    "matchup": "DR Congo COD – Sierra Leone SLE",
-    "event_url": "https://livetv.sx/enx/eventinfo/612050468__/",
-    "competition": "Africa Cup of Nations. Qualification",
-    "date_time": "12 November at 17:00",
-    "parsed_datetime": "2026-11-12T17:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "DR Congo COD",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag39.gif"
-      },
-      {
-        "team_name": "Sierra Leone SLE",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag175.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:32.579709"
+    "last_updated": "2026-11-12T17:15:02.944837"
   },
   {
     "event_id": "661226464",
@@ -1054,58 +528,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:32.600189"
+    "last_updated": "2026-11-12T17:15:02.986328"
   },
   {
-    "event_id": "653370021",
-    "matchup": "France U20 – Denmark U20",
-    "event_url": "https://livetv.sx/enx/eventinfo/653370021_france_u20_denmark_u20/",
-    "competition": "Friendly Match. National Teams",
-    "date_time": "12 November at 17:00",
-    "parsed_datetime": "2026-11-12T17:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:32.610854"
-  },
-  {
-    "event_id": "661205548",
-    "matchup": "Italy U-20 – Portugal U20",
-    "event_url": "https://livetv.sx/enx/eventinfo/661205548_italy_u_20_portugal_u20/",
-    "competition": "Elite League U20",
-    "date_time": "12 November at 17:00",
-    "parsed_datetime": "2026-11-12T17:00:00",
-    "is_live": false,
-    "team_logos": [],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:32.648427"
-  },
-  {
-    "event_id": "612050466",
-    "matchup": "Madagascar MDG – Guinea-Bissau GNB",
-    "event_url": "https://livetv.sx/enx/eventinfo/612050466__/",
-    "competition": "Africa Cup of Nations. Qualification",
-    "date_time": "12 November at 17:00",
-    "parsed_datetime": "2026-11-12T17:00:00",
+    "event_id": "660540115",
+    "matchup": "Portugal U-19 –  Lithuania U-19",
+    "event_url": "https://livetv.sx/enx/eventinfo/660540115__/",
+    "competition": "European U-19 Championship qualification",
+    "date_time": "12 November at 16:00",
+    "parsed_datetime": "2026-11-12T16:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Madagascar MDG",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag125.gif"
+        "team_name": "Portugal U-19",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag160.gif"
       },
       {
-        "team_name": "Guinea-Bissau GNB",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag77.gif"
+        "team_name": "Lithuania U-19",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag118.gif"
       }
     ],
     "streams": [],
@@ -1114,7 +554,132 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:32.690907"
+    "last_updated": "2026-11-12T17:15:03.065913"
+  },
+  {
+    "event_id": "611872477",
+    "matchup": "Ghana GHA – Somalia SOM",
+    "event_url": "https://livetv.sx/enx/eventinfo/611872477__/",
+    "competition": "Africa Cup of Nations. Qualification",
+    "date_time": "12 November at 16:00",
+    "parsed_datetime": "2026-11-12T16:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Ghana GHA",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag72.gif"
+      },
+      {
+        "team_name": "Somalia SOM",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag178.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [
+        "16.",
+        "Benjamin Asare",
+        "(G)",
+        "09.",
+        "Jordan Ayew",
+        "19.",
+        "Felix Afena-Gyan",
+        "20.",
+        "Mohammed Kudus",
+        "02.",
+        "Alidu Seidu",
+        "04.",
+        "Jonas Adjetey",
+        "06.",
+        "Mohammed Salisu",
+        "14.",
+        "Gideon Mensah",
+        "03.",
+        "Caleb Yirenkyi",
+        "05.",
+        "Thomas Partey",
+        "07.",
+        "Abdul Fatawu"
+      ],
+      "away_team": [
+        "23.",
+        "Ibrahim Ahmed Hussein",
+        "(G)",
+        "12.",
+        "Moussa Njie",
+        "09.",
+        "Bilal Njie",
+        "22.",
+        "Mubashir Nour",
+        "02.",
+        "Mohamed Mohamed",
+        "03.",
+        "Abel Gigli",
+        "15.",
+        "Ali Omar",
+        "19.",
+        "Faisal Othman",
+        "07.",
+        "Sakariya Hassan",
+        "08.",
+        "Abdulsamed Abdullahi",
+        "14.",
+        "Abdi Sharif"
+      ]
+    },
+    "league_table": [],
+    "last_updated": "2026-11-12T17:15:03.065926"
+  },
+  {
+    "event_id": "612690643",
+    "matchup": "Montenegro MNE – Latvia LVA",
+    "event_url": "https://livetv.sx/enx/eventinfo/612690643__/",
+    "competition": "UEFA Nations League",
+    "date_time": "12 November at 20:45",
+    "parsed_datetime": "2026-11-12T20:45:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Montenegro MNE",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag223.gif"
+      },
+      {
+        "team_name": "Latvia LVA",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag120.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Montenegro MNE",
+        "played": "4",
+        "pts": "10"
+      },
+      {
+        "pos": "2",
+        "team": "Cyprus CYP",
+        "played": "4",
+        "pts": "7"
+      },
+      {
+        "pos": "3",
+        "team": "Armenia ARM",
+        "played": "4",
+        "pts": "4"
+      },
+      {
+        "pos": "4",
+        "team": "Latvia LVA",
+        "played": "4",
+        "pts": "1"
+      }
+    ],
+    "last_updated": "2026-11-12T17:15:03.249919"
   },
   {
     "event_id": "612050467",
@@ -1123,7 +688,7 @@
     "competition": "Africa Cup of Nations. Qualification",
     "date_time": "12 November at 17:00",
     "parsed_datetime": "2026-11-12T17:00:00",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Equatorial Guinea GNQ",
@@ -1134,22 +699,647 @@
         "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag218.gif"
       }
     ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=271143&lang=en&eid=612050467&lid=3096112&ci=3427&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Hebrew",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/15.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=270757&lang=en&eid=612050467&lid=3096174&ci=3427&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [
+        "01.",
+        "Marcos Ondo",
+        "(G)",
+        "16.",
+        "Saul Coco",
+        "08.",
+        "Jannick Buyla Sam",
+        "21.",
+        "Esteban Orozco",
+        "09.",
+        "Dorian Hanza",
+        "11.",
+        "Basilio Ndong",
+        "20.",
+        "Santiago Eneme",
+        "24.",
+        "Rony Mbomio",
+        "22.",
+        "Pablo Ganet",
+        "10.",
+        "Loren Zuniga",
+        "14.",
+        "Alex Balboa"
+      ],
+      "away_team": [
+        "22.",
+        "Nelson Chadya",
+        "(G)",
+        "21.",
+        "Kevin Moyo",
+        "07.",
+        "Jordan Zemura",
+        "12.",
+        "Corbin Mthunzi",
+        "14.",
+        "Bill Antonio",
+        "10.",
+        "Andy Rinomhota",
+        "08.",
+        "Marshall Munetsi",
+        "18.",
+        "Marvelous Nakamba",
+        "11.",
+        "Tino Kadewere",
+        "19.",
+        "Tawanda Maswanhise",
+        "20.",
+        "Tawanda Chirewa"
+      ]
+    },
+    "league_table": [],
+    "last_updated": "2026-11-12T17:15:03.511608"
+  },
+  {
+    "event_id": "612239003",
+    "matchup": "Turkey TUR – Belgium BEL",
+    "event_url": "https://livetv.sx/enx/eventinfo/612239003__/",
+    "competition": "UEFA Nations League",
+    "date_time": "12 November at 18:00",
+    "parsed_datetime": "2026-11-12T18:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Turkey TUR",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag198.gif"
+      },
+      {
+        "team_name": "Belgium BEL",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag16.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=270532&lang=en&eid=612239003&lid=3099411&ci=2088&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3099520&lang=en&eid=612239003&lid=3099520&ci=2088&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=270942&lang=en&eid=612239003&lid=3094005&ci=2088&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "German",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/13.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=265374&lang=en&eid=612239003&lid=3096099&ci=2088&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=270509&lang=en&eid=612239003&lid=3098335&ci=2088&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=270938&lang=en&eid=612239003&lid=3094573&ci=2088&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Italian",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/12.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=271199&lang=en&eid=612239003&lid=3096102&ci=2088&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Croatian",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/29.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=268668&lang=en&eid=612239003&lid=3096186&ci=2088&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Dutch",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/4.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=269578&lang=en&eid=612239003&lid=3096101&ci=2088&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Dutch",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/4.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=269579&lang=en&eid=612239003&lid=3096164&ci=2088&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [
+        "01.",
+        "Ugurcan Cakir",
+        "(G)",
+        "21.",
+        "Baris Alper Yilmaz",
+        "16.",
+        "Ismail Yuksek",
+        "08.",
+        "Arda Guler",
+        "17.",
+        "Yunus Akgun",
+        "15.",
+        "Ozan Kabak",
+        "20.",
+        "Ferdi Kadioglu",
+        "06.",
+        "Orkun Kokcu",
+        "18.",
+        "Oguz Aydin",
+        "09.",
+        "Enes Unal",
+        "03.",
+        "Merih Demiral"
+      ],
+      "away_team": [
+        "01.",
+        "Senne Lammens",
+        "(G)",
+        "23.",
+        "Nicolas Raskin",
+        "11.",
+        "Jeremy Doku",
+        "17.",
+        "Charles De Ketelaere",
+        "07.",
+        "Kevin De Bruyne",
+        "21.",
+        "Timothy Castagne",
+        "08.",
+        "Youri Tielemans",
+        "19.",
+        "Diego Moreira",
+        "05.",
+        "Maxim De Cuyper",
+        "04.",
+        "Brandon Mechele",
+        "15.",
+        "Nathan Ngoy"
+      ]
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "France FRA",
+        "played": "4",
+        "pts": "10"
+      },
+      {
+        "pos": "2",
+        "team": "Italy ITA",
+        "played": "4",
+        "pts": "7"
+      },
+      {
+        "pos": "3",
+        "team": "Belgium BEL",
+        "played": "4",
+        "pts": "6"
+      },
+      {
+        "pos": "4",
+        "team": "Turkey TUR",
+        "played": "4",
+        "pts": "0"
+      }
+    ],
+    "last_updated": "2026-11-12T17:15:03.511624"
+  },
+  {
+    "event_id": "612050468",
+    "matchup": "DR Congo COD – Sierra Leone SLE",
+    "event_url": "https://livetv.sx/enx/eventinfo/612050468__/",
+    "competition": "Africa Cup of Nations. Qualification",
+    "date_time": "12 November at 17:00",
+    "parsed_datetime": "2026-11-12T17:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "DR Congo COD",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag39.gif"
+      },
+      {
+        "team_name": "Sierra Leone SLE",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag175.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Arabic",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/5.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=269214&lang=en&eid=612050468&lid=3096297&ci=3427&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=271088&lang=en&eid=612050468&lid=3096278&ci=3427&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://emb.apl4.xyz/player/live.php?id=206169&w=512&h=288",
+        "stream_title": "",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059752&lang=en&eid=612050468&lid=3059752&ci=3427&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3099517&lang=en&eid=612050468&lid=3099517&ci=3427&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=acestream&c=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0&lang=en&eid=612050468&lid=2895054&ci=3427&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=acestream&c=e8e459656f964f601ad4bcda8b81a43ba41c68f9&lang=en&eid=612050468&lid=3095954&ci=3427&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [
+        "21.",
+        "Matthieu Epolo",
+        "(G)",
+        "09.",
+        "Brian Cipenga",
+        "20.",
+        "Yoane Wissa",
+        "02.",
+        "Kevin Pedro",
+        "04.",
+        "Axel Tuanzebe",
+        "22.",
+        "Chancel Mbemba",
+        "26.",
+        "Arthur Masuaku",
+        "08.",
+        "Samuel Moutoussamy",
+        "14.",
+        "Noah Sadiki",
+        "07.",
+        "Nathanael Mbuku",
+        "25.",
+        "Edo Kayembe"
+      ],
+      "away_team": [
+        "23.",
+        "Ibrahim Sesay",
+        "(G)",
+        "02.",
+        "Osman Kakay",
+        "04.",
+        "MJ Kamara",
+        "18.",
+        "Sallieu Tarawallie",
+        "21.",
+        "Juma Bah",
+        "08.",
+        "Alhassan Koroma",
+        "11.",
+        "Idris Kanu",
+        "13.",
+        "Ibrahim Turay",
+        "22.",
+        "Saidu Bah Kamara",
+        "17.",
+        "Momoh Kamara",
+        "20.",
+        "Alie Conteh"
+      ]
+    },
+    "league_table": [],
+    "last_updated": "2026-11-12T17:15:03.534062"
+  },
+  {
+    "event_id": "612239002",
+    "matchup": "Armenia ARM – Cyprus CYP",
+    "event_url": "https://livetv.sx/enx/eventinfo/612239002__/",
+    "competition": "UEFA Nations League",
+    "date_time": "12 November at 18:00",
+    "parsed_datetime": "2026-11-12T18:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Armenia ARM",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag8.gif"
+      },
+      {
+        "team_name": "Cyprus CYP",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag48.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=271189&lang=en&eid=612239002&lid=3096090&ci=2088&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3056984&lang=en&eid=612239002&lid=3056984&ci=2088&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3099523&lang=en&eid=612239002&lid=3099523&ci=2088&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "English",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/2.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3099524&lang=en&eid=612239002&lid=3099524&ci=2088&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=269211&lang=en&eid=612239002&lid=3099410&ci=2088&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=270941&lang=en&eid=612239002&lid=3094620&ci=2088&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=271064&lang=en&eid=612239002&lid=3099409&ci=2088&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Czech",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/25.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=271149&lang=en&eid=612239002&lid=3096805&ci=2088&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Croatian",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/29.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=268670&lang=en&eid=612239002&lid=3096294&ci=2088&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=268995&lang=en&eid=612239002&lid=3096175&ci=2088&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [
+        "16.",
+        "Aleksandr Mishiev",
+        "(G)",
+        "06.",
+        "Ugochukwu Iwu",
+        "09.",
+        "Artur Serobyan",
+        "21.",
+        "Nair Tiknizyan",
+        "08.",
+        "Karlen Hovhannisyan",
+        "05.",
+        "Styopa Mkrtchyan",
+        "02.",
+        "Artem Bandikyan",
+        "22.",
+        "Narek Grigoryan",
+        "10.",
+        "Zhirayr Shaghoyan",
+        "18.",
+        "Artur Gharibyan",
+        "04.",
+        "Georgiy Arutiunian"
+      ],
+      "away_team": [
+        "01.",
+        "Fabiano",
+        "(G)",
+        "23.",
+        "Marcus Edwards",
+        "19.",
+        "Konstantinos Laifis",
+        "10.",
+        "Loizos Loizou",
+        "14.",
+        "Giorgios Malekkides",
+        "09.",
+        "Ioannis Pittas",
+        "16.",
+        "Panagiotis Andreou",
+        "15.",
+        "Leonidas Konomis",
+        "11.",
+        "Iasonas Pikis",
+        "20.",
+        "Grigoris Kastanos",
+        "04.",
+        "Hector Kyprianou"
+      ]
+    },
+    "league_table": [
+      {
+        "pos": "1",
+        "team": "Montenegro MNE",
+        "played": "4",
+        "pts": "10"
+      },
+      {
+        "pos": "2",
+        "team": "Cyprus CYP",
+        "played": "4",
+        "pts": "7"
+      },
+      {
+        "pos": "3",
+        "team": "Armenia ARM",
+        "played": "4",
+        "pts": "4"
+      },
+      {
+        "pos": "4",
+        "team": "Latvia LVA",
+        "played": "4",
+        "pts": "1"
+      }
+    ],
+    "last_updated": "2026-11-12T17:15:03.534074"
+  },
+  {
+    "event_id": "661205548",
+    "matchup": "Italy U-20 – Portugal U20",
+    "event_url": "https://livetv.sx/enx/eventinfo/661205548_italy_u_20_portugal_u20/",
+    "competition": "Elite League U20",
+    "date_time": "12 November at 17:00",
+    "parsed_datetime": "2026-11-12T17:00:00",
+    "is_live": true,
+    "team_logos": [],
     "streams": [],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:32.690923"
+    "last_updated": "2026-11-12T17:15:03.615691"
+  },
+  {
+    "event_id": "665118270",
+    "matchup": "Olimpija (W) – Ljubljana (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/665118270_olimpija_w_ljubljana_w/",
+    "competition": "Slovenia. Women. 1. SZNL",
+    "date_time": "12 November at 17:15",
+    "parsed_datetime": "2026-11-12T17:15:00",
+    "is_live": true,
+    "team_logos": [],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-11-12T17:15:03.621601"
+  },
+  {
+    "event_id": "661029587",
+    "matchup": "France U-20 –  Denmark U-20",
+    "event_url": "https://livetv.sx/enx/eventinfo/661029587__/",
+    "competition": "Friendly Match U-20. National Teams",
+    "date_time": "12 November at 17:00",
+    "parsed_datetime": "2026-11-12T17:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "France U-20",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag66.gif"
+      },
+      {
+        "team_name": "Denmark U-20",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag53.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "French",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/11.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=zPYc31-5nl0&lang=en&eid=661029587&lid=3099471&ci=5676&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-11-12T17:15:03.738379"
   },
   {
     "event_id": "612050469",
     "matchup": "Guinea GIN – Eritrea ERI",
     "event_url": "https://livetv.sx/enx/eventinfo/612050469__/",
     "competition": "Africa Cup of Nations. Qualification",
-    "date_time": "12 November at 17:00",
-    "parsed_datetime": "2026-11-12T17:00:00",
-    "is_live": false,
+    "date_time": "12 November at 18:00",
+    "parsed_datetime": "2026-11-12T18:00:00",
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Guinea GIN",
@@ -1162,37 +1352,185 @@
     ],
     "streams": [],
     "starting_lineups": {
-      "home_team": [],
-      "away_team": []
+      "home_team": [
+        "22.",
+        "Mohamed Camara",
+        "(G)",
+        "09.",
+        "Kerfala Cissoko",
+        "02.",
+        "Ibrahima Fofana",
+        "10.",
+        "Aliou Balde",
+        "03.",
+        "Aboubacar Keita",
+        "04.",
+        "Mohamed Soumah",
+        "11.",
+        "Yadaly Diaby",
+        "21.",
+        "Sekou Sylla",
+        "19.",
+        "Ousmane Diabate",
+        "14.",
+        "Morlaye Sylla",
+        "18.",
+        "Aguibou Camara"
+      ],
+      "away_team": [
+        "01.",
+        "Yonathan Sultan",
+        "(G)",
+        "04.",
+        "Jamal Ali",
+        "16.",
+        "Hennos Asmelash",
+        "20.",
+        "Nahom Girmai Netabay",
+        "05.",
+        "Nahom Tadese",
+        "13.",
+        "Oliver Hintsa",
+        "14.",
+        "Namrud Embaye",
+        "25.",
+        "Victor Fors",
+        "09.",
+        "Tesfaldet Tekie",
+        "19.",
+        "Esrom Yohannes",
+        "10.",
+        "Ali Sulieman"
+      ]
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:32.776155"
+    "last_updated": "2026-11-12T17:15:03.778429"
   },
   {
-    "event_id": "661029587",
-    "matchup": "France U-20 –  Denmark U-20",
-    "event_url": "https://livetv.sx/enx/eventinfo/661029587__/",
-    "competition": "Friendly Match U-20. National Teams",
-    "date_time": "12 November at 17:00",
-    "parsed_datetime": "2026-11-12T17:00:00",
+    "event_id": "664771088",
+    "matchup": "Navalcarnero – Real Betis",
+    "event_url": "https://livetv.sx/enx/eventinfo/664771088_navalcarnero_real_betis/",
+    "competition": "Spain. Copa del Rey",
+    "date_time": "12 November at 19:00",
+    "parsed_datetime": "2026-11-12T19:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "France U-20",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag66.gif"
+        "team_name": "Navalcarnero",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/24198.gif"
       },
       {
-        "team_name": "Denmark U-20",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag53.gif"
+        "team_name": "Real Betis",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/32202.gif"
       }
     ],
-    "streams": [],
+    "streams": [
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=271467&lang=en&eid=664771088&lid=3098507&ci=55&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=271016&lang=en&eid=664771088&lid=3093859&ci=55&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=242257&lang=en&eid=664771088&lid=3084895&ci=55&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=242328&lang=en&eid=664771088&lid=2968715&ci=55&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://emb.apl4.xyz/player/live.php?id=242257&w=512&h=288",
+        "stream_title": "",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3099508&lang=en&eid=664771088&lid=3099508&ci=55&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=acestream&c=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2&lang=en&eid=664771088&lid=2777845&ci=55&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Russian",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/1.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=acestream&c=ffbf8c687c788d9a1a7c651e24802ee773ff3f04&lang=en&eid=664771088&lid=2844049&ci=55&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
     "starting_lineups": {
       "home_team": [],
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:32.937152"
+    "last_updated": "2026-11-12T17:15:03.962069"
+  },
+  {
+    "event_id": "664771090",
+    "matchup": "Tarancon – Levante",
+    "event_url": "https://livetv.sx/enx/eventinfo/664771090_tarancon_levante/",
+    "competition": "Spain. Copa del Rey",
+    "date_time": "12 November at 19:00",
+    "parsed_datetime": "2026-11-12T19:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Tarancon",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/43348.gif"
+      },
+      {
+        "team_name": "Levante",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/32211.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3099457&lang=en&eid=664771090&lid=3099457&ci=55&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-11-12T17:15:04.005190"
   },
   {
     "event_id": "661202956",
@@ -1209,59 +1547,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:32.962007"
-  },
-  {
-    "event_id": "632600975",
-    "matchup": "Lithuania LTU – Suriname SUR",
-    "event_url": "https://livetv.sx/enx/eventinfo/632600975__/",
-    "competition": "Friendly Match. National Teams",
-    "date_time": "12 November at 18:00",
-    "parsed_datetime": "2026-11-12T18:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Lithuania LTU",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag118.gif"
-      },
-      {
-        "team_name": "Suriname SUR",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag180.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:33.041289"
-  },
-  {
-    "event_id": "619970222",
-    "matchup": "Malta MLT – Eswatini",
-    "event_url": "https://livetv.sx/enx/eventinfo/619970222__/",
-    "competition": "Friendly Match. National Teams",
-    "date_time": "12 November at 18:30",
-    "parsed_datetime": "2026-11-12T18:30:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Malta MLT",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag131.gif"
-      },
-      {
-        "team_name": "Eswatini",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag184.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:33.168099"
+    "last_updated": "2026-11-12T17:15:04.010180"
   },
   {
     "event_id": "663530415",
@@ -1270,7 +1556,7 @@
     "competition": "Women. UEFA European Cup",
     "date_time": "12 November at 18:00",
     "parsed_datetime": "2026-11-12T18:00:00",
-    "is_live": false,
+    "is_live": true,
     "team_logos": [
       {
         "team_name": "Torreense (W)",
@@ -1287,7 +1573,98 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:33.205260"
+    "last_updated": "2026-11-12T17:15:04.256373"
+  },
+  {
+    "event_id": "632600975",
+    "matchup": "Lithuania LTU – Suriname SUR",
+    "event_url": "https://livetv.sx/enx/eventinfo/632600975__/",
+    "competition": "Friendly Match. National Teams",
+    "date_time": "12 November at 18:00",
+    "parsed_datetime": "2026-11-12T18:00:00",
+    "is_live": true,
+    "team_logos": [
+      {
+        "team_name": "Lithuania LTU",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag118.gif"
+      },
+      {
+        "team_name": "Suriname SUR",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag180.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Croatian",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/29.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=268671&lang=en&eid=632600975&lid=3096406&ci=5679&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Spanish",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/7.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3099014&lang=en&eid=632600975&lid=3099014&ci=5679&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [
+        "23.",
+        "Arnas Voitinovicius",
+        "(G)",
+        "11.",
+        "Eligijus Jankauskas",
+        "08.",
+        "Domantas Sluta",
+        "07.",
+        "Artur Dolznikov",
+        "02.",
+        "Artemijus Tutyskinas",
+        "15.",
+        "Gvidas Gineitis",
+        "13.",
+        "Justas Lasickas",
+        "17.",
+        "Pijus Sirvys",
+        "22.",
+        "Paulius Golubickas",
+        "05.",
+        "Kipras Kazukolovas",
+        "10.",
+        "Armandas Kucys"
+      ],
+      "away_team": [
+        "01.",
+        "Jahnilo Wiegel",
+        "(G)",
+        "21.",
+        "Jaden Montnor",
+        "22.",
+        "Immanuel Pherai",
+        "16.",
+        "Dhoraso Moreo Klas",
+        "10.",
+        "Denzel Jubitana",
+        "20.",
+        "Denilho Cleonise",
+        "09.",
+        "Joel Piroe",
+        "05.",
+        "Ridgeciano Haps",
+        "02.",
+        "Navajo Bakboord",
+        "12.",
+        "Myenty Abena",
+        "04.",
+        "Liam van Gelderen"
+      ]
+    },
+    "league_table": [],
+    "last_updated": "2026-11-12T17:15:04.334086"
   },
   {
     "event_id": "608156734",
@@ -1307,47 +1684,185 @@
         "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/7105.gif"
       }
     ],
-    "streams": [],
+    "streams": [
+      {
+        "language": "",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/0.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3099651&lang=en&eid=608156734&lid=3099651&ci=581&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Serbian",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/17.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3099011&lang=en&eid=608156734&lid=3099011&ci=581&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      },
+      {
+        "language": "Ukrainian",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/3.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=acestream&c=40f9a0993165b3c0f5bce84f69a0a0f2e205ac9d&lang=en&eid=608156734&lid=3076662&ci=581&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
     "starting_lineups": {
-      "home_team": [],
-      "away_team": []
+      "home_team": [
+        "13.",
+        "Catalina Coll",
+        "(G)",
+        "12.",
+        "Patricia Guijarro",
+        "16.",
+        "Clara Serrajordi",
+        "09.",
+        "Claudia Pina",
+        "10.",
+        "Caroline Graham",
+        "17.",
+        "Ewa Pajor",
+        "02.",
+        "Irene Paredes",
+        "03.",
+        "Renee van Asten",
+        "22.",
+        "Esmee Brugts",
+        "06.",
+        "Sydney Schertenleib",
+        "23.",
+        "Aicha Camara"
+      ],
+      "away_team": [
+        "16.",
+        "Misa Rodriguez",
+        "(G)",
+        "19.",
+        "Lisa Baum",
+        "12.",
+        "Frida Maanum",
+        "10.",
+        "Kim Little",
+        "09.",
+        "Caitlin Foord",
+        "04.",
+        "Georgia Stanway",
+        "24.",
+        "Taylor Hinds",
+        "07.",
+        "Steph Catley",
+        "06.",
+        "Leah Williamson",
+        "02.",
+        "Emily Fox",
+        "23.",
+        "Alessia Russo"
+      ]
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:33.221650"
+    "last_updated": "2026-11-12T17:15:04.394348"
   },
   {
-    "event_id": "661367973",
-    "matchup": "RB Bragantino U-20 –  Corinthians U-20",
-    "event_url": "https://livetv.sx/enx/eventinfo/661367973__/",
-    "competition": "Brazil. Campeonato Paulista U20",
-    "date_time": "12 November at 19:00",
-    "parsed_datetime": "2026-11-12T19:00:00",
+    "event_id": "619970222",
+    "matchup": "Malta MLT – Eswatini",
+    "event_url": "https://livetv.sx/enx/eventinfo/619970222__/",
+    "competition": "Friendly Match. National Teams",
+    "date_time": "12 November at 18:30",
+    "parsed_datetime": "2026-11-12T18:30:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "RB Bragantino U-20",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/9231.gif"
+        "team_name": "Malta MLT",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag131.gif"
       },
       {
-        "team_name": "Corinthians U-20",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/9174.gif"
+        "team_name": "Eswatini",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag184.gif"
       }
     ],
-    "streams": [],
+    "streams": [
+      {
+        "language": "Croatian",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/29.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=tvope&c=268669&lang=en&eid=619970222&lid=3096405&ci=5679&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      },
+      {
+        "language": "Serbian",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/17.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3099275&lang=en&eid=619970222&lid=3099275&ci=5679&si=1",
+        "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+        "stream_type": "Web"
+      }
+    ],
     "starting_lineups": {
-      "home_team": [],
-      "away_team": []
+      "home_team": [
+        "12.",
+        "James Sissons",
+        "(G)",
+        "14.",
+        "Andrea Zammit",
+        "23.",
+        "Alexander Satariano",
+        "22.",
+        "Zach Muscat",
+        "19.",
+        "Keyon Ewurum",
+        "15.",
+        "Myles Beerman",
+        "09.",
+        "Kevin Cannavo",
+        "08.",
+        "Paul Mbong",
+        "06.",
+        "Matthew Guillaumier",
+        "05.",
+        "Kurt Shaw",
+        "04.",
+        "Gabriel Mentz"
+      ],
+      "away_team": [
+        "01.",
+        "Sibusiso Dlamini",
+        "(G)",
+        "18.",
+        "Gift Gamedze",
+        "12.",
+        "Sizwe Khumalo",
+        "11.",
+        "Philani Mkhontfo",
+        "08.",
+        "Thubelihle Mavuso",
+        "07.",
+        "Kwakhe Thwala",
+        "07.",
+        "Justice Figuareido",
+        "04.",
+        "Neliswa Dlamini",
+        "03.",
+        "Nkosingiphile Shongwe",
+        "02.",
+        "Philiso Newman",
+        "22.",
+        "Simanga Masangane"
+      ]
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:33.261554"
+    "last_updated": "2026-11-12T17:15:04.407451"
   },
   {
-    "event_id": "661205551",
-    "matchup": "England U20 – Czech Republic U20",
-    "event_url": "https://livetv.sx/enx/eventinfo/661205551_england_u20_czech_republic_u20/",
-    "competition": "Elite League U20",
-    "date_time": "12 November at 20:30",
-    "parsed_datetime": "2026-11-12T20:30:00",
+    "event_id": "665125748",
+    "matchup": "Mgarr United (W) – Hibernians (W)",
+    "event_url": "https://livetv.sx/enx/eventinfo/665125748_mgarr_united_w_hibernians_w/",
+    "competition": "Malta. Women. First Division",
+    "date_time": "12 November at 20:00",
+    "parsed_datetime": "2026-11-12T20:00:00",
     "is_live": false,
     "team_logos": [],
     "streams": [],
@@ -1356,33 +1871,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:33.288338"
-  },
-  {
-    "event_id": "612572086",
-    "matchup": "Senegal SEN – Sudan SDN",
-    "event_url": "https://livetv.sx/enx/eventinfo/612572086__/",
-    "competition": "Africa Cup of Nations. Qualification",
-    "date_time": "12 November at 20:00",
-    "parsed_datetime": "2026-11-12T20:00:00",
-    "is_live": false,
-    "team_logos": [
-      {
-        "team_name": "Senegal SEN",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag172.gif"
-      },
-      {
-        "team_name": "Sudan SDN",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag171.gif"
-      }
-    ],
-    "streams": [],
-    "starting_lineups": {
-      "home_team": [],
-      "away_team": []
-    },
-    "league_table": [],
-    "last_updated": "2026-11-12T08:51:33.315837"
+    "last_updated": "2026-11-12T17:15:04.468014"
   },
   {
     "event_id": "612734212",
@@ -1408,7 +1897,59 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:33.343212"
+    "last_updated": "2026-11-12T17:15:04.632445"
+  },
+  {
+    "event_id": "661367973",
+    "matchup": "RB Bragantino U-20 –  Corinthians U-20",
+    "event_url": "https://livetv.sx/enx/eventinfo/661367973__/",
+    "competition": "Brazil. Campeonato Paulista U20",
+    "date_time": "12 November at 19:00",
+    "parsed_datetime": "2026-11-12T19:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "RB Bragantino U-20",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/9231.gif"
+      },
+      {
+        "team_name": "Corinthians U-20",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/9174.gif"
+      }
+    ],
+    "streams": [
+      {
+        "language": "Portuguese",
+        "flag_src": "https://cdn.livetv916.me/img/linkflag/9.png",
+        "bitrate": "Bit Rate (Kbps)",
+        "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=UNl9pMEkLx0&lang=en&eid=661367973&lid=3099622&ci=2768&si=1",
+        "stream_title": "",
+        "stream_type": ""
+      }
+    ],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-11-12T17:15:04.721617"
+  },
+  {
+    "event_id": "661205551",
+    "matchup": "England U20 – Czech Republic U20",
+    "event_url": "https://livetv.sx/enx/eventinfo/661205551_england_u20_czech_republic_u20/",
+    "competition": "Elite League U20",
+    "date_time": "12 November at 20:30",
+    "parsed_datetime": "2026-11-12T20:30:00",
+    "is_live": false,
+    "team_logos": [],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-11-12T17:15:04.946846"
   },
   {
     "event_id": "608738349",
@@ -1434,7 +1975,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:33.408914"
+    "last_updated": "2026-11-12T17:15:04.946861"
   },
   {
     "event_id": "608738343",
@@ -1460,24 +2001,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:33.452498"
+    "last_updated": "2026-11-12T17:15:04.961800"
   },
   {
-    "event_id": "612572087",
-    "matchup": "Cameroon CMR – Namibia NAM",
-    "event_url": "https://livetv.sx/enx/eventinfo/612572087__/",
+    "event_id": "612572086",
+    "matchup": "Senegal SEN – Sudan SDN",
+    "event_url": "https://livetv.sx/enx/eventinfo/612572086__/",
     "competition": "Africa Cup of Nations. Qualification",
     "date_time": "12 November at 20:00",
     "parsed_datetime": "2026-11-12T20:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Cameroon CMR",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag38.gif"
+        "team_name": "Senegal SEN",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag172.gif"
       },
       {
-        "team_name": "Namibia NAM",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag141.gif"
+        "team_name": "Sudan SDN",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag171.gif"
       }
     ],
     "streams": [],
@@ -1486,7 +2027,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:33.480298"
+    "last_updated": "2026-11-12T17:15:04.972073"
   },
   {
     "event_id": "612572089",
@@ -1512,24 +2053,24 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:33.506901"
+    "last_updated": "2026-11-12T17:15:05.085358"
   },
   {
-    "event_id": "608738347",
-    "matchup": "Bonaire BES – Cuba CUB",
-    "event_url": "https://livetv.sx/enx/eventinfo/608738347__/",
-    "competition": "CONCACAF Nations League",
-    "date_time": "12 November at 21:00",
-    "parsed_datetime": "2026-11-12T21:00:00",
+    "event_id": "612572087",
+    "matchup": "Cameroon CMR – Namibia NAM",
+    "event_url": "https://livetv.sx/enx/eventinfo/612572087__/",
+    "competition": "Africa Cup of Nations. Qualification",
+    "date_time": "12 November at 20:00",
+    "parsed_datetime": "2026-11-12T20:00:00",
     "is_live": false,
     "team_logos": [
       {
-        "team_name": "Bonaire BES",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag5.gif"
+        "team_name": "Cameroon CMR",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag38.gif"
       },
       {
-        "team_name": "Cuba CUB",
-        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag46.gif"
+        "team_name": "Namibia NAM",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag141.gif"
       }
     ],
     "streams": [],
@@ -1538,7 +2079,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:33.586006"
+    "last_updated": "2026-11-12T17:15:05.166643"
   },
   {
     "event_id": "608556663",
@@ -1564,7 +2105,33 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:33.824276"
+    "last_updated": "2026-11-12T17:15:05.214331"
+  },
+  {
+    "event_id": "608738347",
+    "matchup": "Bonaire BES – Cuba CUB",
+    "event_url": "https://livetv.sx/enx/eventinfo/608738347__/",
+    "competition": "CONCACAF Nations League",
+    "date_time": "12 November at 21:00",
+    "parsed_datetime": "2026-11-12T21:00:00",
+    "is_live": false,
+    "team_logos": [
+      {
+        "team_name": "Bonaire BES",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag5.gif"
+      },
+      {
+        "team_name": "Cuba CUB",
+        "logo_url": "https://cdn.livetv916.me/img/teams/fullsize/ods/flag46.gif"
+      }
+    ],
+    "streams": [],
+    "starting_lineups": {
+      "home_team": [],
+      "away_team": []
+    },
+    "league_table": [],
+    "last_updated": "2026-11-12T17:15:05.270453"
   },
   {
     "event_id": "612572302",
@@ -1590,7 +2157,7 @@
       "away_team": []
     },
     "league_table": [],
-    "last_updated": "2026-11-12T08:51:33.851767"
+    "last_updated": "2026-11-12T17:15:05.344887"
   },
   {
     "event_id": "617948885",
@@ -1695,7 +2262,7 @@
         "pts": "12"
       }
     ],
-    "last_updated": "2026-11-12T08:51:33.884754"
+    "last_updated": "2026-11-12T17:15:05.533627"
   },
   {
     "event_id": "648124902",
@@ -1746,7 +2313,7 @@
         "pts": "6"
       }
     ],
-    "last_updated": "2026-11-12T08:51:33.999588"
+    "last_updated": "2026-11-12T17:15:05.562487"
   },
   {
     "event_id": "612907767",
@@ -1893,6 +2460,6 @@
         "pts": "10"
       }
     ],
-    "last_updated": "2026-11-12T08:51:34.038252"
+    "last_updated": "2026-11-12T17:15:05.647043"
   }
 ]
